@@ -1,7 +1,7 @@
 # Summary
 
 * [语法俱乐部](README.md)
-* 序
+* [序](xu.md)
 * 前言
 * 第一章 基本句型及补语
    * [五种简单的基本句型](wu_zhong_jian_dan_de_ji_ben_ju_xing.md)
