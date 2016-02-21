@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "betterchinese"
+        "betterchinese",
+        "fontsettings"
     ],
     "pluginsConfig": {}
 }
