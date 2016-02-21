@@ -7,4 +7,5 @@
    * [前言](qian_yan.md)
 * 第一章 基本句型及补语
    * [五种简单的基本句型](wu_zhong_jian_dan_de_ji_ben_ju_xing.md)
+   * 不必翻译的动词： be 动词
 
