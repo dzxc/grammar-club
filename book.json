@@ -1,13 +1,6 @@
 {
     "plugins": [
-        "betterchinese",
-        "fontsettings"
+        "betterchinese"
     ],
-    "pluginsConfig": {
-        "fontsettings": {
-            "theme": "white",
-            "family": "serif",
-            "size": "2"
-        }
-    }
+    "pluginsConfig": {}
 }
