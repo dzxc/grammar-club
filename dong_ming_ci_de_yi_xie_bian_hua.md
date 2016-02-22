@@ -2,7 +2,6 @@
 
 **一、复合字**  
 
->  
 - 例1：Picking strawberries can be fun.  
 S V C
 （采草莓很好玩。）
@@ -14,8 +13,9 @@ S V C
 （采草莓是很费力的工作。）  
 
 第一句中，picking strawberries可以看出有动词pick和宾语 strawberries。主语被省略了，看不出来是谁，只是笼统的anybody。所以，这句可以还原为：  
-That anybody picks strawberries can be fun.  
+- That anybody picks strawberries can be fun.  
 S V C  
+
 **主语部分本来是名词从句，现在简化为动名词短语picking strawberries**，其中 strawberries 是 pick 的宾语。  
 
 第二个例句中，picking前面加上了定冠词the，这样是把the picking当做一个名词短语来使用。所以picking后面不能再有宾语，而要改成介系词短语of strawberries做为修饰语，形容the picking。  
@@ -75,7 +75,7 @@ S V O
 
 这个flying出现在名词短语that bird中间的形容词位置，是现在分词。**现在分词都是形容词，强烈暗示“进行”的动作。  
 为了要验证它的确是现在分词，可以把它移到形容词的另一个位置：补语位置**来看看。  
-* That bird is flying.  
+* That bird is **flying**.  
 S V C  
 
 ----
@@ -97,5 +97,6 @@ S V
 就可看出来flying不能当作现在分词解释，只能当动名词。  
 
 **如果要检验动名词的话，可以把它拿到一个典型的动名词位置：介词后面。**  
-That's a jacket **for flying**.  
+- That's a jacket **for flying**.  
+
 这样就可以看出来，flying是动名词。因为a flying jacket的意思和 a jacket for flying 相同。
