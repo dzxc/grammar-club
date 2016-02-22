@@ -23,6 +23,10 @@
 19. I can see better without these reading glasses.  
 20. Do you call me a liar?  
 
+
+---
+
+
 Answer key 1
 >  
 1. The magician moved his fingers quickly.  
