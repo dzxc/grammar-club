@@ -1,6 +1,7 @@
 # Summary
 
 * [语法俱乐部](README.md)
+* 序：我学英语的经验
 * [序](xu.md)
 * [前言](qian_yan.md)
 * 第一章 基本句型及补语
@@ -34,5 +35,4 @@
    * [动名词的一些变化](dong_ming_ci_de_yi_xie_bian_hua.md)
    * [结语](di_wu_zhang_jie_yu.md)
    * [Test 5](test_5.md)
-* 序：我学英语的经验
 
