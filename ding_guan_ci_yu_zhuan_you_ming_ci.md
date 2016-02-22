@@ -19,7 +19,7 @@
 |   the Mediterranean (Sea)|地中海   |
 |   the Dead Sea|死海   |
 
-在**“太平洋” the Pacific (Ocean) 一词中**，Pacific是放在形容词的位置，字尾-ic是明显的形容词字尾。在名词位置上的Ocean其实是普通名词（世界上有三个洋。只要有两个以上就不算是专有名词)，在此被省略掉。所以定冠词the是配合后面的普通名词Ocean，指出{% em %}**“叫做 Pacific 的那个洋”**{% endem %}。这是规规矩矩的用法，完全没有例外。在三大洋中只有印度洋不适合省略，因为 the Indian 可能会被误解为“这名印第安人”。同理，the Mediterranean (Sea)是普通名词 the sea 加上形容词 Mediterranean ，也不是例外。“地中海”可以省略 sea ，因为省略之后仍然够清楚。但“死海” the Dead Sea 就不能省略，否则会被误会为“死人” the dead people 。再看下面的例子：
+在**“太平洋” the Pacific (Ocean) 一词中**，Pacific是放在形容词的位置，字尾-ic是明显的形容词字尾。在名词位置上的Ocean其实是普通名词（世界上有三个洋。只要有两个以上就不算是专有名词)，在此被省略掉。所以定冠词the是配合后面的普通名词Ocean，指出**“叫做 Pacific 的那个洋”**。这是规规矩矩的用法，完全没有例外。在三大洋中只有印度洋不适合省略，因为 the Indian 可能会被误解为“这名印第安人”。同理，the Mediterranean (Sea)是普通名词 the sea 加上形容词 Mediterranean ，也不是例外。“地中海”可以省略 sea ，因为省略之后仍然够清楚。但“死海” the Dead Sea 就不能省略，否则会被误会为“死人” the dead people 。再看下面的例子：
 >  
 - the Philippine Islands → the Philippines （菲律宾群島）
 - the Alp Mountains → the Alps （阿尔卑斯山）
