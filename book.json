@@ -1,8 +1,7 @@
 {
     "plugins": [
         "betterchinese",
-        "word-count",
-        "restructure-navigation"
+        "word-count"
     ],
     "pluginsConfig": {}
 }
