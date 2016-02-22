@@ -85,7 +85,7 @@ S V
 例：That **flying** jacket looks smart on you.   
 （那件飞行装你穿起来很帅。）  
 这里的flying也是放在名词短语中的形容词位置，可是它不是现在分词，而是动名词，只是借放在这个位置做复合名词。何以得知？我们把flying拿到补语位置验证一下：  
-That jacket is flying.(?)   
+That jacket **is flying**.(?)   
 就可看出来flying不能当作现在分词解释，只能当动名词。**如果要检验动名词的话，可以把它拿到一个典型的动名词位置：介词后面。**  
-That's a jacket for flying.  
+That's a jacket **for flying**.  
 这样就可以看出来，flying是动名词。因为a flying jacket的意思和 a jacket for flying 相同。
