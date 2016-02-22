@@ -4,7 +4,8 @@
         "word-count",
         "hide-published-with",
         "emphasize",
-        "search-pro"
+        "search-pro",
+        "super-prd"
     ],
     "pluginsConfig": {}
 }
