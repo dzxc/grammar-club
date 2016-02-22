@@ -13,7 +13,7 @@
 **二、 avoid**
 
 >  
-例：I avoid making the same mistake twice. （我避免犯同样的错误。）
+例：I avoid making the same mistake twice. （我避免犯同样的错误。）  
 S V O  
 
 这里用making比用to make恰当，因为to make是will make的省略，既然是“避免”，后面又用will make(将要做)，意思就变得不清楚了：
