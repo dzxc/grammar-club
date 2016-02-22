@@ -3,7 +3,8 @@
         "betterchinese",
         "word-count",
         "hide-published-with",
-        "emphasize"
+        "emphasize",
+        "easyheightlight"
     ],
     "pluginsConfig": {}
 }
