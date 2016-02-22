@@ -34,10 +34,24 @@
 
 **如果把这些名词短语的第三个部分还原，即可看出它们的名词位置都是普通名词，所以都可以加冠词**。而**所谓的专有名词都是放在形容词位置的修饰语**，所以并不是什么例外，请看下面的例子：  
 
-|原文   |译文   |
+|原文|译文|
 |:---:|:---:|
 |the United States of America   |美国   |
 |the United Nations   |联合国   |
+
+<table>
+    <tr>
+       
+        <th>the United States of America</th>
+        <th>美国</th>
+        
+    </tr>
+    <tr>
+        <td>the United Nations</td>
+        <td>联合国</td>
+        
+    </tr>
+</table>
 
 这两个例子中，在名词位置的其实都是普通名词(States,Nations)，皆可加冠词。只有America这个名词短语是专有名词，所以前面没有加冠词。
 
