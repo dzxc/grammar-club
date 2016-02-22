@@ -8,4 +8,5 @@
    * [不必翻译的动词： be 动词](bu_bi_fan_yi_de_dong_ci_ff1a_be_dong_ci.md)
    * [需要补语的动词有哪些？](xuyao_bu_yu_de_dong_ci_you_na_xie_ff1f_md.md)
    * [宾语补语的句型](bin_yu_bu_yu_de_ju_xing.md)
+   * 补语的词类
 
