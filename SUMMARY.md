@@ -35,4 +35,5 @@
    * [结语](di_wu_zhang_jie_yu.md)
    * [Test 5](test_5.md)
 * [第六章 分词](di_liu_zhang_fen_ci.md)
+   * 分词与形容词的比较
 
