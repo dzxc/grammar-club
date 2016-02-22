@@ -1,6 +1,7 @@
 # 不必翻译的动词：be 动词
 
-例4: John Smith was courageous.更明显，把它翻译成中文是“约翰·史密斯很勇敢”。请注意：  
+例4: John Smith was courageous.更明显，把它翻译成中文是“约翰·史密斯很勇敢”。  
+请注意：  
   {% em color="#df8f8f" %}**在中文翻译中，动词“是”完全不见了！**{% endem %}  
   
 请进一步观察下面的例子：
