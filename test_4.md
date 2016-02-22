@@ -107,6 +107,7 @@
 
 **Answer key 4**
 
+>  
 1.(D)  
 从she had a fever可看出时间在过去，因而排除现在时间的B和C。made
 是“使役动词”，所以后面用原形动词的believe。若make believe二字连
@@ -149,30 +150,30 @@ driver said to the man that he should...之意，因此后面应用不定词，
 10.(A)  
 to get an education 是 so that (或 in order that) one can get an
 education 的意思，所以后面的主要从句应用one作主语。  
-11. (C)  
+11.(C)  
 主语the purpose是“目的”，而be动词后面的空格是主语补语位置，也就
 表示目的，所以要用不定词短语to (代表in order to) ascertain (想确定
 一下）。  
-12. (C)  
+12.(C)  
 下文的by the prosecution (被检方)，表示要用被动态，也就是A和C。而
 being questioned 意为“正在被质询”，和前面的went on the witness stand
 (走上证人台）有冲突，应用不定词，表示“走上台后才要”被质询。  
 13.(C)  
 playback 是“播放”，带子上有声音才能播，所以下文应是“她可能来过电
 话了”，表示对过去的猜测，要用助动词加完成式。  
-14. (B)  
+14.(B)  
 avoid 有强烈否定意味，与暗示be going to 的不定词冲突，故用动名词。
 如果用C的the use，它就是 avoid 的宾语，所以要再加上个介系词才能连
 上下文，例如avoid the use of vague words。  
-15. (B)  
+15.(B)  
 从上下文看得出来他事先该订位却忘了，所以要用不定词 for got to make，
 意既 He forgot that he should make...  
-16.（B）  
+16.(B)  
 raining 有持续的暗示，stopped raining表示先前一直在下雨，后来停了。
-17.（C）  
+17.(C)  
 从下文的you must。这个条件来看，前面表示的应是一个“目的”，也就是
 in order to，所以用不定词。  
-18.（D）  
+18.(D)  
 后面一半可还原为His shoes are shined...(他的鞋在…给人擦)。把主语
 shoes改成宾语，补语shined改成宾语补语，即是答案。  
 19.(B)  
@@ -180,4 +181,4 @@ to rest是when you should rest 的变化。C 用形容词从句表示是“夜�
 身在休息”，D的when rest 则缺了主语。  
 20.(B)  
 make虽是使役动词，要用原形动词作补语，可是在被动态中就得把to放回
-去，成为不定词。
+去，成为不定词。  
