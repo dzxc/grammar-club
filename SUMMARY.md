@@ -20,7 +20,7 @@
    * [定冠词与专有名词](ding_guan_ci_yu_zhuan_you_ming_ci.md)
    * [Test 2](test_2.md)
 * [第三章 动词时态](di_san_zhang_dong_ci_shi_tai.md)
-   * 简单式
+   * [简单式](jian_dan_shi.md)
    * 完成式
    * Test 3
 
