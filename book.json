@@ -1,8 +1,7 @@
 {
     "plugins": [
         "betterchinese",
-        "word-count",
-        "light-it"
+        "word-count"
     ],
     "pluginsConfig": {}
 }
