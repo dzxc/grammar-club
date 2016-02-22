@@ -11,10 +11,10 @@
 
 
 **一、现在分词与形容词的关系**  
-
-例：That black dog doesn’t bite.  
+>  
+- That black dog doesn’t bite.  
 （那只黑狗不咬人。）  
-A barking dog doesn't bite.  
+- A barking dog doesn't bite.  
 （爱叫的狗不咬人。）  
 
 在这两个名词短语中，现在分词barking与普通形容词black一样放在名词短语中间，一样用来修饰名词dog，所以都可以当做形容词看待。**只不过barking这个现在分词要加上进行的暗示**，解释为“正在叫的，一直叫的”，**这个进行的暗示（“正在”、“一直”）就可以视为现在分词 -ing字尾的弦外之音**。许多形容词字尾都有它的弦外之音，像是-ful(“很”，full of)，例如useful;再如 -ish ( — 点)，例如grayish;以及 -less (没、不)，例如valueless。同样的，-ing 也可以视为形容词字尾，弦外之音是“正在”、“一直”。  
@@ -22,10 +22,10 @@ A barking dog doesn't bite.
 
 ---
 
-
-例：The dog is black.  
+>  
+- The dog is black.  
 （那是只黑狗。）  
-The dog is **barking**.  
+- The dog is **barking**.  
 （那只狗在叫。）  
 
 现在分词barking和普通形容词black都出现于be动词后面，都可以视为补语，形容主语dog，只不过现在分词-ing字尾要加上进行的暗示。当然，一般语法说be+Ving是进行式的动词短语。可是，并不是is barking 才能解释为进行意义的“正在叫”。a barking dog 不也一样是“正在叫”的狗吗？所以，还是把barking—律解释为形容词比较有一致性。  
@@ -33,11 +33,12 @@ The dog is **barking**.
 **二、过去分词与形容词的关系**  
 
 **过去分词**与现在分词一样，可以出现在两种形容词位置来形容名词，**不过它的弦外之音是被动或完成的暗示，要加上“被”、“已经”来解释。**   
-
+>  
 - **Clean water** is safe to drink.  
 （干净水可以安全饮用。）  
 - **Boiled water** is safe to drink.  
 （开水可以安全饮用。）  
+
 过去分词boiled和形容词clean同样放在名词短语中的位置，同样形容water，只不过多了“被煮过了”的暗示。**这种“被动”、“完成”的意思也就是过去分词的弦外之音。除此之外，它与一般的形容词并无不同。**  
 
 ----
@@ -77,12 +78,12 @@ S V C
 
 同样的，fall是不及物动词，没有被动态，所以are fallen虽然 是"be+Ven”的构造，也不是被动态，而应解释为完成，“落下来了”。  
 句型是：  
-
+>  
 - The leaves **are fallen**.  
 （叶子全掉下来了。）  
 S V C  
 过去分词仍然做形容词解释。  
-
 - **I'm done.**It’s all yours.  
 （我已经好了,该你用了。）  
+
 如果在学校用完了电脑，让给在你后面排队的人，就可以说这句话。这里的do固然是及物动词，可是不能解释为“我被做了”，只能说“我做完了”。因此am done仍然不是被动态，应该把done 视为形容词，解释为完成意义的“做完了”。  
