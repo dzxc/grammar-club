@@ -1,7 +1,8 @@
 {
     "plugins": [
         "betterchinese",
-        "word-count"
+        "word-count",
+        "hide-published-with"
     ],
     "pluginsConfig": {}
 }
