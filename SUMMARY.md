@@ -10,5 +10,5 @@
    * [宾语补语的句型](bin_yu_bu_yu_de_ju_xing.md)
    * [补语的词类](bu_yu_de_ci_lei.md)
    * [没有补语的 be 动词](mei_you_bu_yu_de_be_dong_ci.md)
-   * 有两个宾语的句型
+   * [有两个宾语的句型](you_liang_ge_bin_yu_de_ju_xing.md)
 
