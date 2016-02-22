@@ -2,7 +2,8 @@
     "plugins": [
         "betterchinese",
         "word-count",
-        "hide-published-with"
+        "hide-published-with",
+        "search-pro"
     ],
     "pluginsConfig": {}
 }
