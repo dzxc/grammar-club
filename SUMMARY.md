@@ -12,5 +12,5 @@
    * [没有补语的 be 动词](mei_you_bu_yu_de_be_dong_ci.md)
    * [有两个宾语的句型](you_liang_ge_bin_yu_de_ju_xing.md)
    * [Test 1](test_1.md)
-* 第二章 名词词组与冠词
+* [第二章 名词词组与冠词](di_er_zhang_ming_ci_ci_zu_yu_guan_ci.md)
 
