@@ -39,17 +39,6 @@
 |the United States of America   |美国   |
 |the United Nations   |联合国   |
 
-<table>
-    <tr>
-        <th>the United States of America</th>
-        <th>美国</th>
-    </tr>
-    <tr>
-        <td>the United Nations</td>
-        <td>联合国</td>
-    </tr>
-</table>
-
 这两个例子中，在名词位置的其实都是普通名词(States,Nations)，皆可加冠词。只有America这个名词短语是专有名词，所以前面没有加冠词。
 
 **以上的叙述中，重要观念有三**：
