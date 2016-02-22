@@ -5,6 +5,6 @@
 其中所牵涉的重要观念有以下儿点：
 
 一、**把be动词当动词看**，句子就只剩两种状态：{% em color="#df8f8f" %}**简单式与完成式**{% endem %}。  
-二、**简单式**是以{% em color="#df8f8f" %}括弧型的时间{% endem %}来表达。  
-三、**完成式**是以{% em color="#df8f8f" %}箭头型的时间{% endem %}来表达。  
+二、{% em type="red" %}简单式{% endem %}是以{% em color="#df8f8f" %}括弧型的时间{% endem %}来表达。  
+三、{% em type="red" %}完成式{% endem %}是以{% em color="#df8f8f" %}箭头型的时间{% endem %}来表达。  
 四、**be动词后面的分词当作**{% em color="#df8f8f" %}形容词补语{% endem %}。{% em color="#df8f8f" %}**现在分词**有**正在进行**{% endem %}的意思，{% em color="#df8f8f" %}**过去分词**有**被动**{% endem %}的意思。 
