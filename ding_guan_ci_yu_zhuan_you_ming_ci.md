@@ -41,15 +41,12 @@
 
 <table>
     <tr>
-       
         <th>the United States of America</th>
         <th>美国</th>
-        
     </tr>
     <tr>
         <td>the United Nations</td>
         <td>联合国</td>
-        
     </tr>
 </table>
 
