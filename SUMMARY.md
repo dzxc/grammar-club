@@ -22,6 +22,6 @@
 * [第三章 动词时态](di_san_zhang_dong_ci_shi_tai.md)
    * [简单式](jian_dan_shi.md)
    * [完成式](wan_cheng_shi.md)
-   * [Test 3](test_3.md)
    * 结语
+   * [Test 3](test_3.md)
 
