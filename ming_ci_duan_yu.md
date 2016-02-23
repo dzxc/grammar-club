@@ -16,13 +16,17 @@
 ---
 
 
-**其实，名词短语的这三个部分当中，每个部分都可以省略。**在a new book中，即使拿掉形容词，剩下a book，这个名词短语还是正确的。同样地，在the best answer中如果拿掉名词，剩下the best也一样是正确的，例如：
->  
-Of these answers, this one is the best.（在这些答案中，这个最好。）
+**其实，名词短语的这三个部分当中，每个部分都可以省略。**在a new book中，即使拿掉形容词，剩下a book，这个名词短语还是正确的。同样地，在the best answer中如果拿掉名词，剩下the best也一样是正确的。  
+例如：  
 
-读者可以从此句中清楚了解the best就是the best answer的意思。甚至在those sweet roses中，可以把形容词和名词一起拿掉，只剩下those，仍是正确的名词短语。比如说，你指着一些玫瑰花，对花店老板说：
->  
-I want those.（我要那种的。）  
+- Of these answers, this one is the best.（在这些答案中，这个最好。）
 
-老板就会知道你要的是什么。
+读者可以从此句中清楚了解the best就是the best answer的意思。甚至在those sweet roses中，可以把形容词和名词一起拿掉，只剩下those，仍是正确的名词短语。  
+比如说，你指着一些玫瑰花，对花店老板说：
+
+- I want those.（我要那种的。）  
+
+老板就会知道你要的是什么。  
+
+[^1]: 限定词+（形容词）+名词，每个部分都可以省略
 
