@@ -7,7 +7,7 @@
 请进一步观察下面的例子：
 
 
-> - 太鲁阁峡谷很美。  
+- 太鲁阁峡谷很美。  
 Taroko Gorge is beautiful.  
 - 汤太烫了。  
 The soup is too hot.
