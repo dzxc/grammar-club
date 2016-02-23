@@ -1,6 +1,9 @@
 # 动名词的一些变化
 
-**一、复合字**  
+
+### 一、复合字
+
+  
 
 - 例1：Picking strawberries can be fun.  
 S V C
@@ -24,7 +27,10 @@ S V C
 
 ----
 
-**二、主词不能省略时的处理方式**  
+
+### 二、主词不能省略时的处理方式
+
+  
 
 * I don't like that John calls my girlfriend day after day.  
 S V O（约翰每天打电话给我女朋友，让我很不舒服。）
@@ -46,7 +52,10 @@ S V O
 
 ----
 
-**三、动名词的被动式：being Ven**  
+
+### 三、动名词的被动式：being Ven 
+
+ 
 
 * That I was invited here is a great honor.  
 S V C  
