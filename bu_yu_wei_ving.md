@@ -1,2 +1,17 @@
 # 补语为Ving
 
+如果关系从句中的动词是be+Ving的形状（进行式)，只要省略主语与be动词即可。例如：
+The ship which is coming to shore is from Gaoxiong.  
+先行词 关系从句
+(正在靠岸的那条船是从高雄来的。）
+关系从句中的主语which就是the ship，又有be动词，只要省去这两个部分，就成为：
+The ship coming to shore is from Gaoxiong.
+简化关系从句
+剩下的补语部分是现在分词短语，属于形容词类，与原来的关系从句词类相同，这就是成功的简化从句。
+如果关系从句中没有be动词，也没有助动词，就要把动词改成Ving的形状。例如：
+My old car,which breaks down every other week,won't last much longer.
+先行词 关系从句
+(我那辆老爷车，每隔一个星期总要抛锚一次，大概开不了多久了。）
+这个关系从句，动词是breaks down，既无be动词也无助动词，无法省略，所以要先改成有be动词的形态：is breaking down，有了be动词，breaking down就可成为补语部分保留下来，只省略主语与be动词，成为：
+My old car, breaking down every other week, won't last much longer.
+简化形容词从句
