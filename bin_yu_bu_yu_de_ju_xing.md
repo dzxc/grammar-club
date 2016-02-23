@@ -12,8 +12,7 @@
 - I consider <em>the story <em>false</em>.（我认为故事是捏造的。）
 - His college training made <em>him a teacher</em>.
 （他的大学教育使他成为一名教师。）
-- Most people consider <em>a nurse a good wife</em>.
-（大多数的人认为护士会是称职的太太。）
+- Most people consider <em>a nurse a good wife</em>.（大多数的人认为护士会是称职的太太。）
 
 就拿其中第一个例子I find the dress pretty.来看，宾语the dress 和补语pretty之间虽然没有“是”字，可是带有这种暗示存在。如果加个be动词进去，就变成刚才介绍主语补语的例子The dress is pretty。上面所有宾语补语的例子都可以用同样的方法变成主语补语的句子。  
 
