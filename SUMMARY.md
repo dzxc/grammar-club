@@ -54,4 +54,5 @@
 * [第十七章 形容词从句简化](di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.md)
 * [第十八章 名词从句简化](di_shi_ba_zhang_ming_ci_cong_ju_jian_hua.md)
 * [第十九章 副词从句简化之一](di_shi_jiu_zhang_fu_ci_cong_ju_jian_hua_zhi_yi.md)
+* 第二十章 副词从句简化之二
 
