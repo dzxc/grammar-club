@@ -10,7 +10,7 @@
 要判断一个名词是否为专有名词，有时并不是那么容易。像Sunday这种字，一个月中可能会有四到五天，所以我们可以说：
 >  
 >>  
-There are five Sundays this month.   
+There are five <em>Sundays</em> this month.   
 （这个月有五个星期日。）  
 >>  
 >  
@@ -19,7 +19,7 @@ There are five Sundays this month.
 可是在一个星期中星期日只有一天，所以我们也可以说：
 >  
 >>  
-I have an appointment on Sunday.  
+I have an appointment on <em>Sunday</em>.  
 (我星期日有约。）  
 >>
 >  
@@ -32,19 +32,19 @@ I have an appointment on Sunday.
 <b>放在**补语位置的专有名词**最难以判断。补语和主语（或宾语)之间有同等的关系，如果主语（或宾语）是专有名词（例如人名）的话，那么它的补语既然和它同等，便也会被当做是专有名词来使用，条件是**在补语位置上的名词也必须具有唯一”的性质**。</b>  
 例如:  
 >  
-Mr. Elson was president of the high school.  
+Mr. Elson was <em>president</em> of the high school.  
 （埃尔森先生曾是这所高中的校长。）
 
 本句中Mr.Elson是人名，而且没有第二个存在，所以不能加-s，也不能加a，我们就可以不用限定词。而在补语位置上的president本来只是个普通名词，并不是只有这所高中才有校长，而且这所高中的校长历来也不只埃尔森先生一人。因此，“校长”为普通名词，而“埃尔森先生”为专有名词，两词性质本不相同。可是，因为在此句中“校长”是埃尔森先生的补语，可以和埃尔森先生划上一个等号，所以可用专有名词来诠释它。再者，当时这所高中校长一职确实只有埃尔森先生一人，因此也支持这个诠释。所以president一词没有限定词。这就是把它当作专有名词的结果。  
 再看下例：  
 >  
-Some say he was a better president than Mr. Robert.  
+Some say he was <em>a better president</em> than Mr. Robert.  
 （有人说他当校长，比罗伯特先生干得更好。）
 
 在这个从属子句中，主语he就是埃尔森先生。president仍然是主语补语，可是这里就要加a了。为什么？因为在上下文中和罗伯特先生做比较，这么一来就有前后两任校长，可以加-s,不是专有名词了。  
 还有：
 >  
-Mr. Elson is also a member of the Council of the city.  
+Mr. Elson is also <em>a member of the Council</em> of the city.  
 （埃尔森先生也是该城市政会委员。）
 
 本句中a member of the Council也是埃尔森先生的补语，类似 Council of the city。可是高中校长同一时间只有一人，市政会委员则有很多人，所以a member需要交代是“一名”，而非专有名词。
@@ -55,14 +55,14 @@ Mr. Elson is also a member of the Council of the city.
 
 **另外，当同位语是补语时，注意是否为专有名词**，例如：
 >  
-Mattin Wales, Head of the football team, at the time, wore a mustache.  
+Mattin Wales, <em>Head of the football team</em>, at the time, wore a mustache.  
 （马丁·韦尔斯，当时的足球队长，留有小胡子。）
 
 句中Head of the football team—般称为同位语，其实就是who was Head of the football team at the time这个形容词从句的省略。其中who代表马丁·韦尔斯，而Head则是主语补语，和马丁·韦尔斯是同等关系，所以仍然算是专有名词，不必用限定词。
 
-写主语补语时，要注意该补语是否为专有名词。写宾语补语时也是一样。例如：
+**写主语补语时，要注意该补语是否为专有名词。写宾语补语时也是一样**。例如：
 >  
-Clinton made Gorle campaign partner of the Presidential election.  
+Clinton made Gorle <em>campaign partner</em> of the Presidential election.  
 （克林顿选择戈尔为总统大选竞选搭档。）
 
 句中campaign partner没有限定词，当专有名词使用。因为它是“戈尔”的宾语补语，与其为同等关系。而副总统搭档只有一人，所以它便成为专有名词的用法。
