@@ -5,7 +5,7 @@
 
   
 
-- 例1：Picking strawberries can be fun.  
+- 例1：<em>Picking strawberries</em> can be fun.  
 S V C
 （采草莓很好玩。）
 - 例2：The picking of strawberries requires patience.  
