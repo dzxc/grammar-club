@@ -39,5 +39,5 @@
    * [现在分词与过去分词的区分](xian_zai_fen_ci_yu_guo_qu_fen_ci_de_qu_fen.md)
    * [现在分词与过去分词混合的形态](xian_zai_fen_ci_yu_guo_qu_fen_ci_hun_he_de_xing_ta.md)
    * [形容词从句简化的结果](xing_rong_ci_cong_ju_jian_hua_de_jie_guo.md)
-   * 副词从句简化的结果
+   * [副词从句简化的结果](fu_ci_cong_ju_jian_hua_de_jie_guo.md)
 
