@@ -36,13 +36,13 @@ The student was able to pass the course.
 15. The president avoided the issue. (that)  
 This was obvious to the audience.  
 16. Anyone could tell he was upset.  
-17. Michael Crichton is in town.
-He is author of Jurassic Park. (who)
-He could promote his new novel. (so that)
-18. I am a conservative. (although)
-I'd like to see something.
-The conservative party is chastised in the next election. (that)
-19. The man found a fly in his soup. (when)
-The man called to the waiter.
-20. It is a warm day. (because)
-We will go to the beach.
+17. Michael Crichton is in town.  
+He is author of Jurassic Park. (who)  
+He could promote his new novel. (so that)  
+18. I am a conservative. (although)  
+I'd like to see something.  
+The conservative party is chastised in the next election. (that)  
+19. The man found a fly in his soup. (when)  
+The man called to the waiter.  
+20. It is a warm day. (because)  
+We will go to the beach.  
