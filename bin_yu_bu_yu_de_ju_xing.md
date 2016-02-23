@@ -6,7 +6,7 @@
 - I find the <em>dress pretty</em>.（我觉得这衣服很漂亮。）
 - The meat made <em>the dog friendly</em>.（肉让狗变得很友善。）
 - They consider <em>his demands reasonable</em>.（他们认为他的要求是合理的。）
-- He found <em>the trip <em>exciting</em>.（他觉得这次旅行很刺激。）
+- He found <em>the trip exciting</em>.（他觉得这次旅行很刺激。）
 - The food made <em>me sick</em>.（这种食物使我想吐。）
 - I don't find <em>the drug bitter</em>.（我并不觉得药很苦。）
 - I consider <em>the story false</em>.（我认为故事是捏造的。）
