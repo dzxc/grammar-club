@@ -8,10 +8,10 @@
 - 例1：<em>Picking strawberries</em> can be fun.  
 S V C
 （采草莓很好玩。）
-- 例2：The picking of strawberries requires patience.  
+- 例2：<em>The pickin</em>g of strawberries requires patience.  
 S V O
 （采草莓要有耐心。）
-- 例3：Strawberry-picking is a strenuous job.  
+- 例3：<em>Strawberry-picking</em> is a strenuous job.  
 S V C
 （采草莓是很费力的工作。）  
 
