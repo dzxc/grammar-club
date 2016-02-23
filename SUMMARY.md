@@ -51,4 +51,5 @@
 * [第十四章 关系从句](di_shi_si_zhang_guan_xi_cong_ju.md)
 * [第十五章 对等连接词与对等从句](di_shi_wu_zhang_dui_deng_lian_jie_ci_yu_dui_deng_c.md)
 * [第十六章 从属从句简化的通则](di_shi_liu_zhang_cong_shu_cong_ju_jian_hua_de_tong.md)
+* 第十七章 形容词从句简化
 
