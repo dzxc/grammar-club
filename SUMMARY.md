@@ -3,6 +3,7 @@
 * [语法俱乐部](README.md)
    * [序](xu.md)
    * [前言](qian_yan.md)
+* [目录](mu_lu.md)
 * [第一章 基本句型及补语](di_yi_zhang_ji_ben_ju_xing_ji_bu_yu.md)
    * [五种简单的基本句型](wu_zhong_jian_dan_de_ji_ben_ju_xing.md)
    * [不必翻译的动词： be 动词](bu_bi_fan_yi_de_dong_ci_ff1a_be_dong_ci.md)
@@ -57,5 +58,4 @@
 * [第二十章 副词从句简化之二](di_er_shi_zhang_fu_ci_cong_ju_jian_hua_zhi_er.md)
 * [第二十一章 简化从句练习](di_er_shi_yi_zhang_jian_hua_cong_ju_lian_xi.md)
 * [第二十二章 倒装句](di_er_shi_er_zhang_dao_zhuang_ju.md)
-* [目录](mu_lu.md)
 
