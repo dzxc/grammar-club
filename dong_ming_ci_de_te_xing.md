@@ -1,6 +1,9 @@
 # 动名词的特性
 
-**一、动名词与普通名词的比较**
+
+### 一、动名词与普通名词的比较
+
+
 
 - Let me buy you a drink.（我请你喝一杯。）  
 - Drinking is his only vice.（喝酒是他唯一的坏习惯。）
@@ -23,7 +26,10 @@
 
 大部分的动名词是不可数名词，可是也有一些是可数的，像例句中的two weddings。动名词的前面有限定词two，后面加-s表示复数。这种用法跟普通名词没有两样，不定词却不能这样使用，这是动名词与不定词的差别之一。**动名词的结构很像普通名词，可以有冠词（例如：the burning); 有所有格（例如：his running);有复数（例如：two weddings )。而不定词的结构则是to加原形动词，以短语形态出现（例如：to run, to leave)，不能加限定词或复数**。  
 
-**二、动名词短语与名词从句的比较**  
+
+### 二、动名词短语与名词从句的比较
+
+  
 
 >  
 * I really enjoyed teaching English to school children at night.  
