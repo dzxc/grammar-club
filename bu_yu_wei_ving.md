@@ -1,9 +1,11 @@
 # 补语为Ving
 
-如果关系从句中的动词是be+Ving的形状（进行式)，只要省略主语与be动词即可。例如：
-The ship which is coming to shore is from Gaoxiong.  
-先行词 关系从句
-(正在靠岸的那条船是从高雄来的。）
+<b>如果**关系从句中的动词是be+Ving的形状（进行式)**，只要**省略主语**与** be 动词**即可。</b>  
+例如：
+- The ship which is coming to shore is from Gaoxiong.  
+先行词 关系从句  
+(正在靠岸的那条船是从高雄来的。）  
+
 关系从句中的主语which就是the ship，又有be动词，只要省去这两个部分，就成为：
 The ship coming to shore is from Gaoxiong.
 简化关系从句
