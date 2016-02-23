@@ -57,7 +57,7 @@ S V O
 
  
 
-* That I was invited here is a great honor.  
+* That I <em>was invited</em> here is a great honor.  
 S V C  
 （受邀来到此地，是莫大的荣誉。）  
 
