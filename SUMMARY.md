@@ -42,5 +42,5 @@
    * [副词从句简化的结果](fu_ci_cong_ju_jian_hua_de_jie_guo.md)
    * [Test 6](test_6.md)
 * [第七章 形容词](di_qi_zhang_xing_rong_ci.md)
-* 第八章 副词
+* [第八章 副词](di_ba_zhang_fu_ci.md)
 
