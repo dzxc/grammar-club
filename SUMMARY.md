@@ -89,6 +89,7 @@
    * [关系从句的特色](guan_xi_cong_ju_de_te_se.md)
    * [何时该使用that？](he_shi_gai_shi_yong_that.md)
    * [何时不该使用that？](he_shi_bu_gai_shi_yong_that.md)
+   * 先行词的省略
 * [第十五章 对等连接词与对等从句](di_shi_wu_zhang_dui_deng_lian_jie_ci_yu_dui_deng_c.md)
 * [第十六章 从属从句简化的通则](di_shi_liu_zhang_cong_shu_cong_ju_jian_hua_de_tong.md)
 * [第十七章 形容词从句简化](di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.md)
