@@ -120,5 +120,5 @@
 * [第二十一章 简化从句练习](di_er_shi_yi_zhang_jian_hua_cong_ju_lian_xi.md)
    * [Test 21](test_21.md)
 * [第二十二章 倒装句](di_er_shi_er_zhang_dao_zhuang_ju.md)
-   * 比较级的倒装
+   * [比较级的倒装](bi_jiao_ji_de_dao_zhuang.md)
 
