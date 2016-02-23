@@ -4,8 +4,7 @@
         "word-count",
         "hide-published-with",
         "emphasize",
-        "ungrey",
-        "toggle-chapters"
+        "ungrey"
     ],
     "pluginsConfig": {}
 }
