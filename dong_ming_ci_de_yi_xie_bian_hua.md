@@ -21,7 +21,7 @@ S V C
 
 **主语部分本来是名词从句，现在简化为动名词短语picking strawberries**，其中 strawberries 是 pick 的宾语。  
 
-第二个例句中，picking前面加上了定冠词the，这样是把the picking当做一个名词短语来使用。所以picking后面不能再有宾语，而要改成介系词短语of strawberries做为修饰语，形容the picking。  
+第二个例句中，picking前面加上了定冠词the，**这样是把the picking当做一个名词短语来使用**。所以picking后面不能再有宾语，而要改成介系词短语of strawberries做为修饰语，形容the picking。  
 
 **在第三句中，主语strawberry-picking是个复合字。把strawberries拿到动名词picking的前面，也就是把它放在形容词位置使用，这也是为什么要改成单数的原因：英语形容词是没有复数的**。中间再加上hyphen，就串连成复合名词strawberry-picking。这个构造和 mountain-climbing 是相同的。  
 
