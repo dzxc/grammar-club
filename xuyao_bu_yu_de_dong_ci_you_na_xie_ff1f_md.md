@@ -20,15 +20,15 @@
 ----
 
 再看看下面这些例子：
->  
-- That dress `looks` pretty.（那件裙子很好看。）
-- The dog `seems` friendly. （那条狗好像很友善。）
-- His demands `appear` reasonable.（他的要求显得很合理。）
-- His trip `sounds` exciting. （他的旅行听起来很刺激。）
-- I `feel` sick.（我感觉不舒服。）
-- The drug `tastes` bitter.（药很苦。）
-- The story `proved` false.（故事经证实是捏造的。）
-- He `became` a teacher.（他当了老师。）
-- A nurse `makes` a good wife.（娶护士做太太真不错。）
+
+- That dress <em>looks</em> pretty.（那件裙子很好看。）
+- The dog <em>seems</em> friendly. （那条狗好像很友善。）
+- His demands <em>appear</em> reasonable.（他的要求显得很合理。）
+- His trip <em>sounds</em> exciting. （他的旅行听起来很刺激。）
+- I <em>feel</em> sick.（我感觉不舒服。）
+- The drug <em>tastes</em> bitter.（药很苦。）
+- The story <em>proved</em> false.（故事经证实是捏造的。）
+- He <em>became</em> a teacher.（他当了老师。）
+- A nurse <em>makes</em> a good wife.（娶护士做太太真不错。）<em>
 
 现在请做个小实验。把以上句子里的动词全部换成be动词，也就是，把各式各样的“是”换成纯粹的“是”。有没有发觉，这些句子的意思和句型，都没有太大的改变？这就是**“主语+动词+补语(S+V+C)”的句型**。凡是**动词解释为各式各样的“是”**的句子，都属于这种句型。
