@@ -73,7 +73,7 @@
    * [以单位做主语时](yi_dan_wei_zuo_zhu_yu_shi.md)
    * [主语后面有介系词短语时](zhu_yu_hou_mian_you_jie_xi_ci_duan_yu_shi.md)
    * [集合名词](ji_he_ming_ci.md)
-   * 一些以S结尾的名词
+   * [一些以S结尾的名词](yi_xie_yi_s_jie_wei_de_ming_ci.md)
 * [第十二章 名词从句](di_shi_er_zhang_ming_ci_cong_ju.md)
 * [第十三章 副词从句](di_shi_san_zhang_fu_ci_cong_ju.md)
 * [第十四章 关系从句](di_shi_si_zhang_guan_xi_cong_ju.md)
