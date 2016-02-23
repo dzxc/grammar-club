@@ -1,7 +1,8 @@
 # 补语为Ven
 
 <b>如果**关系从句中是被动态**，就会**简化成为过去分词的补语部分**。</b>  
-例如：  
+例如： 
+>  
 1. <em>Beer</em> is most delicious.  
 <em>S</em>  
 2. <em>It</em> is chilled to 6°C.  
