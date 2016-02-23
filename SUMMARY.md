@@ -99,7 +99,7 @@
 * [第十六章 从属从句简化的通则](di_shi_liu_zhang_cong_shu_cong_ju_jian_hua_de_tong.md)
    * [简化从句](jian_hua_cong_ju.md)
    * [为何不称“非限定从句” ？](wei_he_bu_cheng_201c_fei_xian_ding_cong_ju_201d.md)
-   * 从属从句简化的通则
+   * [从属从句简化的通则](cong_shu_cong_ju_jian_hua_de_tong_ze.md)
 * [第十七章 形容词从句简化](di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.md)
 * [第十八章 名词从句简化](di_shi_ba_zhang_ming_ci_cong_ju_jian_hua.md)
 * [第十九章 副词从句简化之一](di_shi_jiu_zhang_fu_ci_cong_ju_jian_hua_zhi_yi.md)
