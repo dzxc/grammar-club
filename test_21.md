@@ -46,3 +46,21 @@ The conservative party is chastised in the next election. (that)
 The man called to the waiter.  
 20. It is a warm day. (because)  
 We will go to the beach.  
+
+**Answer key 21**  
+
+<b>参考答案</b>    
+
+1.Because he was educated in an art college. Ben Book acts unusual while
+he deals with economic matters.  
+简化为：  
+Educated in an art college, Ben Book acts unusual while dealing with
+economic matters.  
+2.I'd like that you will meet some people.  
+简化为：  
+I'd like you to meet some people.  
+3.I'm not sure what I should do.  
+简化为：  
+I'm not sure what to do.  
+4.He worked late into the night because he was trying to finish the report.  
+简化为：  
