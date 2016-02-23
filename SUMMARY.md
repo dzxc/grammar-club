@@ -117,8 +117,8 @@
    * [Test 19](test_19.md)
 * [第二十章 副词从句简化之二](di_er_shi_zhang_fu_ci_cong_ju_jian_hua_zhi_er.md)
    * [改为介系词短语](gai_wei_jie_xi_ci_duan_yu.md)
-   * [Test 20](test_20.md)
    * 结语
+   * [Test 20](test_20.md)
 * [第二十一章 简化从句练习](di_er_shi_yi_zhang_jian_hua_cong_ju_lian_xi.md)
    * [Test 21](test_21.md)
 * [第二十二章 倒装句](di_er_shi_er_zhang_dao_zhuang_ju.md)
