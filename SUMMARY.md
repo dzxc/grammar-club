@@ -79,7 +79,7 @@
    * [何谓复句？](he_wei_fu_ju_ff1f.md)
    * [典型的名词从句](dian_xing_de_ming_ci_cong_ju.md)
    * [名词从句的放大](ming_ci_cong_ju_de_fang_da.md)
-   * 疑问句改装的名词从句
+   * [疑问句改装的名词从句](yi_wen_ju_gai_zhuang_de_ming_ci_cong_ju.md)
 * [第十三章 副词从句](di_shi_san_zhang_fu_ci_cong_ju.md)
 * [第十四章 关系从句](di_shi_si_zhang_guan_xi_cong_ju.md)
 * [第十五章 对等连接词与对等从句](di_shi_wu_zhang_dui_deng_lian_jie_ci_yu_dui_deng_c.md)
