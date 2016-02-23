@@ -41,4 +41,5 @@
    * [形容词从句简化的结果](xing_rong_ci_cong_ju_jian_hua_de_jie_guo.md)
    * [副词从句简化的结果](fu_ci_cong_ju_jian_hua_de_jie_guo.md)
    * [Test 6](test_6.md)
+* 第七章 形容词
 
