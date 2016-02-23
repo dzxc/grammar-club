@@ -67,7 +67,7 @@ S V C
 
 许多人不太清楚being怎么用。**其实，being这个词中，be是没有意义的be动词，所有的意义在于词尾的-ing部分。而词尾-ing可能是现在分词，表示进行的暗示，或者是动名词，有词类变化的功能**。如上述例句中，invited here不能当主语，因为词类不对。这时除了把invite本身改成名词的irvitation之外，还有一个办法，就是借用前面的was来做词类变化，变成being invited here，—方面保留了过去分词invited的被动态，另一方面则符合了名词的词类要求，于是这句变成：  
 
->*  **Being invited here is a great honor.**  
+>*  **<em>Being invited</em> here is a great honor.**  
 S V O 
  
 
@@ -79,12 +79,12 @@ S V O
 
 **这两种动状词写起来一样，有时又出现在同样的位置，不习惯的话不太容易有所区分**。还好因为写来完全相同，所以你不会分辨也没关系！不过，为求充分理解，我们还是来仔细分析一下。  
 
-- That **flying** bird is a black-faced spoonbill.
+- That <em>flying</em> bird is a black-faced spoonbill.
 （那只在飞的鸟是黑面琵鹭。）  
 
 这个flying出现在名词短语that bird中间的形容词位置，是现在分词。**现在分词都是形容词，强烈暗示“进行”的动作。  
 为了要验证它的确是现在分词，可以把它移到形容词的另一个位置：补语位置**来看看。  
-* That bird is **flying**.  
+* That bird is <em>flying</em>.  
 S V C  
 
 ----
