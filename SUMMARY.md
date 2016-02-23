@@ -97,7 +97,7 @@
 * [第十五章 对等连接词与对等从句](di_shi_wu_zhang_dui_deng_lian_jie_ci_yu_dui_deng_c.md)
    * [Test 15](test_15.md)
 * [第十六章 从属从句简化的通则](di_shi_liu_zhang_cong_shu_cong_ju_jian_hua_de_tong.md)
-   * 简化从句
+   * [简化从句](jian_hua_cong_ju.md)
 * [第十七章 形容词从句简化](di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.md)
 * [第十八章 名词从句简化](di_shi_ba_zhang_ming_ci_cong_ju_jian_hua.md)
 * [第十九章 副词从句简化之一](di_shi_jiu_zhang_fu_ci_cong_ju_jian_hua_zhi_yi.md)
