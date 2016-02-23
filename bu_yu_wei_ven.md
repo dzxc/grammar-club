@@ -16,6 +16,11 @@
 <em>简化形容词从句<em>  
 
 关系从句简化后剩下的补语是过去分词短语，属于形容词类, 而原来的从句也是形容词类，所以没有词类的冲突，可以取代关系从句来形容beer，而且意思不变，这就是成功的简化从句。  
+
+
+---
+
+
 再举一个有逗号的关系从句为例：  
 - {% em type="red" %}Your brother John, {% em type="green" %}who was wounded in war{% endem %}, will soon be sent home.  
 {% em type="red" %}先行词 {% em type="green" %}关系从句{% endem %}  
