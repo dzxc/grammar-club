@@ -70,7 +70,7 @@
    * [主语是一个还是两个人（或物）？](zhu_yu_shi_yi_ge_huan_shi_liang_ge_ren_ff08_huo_wu.md)
    * [主语是哪一个？](zhu_yu_shi_na_yi_ge_ff1f.md)
    * [主语是关系代名词时](zhu_yu_shi_guan_xi_dai_ming_ci_shi.md)
-   * 以单位做主语时
+   * [以单位做主语时](yi_dan_wei_zuo_zhu_yu_shi.md)
 * [第十二章 名词从句](di_shi_er_zhang_ming_ci_cong_ju.md)
 * [第十三章 副词从句](di_shi_san_zhang_fu_ci_cong_ju.md)
 * [第十四章 关系从句](di_shi_si_zhang_guan_xi_cong_ju.md)
