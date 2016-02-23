@@ -8,9 +8,9 @@
 
 
 - 太鲁阁峡谷很美。  
-Taroko Gorge is beautiful.  
+Taroko Gorge <em>is</em> beautiful.  
 - 汤太烫了。  
-The soup is too hot.
+The soup <em>is</em> too hot.
 
 
 
