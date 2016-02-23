@@ -123,5 +123,5 @@
    * [比较级的倒装](bi_jiao_ji_de_dao_zhuang.md)
    * [关系从句的倒装](guan_xi_cong_ju_de_dao_zhuang.md)
    * [假设语气的倒装](jia_she_yu_qi_de_dao_zhuang.md)
-   * 引用句的倒装
+   * [引用句的倒装](yin_yong_ju_de_dao_zhuang.md)
 
