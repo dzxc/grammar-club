@@ -67,7 +67,7 @@ S V C
 
 许多人不太清楚being怎么用。**其实，being这个词中，be是没有意义的be动词，所有的意义在于词尾的-ing部分。而词尾-ing可能是现在分词，表示进行的暗示，或者是动名词，有词类变化的功能**。如上述例句中，invited here不能当主语，因为词类不对。这时除了把invite本身改成名词的irvitation之外，还有一个办法，就是借用前面的was来做词类变化，变成being invited here，—方面保留了过去分词invited的被动态，另一方面则符合了名词的词类要求，于是这句变成：  
 
->*  **<em>Being invited</em> here is a great honor.**  
+>*  <em>Being invited</em> here is a great honor.  
 S V O 
  
 
