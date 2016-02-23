@@ -22,8 +22,8 @@
 
 
 再举一个有逗号的关系从句为例：  
-- {% em type="red" %}Your brother John, {% em type="green" %}who was wounded in war{% endem %}, will soon be sent home.  
-{% em type="red" %}先行词 {% em type="green" %}关系从句{% endem %}  
+- {% em type="red" %}Your brother John{% endem %}, {% em type="green" %}who was wounded in war{% endem %}, will soon be sent home.  
+{% em type="red" %}先行词{% endem %} {% em type="green" %}关系从句{% endem %}  
 (你哥哥约翰作战受伤，即将被送回家。）  
 
 这个句子中，先行词your brother John是专有名词，<b>后面的关系从句因而没有“指出是谁”的功能，只有“补充说明”的功能，所以应置于括弧性的逗号中—— 一对逗号当括弧使用，用来作补充说明。放在逗号中的关系从句，简化方式仍然一样，**只要把主语与be动词省略即可**</b>：  
