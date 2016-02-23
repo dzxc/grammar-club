@@ -102,6 +102,7 @@
    * [从属从句简化的通则](cong_shu_cong_ju_jian_hua_de_tong_ze.md)
 * [第十七章 形容词从句简化](di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.md)
    * [补语为Ven](bu_yu_wei_ven.md)
+   * 补语为Ving
 * [第十八章 名词从句简化](di_shi_ba_zhang_ming_ci_cong_ju_jian_hua.md)
 * [第十九章 副词从句简化之一](di_shi_jiu_zhang_fu_ci_cong_ju_jian_hua_zhi_yi.md)
 * [第二十章 副词从句简化之二](di_er_shi_zhang_fu_ci_cong_ju_jian_hua_zhi_er.md)
