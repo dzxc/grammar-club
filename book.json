@@ -5,7 +5,8 @@
         "hide-published-with",
         "emphasize",
         "ungrey",
-        "toggle-chapters"
+        "toggle-chapters",
+        "search-languages"
     ],
     "pluginsConfig": {}
 }
