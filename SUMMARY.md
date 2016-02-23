@@ -46,6 +46,7 @@
    * [名词短语中的形容词](ming_ci_duan_yu_zhong_de_xing_rong_ci.md)
    * [名词短语中形容词的顺序](ming_ci_duan_yu_zhong_xing_rong_ci_de_shun_xu.md)
    * [形容词在名词短语位置与补语位置的比较](xing_rong_ci_zai_ming_ci_duan_yu_wei_zhi_yu_bu_yu_.md)
+   * 补语位置的形容词
 * [第八章 副词](di_ba_zhang_fu_ci.md)
 * [第九章 语气](di_jiu_zhang_yu_qi.md)
 * [第十章 介系词](di_shi_zhang_jie_xi_ci.md)
