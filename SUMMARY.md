@@ -36,4 +36,5 @@
    * [Test 5](test_5.md)
 * [第六章 分词](di_liu_zhang_fen_ci.md)
    * [分词与形容词的比较](fen_ci_yu_xing_rong_ci_de_bi_jiao.md)
+   * 现在分词与过去分词的区分
 
