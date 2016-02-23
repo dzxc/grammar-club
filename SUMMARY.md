@@ -125,4 +125,5 @@
    * [假设语气的倒装](jia_she_yu_qi_de_dao_zhuang.md)
    * [引用句的倒装](yin_yong_ju_de_dao_zhuang.md)
    * [类似there is/are的倒装](lei_si_there_is__are_de_dao_zhuang.md)
+   * 否定副词开头的倒装
 
