@@ -112,7 +112,7 @@
    * [to V 与 Ving 的比较](to_v_yu_ving_de_bi_jiao.md)
    * [Test 18](test_18.md)
 * [第十九章 副词从句简化之一](di_shi_jiu_zhang_fu_ci_cong_ju_jian_hua_zhi_yi.md)
-   * 简化为 Ving 补语
+   * [简化为 Ving 补语](jian_hua_wei_ving_bu_yu.md)
 * [第二十章 副词从句简化之二](di_er_shi_zhang_fu_ci_cong_ju_jian_hua_zhi_er.md)
 * [第二十一章 简化从句练习](di_er_shi_yi_zhang_jian_hua_cong_ju_lian_xi.md)
 * [第二十二章 倒装句](di_er_shi_er_zhang_dao_zhuang_ju.md)
