@@ -10,8 +10,9 @@ S+V+O+O
 - John's father called him a dog.（约翰的父亲骂他是狗。）    
 S+V+O+C
 
-因为有“他是狗”的意思在，所以a dog是him的补语。如果是 John's father gave him a dog.这一句，him 是给的对象，a dog 是给的东西，两者并不相等，所以并不是宾语与补语的关系，两个都是宾语。
+因为有“他是狗”的意思在，所以a dog是him的补语。如果是 John's father gave him a dog.这一句，him 是给的对象，a dog 是给的东西，两者并不相等，所以并不是宾语与补语的关系，两个都是宾语。[^2] 
 
 本章谈的是比较根本的句型问题。虽然简单，却是了解英语语法必要的基础。读者在阅读英语时不妨详加分析句型，触类旁通，相信会更有收获。  
 
-[^1]: This is a footnote content.
+[^1]: 主语+动词+宾语+补语(S+V+O+C)：宾语和补语都是名词时，宾语与补语间存在有“等于是”的关系(called him a dog-->he is a dog)。 
+[^2]: 主语+动词+宾语+宾语(S+V+O+O)：两个宾语都是名词，但两者间不存在“等于是”的关系(give him a dog~~-->he is a dog~~)
