@@ -47,6 +47,10 @@ The man called to the waiter.
 20. It is a warm day. (because)  
 We will go to the beach.  
 
+
+---
+
+
 **Answer key 21**  
 
 <b>参考答案</b>    
