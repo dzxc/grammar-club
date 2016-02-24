@@ -16,7 +16,9 @@
 例如：  
 - My old car,which breaks down every other week,won't last much longer.  
 先行词 关系从句  
-(我那辆老爷车，每隔一个星期总要抛锚一次，大概开不了多久了。）
-这个关系从句，动词是breaks down，既无be动词也无助动词，无法省略，所以要先改成有be动词的形态：is breaking down，有了be动词，breaking down就可成为补语部分保留下来，只省略主语与be动词，成为：
-My old car, breaking down every other week, won't last much longer.
+(我那辆老爷车，每隔一个星期总要抛锚一次，大概开不了多久了。）  
+
+这个关系从句，动词是breaks down，既无be动词也无助动词，无法省略，所以要先改成有be动词的形态：<em>is breaking down</em>，有了be动词，breaking down就可成为补语部分保留下来，只省略主语与be动词，成为：
+  
+  - My old car, <em>breaking down</em> every other week, won't last much longer.  
 简化形容词从句
