@@ -1,4 +1,4 @@
-# 类似there is/are的倒装
+<u># 类似there is/are的倒装
 
 <b>**这种倒装句是把地方副词挪到句首**，句型和there is/are的句型很接近，修辞功能在于**强调语气**，以及**衔接上下文**。</b>  
 例如： 
@@ -10,7 +10,7 @@
 这个句子以倒装句处理，可以强调动词goes，表示“正在开走”。  
 再如： 
 >  
-- Here is your ticket for the opera!  
+- <u>Here</u> <u>is</u> <u>your ticket</u> for the opera!  
 地方副词 V S  
 (你的歌剧票，拿去吧！）  
 
