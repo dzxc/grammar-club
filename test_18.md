@@ -21,7 +21,7 @@
 
 
 请选出最适当的答案填入空格内，以使句子完整。  
-
+>  
 1. Don't worry; I'll show you____  
 (A) that you should do  
 (B) what to do  
@@ -74,6 +74,10 @@ election even before all the results are in.
 (C) won  
 (D) that you will win  
 
+
+---
+
+
 **Answer key 18**  
 
 
@@ -97,7 +101,7 @@ of to gain her favor.
 
 ### 练习二
 
-
+>  
 1. (B)  
 原为名词从句what you should do，简化为B。  
 2. (C)  
