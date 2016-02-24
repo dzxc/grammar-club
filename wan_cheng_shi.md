@@ -8,7 +8,7 @@
 
 
 >  
-I'm sure I have seen this face somewhere.  
+I'm sure I <em>have seen</em> this face somewhere.  
 （我肯定曾经见过这张脸。）  
 ![完成式--现在时间](http://ww2.sinaimg.cn/large/92c4e634gw1f17fae9jxfj20ax03xwed.jpg)  
 
