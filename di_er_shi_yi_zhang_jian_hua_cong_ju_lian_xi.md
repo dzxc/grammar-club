@@ -10,14 +10,18 @@
 
 这两项原则的共同目的都是为了**增强句子的精简性**：   
 <b>**尽量删除**两个从句间**重复或空洞的元素**，但以**不伤害清楚性**为前提。</b>现在就借一些例句的组合来练习如何写作高难度的句型。
-例一
-1. The patient had not responded to the standard treatment.
-(病人对标准疗法没有反应。）
-2. This fact greatly puzzled the medical team.
-(医疗小组对此深感不解。）
-这两个简单句中，句2的主语this fact指的就是整个句1叙述的那件事。两句经由这个交叉建立了关系，可以考虑用关系从句 (即形容词从句）连结起来。亦即把句2的交叉点this fact改写为关系词，附于句1上作关系从句，成为：
+
+#### 例一
+
+  
+1. The patient had not responded to the standard treatment.  
+（病人对标准疗法没有反应。） 
+2. This fact greatly puzzled the medical team.  
+（医疗小组对此深感不解。）  
+
+这两个简单句中，句2的主语this fact指的就是整个句1叙述的那件事。两句经由这个交叉建立了关系，可以考虑用关系从句 （即形容词从句）连结起来。亦即把句2的交叉点this fact改写为关系词，附于句1上作关系从句，成为：
 The patient had not responded to the standard treatment,which greatly puzzled the medical team.(不够清楚)
-如此组合这两句话，短语上看来可以，但修辞上有严重的缺点：关系词which固然可以代表逗点前的整句话（表示病人缺乏反应这一点令人困惑)，但是它也可以代表逗号前面的名词the standard treatment(表示标准治疗方式本身令人困惑）。如此一来，一个句子有两种可能的解释，犯了模棱两可(ambiguous)的毛病，也就是没有把意义表达清楚，不如尝试另一种组合方式。
+如此组合这两句话，短语上看来可以，但修辞上有严重的缺点：关系词which固然可以代表逗点前的整句话（表示病人缺乏反应这一点令人困惑)，但是它也可以代表逗号前面的名词the standard treatment（表示标准治疗方式本身令人困惑）。如此一来，一个句子有两种可能的解释，犯了模棱两可(ambiguous)的毛病，也就是没有把意义表达清楚，不如尝试另一种组合方式。
 既然整个句1是句2主语this fact的内容，不妨把它改成名词从句（前面加上连接词that即可)，然后直接置于句2中this fact的位置当主语使用，成为复句：
 That the patient had not responded to the standard treatment greatly puzzled the medical team.
 这个句子中的名词从句（that引导的从句）可再进一步简化，一般做法是删除主语与be动词。但这个从句中主语是the patient，在主要从句中并无重复，无法省略。动词had not responded其中也没有be动词可以省略，那么该怎么做？首先，动词简化的通用原则是：
@@ -31,11 +35,15 @@ puzzled the medical team.
 The patient's failure to respond to the standard treatment greatly
 puzzled the medical team.
 这种讲法读起来会比上一种讲法更自然一点。
-例二
-1. The summer tourists are all gone.
-(夏季的观光客都走光了。）
-2. The resort town has resumed its air of tranquillity.
-(这个度假小镇又恢复了平静。）
+
+#### 例二
+
+
+1. The summer tourists are all gone.  
+(夏季的观光客都走光了。）  
+2. The resort town has resumed its air of tranquillity.  
+(这个度假小镇又恢复了平静。）  
+
 这两句话之间没有重复的元素，但有逻辑关系存在：在观光客走了之后，或是因为观光客都走了，小镇才得以恢复平静。这时可以用副词从句的方式，选择恰当的连接词（after、because、now that等）附在句1前面，再把句1与句2并列即可：
 Now that the summer tourists are all gone, the resort town has resumed
 its air of tranquillity.
@@ -44,13 +52,17 @@ Now that引导的副词从句若要进一步简化，关键在主语、动词两
 air of tranquillity.
 如果最前面没有加上with，而是以the summer tourists all gone直接代表一个简化的副词从句，这种讲法比较文诌诌，不够口语化。
 较口语化的做法是，用介系词with来取代连接词now that的意义，而把the tourists放在with后面作它的宾语，all gone仍然作补语，即成为上句中多一个with在前面的句型。
-例三
-1. Confucius must have written on pieces of bamboo.
-(孔子当年一定是在竹简上写字。）
-2. Confucius lived in the Eastern Zhou Dynasty.
-(孔子是东周时代的人。）
-3. Paper was not available until the Eastern Han Dynasty.
-(纸到东汉时期才有。）
+
+#### 例三
+
+
+1. Confucius must have written on pieces of bamboo.  
+(孔子当年一定是在竹简上写字。）  
+2. Confucius lived in the Eastern Zhou Dynasty.  
+(孔子是东周时代的人。）  
+3. Paper was not available until the Eastern Han Dynasty.  
+(纸到东汉时期才有。）  
+
 这三句话中，句1和句2有一个交叉：Confucius。经由这个交叉点建立关系，可用关系从句的方式连结，将句2的Confucius改写为关系词who，成为：
 (1+2) Confucius, who lived in the Eastern Zhou Dynasty, must have written on pieces of bamboo.
 这个关系从句(who lived in the Eastern Zhou Dynasty)可以进行简化，省略重复的主语who，再把普通动词lived改写为living，即成为简化形容词从句：
@@ -59,7 +71,10 @@ Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of ba
 （+3）Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, because paper was not available until the Eastern Han Dynasty.
 句中的副词从句（because之后的部分）如要进一步简化，又要观察主语与动词部分。主语paper没有重复，必须留下来。动词虽然是be动词，可是副词从句的简化中，一旦留下主语，就得有个分词配合（传统语法称为分词构句)，所以使用be动词来制造分词being，并省略连接词because，即成为简化的副词从句：
 Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, paper not being available until the Eastern Han Dynasty.
-例四
+
+#### 例四
+
+
 1. The movable-type press was invented by Gutenberg.
 (古登堡发明活版印刷。）
 2. The movable-type press was introduced to England in 1485.
@@ -75,13 +90,17 @@ The movable-type press,invented by Gutenberg, was introduced to England in 1485.
 要进一步简化这个句子，可以把重复部分an event 删除，再省略关系从句的主语which，把动词 marked 改成分词 marking:
 The movable-type press, invented by Gutenberg, was introduced to
 England in 1485, marking the end of the Dark Ages there.
-例五
-1. Ben Kook was educated in an art college.
-(本·库克曾在一所美术学院念书。）
-2. Ben Kook acts unusual at times.
-(本·库克有时表现得与众不同。）
-3. Ben Kook deals with economic matters at these times.
-(这时本·库克处理经济事务。）
+
+#### 例五
+
+
+1. Ben Kook was educated in an art college.  
+(本·库克曾在一所美术学院念书。）  
+2. Ben Kook acts unusual at times.  
+(本·库克有时表现得与众不同。）  
+3. Ben Kook deals with economic matters at these times.  
+(这时本·库克处理经济事务。）  
+
 句1和句2之间有因果关系：因为在艺术学院读过书，所以才有与众不同的表现。那么就在句1前面加上连接词because成为副词从句，与句2的主要从句并列，成为：
 (1+2) Because he was educated in an art college. Ben Kook acts unusual at times.
 这个句子中，简化because引导的副词从句，可以直接省略he was，再把连接词because删去，只保留补语educated部分，成为：
@@ -90,13 +109,16 @@ Educated in an art college, Ben Kook acts unusual at times.
 （+3) Educated in an art college, Ben Kook acts unusual (at times) when he deals with economic matters.
 句中括弧部分的at times是副词类，属于次要元素，又与后面的when重复，可以先行省略。进一步的简化做法仍是一样：把主语he省略，动词deals改成dealing。不过，由于原先的at times已经省略，所以与它重复的when不宜省略。把when留下来，即成为：
 Educated in an art college, Ben Kook acts unusual when dealing with economic matters.
-例六
-1. I'd like something.
-(我希望一件事。）
-2. You will meet some people.
-(你去见见一些人。）
-3. Then you can leave.
-(然后你就可以走了。）
+
+#### 例六
+
+
+1. I'd like something.  
+(我希望一件事。）  
+2. You will meet some people.  
+(你去见见一些人。）  
+3. Then you can leave.  
+(然后你就可以走了。）  
 句1中的宾语something.就是整个句2叙述的那件事，所以在句2前面加上一个连接词that，成为名词从句，然后放入句1中 something的位置作为like的宾语：
 (1+2) I'd like that you (will) meet some people.
 附带提一下，1+2合并时，that从句的语气成为祈使句的语气，所以助动词will应省略成原形动词，但简化时仍变成不定词。以下的例子若看到助动词上加个括弧都是同样的原因。这里的名词从句要简化时，因主语you与主要从句并无重复，所以要留下来，把它放在like后面的宾语位置。简化从句的做法是把助动词简化为不定词to V，因为语气助动词 must、should、will(would)、can(could)、 may(might)等都可以改写成be + to的形式。省略be动词后就剩下to，所以上面这个从句中的will meet就改成to meet当补语用，成为：
@@ -105,7 +127,10 @@ I'd like you to meet some people.
 (+3) I'd like you to meet some people before you (can) leave.
 这个副词从句若进一步简化，得把before留下才能表达 “在……之前”的意思。但before这个连接词也可当介系词用，一旦后面的从句简化了，它就成为介系词，只能接名词形态。因此把重复的主语you省略后，原来的动词leave要改成动名词leaving的形态，成为：
 I'd like you to meet some people before leaving.
-例七
+
+#### 例七
+
+
 1.I have not practiced very much.
 (我练习得不多。）
 2.I should have practiced very much.
@@ -130,7 +155,10 @@ Not having practiced as much as I should, I am worried aboutforgetting something
 （+5）Not having practiced as much as I should, I am worried about forgetting what I should say during the speech contest.
 最后一步是简化what引导的名词从句。做法一样：省略主语I，动词should say改为不定词to say:
 Not having practiced as much as I should, I am worried about forgetting what to say during the speech contest.
-例八
+
+#### 例八
+
+
 1. A. Fries was the leader of the College football team then.
 (A.弗赖斯当时是学院足球队队长。）
 2. A. Fries is the director of a football club now.
