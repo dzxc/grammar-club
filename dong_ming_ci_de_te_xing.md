@@ -5,8 +5,8 @@
 
 
 
-- Let me buy you a drink.（我请你喝一杯。）  
-- Drinking is his only vice.（喝酒是他唯一的坏习惯。）
+- Let me buy you <em>a drink</em>.（我请你喝一杯。）  
+- <em>Drinking</em> is his only vice.（喝酒是他唯一的坏习惯。）
 
 第一句中的a drink 是普通名词：“一杯酒”。第二句则要用动名词drinking,才能代表“喝酒”的动作与习惯。从这儿可以看出，<b>**动名词**相对于普通名词而言，仍然**保留有若干程度的“动作”意味**，而且可以**有“持续性”的暗示**</b>。如果只喝一杯，那就是have a drink。如果是习惯性、经常性的喝，才用动名词drinking。
 
