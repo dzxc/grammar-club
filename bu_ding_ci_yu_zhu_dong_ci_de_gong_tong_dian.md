@@ -30,16 +30,16 @@ I am glad <em>to know you</em>.
 
 一、**后面都要接原形动词**
 >  
-例：I will go.（我要走了。）  
-I want to go. （我想去。）  
+例：I will <em>go</em>.（我要走了。）  
+I want to <em>go</em>. （我想去。）  
 
 二、**都有「不确定」的语气**
 >  
 例：He is right.（他是对的。）  
-He may be right.（他可能是对的。）  
-He seems to be right.（他好像是对的。）
+He <em>may</em> be right.（他可能是对的。）  
+He <em>seems</em> to be right.（他好像是对的。）
 
-第一句He is right.是确定的语气，把“他是对的”当作事实来叙述。一旦加上助动词may之后，就成了不确定的语气。所以第二句He may be right只是一个推测，不是事实叙述。同样的，一旦用到不定词，也是不确定的语气。第三句He seems to be right也是推测，不是事实叙述。这种不确定语气是不定词与助动词之间一个很重要的共同点，可以用来判断何时该用不定词。
+第一句He is right.是确定的语气，把“他是对的”当作事实来叙述。一旦加上助动词may之后，就成了不确定的语气。所以第二句He may be right只是一个推测，不是事实叙述。同样的，一旦用到不定词，也是不确定的语气。第三句He seems to be right也是推测，不是事实叙述。<b>这种**不确定语气**是**不定词与助动词之间**一个**很重要的共同点**，可以用来判断何时该用不定词。</b>
 
 
 ---
