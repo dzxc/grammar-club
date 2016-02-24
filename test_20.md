@@ -21,7 +21,7 @@ accident.
 
 
 请选出最适当的答案填入空格内，以使句子完整。  
-
+>  
 1. ____ not a big star, the actor played in hundreds of films.  
 (A) Although  
 (B) He was  
@@ -93,7 +93,7 @@ wreck.
 
 ### 练习二
 
-
+>  
 1.(A)  
 副词从句 Although he was not a big star 的简化。  
 2.(B)  
