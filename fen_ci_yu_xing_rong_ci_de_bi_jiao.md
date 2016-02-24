@@ -25,7 +25,7 @@
 >  
 - The dog is black.  
 （那是只黑狗。）  
-- The dog is **barking**.  
+- The dog is <em>barking</em>.  
 （那只狗在叫。）  
 
 现在分词barking和普通形容词black都出现于be动词后面，都可以视为补语，形容主语dog，只不过现在分词-ing字尾要加上进行的暗示。当然，一般语法说be+Ving是进行式的动词短语。可是，并不是is barking 才能解释为进行意义的“正在叫”。a barking dog 不也一样是“正在叫”的狗吗？所以，还是把barking—律解释为形容词比较有一致性。  
