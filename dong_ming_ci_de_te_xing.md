@@ -67,4 +67,4 @@ S V O
 * I really enjoyed teaching English to school children at night.  
 S V O  
 
-**所以，动名词短语可以视为名词从句的变化。只要把主语和be动词放回去，就会出现完整的名词从句。**  
+<b>所以，**动名词短语**可以视为名词从句的变化。只要把**主语**和**be动词**放回去，就会出现完整的名词从句。</b>  
