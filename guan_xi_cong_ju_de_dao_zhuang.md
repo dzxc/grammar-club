@@ -2,7 +2,7 @@
 
 **关系从句中的关系词，如果不是原来就在句首位置，就要向前移到句首让它发挥连接词的功能**，例如：  
 >  
-1. The President is a man.  
+1. The President is <u>a man</u>.  
 （总统是一个人。）  
 2. A heavy responsibility, whether he likes it or not, falls on him.  
 (不论他喜不喜欢，他负有重大的责任。）  
