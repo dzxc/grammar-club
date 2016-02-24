@@ -38,7 +38,7 @@
 
 **过去分词**与现在分词一样，可以出现在两种形容词位置来形容名词，<b>不过它的弦外之音是**被动或完成的暗示**，要加上**“被”、“已经”**来解释。</b>   
 >  
-- <em>Clean water</<em>> is safe to drink.  
+- <em>Clean water</<em> is safe to drink.  
 （干净水可以安全饮用。）  
 - <em>Boiled water</em> is safe to drink.  
 （开水可以安全饮用。）  
