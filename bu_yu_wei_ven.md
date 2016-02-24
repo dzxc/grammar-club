@@ -7,7 +7,7 @@
 <em>S</em>  
 2. <em>It</em> is chilled to 6°C.  
 <em>S</em>  
-→ (A) Beer <em>which is chilled to 6°C</em> is most delicious.  
+>>  → (A) Beer <em>which is chilled to 6°C</em> is most delicious.  
 <em>关系从句</em>  
 (啤酒冰到摄氏六度最可口。）  
 
