@@ -41,7 +41,7 @@ The house <em>has been redecorated</em> twice since they moved in.
 
 ----
 >  
-Many soldiers had died from pneumonia before the discovecry of
+Many soldiers <em>had died</em> from pneumonia before the discovecry of
 penicilin.  
 （发现盘尼西林以前，已经有很多士兵死于肺炎。）  
 ![完成式--过去时间](http://ww2.sinaimg.cn/large/92c4e634gw1f17fpk052pj20bz05zwei.jpg)  
@@ -50,7 +50,7 @@ penicilin.
 
 ----
 >  
-I had been smoking three packs of cigarettes a day before I decided
+I <em>had been smoking</em> three packs of cigarettes a day before I decided
 to quit.  
 （我决定戒烟之前，每天要抽三包烟。）  
 ![完成式--过去时间](http://ww4.sinaimg.cn/large/92c4e634gw1f17fslfr4uj20c205m749.jpg)   
@@ -59,7 +59,7 @@ decided是过去时间，而时间副词before I decided是“在我决定之前
 
 ----
 >  
-Japan had not been defeated yet by the time Germany surrendered
+Japan <em>had not been defeated</em> yet by the time Germany surrendered
 unconditionally.  
 （到德国无条件投降为止，日本尚未被打败。）  
 ![完成式--过去时间](http://ww2.sinaimg.cn/large/92c4e634gw1f17fuqenyij20bm05tglo.jpg)  
@@ -76,7 +76,7 @@ unconditionally.
 **未来时间的完成式，只是把箭头所指的截止时间移到未来的一个点**。观念上与现在、过去时间的完成式完全一样。在写法上，因为是未来时间，所以动词前面加一个will就可以了。请看例句。
 
 >  
-Next April, I will have worked here for 20 years.  
+Next April, I will <em>have worked</em> here for 20 years.  
 （到四月，我在这里就工作20年了。）  
 ![完成式--将来时间](http://ww3.sinaimg.cn/large/92c4e634gw1f17fy39hboj20ca06ldfv.jpg)  
 
@@ -84,14 +84,14 @@ Next April, I will have worked here for 20 years.
 
 ----
 >  
-Come back at 5:00.Your car will have been fixed by then.  
+Come back at 5:00.Your car will <em>have been fixed</em> by then.  
 （五点再来吧！到时候你的车一定已经修好了。）  
 ![完成式--将来时间](http://ww2.sinaimg.cn/large/92c4e634gw1f17g19dmx1j20c9066aa1.jpg)   
 你去修车厂拿车子，老板叫你五点再来。他的意思不是五点才要修你的车，而是说五点以前就一定先修好了，等你来拿。真正修好的时间可能是四点，也可能是三点也说不一定，反正不超过五点。这就是完成式的箭头形状时间；截止时间在未来，所以用未来完成式will have been。be动词没有意义，只要翻译时态“会已经”，来连接主语“车子”和补语“被修好”(fixed)。
 
 ----
 >  
-In two more minutes,she will have been talking on the phone for
+In two more minutes,she will <em>have been talking</em> on the phone for
 three hours!  
 （再过两分钟，她就一直打了足足三小时的电话了！）  
 
