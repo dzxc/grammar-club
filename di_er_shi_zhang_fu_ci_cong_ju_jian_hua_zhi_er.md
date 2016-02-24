@@ -5,18 +5,18 @@
 
 
 将下列各句中的副词从句（即部分）改写为简化从句:
-1. After he was told to report to his supervisor, the clerk left in a hurry.
-2. Although he was ordered to leave, the soldier did not move an inch.
-3. The plan must be modified before it is put into effect.
-4. Because it had been bombed twice in the previous week, the village was
+1. <u>After he was told to report to his supervisor</u>, the clerk left in a hurry.
+2. <u>Although he was ordered to leave</u>, the soldier did not move an inch.
+3. The plan must be modified <u>before it is put into effect</u>.
+4. <u>Because it had been bombed twice in the previous week</u>, the village was
 a total wreck.
-5. When all things are considered,I cannot truly say that this was an
+5. <u>When all things are considered</u>,I cannot truly say that this was an
 accident.
-6. When the job was done, the secretary went home.
-7. He took on two extra jobs so that he could feed his family.
-8. If you are in doubt,you should look up the word in the dictionary.
-9. Because pork is so expensive,I'm buying beef instead.
-10. When we consider his handicap,he has done very well indeed.
+6. <u>When the job was done</u>, the secretary went home.
+7. He took on two extra jobs <u>so that he could feed his family</u>.
+8. <u>If you are in doubt</u>,you should look up the word in the dictionary.
+9. <u>Because pork is so expensive</u>,I'm buying beef instead.
+10. <u>When we consider his handicap</u>,he has done very well indeed.
 
 ### 练习二
 
