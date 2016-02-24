@@ -10,14 +10,14 @@ kitchen.
 2. ```Because she lives with her parents```, the girl can't stay out very late.
 3. ```If you have finished your work```, you can help me with mine.
 4. ```As he is a law-enforcement officer```, he cannot drink on duty.
-5. The actor has been in a state of excitement ever since he was nominated
-for the Oscar.
-6. After he addressed the congregation, the minister left in a hurry.
-7. As it was rather warm, we decided to go for a swim.
-8. When the students have all left, the teacher started looking over their
+5. The actor has been in a state of excitement ```ever since he was nominated
+for the Oscar```.
+6. ```After he addressed the congregation```, the minister left in a hurry.
+7. ```As it was rather warm```, we decided to go for a swim.
+8. ```When the students have all left```, the teacher started looking over their
 examination sheets.
-9. I know all about corn farming because I grew up in a Southern farm.
-10.As the door remained shut, the servant could not hear what was going
+9. I know all about corn farming ```because I grew up in a Southern farm```.  
+10. ```As the door remained shut```, the servant could not hear what was going
 on inside.
 
 
