@@ -117,7 +117,7 @@ S V O C
 这个句子可以改写为：
 
 >  
-- The little girl <em>asked if her mother would come to the PTA meeting.  
+- The little girl <em>asked</em> if her mother would come to the PTA meeting.  
 S V O
 
 ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，所以会牵涉到语气助动词would come，这就会变成不定词to come。
@@ -125,13 +125,13 @@ ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，�
 **使役动词与普通动词的差别就在于它有强制性，它的结果是确定的、无从选择的。因为这种确定性的语气，排除了助动词存在的空间，因而也就不能用不定词。**
 
 >  
-- The teacher <em>made the little girl stay behind.（老师叫小女孩留下来。）  
+- The teacher <em>made</em> the little girl stay behind.（老师叫小女孩留下来。）  
 S V O C　　
 
 如果老师客客气气地问：Will　you stay behind? 就会成为下面这句叙述：
 
 >  
-* The teacher <em>asked the little girl to stay behind.  
+* The teacher <em>asked</em> the little girl to stay behind.  
 S V O C  
 
 
