@@ -4,4 +4,4 @@
 - I have no comment to make while the case is being investigated by police.  
 （本案正由警方调查中，我暂时不予置评。） 
 
-<b>本句只要把**be动词视为动词**，**being investigated 视为两个形容词**，就十分简单。</b><u>being 是现在分词的形容词，去掉不必翻译的be 部分，只须解释为“正在”</u>。<u>investigated 是过去分词，再加上被动的暗示，解释为“被调查”</u>。合在一起，这两个分词就是“正在被调查”，作为补语来形容主语“本案”。  
+<b>本句只要把**be动词视为动词**，**being investigated 视为两个形容词**，就十分简单。</b><u> being 是现在分词的形容词，去掉不必翻译的be 部分，只须解释为“正在”</u>。<u>investigated 是过去分词，再加上被动的暗示，解释为“被调查”</u>。合在一起，这两个分词就是“正在被调查”，作为补语来形容主语“本案”。  
