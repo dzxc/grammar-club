@@ -2,9 +2,9 @@
 
 在语源学上，** the 可视为 that 或 those 的弱化形式**。而**that或those是指示形容词，有明确的指示功能**。所以 定冠词the 也可以用同样的角度来了解：<b>凡是上下文中有明指或暗示时，也就是**有“那个”的指示功能**时，便要用定冠词 **the**</b>。请比较：
 >  
-- I need a book to read on my trip.
+- I need <em>a book</em> to read on my trip.
 （我在旅途中需要带本书读。）  
-- I have finished the book you lent me.
+- I have finished <em>the book</em> you lent me.
 （我已把你借给我的书读完了。）
 
 在第一句中，a book只是one book或any book，并没有特别指定是哪一本。在第二句中，the book就是that book，特别指出是“你借我的那本”。因为明指出来，所以要用定冠词。请再比较：
