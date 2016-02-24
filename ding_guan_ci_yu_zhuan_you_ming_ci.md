@@ -2,9 +2,9 @@
 
 **专有名词**的定义是：**只有一个对象存在的名词**，像 Genghis Khan 和 Taibei 等。既然只有一个对象存在，就没有“这个”、“那个”的分别，也就不能加定冠词the。如果你说this book，则暗示还有that book 的存在，这时就需要指明是 this book，也就是the book。像Taibei这种字就不能这样使用。所以， ***专有名词* 和 *定冠词* 是有冲突、且不能并存的**。如果加了the，就表示这个东西有两个以上，也就不是专有名词了。例如：
 >  
-- This is not the John Smith I know.
+- This is not <em>the John Smith</em> I know.
 （这不是我所认识的约翰·史密斯。）
-- This is a photography show of the Taibei 50 years ago.
+- This is a photography show of <em>the Taibei 50 years ago</em>.
 （这是表现50年前的台北的摄影展。）
 
 第一句暗示还有另一个约翰·史密斯存在，或是他有另外一面，是我所不认识的。这时有两个约翰·史密斯存在，所以“约翰·史密斯”就不再是专有名词，可以用this或that来区分，这也就是为什么写the John Smith的原因了。还有，“50年前那个台北”这句话暗示和今日台北不同了，有两个台北。这时台北也就成了普通名词，可以指来指去，所以要用the Taibei 50 years ago来表示。
