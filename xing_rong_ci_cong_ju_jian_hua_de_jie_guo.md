@@ -5,7 +5,7 @@
 ### 一、Ven 
 
 >   
-- Toys <em>made in Taiwan</em> are much better now.  
+Toys <em>made in Taiwan</em> are much better now.  
 （现在台湾制造的玩具好多了。）  
 
 这个过去分词短语made in Taiwan就是形容词从句的简化。   
@@ -17,7 +17,7 @@ Toys <em>winch are made in Taiwan</em> are much better now.
 ### 二、Ving
 
 >    
-- Children <em>living in orphanages</em> make a lot of friends.  
+Children <em>living in orphanages</em> make a lot of friends.  
 （在孤儿院生活的小朋友可以交很多朋友。）  
 
 同样的，分词部分是who are living in orphanages这个形容词从句的简化，原因也相同，省掉主语who和be动词，剩下形容词短语living...来取代形容词从句。  
@@ -26,7 +26,7 @@ Toys <em>winch are made in Taiwan</em> are much better now.
 ### 三.being Ven
 
 >    
-- The vase <em>being auctioned</em> now is a Ming china.  
+The vase <em>being auctioned</em> now is a Ming china.  
 （正在拍卖的花瓶是明朝的瓷器。）  
 
 这里的 being auctioned 是 which is being auctioned 的简化。其中 being 表示“正在”， auctioned 表示“被拍卖”，如果没有being，只剩下过去分词 auctioned ，就有“完成”的暗示，读者可能会以为“已经卖
