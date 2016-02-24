@@ -2,65 +2,31 @@
 
 下面有篇文章,是改写自一篇阅读测验题目，把每个句子中都放进去一个以上的<b>现在分词(PP)</b>或<b>过去分词(Ven)</b>，偶尔也有几个<b>动名词(Gr)</b>或<b>不定词(Inf)</b>,请读者看看这些动状词的用法，与所学过的观念印证一下。  
 
-A decade ago, nearly a million and a half elephants were <u>living</u> in Africa.During the past ten years, the number of elephants has dwindled to about one half. These elephants are still <u>being</u> <u>killed</u> for their tusks, which are worth a lot of money, in spite of an <u>increasing outcry against elephant <u>hunting</u>.Most elephants <u>killed</u> today die in the hand of illegal hunters.  
-A grass-consuming animal, the elephant eats as much as 300 pounds a day when fully grown. Wandering far and wide in their search for food, elephants can move dozens of miles a day. Failing to find the grasses they like best, they may turn to the trees and eat them.  
-Today, the remaining grasslands for the elephant are seriously reduced.  
-Many places along their migration routes have been turned into farms. Some elephants are killed by farmers while feeding on the farms.  
-What can the people do here in Taiwan about a threatened animal living so far away? First, we should know that there is a law protecting elephants, even here. People cannot buy or smuggle items made from ivory or any part of the elephant's body. Some handicapped persons living on making name chops have been protesting that the law impairs their livelihood, making it impossible for them to earn money. There are, of course, many substitute materials for elephant tusks, water buffalo horns being an important one.  
-Most countries are now no longer importing ivory. It is hoped that the ban on buying or selling ivory will save the remaining African elephants. Wildlife conservation organizations like the WWF are not facing the problem lying down. Claiming that the ivory-producing countries are unable to protect the elephants there, they are proposing some market-oriented approaches to solving the problem.    
+A decade ago, nearly a million and a half elephants were <u>living</u> in Africa.During the past ten years, the number of elephants has dwindled to about one half. These elephants are still <u>being</u> <u>killed</u> for their tusks, which are worth a lot of money, in spite of an <u>increasing</u> outcry against elephant <u>hunting</u>.Most elephants <u>killed</u> today die in the hand of illegal hunters.  
+
+A <u>grass-consuming</u> animal, the elephant eats as much as 300 pounds a day when fully <u>grown</u>. <u>Wandering</u> far and wide in their search for food, elephants can move dozens of miles a day. <u>Failing</u> <u>to find</u> the grasses they like best, they may turn to the trees and eat them.   
+
+Today, the <u>remaining</u> grasslands for the elephant are seriously <u>reduced</u>.  
+Many places along their migration routes have been <u>turned</u> into farms. Some elephants are <u>killed</u> by farmers while <u>feeding</u> on the farms.  
+
+What can the people do here in Taiwan about a <u>threatened</u> animal <u>living</u> so far away? First, we should know that there is a law <u>protecting</u> elephants, even here. People cannot buy or smuggle items <u>made</u> from ivory or any part of the elephant's body. Some <u>handicapped</u> persons <u>living</u> on <u>making</u> name chops have <u>been</u> <u>protesting</u> that the law impairs their livelihood, <u>making</u> it impossible for them <u>to earn</u> money. There are, of course, many substitute materials for elephant tusks, water buffalo horns <u>being</u> an important one.    
+
+Most countries are now no longer <u>importing</u> ivory. It is <u>hoped</u> that the ban on buying or <u>selling</u> ivory will save the <u>remaining</u> African elephants. Wildlife conservation organizations like the WWF are not <u>facing</u> the problem <u>lying</u> down. <u>Claiming</u> that the <u>ivory-producing</u> countries are unable <u>to protect</u> the elephants there, they are <u>proposing</u> some <u>market-oriented</u> approaches to <u>solving</u> the problem.    
 
 ----
 
 **Answer key 6**  
-A decade ago, nearly a million and a half elephants were living in Africa.
-pp
-During the past ten years, the number of elephants has dwindled to about one half. These elephants are still being killed for their tusks, which
-pp Ven
-are worth a lot of money, in spite of an increasing outcry against elephant
-pp
-hunting . Most elephants killed today die in the hand of illegal hunters.
-Gr Ven
-A grass-consuming animal, the elephant eats as much as 300 pounds a day
-pp
-when fully grown. Wandering far and wide in their search for food,
-Ven pp
-elephants can move dozens of miles a day.
-Failing to find the grasses they like best, they may turn to the trees and
-pp Inf
-eat them.
-Today, the remaining grasslands for the elephant are seriously reduced.
-pp Ven
-Many places along their migration routes have been turned into farms. Some
-Ven Ven
-elephants are killed by farmers while feeding on the farms.
-pp pp
-What can the people do here in Taiwan about a threatened animal living so
-Ven pp
-far away? First, we should know that there is a law protecting elephants,
-pp
-even here. People cannot buy or smuggle items made from ivory or any part
-Ven
-of the elephant's body. Some handicapped persons living on making name
-Ven pp Gr
-chops have been protesting that the law impairs their livelihood, making
-Ven pp pp
-it impossible for them to earn money. There are, of course, many substitute
-Inf
-materials for elephant tusks, water buffalo horns being an important one.
-pp
-Most countries are now no longer importing ivory. It is hoped that the ban
-pp Ven
-on buying or selling ivory will save the remaining African elephants.
-Gr Ge pp
-Wildlife conservation organizations like the WWF are not facing the problem
-pp
-lying down. Claiming that the ivory-producing countries are unable
-pp pp pp
-to protect the elephants there, they are proposing some market-oriented
-Inf pp Ven
-approaches to solving the problem.
-Gr  
 
+A decade ago, nearly a million and a half elephants were <u>living</u><em>(PP)</em> in Africa.During the past ten years, the number of elephants has dwindled to about one half. These elephants are still <u>being</u><em>(PP)</em> <u>killed</u><em>(Ven)</em> for their tusks, which are worth a lot of money, in spite of an <u>increasing</u><em>(PP)</em> outcry against elephant <u>hunting</u><em>Gr</em>.Most elephants <u>killed</u><em>Ven</em> today die in the hand of illegal hunters.  
+
+A <u>grass-consuming</u><em>(PP)</em> animal, the elephant eats as much as 300 pounds a day when fully <u>grown</u><em></em>. <u>Wandering</u><em>(PP)</em> far and wide in their search for food, elephants can move dozens of miles a day. <u>Failing</u><em>(PP)</em> <u>to find</u><em></em> the grasses they like best, they may turn to the trees and eat them.   
+
+Today, the <u>remaining</u><em>(PP)</em> grasslands for the elephant are seriously <u>reduced</u><em></em>.  
+Many places along their migration routes have been <u>turned</u><em></em> into farms. Some elephants are <u>killed</u><em>(PP)</em> by farmers while <u>feeding</u><em>(PP)</em> on the farms.  
+
+What can the people do here in Taiwan about a <u>threatened</u><em></em> animal <u>living</u><em>(PP)</em> so far away? First, we should know that there is a law <u>protecting</u><em>(PP)</em> elephants, even here. People cannot buy or smuggle items <u>made</u><em></em> from ivory or any part of the elephant's body. Some <u>handicapped</u><em></em> persons <u>living</u><em>(PP)</em> on <u>making</u><em>(PP)</em> name chops have <u>been</u><em></em> <u>protesting</u><em>(PP)</em> that the law impairs their livelihood, <u>making</u><em></em> it impossible for them <u>to earn</u><em></em> money. There are, of course, many substitute materials for elephant tusks, water buffalo horns <u>being</u><em></em> an important one.    
+
+Most countries are now no longer <u>importing</u><em></em> ivory. It is <u>hoped</u><em></em> that the ban on buying or <u>selling</u> ivory will save the <u>remaining</u><em></em> African elephants. Wildlife conservation organizations like the WWF are not <u>facing</u><em></em> the problem <u>lying</u><em></em> down. <u>Claiming</u><em></em> that the <u>ivory-producing</u><em></em> countries are unable <u>to protect</u><em></em> the elephants there, they are <u>proposing</u><em></em> some <u>market-oriented</u><em></em> approaches to <u>solving</u><em></em> the problem. 
 ----
 
 **译文：**  
