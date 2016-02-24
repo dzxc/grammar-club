@@ -16,9 +16,9 @@
 
 第一句modern history —词中，history是抽象名词，不可数，因而没有a。而在形容词位置上的 modern 只是附在 history 上的修饰语，并不算明确的指示，所以不必加 the。第二句中 the history of recent China (中国近代史）则有of recent China附在后面，用来指出“那一段”历史。因为有这种指示性，所以必须在前面加上定冠词the，但也不要死背前、后修饰语的差别。再看看下面这一组例子：
 >  
-- He should be home;I saw a light in his house.
+- He should be home;I saw <em>a light</em> in his house.
 （他应该在家；我看见他家亮灯了。）
-- Turn off the portal light.
+- Turn off <em>the portal light</em>.
 （把门口的灯关掉。）
 
 第一句中虽然a light后面有in his house来修饰，可是一栋房子中电灯可能有数十个，如果看到有一个是亮的，仍然只能算是one light，而不是that light。所以in his house虽然放在后面，但并不算是明确的指示，仍然要用a light。相反的，在第二句中，叫人把大门口的灯关掉，在the portal light —词中的portal，虽然是附在名词前面的形容词，可是有明确的指示功能，因为门口的灯通常只有一盏，所以已经指明了要关哪一盏灯，这时就要用the light。**总之，不必死背，但要先了解a(n)是来自于one(一个)，the则是来自于that/those(那个)，再逐一判断。**
