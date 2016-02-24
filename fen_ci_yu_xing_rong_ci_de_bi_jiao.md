@@ -36,11 +36,11 @@
 
 **二、过去分词与形容词的关系**  
 
-**过去分词**与现在分词一样，可以出现在两种形容词位置来形容名词，**不过它的弦外之音是被动或完成的暗示，要加上“被”、“已经”来解释。**   
+**过去分词**与现在分词一样，可以出现在两种形容词位置来形容名词，<b>不过它的弦外之音是**被动或完成的暗示**，要加上**“被”、“已经”**来解释。</b>   
 >  
-- **Clean water** is safe to drink.  
+- <em>Clean water</<em>> is safe to drink.  
 （干净水可以安全饮用。）  
-- **Boiled water** is safe to drink.  
+- <em>Boiled water</em> is safe to drink.  
 （开水可以安全饮用。）  
 
 过去分词boiled和形容词clean同样放在名词短语中的位置，同样形容water，只不过多了“被煮过了”的暗示。**这种“被动”、“完成”的意思也就是过去分词的弦外之音。除此之外，它与一般的形容词并无不同。**  
@@ -64,7 +64,7 @@
 
 **三、带有「完成」暗示而非「被动态」的过去分词**  
 
-- I can't find my wallet. **It’s gone.**  
+- I can't find my wallet. <em>It’s gone.</em>  
 （我找不到皮夹。它不见了。）  
 
 **这个例子中，is gone符合“be+Ven”的结构，但不能解释为被动态，因为go是不及物动词，本身没有被动态可言。**  
@@ -77,17 +77,17 @@ S V C
 
 ----  
 
-- The leaves **are all fallen**,now that winter is here.  
+- The leaves <em>are all fallen</em>,now that winter is here.  
 （冬天一到，叶子全掉光了。）
 
 同样的，fall是不及物动词，没有被动态，所以are fallen虽然 是"be+Ven”的构造，也不是被动态，而应解释为完成，“落下来了”。  
 句型是：  
 >  
-- The leaves **are fallen**.  
+- The leaves <em>are fallen</em>.  
 （叶子全掉下来了。）  
 S V C  
 过去分词仍然做形容词解释。  
-- **I'm done.**It’s all yours.  
+- <em>I'm done.</em>It’s all yours.  
 （我已经好了,该你用了。）  
 
 如果在学校用完了电脑，让给在你后面排队的人，就可以说这句话。这里的do固然是及物动词，可是不能解释为“我被做了”，只能说“我做完了”。因此am done仍然不是被动态，应该把done 视为形容词，解释为完成意义的“做完了”。  
