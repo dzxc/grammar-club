@@ -27,4 +27,5 @@
 - To the west of Taiwan lies Southern China.  
 - To the east spreads the expanse of the Pacific.  
 (台湾西方是华南，东方是浩瀚的太平洋。）  
+
 为了以空间顺序(spatial order)来组织上下文，这两个句子都用地方副词(To the west..., To the east...)开头，也都动用倒装句来达到这个目的。
