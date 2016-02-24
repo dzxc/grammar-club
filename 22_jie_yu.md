@@ -10,7 +10,7 @@ V S
 
 以及不常用的倒装句，<b>像某些祈使句的句型</b>：  
 
-- <em>Long <u>live</u> <u>the King</em></u>!(国王万岁！）  
+- <em>Long <u>live</u> <u>the King</u>!</em>(国王万岁！）  
 V S  
 
 
