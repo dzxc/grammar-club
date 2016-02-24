@@ -24,7 +24,8 @@ on inside.
 ### 练习二
 
 
-请选出最适当的答案填入空格内，以使句子完整。
+请选出最适当的答案填入空格内，以使句子完整。  
+>  
 1. ____on the sofa, we began to watch television.  
 (A) Sat  
 (B) Seat  
@@ -96,7 +97,7 @@ Hainan Island has long played an important role in China's tourism.
 
 ### 练习二
 
-
+>  
 1.(C)  
 seat是及物动词，本句是we were seated on the sofa的简化。  
 2.(B)  
