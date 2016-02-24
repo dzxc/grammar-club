@@ -69,20 +69,20 @@
 请把括弧中的动词以适当的时态填入空格内，以使对话内容完整。
 
 >  
-Boy: Do you want to go and see Gone with the Wind with me tonight?  
-Girl: No! I ________ (1. see)it.  
-Boy: Oh,really? When did you see it?  
-Girl: I ________ (2. go) to see it the first day it was on-last Monday.  
-Boy: To tell you the truth,I have seen it too.In fact,I ________ (3. see)it before you did.  
-Girl:That's impossible.I told you I saw it the first day it was on.  
-Boy: But it's the truth! I ________ (4. see) it seven or eight years ago,the last time that old picture ________ (5. come) in town.  
-Girl: In that case, why did you ask me to go in the first place?  
-Boy: Well, I just ________ (6. want) to go out with you tonight. Since you have
+1. Boy: Do you want to go and see Gone with the Wind with me tonight?  
+2. Girl: No! I ________ (1. see)it.  
++ Boy: Oh,really? When did you see it?  
+- Girl: I ________ (2. go) to see it the first day it was on-last Monday.  
+- Boy: To tell you the truth,I have seen it too.In fact,I ________ (3. see)it before you did.  
+- Girl:That's impossible.I told you I saw it the first day it was on.  
+- Boy: But it's the truth! I ________ (4. see) it seven or eight years ago,the last time that old picture ________ (5. come) in town.  
+- Girl: In that case, why did you ask me to go in the first place?  
+- Boy: Well, I just ________ (6. want) to go out with you tonight. Since you have
 seen the picture,will you go to the baseball game with me instead?  
-Girl: I ________ (7. guess)I will,if Father says Okay.But you will have to pick me up at my place.  
-Boy: Great! I ________ (8.see) you at 5:30 then. I'll bring my car.  
-Girl:But why 5:30? Why not seven o'clock?  
-Boy: Because the game ________ (9.start) by then. These evening games ________ (10. begin) at 6:30,you know.Don't forget now, 5:30 at your place!  
+- Girl: I ________ (7. guess)I will,if Father says Okay.But you will have to pick me up at my place.  
+- Boy: Great! I ________ (8.see) you at 5:30 then. I'll bring my car.  
+- Girl:But why 5:30? Why not seven o'clock?  
+- Boy: Because the game ________ (9.start) by then. These evening games ________ (10. begin) at 6:30,you know.Don't forget now, 5:30 at your place!  
 
 
 
