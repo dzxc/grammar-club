@@ -13,12 +13,12 @@
 但是如果省略不当，就会伤害句子的清楚性。就像上面的例1，可以作例 2和例3两种不同的解释。修辞学上称这种句子为ambiguous (模棱两可)。如果要表达例2的意思，那么句尾的do就不能省略，否则读者有可能把它当作例3来理解。
 如果把例2修改一下，成为：  
 
-- Girls like cats more than boys, who as a rule are a cruel lot, do.(不佳）   
+- Girls like cats more than boys, who as a rule are a cruel lot, <u>do</u>.(不佳）   
 
 这个句子在boys后面加上一个修饰它的关系从句。从刚才的分析中可了解到，句尾的do不能省略，否则读者无从判断boys是主语还是宾语——是喜欢猫的人，还是被喜欢的对象。  
 do这个词既不能省略，把它留在句尾却又有修辞上的毛病。首先，do这个助动词和它的主语boys之间，因为关系从句的阻隔，距离太远，会伤害句子的清楚性。另外，助动词do所代表的是前面从句中的like cats，但同样也因为距离太远而不够清楚。  
 要解决这个修辞上的问题，有个方法——倒装句。将do挪到主语 boys前面，成为：  
-- Girls like cats more than do boys, who as a rule are a cruel lot.  
+- Girls like cats more than <u>do boys</u>, who as a rule are a cruel lot.  
 倒装句  
 （女孩比男孩更喜欢猫——男孩通常都很残酷。）  
 如此一来，助动词do和主语boys放在一起了，而且do和它所代表的like cats的距离也减到最小，解决了所有的、修辞问题。  
