@@ -1,6 +1,6 @@
 # 形容词在名词短语位置与补语位置的比较
 
-名词短语中的形容词叫做attributive adjectives，用来表达该名词的属(attribute)。补语位置的形容词叫做predicative adjectives, 用来补述（predicate)关于名词的事项。补语位置的形容词距离名词最远，惯常用来对名词做一些临时性、补充性的叙述，与表示属性的attributive adjectives在语气上颇不相同。请比较下例：
+<b>名词短语中的形容词叫做 **attributive adjectives**，用来表达该名词的**属(attribute)**</b>。<b>补语位置的形容词叫做 **predicative adjectives**, 用来**补述（predicate)关于名词的事项**。</b><b>补语位置的形容词</b>距离名词最远，惯常用来<b>对名词做一些临时性、补充性的叙述</b>，与表示属性的attributive adjectives在语气上颇不相同。请比较下例：  
 1. <em>John</em> is <em>sick</em> today and couldn't come to work. (predicative)    
 （今天约翰生病，不能来上班。）  
 2. John is <em>a sick man</em>. (attributive)   
