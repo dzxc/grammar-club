@@ -19,7 +19,7 @@ Most countries are now no longer <u>importing</u> ivory. It is <u>hoped</u> that
 
 A decade ago, nearly a million and a half elephants were <u>living</u><em>(PP)</em> in Africa.During the past ten years, the number of elephants has dwindled to about one half. These elephants are still <u>being</u><em>(PP)</em> <u>killed</u><em>(Ven)</em> for their tusks, which are worth a lot of money, in spite of an <u>increasing</u><em>(PP)</em> outcry against elephant <u>hunting</u><em>Gr</em>.Most elephants <u>killed</u><em>Ven</em> today die in the hand of illegal hunters.  
 
-A <u>grass-consuming</u><em>(PP)</em> animal, the elephant eats as much as 300 pounds a day when fully <u>grown</u><em></em>. <u>Wandering</u><em>(PP)</em> far and wide in their search for food, elephants can move dozens of miles a day. <u>Failing</u><em>(PP)</em> <u>to find</u><em></em> the grasses they like best, they may turn to the trees and eat them.   
+A <u>grass-consuming</u><em>(PP)</em> animal, the elephant eats as much as 300 pounds a day when fully <u>grown</u><em>(Ven)</em>. <u>Wandering</u><em>(PP)</em> far and wide in their search for food, elephants can move dozens of miles a day. <u>Failing</u><em>(PP)</em> <u>to find</u><em></em> the grasses they like best, they may turn to the trees and eat them.   
 
 Today, the <u>remaining</u><em>(PP)</em> grasslands for the elephant are seriously <u>reduced</u><em></em>.  
 Many places along their migration routes have been <u>turned</u><em></em> into farms. Some elephants are <u>killed</u><em>(PP)</em> by farmers while <u>feeding</u><em>(PP)</em> on the farms.  
