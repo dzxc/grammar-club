@@ -12,14 +12,14 @@
 
 此外，许多运动都用动名词表示，像是swimming、skiing、skating、mountain-climbing、dancing、jogging 等。这些动名词也一样，保留了一些动作的味道，同时也有持续性的暗示。例如游泳，跳下水总要划几下才叫做游泳(swimming)。登山更是长时间持续的攀登(climbing)。<b>这种**持续性**与**动作性**，就是**动名词**常有的特色。</b>  
 
-----  
+
 >  
 - I am not afraid of death,but I am scared of dying.  
 （死亡我倒不怕，只是怕死的过程。）  
 
 普通名词death代表“死亡”的抽象概念。相信灵魂不朽的人，像苏格拉底，大概都不会畏惧死亡本身。可是只要是人，就会有求生、避免痛苦的本能，在面临死亡的过程时仍然难免会恐惧。<b>所以，若要区分**“抽象概念”**与**“动作过程”**，只要一个用**普通名词**，一个用**暗示“动作、持续”的动名词**就可以了。</b>
 
-----  
+
 >  
 - There are two weddings at the restaurant tonight.  
 (这家餐厅今晚有两场婚礼。）  
