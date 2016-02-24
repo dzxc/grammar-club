@@ -78,6 +78,10 @@ Hainan Island has long played an important role in China's tourism.
 (C) while worked as a porter at a hotel in Paris  
 (D) while he was worked as a porter a hotel in Paris  
 
+
+---
+
+
 **Answer key 19**
 
 ### 练习一
