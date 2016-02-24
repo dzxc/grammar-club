@@ -7,8 +7,8 @@
 
 
 He is <em>disappointed</em> at his scores. （他对分数很失望。）  
-His scores are <em>disappointing</em>. （他的分数令人失望。）  <em>
-有一些表示“感觉”的字，像disappoint、satisfy、surprise、amaze、 astonish、scare、terrify、please、tire、exhaust 等，该用现在分词还是过去分词，有时用中文的“主动”、“被动”一时会想不清楚。像上面的两个例子，可以先还原为这种形状：
+His scores are <em>disappointing</em>. （他的分数令人失望。）  
+有一些表示“感觉”的字，像<em>disappoint、satisfy、surprise、amaze、 astonish、scare、terrify、please、tire、exhaust</em> 等，该用现在分词还是过去分词，有时用中文的“主动”、“被动”一时会想不清楚。像上面的两个例子，可以先还原为这种形状：
 His scores <em>disappoint</em> him. （他的分数令他失望。）
 S V O
 这样就比较容易看出来，如果用He做主语，应该是被动态，因为he原来是宾语的him。改成被动态为：
