@@ -5,19 +5,19 @@
 
 
 将下列各句中的副词从句（即划底线部分）改写为简化从句：
-1. ```While he was watching TV```. the boy heard a strange noise coming from the
+1. <u>While he was watching TV</u>. the boy heard a strange noise coming from the
 kitchen.
-2. ```Because she lives with her parents```, the girl can't stay out very late.
-3. ```If you have finished your work```, you can help me with mine.
-4. ```As he is a law-enforcement officer```, he cannot drink on duty.
-5. The actor has been in a state of excitement ```ever since he was nominated
-for the Oscar```.
-6. ```After he addressed the congregation```, the minister left in a hurry.
-7. ```As it was rather warm```, we decided to go for a swim.
-8. ```When the students have all left```, the teacher started looking over their
+2. <u>Because she lives with her parents</u>, the girl can't stay out very late.
+3. <u>If you have finished your work</u>, you can help me with mine.
+4. <u>As he is a law-enforcement officer</u>, he cannot drink on duty.
+5. The actor has been in a state of excitement <u>ever since he was nominated
+for the Oscar</u>.
+6. <u>After he addressed the congregation</u>, the minister left in a hurry.
+7. <u>As it was rather warm</u>, we decided to go for a swim.
+8. <u>When the students have all left</u>, the teacher started looking over their
 examination sheets.
-9. I know all about corn farming ```because I grew up in a Southern farm```.  
-10. ```As the door remained shut```, the servant could not hear what was going
+9. I know all about corn farming <u>because I grew up in a Southern farm</u>.
+10. <u>As the door remained shut</u>, the servant could not hear what was going
 on inside.
 
 
