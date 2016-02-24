@@ -47,9 +47,9 @@
 
 ----
 
-- The water is clean.  
+- The water is <em>clean</em>.  
 （水很干净。）  
-- The water is boiled.  
+- The water is <em>boiled</em>.  
 （水是煮开过的。）  
 
 过去分词boiled可以视为和clean—样，是形容词补语，放在 be动词后面来形容主语water。一般语法说be+Ven是被动态。可是，离开了be动词，boiled water还是要解释为“被煮过的水”。所以，<b>“被动”的意味和be动词之间没有必然的关联性，**不如直接把过去分词本身视为形容词**。况且，放在be动词后面的过去分词，往往也不是当作被动来解释，而要解释为“完成”的暗示。</b>  
