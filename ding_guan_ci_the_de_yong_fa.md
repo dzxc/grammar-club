@@ -9,9 +9,9 @@
 
 在第一句中，a book只是one book或any book，并没有特别指定是哪一本。在第二句中，the book就是that book，特别指出是“你借我的那本”。因为明指出来，所以要用定冠词。请再比较：
 >  
-- Modern history is my favorite subject.
+- <em>Modern history</em> is my favorite subject.
 （现代史是我最喜欢的科目。）
-- The history of recent China is a sorry record.
+- <em>The history of recent China</em> is a sorry record.
 （中国近代史是部伤心史。）
 
 第一句modern history —词中，history是抽象名词，不可数，因而没有a。而在形容词位置上的 modern 只是附在 history 上的修饰语，并不算明确的指示，所以不必加 the。第二句中 the history of recent China (中国近代史）则有of recent China附在后面，用来指出“那一段”历史。因为有这种指示性，所以必须在前面加上定冠词the，但也不要死背前、后修饰语的差别。再看看下面这一组例子：
