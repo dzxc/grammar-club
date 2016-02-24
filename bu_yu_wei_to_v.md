@@ -2,7 +2,7 @@
 
 <b>如果**关系从句的动词有语气助动词**存在，就会成为**不定词补语**留下来。</b>  
 例如：  
-John is the one who should go this time.(这次是约翰走人。)  
+John is the one who <em>should</em> go this time.(这次是约翰走人。)  
 先行词 关系从句  
 关系从句中的who should go固然没有be动词，只要将其改成 who is to go就有了，且意思相近，再把who is省略，即成为：  
 John is <em>the one to go</em> this time.  
