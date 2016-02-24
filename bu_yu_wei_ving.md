@@ -14,7 +14,7 @@
 剩下的补语部分是现在分词短语，属于形容词类，与原来的关系从句词类相同，这就是成功的简化从句。  
 **如果关系从句中没有be动词，也没有助动词，就要把动词改成Ving的形状**。  
 例如：  
->  <u>
+>  
 My old car,<em>which breaks down</em> every other week,won't last much longer.  
 先行词 关系从句  
 (我那辆老爷车，每隔一个星期总要抛锚一次，大概开不了多久了。）  
