@@ -143,7 +143,7 @@ D。
 是 I will never trouble you again 的倒装句。  
 15.(D)  
 not until移到句首要倒装。  
-16.(B)
+16.(B)  
 答案A要用倒装句，C和D都不是正确的连接词，只有B能引导后面那个没
 有倒装的从句。  
 17.(B)  
