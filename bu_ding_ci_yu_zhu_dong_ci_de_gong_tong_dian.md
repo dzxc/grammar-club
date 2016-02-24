@@ -71,19 +71,19 @@ It must have rained last night.（昨晚一定下过雨。）
 It seems to have rained last night.（昨晚好像下过雨。）  
 ![](http://ww3.sinaimg.cn/large/92c4e634gw1f184uouz0fj20ac051jrb.jpg)  
 
-这个句子的动词seems是现在式，表示“现在看起来”、“现在的推测”。可是推测的事情是昨天晚上的事，是过去的时间，所以“下雨”应该是过去式，但是不定词与助动词一样，本身缺乏表达过去的能力，而且它后面要接原形动词，也不能用过去式，所以只能用完成式来表示过去，变成to have rained。这又是不定词和助动词的一个共同点。
+这个句子的动词 seems 是现在式，表示“现在看起来”、“现在的推测”。可是推测的事情是昨天晚上的事，是过去的时间，所以“下雨”应该是过去式，但是<b>不定词与助动词一样，本身缺乏表达过去的能力</b>，而且它后面要接原形动词，也不能用过去式，所以只能用完成式来表示过去，变成to have rained。这又是不定词和助动词的一个共同点。
 
 ----
 
 四、**所有重要的语气助动词，都可以改写为不定词**。
 
 请观察以下的对照：
->  
-must       —   have to  
-should     —   ought to  
-will/would —   be going to  
-can/could  —   be able to  
-may/might  —   be likely to  
 
-从以上四点来看，不定词与助动词其实是同一种东西的相互变化，凡是不定词出现的地方，都可以看成是另外一个从句的省略，把主语省略，助动词改为不定词。
+- must       —   have to  
+- should     —   ought to  
+- will/would —   be going to  
+- can/could  —   be able to  
+- may/might  —   be likely to  
+
+<b>从以上四点来看，不定词与助动词其实是同一种东西的相互变化，凡是不定词出现的地方，都可以看成是另外一个从句的省略，把主语省略，助动词改为不定词。</b>
 
