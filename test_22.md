@@ -57,7 +57,7 @@
 (B) Nature says  
 (C) which says Nature  
 (D) which Nature says  
-16. ________a baby deer is born, it struggles to stand on its own feet.  
+16. ____a baby deer is born, it struggles to stand on its own feet.  
 (A) No sooner  
 (B) As soon as  
 (C) So soon as  
@@ -88,17 +88,17 @@ movable print, books were mostly copied by hand and cost far more than ordinary 
 (B) Not I will ever  
 (C) Will not ever I  
 (D) Never I will  
-19. Henry James is ____ is his philosopher brother William.  
+19. Henry James is ____is his philosopher brother William.  
 (A) famous and also  
 (B) as famous as  
 (C) famous so  
 (D) equally famous  
-15. Not until you paint your first oil color________the difference between theory and practice.  
+15. Not until you paint your first oil color____the difference between theory and practice.  
 (A) you find out  
 (B) and find out  
 (C) finding out  
 (D) do you find out  
-20. _____does the recluse venture
+20. ____does the recluse venture
 out of his hermitage.  
 (A) Seldom  
 (B) Often  
