@@ -13,18 +13,22 @@
 此外，许多运动都用动名词表示，像是swimming、skiing、skating、mountain-climbing、dancing、jogging 等。这些动名词也一样，保留了一些动作的味道，同时也有持续性的暗示。例如游泳，跳下水总要划几下才叫做游泳(swimming)。登山更是长时间持续的攀登(climbing)。**这种持续性与动作性，就是动名词常有的特色。**  
 
 ----  
-
+>  
 - I am not afraid of death,but I am scared of dying.  
 （死亡我倒不怕，只是怕死的过程。）  
 
 普通名词death代表“死亡”的抽象概念。相信灵魂不朽的人，像苏格拉底，大概都不会畏惧死亡本身。可是只要是人，就会有求生、避免痛苦的本能，在面临死亡的过程时仍然难免会恐惧。**所以，若要区分“抽象概念”与“动作过程”，只要一个用普通名词，一个用暗示“动作、持续”的动名词就可以了**。
 
 ----  
-
+>  
 - There are two weddings at the restaurant tonight.  
 (这家餐厅今晚有两场婚礼。）  
 
 大部分的动名词是不可数名词，可是也有一些是可数的，像例句中的two weddings。动名词的前面有限定词two，后面加-s表示复数。这种用法跟普通名词没有两样，不定词却不能这样使用，这是动名词与不定词的差别之一。**动名词的结构很像普通名词，可以有冠词（例如：the burning); 有所有格（例如：his running);有复数（例如：two weddings )。而不定词的结构则是to加原形动词，以短语形态出现（例如：to run, to leave)，不能加限定词或复数**。  
+
+
+
+---
 
 
 ### 二、动名词短语与名词从句的比较
@@ -47,14 +51,14 @@ S V O
 这个宾语从句是如何变成动名词短语的？我们可以从简化(reduction)的角度来了解这个问题。从句中的主语I和主要从句的主语I相同，所以可以省略，如果再把动词去掉，就可以成功地拆除这个从句，不需要连接词(that)了。从句的动词taught是有意义的动词，不能直接丢掉，但是可以改变成动状词(Verbal)来做词类变化。但是该选择哪一种动状词呢？四种动状词中，只有不定词(to V)与动名词（Ving)可以当做名词使用，来取代名词从句。  
 所以：  
 
-> * **that I taught English to school children at night**
+> * that I taught English to school children at night
 
 
   
 这个宾语从句，**只能够变成为to teach English...或者是 teaching English...**。在这两种选择之中，该用哪一个？**我们在上一章提过，不定词是由助动词变化而来，带有不确定的语气**。但在上面这个例句中，想表达的并不是这种语气，而是接近动名词的持续性语气：晚上教英语，是一种持续进行的活动。  
 我们可以先这样处理：  
 
-> * that I was teaching English to school children at night
+> - that I was teaching English to school children at night
 
   
 然后省略掉重复的主语I与无意义的be动词was。没有了主语、动词，就不需要连接词that，于是整个句子成为：  
