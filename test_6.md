@@ -11,7 +11,7 @@ Many places along their migration routes have been <u>turned</u> into farms. Som
 
 What can the people do here in Taiwan about a <u>threatened</u> animal <u>living</u> so far away? First, we should know that there is a law <u>protecting</u> elephants, even here. People cannot buy or smuggle items <u>made</u> from ivory or any part of the elephant's body. Some <u>handicapped</u> persons <u>living</u> on <u>making</u> name chops have <u>been</u> <u>protesting</u> that the law impairs their livelihood, <u>making</u> it impossible for them <u>to earn</u> money. There are, of course, many substitute materials for elephant tusks, water buffalo horns <u>being</u> an important one.    
 
-Most countries are now no longer <u>importing</u> ivory. It is <u>hoped</u> that the ban on buying or <u>selling</u> ivory will save the <u>remaining</u> African elephants. Wildlife conservation organizations like the WWF are not <u>facing</u> the problem <u>lying</u> down. <u>Claiming</u> that the <u>ivory-producing</u> countries are unable <u>to protect</u> the elephants there, they are <u>proposing</u> some <u>market-oriented</u> approaches to <u>solving</u> the problem.    
+Most countries are now no longer <u>importing</u> ivory. It is <u>hoped</u> that the ban on <u>buying</u> or <u>selling</u> ivory will save the <u>remaining</u> African elephants. Wildlife conservation organizations like the WWF are not <u>facing</u> the problem <u>lying down</u>. <u>Claiming</u> that the <u>ivory-producing</u> countries are unable <u>to protect</u> the elephants there, they are <u>proposing</u> some <u>market-oriented</u> approaches to <u>solving</u> the problem.    
 
 ----
 
@@ -26,7 +26,8 @@ Many places along their migration routes have been <u>turned</u><em></em> into f
 
 What can the people do here in Taiwan about a <u>threatened</u><em></em> animal <u>living</u><em>(PP)</em> so far away? First, we should know that there is a law <u>protecting</u><em>(PP)</em> elephants, even here. People cannot buy or smuggle items <u>made</u><em></em> from ivory or any part of the elephant's body. Some <u>handicapped</u><em></em> persons <u>living</u><em>(PP)</em> on <u>making</u><em>(PP)</em> name chops have <u>been</u><em></em> <u>protesting</u><em>(PP)</em> that the law impairs their livelihood, <u>making</u><em></em> it impossible for them <u>to earn</u><em></em> money. There are, of course, many substitute materials for elephant tusks, water buffalo horns <u>being</u><em></em> an important one.    
 
-Most countries are now no longer <u>importing</u><em></em> ivory. It is <u>hoped</u><em></em> that the ban on buying or <u>selling</u> ivory will save the <u>remaining</u><em></em> African elephants. Wildlife conservation organizations like the WWF are not <u>facing</u><em></em> the problem <u>lying</u><em></em> down. <u>Claiming</u><em></em> that the <u>ivory-producing</u><em></em> countries are unable <u>to protect</u><em></em> the elephants there, they are <u>proposing</u><em></em> some <u>market-oriented</u><em></em> approaches to <u>solving</u><em></em> the problem. 
+Most countries are now no longer <u>importing</u><em>(PP)</em> ivory. It is <u>hoped</u><em>(Ven)</em> that the ban on <u>buying</u> or <u>selling</u> ivory will save the <u>remaining</u><em></em> African elephants. Wildlife conservation organizations like the WWF are not <u>facing</u><em></em> the problem <u>lying down</u><em>(PP)</em>. <u>Claiming</u><em>(PP)</em> that the <u>ivory-producing</u><em>(PP)</em> countries are unable <u>to protect</u><em>Inf</em> the elephants there, they are <u>proposing</u><em>(PP)</em> some <u>market-oriented</u><em>(Ven)</em> approaches to <u>solving</u><em>(Gr)</em> the problem. 
+
 ----
 
 **译文：**  
