@@ -1,8 +1,8 @@
-# 结语
+<em</em>># 结语
 
 以上的整理涵盖了英语中重要的倒装句型。<b>另有一些简单的倒装句</b>，例如：  
 
-- Mary is pretty. So is her sister.  
+- Mary is pretty. <em</em>>So is her sister</em>.  
 V S
 (玛丽很美，她妹妹也很美。） 
 
@@ -10,7 +10,7 @@ V S
 
 以及不常用的倒装句，<b>像某些祈使句的句型</b>：  
 
-- Long <u>live</u> <u>the King</u>!(国王万岁！）  
+- <em>Long <u>live</u> <u>the King</em></u>!(国王万岁！）  
 V S  
 
 
