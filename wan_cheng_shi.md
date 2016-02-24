@@ -24,7 +24,7 @@ We <em>have been working</em> overtime for a week to fill your order.
 
 ----
 >  
-The house has been redecorated twice since they moved in.  
+The house <em>has been redecorated</em> twice since they moved in.  
 （打从他们搬来算起，这栋房子已经被装修过两次了。）  
 ![完成式--现在时间](http://ww4.sinaimg.cn/large/92c4e634gw1f17fk2n7uuj20b5048mx2.jpg)  
 
@@ -37,7 +37,7 @@ The house has been redecorated twice since they moved in.
 
 
 
-如果没有特别交代的话，**一般说“有…过”就是“到现在有…过”，所以都是现在完成式**。用**过去完成式时则要有一个过去的截止时间，也就是箭头指在一个过去时间，在那之前就 “有…过”**。
+如果没有特别交代的话，<b>一般说**“有…过”就是“到现在有…过”**，所以**都是现在完成式**</b>。用<b>过去完成式时则要有一个过去的截止时间，也就是**箭头指在一个过去时间**，**在那之前就 “有…过”**</b>。
 
 ----
 >  
