@@ -2,7 +2,7 @@
 
 <b>如果**关系从句中的动词是be+Ving的形状（进行式)**，只要**省略主语**与** be 动词**即可。</b>  
 例如：
-- {% em type="red" %}The ship{% endem %} {% em type="green" %}which is coming to shore{% endem %} is from Gaoxiong.  
+- {% em type="red" %}<u>The ship</u>{% endem %} {% em type="green" %}<u>which is coming to shore</u>{% endem %} is from Gaoxiong.  
 {% em type="red" %}先行词{% endem %} {% em type="green" %}关系从句{% endem %}  
 (正在靠岸的那条船是从高雄来的。）  
 
@@ -14,7 +14,8 @@
 剩下的补语部分是现在分词短语，属于形容词类，与原来的关系从句词类相同，这就是成功的简化从句。  
 **如果关系从句中没有be动词，也没有助动词，就要把动词改成Ving的形状**。  
 例如：  
-- My old car,<em>which breaks down</em> every other week,won't last much longer.  
+>  <u>
+My old car,<em>which breaks down</em> every other week,won't last much longer.  
 先行词 关系从句  
 (我那辆老爷车，每隔一个星期总要抛锚一次，大概开不了多久了。）  
 
