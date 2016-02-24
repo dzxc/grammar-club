@@ -46,23 +46,19 @@ He <em>seems</em> to be right.（他好像是对的。）
 
 
 三、**都要用完成式来表达相对的过去时间**  
-助动词与不定词本身都无法完整表达过去时间。如果你听到“哗啦哗啦”的声音从外面传来，可以说：
-
->  
-It must be raining now.（一定下雨了。）
 
 助动词与不定词本身都无法完整表达过去时间。如果你听到“哗啦哗啦”的声音从外面传来，可以说：
 >  
-It must be raining now.（一定下雨了。）  
+It <em>must be raining</em> now.（一定下雨了。）  
 ![](http://ww1.sinaimg.cn/large/92c4e634gw1f184cobjdyj20aq04njr9.jpg)  
 
 如果看到天上乌云密布，一副山雨欲来的样子，也可以说:
 >  
-It may rain any minute.（随时都可能下雨。）  
-It might even snow.（说不定还会下雪。）  
+It <em>may rain</em> any minute.（随时都可能下雨。）  
+It <em>might even snow</em>.（说不定还会下雪。）  
 ![](http://ww1.sinaimg.cn/large/92c4e634gw1f184khrsrxj20ca05zjrd.jpg)
 
-这几个例子中，第一句的助动词 must 没有过去式的拼法。至于第二句、第三句的 may 和 might，咋看之下好像有现在式和过去式的区别。可是用在猜测语气中并不是如此。It may rain any minute 是未来时态，It might even snow同样也是未来时态，这时的might并不是may的过去式，只表示比较保留、比较没有把握的猜测语气。所以，不论像must这类只有一种拼法的助动词还是像may,might这类有两种拼法的助动词，都只能用来猜测现在或未来时间的事情，助动词本身缺乏表达过去时间的能力。
+这几个例子中，第一句的助动词 must 没有过去式的拼法。至于第二句、第三句的 may 和 might，咋看之下好像有现在式和过去式的区别。可是用在猜测语气中并不是如此。It may rain any minute 是未来时态，It might even snow同样也是未来时态，这时的might并不是may的过去式，只表示比较保留、比较没有把握的猜测语气。<b>所以，不论像must这类只有一种拼法的助动词还是像may,might这类有两种拼法的助动词，都只能用来猜测现在或未来时间的事情，助动词本身缺乏表达过去时间的能力。</b>
 如果你早上起来看到地上湿湿的，于是说：
 
 >  
