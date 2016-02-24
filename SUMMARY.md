@@ -67,8 +67,8 @@
    * [空间的介词](kong_jian_de_jie_ci.md)
    * [时间的介词](shi_jian_de_jie_ci.md)
    * [介词的分辨](jie_ci_de_fen_bian.md)
-   * [Test 10](test_10.md)
    * 结语
+   * [Test 10](test_10.md)
 * [第十一章 主语动词一致性](di_shi_yi_zhang_zhu_yu_dong_ci_yi_zhi_xing.md)
    * [主语是一个还是两个人（或物）？](zhu_yu_shi_yi_ge_huan_shi_liang_ge_ren_ff08_huo_wu.md)
    * [主语是哪一个？](zhu_yu_shi_na_yi_ge_ff1f.md)
