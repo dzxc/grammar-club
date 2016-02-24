@@ -2,25 +2,25 @@
 
 要了解不定词与助动词之间的关系，不妨先看一个例子：
 >  
-I am glad to know you.  
+I am glad <em>to know you</em>.  
 (很高兴能认识你。）
 
 这是一句简单的会话用语，读者应该都能脱口而出。可是如果追问下去：“为什么用不定词to know you?”“为什么不能用动名词knowing you?"恐怕许多读者就答不上来了。（请不要回答“我背过”，或者“这是惯用法”、“这是短语”；语法要求理解，不能打迷糊仗。）其实，只要了解不定词与助动词之间的关系，就可以了解这个不定词是来自助动词的变化。怎么说呢？我们来看看这个例句还原成原状的样子：
 
 >  
-I am glad because I can know you.  
+I am glad <em>because I can know you</em>.  
 
 这句话可以进一步改写为下面这个类似的句子:
 
 >  
-I am glad because I am able to know you.  
+I am glad because I <em>am able to know you</em>.  
 
 由连接词because所引导的副词从句中，主语I和前面主要从句的主语相同，是重复的元素。动词am是个空的be动词，没有意义。因此这两个元素(I am)都可以省略。可是，副词从句中省略主语与动词之后，已经不成一个完整的从句结构了。如此一来，连接词because也就没有必要存在。剩下的不定词to know本身就带有able to的暗示，所以就变成：
 
 >  
-I am glad to know you.  
+I am glad <em>to know you</em>.  
 
-翻译成“很高兴能认识你”，是因为这个to know就是able to know，也就是can know的变化。
+翻译成“很高兴能认识你”，是因为这个 <em>to know</em> 就是 <em>able to know</em> ，也就是 <em>can know</em> 的变化。
 
 
 ---
