@@ -1,10 +1,11 @@
 # 补语为 to V
 
-如果关系从句的动词有语气助动词存在，就会成为不定词补语留下来。例如：
-John is the one who should go this time.(这次是约翰走人。)
-先行词 关系从句
-关系从句中的who should go固然没有be动词，只要将其改成 who is to go就有了，且意思相近，再把who is省略，即成为：
-John is the one to go this time.
+<b>如果**关系从句的动词有语气助动词**存在，就会成为**不定词补语**留下来。</b>  
+例如：  
+John is the one who should go this time.(这次是约翰走人。)  
+先行词 关系从句  
+关系从句中的who should go固然没有be动词，只要将其改成 who is to go就有了，且意思相近，再把who is省略，即成为：  
+John is <em>the one to go</em> this time.  
 简化形容词从句
 不定词的词类是“不一定”什么词类，也就是当名词、形容词、副词使用皆可。所以也符合原来关系从句的词类，可以形容先行词 the one，是正确的简化从句。
 1.不定词的主动、被动判断
