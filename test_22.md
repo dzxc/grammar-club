@@ -1,6 +1,7 @@
 # Test 22
 
-请选出最适当的答案填入空格内，以使句子完整。
+请选出最适当的答案填入空格内，以使句子完整。  
+>  
 1. The students were warned that on no account____to cheat.  
 (A) they were  
 (B) were they  
@@ -105,7 +106,7 @@ out of his hermitage.
 (D) Sometimes  
 
 **Answer key 22**
-
+>  
 1.(B)    
 on no account是否定副词短语，移至that从句句首即需倒装。  
 2.(C)  
