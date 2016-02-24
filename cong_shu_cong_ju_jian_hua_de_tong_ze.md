@@ -2,7 +2,10 @@
 
 不论是名词类、形容词类还是副词类的从属从句，简化的共同原则是省略主语与be动词，只保留补语部分。  
 这当中还有一些变化，例如若省略从属从句的主语会造成主语不清时该如何处理？剩下的补语部分如果词类与原来的从属从句词类不同时要怎么办？还有，连接词是否应一并省略？这些问题在不同词类的从属从句中，处理的方式不尽相同，当分别探讨。不过，“省略主语与 be 动词，只留补语”，可以视为所有从属从句简化的共通原则，是相当重要的观念，学习简化从句不妨从这个观念着手。
-一、为何省略主语？
+
+### 一、为何省略主语？
+
+
 如果从属从句的主语是空洞的字眼(one、everybody, people 等)，或者从属从句主语在主要从句中重复出现，从修辞的角度来看皆有违精简的原则，如果能省略会更简洁。例如：
 1.It is common courtesy that one should wear black while one
 S V C
@@ -20,7 +23,10 @@ V C
 Whether insured or not, your house, a wooden building, needs a fire alarm.
 省掉重复的部分并没有更改句意，但是结构就变得比较精简，比原来的句子漂亮。
 当然，从属从句的简化不能只省略主语，否则会造成句型的错误。读者应该已经看出来了，上面两个例子中除了主语省略，连动词也经过改变。动词的改变一律可视为be动词的省略，包括例1中的one should wear black 变成 to wear black，与 one attends a funeral 变成attending a funeral都算是省略be动词。这一点容后补述。现在先来看看从属从句简化通则的第二个部分。
-二、为何省略 be 动词？
+
+### 二、为何省略 be 动词？
+
+
 一个句子可分成主语部分（Subject)与动词引导的部分 (Predicate)。在简单句的五种基本句型中，有四种都是由动词来作最重要的叙述——告诉别人这个主语在做什么。例如：
 Birds fly.(鸟儿飞。）
 S V
@@ -35,32 +41,45 @@ Birds are lovely.(鸟很可爱。）
 S V C
 这句中，be动词完全不需翻译，因为它完全没有意义，只用来串连“鸟”和“很可爱”，是由补语来负责表达对于主语的叙述。
 如果Birds are lovely.是主要从句，那么be动词不可缺乏；可是如果这个句子是从属从句，依附在主要从句上，再加上主语birds 如果与主要从句重复出现，那么这个从属从句中需要保留的就只有 lovely—个词而已！重复的主语与无意义的be动词都是多余的，徒然浪费文字。这个从属从句去掉了主语与动词两个部分，已经不是完整的句子，所以不再需要连接词。剩下的补语部分，如果词类与原来的从属从句的词类没有冲突,就可以直接保留下来以取代从属从句，这就是简化从句。所以，为什么省略be动词？我们的答复是：因为be动词没有意义，省略不会影响原句的意思。
-三、没有 be 动词怎么办？
-如果从属从句中没有be动词可为省略，那么可分为两种情形来处理。
-1.有助动词时，变成不定词
-这是因为所有的语气助动词都可以改写成be动词加不定词，例如：
-You must go at once.
-→You are to go at once.(你必须马上离开。）
-The train will leave in 10 minutes.
-→The train is to leave in 10 minutes.(火车 10 分钟后开动。)
-He should do as I say.
-→He is to do as I say.(他该按我说的去做。)
-You may call me "Sir."
-→You are to call me "Sir." （你可以叫我“先生”。）
-Children can't watch this movie.
-→Children are not to watch this movie. (这部电影儿童不能看。）
- 
-当然，助动词改写成be加不定词，表达的意思不如原来的精确。这是为求简洁所作的牺牲。不过也可以用going to、willing to、able to、likely to、in order to、so as to、free to、bound to 等等来补充，况且依附于主要从句中又可以靠上下文来暗示，所以不会偏离原意。例如：
-He studied hard so that he could get a scholarship.
-连接词
-(他努力学习以获得奖学金。）
-从属连接词so that所引导的副词从句中，主语he与主要从句的主语重复，可以省略。动词could get可以改写为was (able) to get,如此可省去be动词，留下补语部分的to get a scholarship,连接词也不再需要，就成为：
-He studied hard to get a scholarship.
-如果怕so that he could省略后意思不清楚，也可如此补充：
-He studied hard so as to get a scholarship.
-He studied hard in order to get a scholarship.
-所以，从属从句中如果有助动词，简化从句时只要直接改成不定词就可以了。
-2.没有助动词时，变成Ving
+
+### 三、没有 be 动词怎么办？
+
+
+<b>如果从属从句中没有be动词可为省略，那么可分为两种情形来处理。</b>  
+
+#### 1.有助动词时，变成不定词
+
+  
+这是因为**所有的语气助动词都可以改写成be动词加不定词**，例如：  
+- You must go at once.  
+→You are to go at once.(你必须马上离开。）  
+
+- The train will leave in 10 minutes.  
+→The train is to leave in 10 minutes.(火车 10 分钟后开动。) 
+
+- He should do as I say.  
+→He is to do as I say.(他该按我说的去做。)  
+
+- You may call me "Sir."  
+→You are to call me "Sir." （你可以叫我“先生”。）  
+
+- Children can't watch this movie.  
+→Children are not to watch this movie. (这部电影儿童不能看。）  
+
+当然，助动词改写成be加不定词，表达的意思不如原来的精确。这是为求简洁所作的牺牲。不过也可以用<em>going to、willing to、able to、likely to、in order to、so as to、free to、bound to</em> 等等来补充，况且依附于主要从句中又可以靠上下文来暗示，所以不会偏离原意。例如：  
+- He studied hard so that he could get a scholarship.  
+连接词  
+(他努力学习以获得奖学金。）  
+
+从属连接词so that所引导的副词从句中，主语he与主要从句的主语重复，可以省略。动词could get可以改写为was (able) to get,如此可省去be动词，留下补语部分的to get a scholarship,连接词也不再需要，就成为：  
+- He studied hard to get a scholarship.  
+如果怕so that he could省略后意思不清楚，也可如此补充：  
+>  
+He studied hard so as to get a scholarship.  
+He studied hard in order to get a scholarship.  
+
+<b>所以，**从属从句**中如果**有助动词**，简化从句时只要**直接改成不定词**就可以了。</b>  
+#### 2.没有助动词时，变成Ving
 从属从句中若无be动词，也无助动词，可以如此思考：先加个be动词进去，原来的动词就加上-ing，使它成为进行式的形态。如此一来就有了be动词，Ving之后的部分则视为补语而保留下来。然后同样把主语和be动词这两个没有意义的部分省略，就完成了简化的动作。例如：
 John remembers that he saw the lady before.
 S V 连接词 O
