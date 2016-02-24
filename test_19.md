@@ -84,7 +84,7 @@ Hainan Island has long played an important role in China's tourism.
 
 1. (While) waiching TV, the boy heard a strange noise coming from the kitchen.  
 2. Living with her parents, the girl can't stay out very late.  
-3. 3. If having finished your work，you can help me with mine.  
+3. If having finished your work，you can help me with mine.  
 4. Being a law-enforcement officer, he cannot drink on duty.  
 5. The actor has been in a state of excitement ever since being nominated for the Oscar.  
 6. After addressing the congregation, the minister left in a hurry.  
