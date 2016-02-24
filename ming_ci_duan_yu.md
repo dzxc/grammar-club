@@ -22,8 +22,7 @@
 >  
 Of these answers, this one is <em>the best</em>.（在这些答案中，这个最好。）
 
-读者可以从此句中清楚了解the best就是the best answer的意思。甚至在those sweet roses中，可以把形容词和名词一起拿掉，只剩下those，仍是正确的名词短语。  
-比如说，你指着一些玫瑰花，对花店老板说：
+读者可以从此句中清楚了解the best就是the best answer的意思。甚至在those sweet roses中，可以把形容词和名词一起拿掉，只剩下those，仍是正确的名词短语。比如说，你指着一些玫瑰花，对花店老板说：
 >  
 I want <em>those</em>.（我要那种的。）  
 
