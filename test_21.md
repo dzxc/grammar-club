@@ -1,7 +1,7 @@
 # Test 21
 
 <b>将下列各题中的句子写在一起成为复句或合句,然后再简化到最精简的地步：</b>  
-
+>  
 1. Ben Book was educated in an art college. (because)  
 Ben Book acts unusual.  
 Ben Book deals with economic matters. (while)  
@@ -54,7 +54,7 @@ We will go to the beach.
 **Answer key 21**  
 
 <b>参考答案</b>    
-
+>  
 1. Because he was educated in an art college. Ben Book acts unusual while
 he deals with economic matters.  
 简化为：  
