@@ -44,18 +44,18 @@
 
 **过去分词**与现在分词一样，可以出现在两种形容词位置来形容名词，<b>不过它的弦外之音是**被动或完成的暗示**，要加上**“被”、“已经”**来解释。</b>   
 >  
-- <em>Clean water</<em> is safe to drink.  
+<em>Clean water</em> is safe to drink.  
 （干净水可以安全饮用。）  
-- <em>Boiled water</em> is safe to drink.  
+<em>Boiled water</em> is safe to drink.  
 （开水可以安全饮用。）  
 
 过去分词boiled和形容词clean同样放在名词短语中的位置，同样形容water，只不过多了“被煮过了”的暗示。<b>这种“**被动”、“完成”**的意思也就是**过去分词的弦外之音**。除此之外，它与一般的形容词并无不同。</b>  
 
 ----
-
-- The water is <em>clean</em>.  
+>  
+The water is <em>clean</em>.  
 （水很干净。）  
-- The water is <em>boiled</em>.  
+The water is <em>boiled</em>.  
 （水是煮开过的。）  
 
 过去分词boiled可以视为和clean—样，是形容词补语，放在 be动词后面来形容主语water。一般语法说be+Ven是被动态。可是，离开了be动词，boiled water还是要解释为“被煮过的水”。所以，<b>“被动”的意味和be动词之间没有必然的关联性，**不如直接把过去分词本身视为形容词**。况且，放在be动词后面的过去分词，往往也不是当作被动来解释，而要解释为“完成”的暗示。</b>  
@@ -72,14 +72,14 @@
 ### 三、带有「完成」暗示而非「被动态」的过去分词
 
   
-
-- I can't find my wallet. <em>It’s gone.</em>  
+>  
+I can't find my wallet. <em>It’s gone.</em>  
 （我找不到皮夹。它不见了。）  
 
 <b>这个例子中，is gone符合“be+Ven”的结构，但不能解释为被动态，因为go是不及物动词，本身没有被动态可言。</b>  
 所以句型应作如此分析： 
-
-- It is gone.  
+>  
+It is gone.  
 S V C  
 
 <b>过去分词gone是形容词补语，有“完成”的暗示，解释为“跑掉了，不见了”，来形容主语it。</b>  
