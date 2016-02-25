@@ -62,13 +62,13 @@ It <em>might even snow</em>.（说不定还会下雪。）
 如果你早上起来看到地上湿湿的，于是说：
 
 >  
-It must have rained last night.（昨晚一定下过雨。）  
+It <em>must have rained</em> last night.（昨晚一定下过雨。）  
 ![](http://ww3.sinaimg.cn/large/92c4e634gw1f184ug9pbdj20ax05hglk.jpg)  
 
-<b>在猜测过去的事情时,助动词不论是must、may还是might，都只能表示语气强弱的差别，无法表达过去。助动词后面要接原形动词，也不能用过去式，所以别无选择，只好用完成式来表示过去，也就是must have rained 这种形态。</b>就这点来看，不定词仍然与助动词相同。
+<b>在**猜测过去**的事情时,助动词**不论是must、may还是might**，都**只能表示语气强弱**的差别**，无法表达过去**。助动词后面要接原形动词，也不能用过去式，所以别无选择，**只好用完成式来表示过去**，也就是must have rained 这种形态。</b>就这点来看，不定词仍然与助动词相同。
 
 >  
-It seems to have rained last night.（昨晚好像下过雨。）  
+It seems <em>to have rained</em> last night.（昨晚好像下过雨。）  
 ![](http://ww3.sinaimg.cn/large/92c4e634gw1f184uouz0fj20ac051jrb.jpg)  
 
 这个句子的动词 seems 是现在式，表示“现在看起来”、“现在的推测”。可是推测的事情是昨天晚上的事，是过去的时间，所以“下雨”应该是过去式，但是<b>不定词与助动词一样，本身缺乏表达过去的能力</b>，而且它后面要接原形动词，也不能用过去式，所以只能用完成式来表示过去，变成 to have rained 。这又是不定词和助动词的一个共同点。
