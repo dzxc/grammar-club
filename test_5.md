@@ -32,42 +32,42 @@
 (B) to swim  
 (C) a swim  
 (D) swim  
-6. In doing magic,the trick lies in ____ your audience.  
+2. In doing magic,the trick lies in ____ your audience.  
 (A) divert  
 (B) diversion  
 (C) to divert  
 (D) diverting  
-2. I resent ____ a hypocrite, especially when I'm telling the truth.  
+3. I resent ____ a hypocrite, especially when I'm telling the truth.  
 (A) calling  
 (B) called  
 (C) being calling  
 (D) being called  
-7. The workers objected to ____ like slaves.  
+4. The workers objected to ____ like slaves.  
 (A) be treated  
 (B) treating  
 (C) treat  
 (D) being treated  
-3. ____ outside my window every night is getting on my nerves.  
+5. ____ outside my window every night is getting on my nerves.  
 (A) The cats screaming  
 (B) The cats to scream  
 (C) Screaming cats  
 (D) The cats' screaming  
-8. Everyone marveled at ____ the French Open.  
+6. Everyone marveled at ____ the French Open.  
 (A) Michael Chang's winning  
 (B) Michael Chang's win  
 (C) Michael Chang to win  
 (D) Michael Chang win  
-4. Learning a language is ____ all about the culture.  
+7. Learning a language is ____ all about the culture.  
 (A) to learn  
 (B) learning  
 (C) learn  
 (D) learned  
-9. If you don't mind ____ so, I think you are in the wrong.  
+8. If you don't mind ____ so, I think you are in the wrong.  
 (A) saying  
 (B) to say  
 (C) I say  
 (D) my saying  
-5. ____ is a very exacting sport.  
+9. ____ is a very exacting sport.  
 (A) Mountain-climbing  
 (B) Climb mountains  
 (C) To climb mountains  
