@@ -41,7 +41,7 @@ Mr. Elson was <em>president</em> of the high school.
 Some say he was <em>a better president</em> than Mr. Robert.  
 （有人说他当校长，比罗伯特先生干得更好。）
 
-在这个从属子句中，主语he就是埃尔森先生。president仍然是主语补语，可是这里就要加a了。为什么？因为在上下文中和罗伯特先生做比较，这么一来就有前后两任校长，可以加-s,不是专有名词了。  
+在这个从属子句[^1]中，主语he就是埃尔森先生。president仍然是主语补语，可是这里就要加a了。为什么？因为在上下文中和罗伯特先生做比较，这么一来就有前后两任校长，可以加-s,不是专有名词了。  
 还有：
 >  
 Mr. Elson is also <em>a member of the Council</em> of the city.  
@@ -65,4 +65,6 @@ Mattin Wales, <em>Head of the football team</em>, at the time, wore a mustache.
 Clinton made Gorle <em>campaign partner</em> of the Presidential election.  
 （克林顿选择戈尔为总统大选竞选搭档。）
 
-句中campaign partner没有限定词，当专有名词使用。因为它是“戈尔”的宾语补语，与其为同等关系。而副总统搭档只有一人，所以它便成为专有名词的用法。
+句中campaign partner没有限定词，当专有名词使用。因为它是“戈尔”的宾语补语，与其为同等关系。而副总统搭档只有一人，所以它便成为专有名词的用法。  
+
+[^1]: 从属子句：在一个复合句中，处于从属地位的子句
