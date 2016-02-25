@@ -49,8 +49,8 @@
    * [形容词在名词短语位置与补语位置的比较](xing_rong_ci_zai_ming_ci_duan_yu_wei_zhi_yu_bu_yu_.md)
    * [补语位置的形容词](bu_yu_wei_zhi_de_xing_rong_ci.md)
    * [形容词的比较级](xing_rong_ci_de_bi_jiao_ji.md)
-   * [Test 7](test_7.md)
    * 结语
+   * [Test 7](test_7.md)
 * [第八章 副词](di_ba_zhang_fu_ci.md)
    * [强调语气的副词（Intensifiers)](qiang_diao_yu_qi_de_fu_ci_ff08_intensifiers.md)
    * [修饰句子的副词（Sentence Modifiers)](xiu_shi_ju_zi_de_fu_ci_ff08_sentence_modifiers.md)
