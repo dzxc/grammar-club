@@ -40,8 +40,8 @@
 
 |原文|译文|
 |:---:|:---:|
-|the United States of America   |美国   |
-|the United Nations   |联合国   |
+|the United <em>States</em> of <em>America</em>   |美国   |
+|the United <em>Nations</em>   |联合国   |
 
 这两个例子中，在名词位置的其实都是普通名词(States,Nations)，皆可加冠词。只有America这个名词短语是专有名词，所以前面没有加冠词。
 
