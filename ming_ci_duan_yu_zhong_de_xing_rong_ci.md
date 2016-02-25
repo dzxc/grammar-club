@@ -35,4 +35,19 @@ alike和alone这两个a-开头的古英语都不适合放入名词短语中, 只
 |a   | cigarette  | box  | （一个香烟盒）  |
 |   | movie  | theaters  | （电影院）  |
  
+放在中间的government、pencil等字虽然都是名词的形状，可是一旦放入形容词位置，就是转借为形容词来使用。例如a cigarette box (一个香烟盒）这个名词短语代表的是一个盒子，不是香烟（空盒子还是可以叫香烟盒)。中间的cigarette —旦转为形容词使用，就要遵循形容词的用法，也就是：没有复数。my pencil sharpener (削铅笔机）当然不只削一支铅笔，可是pencil放在这个位置要解释为“削铅笔的”，是形容词，所以不能有复数。
 
+
+### 三、复合词形容词
+
+
+单词形状的形容词才能够放入名词短语中间的位置。如果是短语形状而要放到名词短语中，就必须先加上hyphen制造成复合词。 如果原先的短语中有复数的名词存在，还得先把-s去掉，因为要当形容词单词使用，不能有复数。例如：
+a turn-of-the-century publication
+(一册在世纪转换之际出版的作品)
+an eye-opening experience
+(令人大开眼界的经验）
+a five-year-old child
+(一个五岁小孩）
+a 100-watt light bulb
+(一支100瓦的灯泡）
+请注意例句中的eye, year, watt等字都是因为转作形容词使用而把-s去掉。
