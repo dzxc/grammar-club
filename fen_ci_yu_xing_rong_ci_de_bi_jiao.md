@@ -79,7 +79,7 @@ I can't find my wallet. <em>It’s gone.</em>
 <b>这个例子中，is gone符合“be+Ven”的结构，但不能解释为被动态，因为go是不及物动词，本身没有被动态可言。</b>  
 所以句型应作如此分析： 
 >  
-It is gone.  
+It is <em>gone</em>.  
 S V C  
 
 <b>过去分词gone是形容词补语，有“完成”的暗示，解释为“跑掉了，不见了”，来形容主语it。</b>  
