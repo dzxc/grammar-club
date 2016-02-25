@@ -36,7 +36,7 @@ There are two weddings at the restaurant tonight.
   
 
 >  
-I really enjoyed teaching English to school children at night.  
+I really enjoyed <em>teaching</em> English to school children at night.  
 S V O
 （那时我晚上教儿童英语教得很愉快。）
   
@@ -64,7 +64,7 @@ S V O
 然后省略掉重复的主语I与无意义的be动词was。没有了主语、动词，就不需要连接词that，于是整个句子成为：  
 
 >  
-I really enjoyed teaching English to school children at night.  
+I really enjoyed <em>teaching</em> English to school children at night.  
 S V O  
 
 <b>所以，**动名词短语**可以视为名词从句的变化。只要把**主语**和**be动词**放回去，就会出现完整的名词从句。</b>  
