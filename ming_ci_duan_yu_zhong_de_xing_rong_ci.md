@@ -10,3 +10,5 @@
 |   | dirty  | water  | （脏水）  |
 |   |  pretty | women  |（漂亮女人）   |  
 
+<b>这种形容词英语称为attributive adjectives，是**用来表示该名词属性**(attribute)的形容词</b>，这一点稍后再详述。  
+
