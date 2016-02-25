@@ -38,14 +38,14 @@ S V O（约翰每天打电话给我女朋友，让我很不舒服。）
 这个例句中，主要从句的主语是I，宾语从句的主语是John，主语并不相同。宾语从句的动词calls没有助动词，而且是日复一日持续的，所以不能改成不定词，而要用动名词calling。可是，如果写成：  
 
 >  
-* I don't like calling my girlfriend day after day.  
+I don't like calling my girlfriend day after day.  
 S V O  
 
 就变成是自己不爱打电话给女朋友了。问题就出在两个从句的主语不相同。  
 所以在宾语calling之前，要设法表示打电话的是John，不是I。怎样才能把名词John变成形容词类来形容动名词的calling？前面说过，动名词结构接近普通名词，可以有冠词、所有格等等。  
 所以，如果John变成所有格，就可以附在calling的前面了：  
 
-> * I don't like **John's calling** my girlfriend day after day.  
+> I don't like **John's calling** my girlfriend day after day.  
 S V O 
 
 **动名词的主语与主要从句的主语不同时，处理方式就是用所有格的形式保留下来。**    
@@ -67,7 +67,7 @@ S V C
 
 许多人不太清楚being怎么用。**其实，being这个词中，be是没有意义的be动词，所有的意义在于词尾的-ing部分。而词尾-ing可能是现在分词，表示进行的暗示，或者是动名词，有词类变化的功能**。如上述例句中，invited here不能当主语，因为词类不对。这时除了把invite本身改成名词的irvitation之外，还有一个办法，就是借用前面的was来做词类变化，变成being invited here，—方面保留了过去分词invited的被动态，另一方面则符合了名词的词类要求，于是这句变成：  
 
->*  <em>Being invited</em> here is a great honor.  
+>  <em>Being invited</em> here is a great honor.  
 S V O 
  
 
@@ -96,16 +96,16 @@ S V
 
 ----  
 >  
-- That **flying** jacket looks smart on you.   
+That **flying** jacket looks smart on you.   
 （那件飞行装你穿起来很帅。）  
 这里的flying也是放在名词短语中的形容词位置，可是它不是现在分词，而是动名词，只是借放在这个位置做复合名词。  
 
 何以得知？我们把flying拿到补语位置验证一下：  
 > 
-- That jacket **is flying**.(?)   
+That jacket **is flying**.(?)   
 就可看出来flying不能当作现在分词解释，只能当动名词。  
 
 **如果要检验动名词的话，可以把它拿到一个典型的动名词位置：介词后面。**  
 >  
-- That's a jacket **for flying**.  
+That's a jacket **for flying**.  
 这样就可以看出来，flying是动名词。因为a flying jacket的意思和 a jacket for flying 相同。
