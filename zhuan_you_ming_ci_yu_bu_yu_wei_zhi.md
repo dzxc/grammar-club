@@ -58,7 +58,7 @@ Mr. Elson is also <em>a member of the Council</em> of the city.
 Mattin Wales, <em>Head of the football team</em>, at the time, wore a mustache.  
 （马丁·韦尔斯，当时的足球队长，留有小胡子。）
 
-句中Head of the football team—般称为同位语，其实就是who was Head of the football team at the time这个形容词从句的省略。其中who代表马丁·韦尔斯，而Head则是主语补语，和马丁·韦尔斯是同等关系，所以仍然算是专有名词，不必用限定词。
+句中 Head of the football team 一般称为同位语[^2]，其实就是who was Head of the football team at the time这个形容词从句的省略。其中who代表马丁·韦尔斯，而Head则是主语补语，和马丁·韦尔斯是同等关系，所以仍然算是专有名词，不必用限定词。
 
 **写主语补语时，要注意该补语是否为专有名词。写宾语补语时也是一样**。例如：
 >  
@@ -67,4 +67,5 @@ Clinton made Gorle <em>campaign partner</em> of the Presidential election.
 
 句中campaign partner没有限定词，当专有名词使用。因为它是“戈尔”的宾语补语，与其为同等关系。而副总统搭档只有一人，所以它便成为专有名词的用法。  
 
-[^1]: 从属子句：在一个复合句中，处于从属地位的子句
+[^1]: 从属子句：在一个复合句中，处于从属地位的子句  
+[^2]: 同位语：一个名词（或其他形式）对另一个名词或代词进行修饰、限定或者说明，这个名词（或其他形式）就是同位语。同位语与被它限定的词的格要一致，并常常紧挨在一起。
