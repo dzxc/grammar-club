@@ -9,4 +9,4 @@
 下面这个例子也差不多：  
 - {% em type="red" %}Ex.32 Ten seconds (be) quite a record for the 100-meter dash.{% endem %}  
 主语Ten seconds只是量出一段时间，表示是百米短跑的一项优良纪录，并不是“十个一秒钟”，所以要用单数动词。  
-{% em type="red" %}正确用法:Ex.31 is{% endem %}  
+{% em type="red" %}正确用法:Ex.32 is{% endem %}  
