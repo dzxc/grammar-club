@@ -1,1 +1,16 @@
 /* CSS for mobi */
+strong {
+    color:brown;
+}
+
+em {
+    color:brown;
+}
+
+ hr {
+    background: #e7e7e7;
+    height: 2px;
+    padding: 0;
+    margin: 10px 0;
+    border: 0;
+}
