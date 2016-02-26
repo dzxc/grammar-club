@@ -23,7 +23,11 @@
 
 #### 二、用完成式表达对过去的猜测
 
-<b>语气助动词用来猜测过去的事情时，因为缺乏表达过去时间的能力，所以要借助完成式来表达</b>。例如：
-1. It <em>may rain</em> any minute now. （随时可能会下雨。）
-2. It <em>may have rained</em> a little last night. （昨晚可能下过一点雨。）
-例1是对现在、未来的猜测。如果要对过去(last night)做猜测，改成might rain 并没有用，因为might只表示更没把握的语气，并不是过去式。只有借助完成式may have rained (可能下过)，才能表达对过去的猜测。
+<b>语气助动词用来猜测过去的事情时，因为缺乏表达过去时间的能力，所以要借助**完成式来表达对过去的猜测**</b>。例如：  
+>  
+1. It <em>may rain</em> any minute now.   
+（随时可能会下雨。）  
+2. It <em>may have rained</em> a little last night.   
+（昨晚可能下过一点雨。）  
+
+例1是对现在、未来的猜测。如果要对过去 (last night) 做猜测，改成 might rain  并没有用，因为 might 只表示更没把握的语气，并不是过去式。只有借助完成式 may have rained  (可能下过)，才能表达对过去的猜测。
