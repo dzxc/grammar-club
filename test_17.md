@@ -23,6 +23,7 @@
 
 <b>请选出最适当的答案填入空格内，以使句子完整</b>  
 
+>  
 1. ____ often found in fruit and vegetables.
 (A)Vitamin C, a trace element that is
 (B)For vitamin C, a trace element to be
