@@ -11,7 +11,7 @@ I <em>will go</em> to the U.S. next year to study for an MBA degree.
 The weatherman says sunrise tomorrow <em>is</em> at 5:32.  
 （气象报告说明天日出是五点三十二分。）  
 
-虽然是明天的日出，时间还没到，可是日出的时间可以用公式算出来。因为地球不会停止转动，也不会忽快忽慢，所以“明天日出在几点”可以当作事实来叙述，不必加上有不确定语气的will。再看下一个例子：  
+虽然是明天的日出，时间还没到，可是日出的时间可以用公式算出来。因为地球不会停止转动，也不会忽快忽慢，所以“明天日出在几点”可以当作事实来叙述，不必加上有不确定语气的 will 。再看下一个例子：  
 >  
 The movie <em>starts</em> in 5 minutes.   
 (电影还有五分钟开演。)  
