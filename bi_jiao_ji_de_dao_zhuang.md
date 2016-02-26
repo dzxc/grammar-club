@@ -19,8 +19,7 @@
 do这个词既不能省略，把它留在句尾却又有修辞上的毛病。首先，do这个助动词和它的主语boys之间，因为关系从句的阻隔，距离太远，会伤害句子的清楚性。另外，助动词do所代表的是前面从句中的like cats，但同样也因为距离太远而不够清楚。  
 要解决这个修辞上的问题，有个方法——倒装句。将do挪到主语 boys前面，成为：  
 >  
-Girls like cats more than <u>do boys</u>, who as a rule are a cruel lot.  
-倒装句  
+Girls like cats more than <u>do boys</u>, who as a rule are a cruel lot.  倒装句  
 （女孩比男孩更喜欢猫——男孩通常都很残酷。）  
 如此一来，助动词do和主语boys放在一起了，而且do和它所代表的like cats的距离也减到最小，解决了所有的、修辞问题。  
 
