@@ -5,10 +5,10 @@
 ### 一、on one's way/in one's way
 
 
-例：He's on his way to Taizhong. (他已上路，要赶往台中。）
-由出发地前往台中，这是一条路线，属于“线”状的空间。在这条线上，应以on his way来表示。
-例：Step aside! You're in my way! (闪开！你挡住我的路了！）
-你叫别人让路，因为挡住你了。这时的情形已不是一个“线” 形的空间，而变成“体”的观念：你需要的way是一个有长、宽、 高的空间，才能通过，而被对方挡住了，所以要说in my way。
+- He's <em>on his way</em> to Taizhong. （他已上路，要赶往台中。）  
+由出发地前往台中，这是一条路线，属于“线”状的空间。在这条线上，应以on his way来表示。  
+- Step aside! You're <em>in my way</em>! （闪开！你挡住我的路了！）  
+你叫别人让路，因为挡住你了。这时的情形已不是一个“线” 形的空间，而变成“体”的观念：你需要的way是一个有长、宽、 高的空间，才能通过，而被对方挡住了，所以要说in my way。  
 
 ### 二、arrive in / arrive at
 
