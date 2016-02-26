@@ -23,17 +23,20 @@
 
 例1和例2都对。为什么？这得看看原来的关系从句是什么。如果原先是这两句：  
 >  
-John is not a man.  
+John is not <em>a man</em>.  
 O   
-One can trust the man.  
+<em>One</em> <em>can trust</em> <em>the man</em>.  
 S V O  
 
-后面这一句的宾语the man就是前一句的a man，可以改为关系词，合成：
-John is not a man whom one can trust.
-先行词 关系从句
-因为关系从句中的关系词whom是宾语，可以省略，成为：
-John is not a man one can trust.
-先行词关系从句
+后面这一句的宾语the man就是前一句的a man，可以改为关系词，合成：   
+>  
+John is not a man whom one can trust.  
+先行词 关系从句  
+
+因为关系从句中的关系词whom是宾语，可以省略，成为：  
+>  
+John is not a man one can trust.  
+先行词关系从句  <em>
 这个关系从句中的主语是空洞的one，可以简化，再把can trust简化为to trust，即成为例1 John is not a man to trust。反之，如果原先是这两句：
 John is not a man.
 O
