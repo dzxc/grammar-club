@@ -6,32 +6,32 @@
 (B) similar
 (C) same
 (D) alike
-5. Miss Smith makes ____ her own clothes by hand.
+2. Miss Smith makes ____ her own clothes by hand.
 (A) the most of
 (B) most of
 (C) the most
 (D) most
-2. We were quite excited to catch the bird ____ .
+3. We were quite excited to catch the bird ____ .
 (A) live
 (B) living
 (C) alive
 (D) lively
-6. John is not quite ____ as his sister.
+4. John is not quite ____ as his sister.
 (A) good as a student
 (B) as good a student
 (C) as a good student
 (D) an as good student
-3. They have improved their financial status. Now they are ____ off than before.
+5. They have improved their financial status. Now they are ____ off than before.
 (A) well
 (B) good
 (C) better
 (D) richer
-7. The most ____ time of life is ____ .
+6. The most ____ time of life is ____ .
 (A) joyful/young
 (B) joy/young
 (C) enjoyable/youth
 (D) joyfully/youth
-4. To be heard over the noise of the construction work outside, he tried to talk ____.
+7. To be heard over the noise of the construction work outside, he tried to talk ____.
 (A) in the loudest voice possible
 (B) in the loudest voice possibly
 (C) in the possible voice loudest
@@ -45,52 +45,52 @@
 (A) difficult
 (B) difficulty
 (C) difficultly
-15.We found it of ____ importance to rebuild the wooden bridge.
+10.We found it of ____ importance to rebuild the wooden bridge.
 (A) very
 (B) too
 (C) extremely
 (D) utmost
-10. All four ways were open and Mark was ____ to travel in any direction.
+11. All four ways were open and Mark was ____ to travel in any direction.
 (A) free
 (B) freely
 (C) freedom
 (D) freeing
-16.He took down ____ of the two maps and began to look for the obscure city.
+12.He took down ____ of the two maps and began to look for the obscure city.
 (A)larger
 (B)the larger
 (C)largest
 (D)the largest
-11. It was the first ____ rainfall within half a year in this city.
+13. It was the first ____ rainfall within half a year in this city.
 (A) noteworth
 (B) noteworthy
 (C) noteworthly
 (D) noteworthing
-17.You never feel bored while on a camping trip because no two days are ____ .
+14.You never feel bored while on a camping trip because no two days are ____ .
 (A) like
 (B) likely
 (C) likewise
 (D) alike
-12. New Yorkers accept the city's noise as natural and ____ .
+15. New Yorkers accept the city's noise as natural and ____ .
 (A) inevitably
 (B) inevitable
 (C) inevitability
 (D) neutrality
-18. This action of yours was ____ than wise.
+16. This action of yours was ____ than wise.
 (A) kinder
 (B) most kind
 (C) kindest
 (D) more kind
-13. Americans are becoming ____ of the dangers of cigarettes.
+17. Americans are becoming ____ of the dangers of cigarettes.
 (A) aware
 (B) awareness
 (C) awake
 (D) awoke
-19. The lake is ____ at this point.
+18. The lake is ____ at this point.
 (A) deepest
 (B) the deepest
 (C) deeper
 (D) the deeper
-14. A farmer needs to know ____ words than a lawyer does.
+19. A farmer needs to know ____ words than a lawyer does.
 (A) less
 (B) fewer
 (C) more
