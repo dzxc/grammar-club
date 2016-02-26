@@ -9,9 +9,9 @@
 
 - {% em type="red" %}Ex.53  
 <em>Mumps</em> primarily (attack) children.{% endem %}   
-（腮腺炎好发于儿童。）  
-正确用法：Ex.53 attacks
-还有一些要从意思来判断，例如： 
+{% em type="red" %}（腮腺炎好发于儿童。）{% endem %}  
+正确用法：Ex.53 attacks  
+还有一些要从意思来判断，例如：   
 - {% em type="red" %}Ex.54  
 <em>Statistics</em> (be) born in the gambling house.{% endem %}  
 主语statistics代表“统计学”，应用单数。  
