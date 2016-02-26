@@ -15,7 +15,7 @@ Unit 3 is <u>as boring as</u> Unit 4. （第三单元和第四单元一样无聊
 - 而**三个音节以上**的形容词已经很长，不适合再加词尾变化，因而分成两个词来处理<em>（如：expensive、more expensive、most expensive)</em>。  
 - 但是，**两个音节**的形容词很尴尬：它不长不短，要如何判断？以下的原则可供参考：<b>两个音节的形容词，如果词尾是典型的形容词词尾，有明显的标示词类的功能，应保留词尾不变，分成两个词处理。此外则随意。</b>例如：  
 
-|两个音节典型的形容词词尾             |
+|两个音节-典型形容词词尾             |
 |:-:|---|---|---|---|
 |crowd <u>ed</u>  |more crowded   |most crowded  |
 |lov <u>ing</u>   |more loving   | most loving   |
@@ -26,7 +26,7 @@ Unit 3 is <u>as boring as</u> Unit 4. （第三单元和第四单元一样无聊
 
 <b>这些两个音节的词都是典型的形容词词尾，应分成两个词处理。其他的双音节形容词，如果不是典型的形容词字尾，变化则无限制。</b>例如：  
 
-|两个音节典型的形容词词尾     |
+|两个音节-非典型形容词词尾     |
 |:-:|---|---|
 |often   |oftener(more often)   |oftenest(most often)   |
 |shallow   |shallower(more shallow)   |shallowest(most shallow)   |
