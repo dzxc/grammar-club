@@ -84,7 +84,8 @@ S V C
 >>→Children are not to watch this movie. （这部电影儿童不能看。）  
 
 当然，助动词改写成be加不定词，表达的意思不如原来的精确。这是为求简洁所作的牺牲。不过也可以用<em>going to、willing to、able to、likely to、in order to、so as to、free to、bound to</em> 等等来补充，况且依附于主要从句中又可以靠上下文来暗示，所以不会偏离原意。例如：  
-- He studied hard so that he could get a scholarship.  
+>  
+He studied hard so that he could get a scholarship.  
 连接词  
 (他努力学习以获得奖学金。）  
 
