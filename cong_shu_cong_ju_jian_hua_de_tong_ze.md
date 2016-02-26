@@ -11,7 +11,7 @@
 >  
 <u>It</u> <u>is</u> <u>common courtesy</u> that one should wear black while one attends a funeral.  
 S V C  
-（参加丧礼时应该穿黑衣，这是基本礼貌。）  
+(参加丧礼时应该穿黑衣，这是基本礼貌。)  
 
 这个句子的主要从句是 It is common courtesy ，至于由连接词 that 引导的名词从句 that one should wear black 及连接词 while 引导的副词从句 while one attends a funeral 这两个从属从句的主语都是 one，代表 anyone (任何人)，所以是空洞的字眼，可以省略掉，成为：  
 >  
@@ -21,15 +21,17 @@ It is common courtesy to wear black while attending a funeral.
 
 再看下例：  
 >  
-2. Whether it is insured or not, your house, which is a wooden
-S<u>
-building, needs a fire alarm.
-V C
-(你的房子是木造建筑，不论有没有保险都应该装个火警警钤。）
-这个句子的主要从句是Your house needs a fire alarm.，至于由 whether 引导的副词从句whether it is insured or not 与由which引导的形容词从句which is a wooden building 这两句的主语（it与 which) 指的都是主要从句中的主语 your house，虽然用了代名词it 与关系代名词Which来避免重复，但是仍嫌累赘，所以不如省略，成为：
-Whether insured or not, your house, a wooden building, needs a fire alarm.
+Whether it is insured or not, <u>your house</u>, which is a wooden building, <u>needs</u> <u>a fire alarm</u>.  
+S V C  
+( 你的房子是木造建筑，不论有没有保险都应该装个火警警钤。)  
+
+这个句子的主要从句是 Your house needs a fire alarm. ，至于由 whether 引导的副词从句 whether it is insured or not 与由 which 引导的形容词从句 which is a wooden building  这两句的主语( it 与 which ) 指的都是主要从句中的主语 your house ，虽然用了代名词 it  与关系代名词 Which 来避免重复，但是仍嫌累赘，所以不如省略，成为：  
+>  
+Whether insured or not, your house, a wooden building, needs a fire alarm.  
+
 省掉重复的部分并没有更改句意，但是结构就变得比较精简，比原来的句子漂亮。
-当然，从属从句的简化不能只省略主语，否则会造成句型的错误。读者应该已经看出来了，上面两个例子中除了主语省略，连动词也经过改变。动词的改变一律可视为be动词的省略，包括例1中的one should wear black 变成 to wear black，与 one attends a funeral 变成attending a funeral都算是省略be动词。这一点容后补述。现在先来看看从属从句简化通则的第二个部分。
+当然，从属从句的简化不能只省略主语，否则会造成句型的错误。读者应该已经看出来了，上面两个例子中除了主语省略，连动词也经过改变。动词的改变一律可视为be动词的省略，包括例1中的one should wear black 变成 to wear black，与 one attends a funeral 变成attending a funeral都算是省略be动词。  
+这一点容后补述。现在先来看看从属从句简化通则的第二个部分。
 
 ### 二、为何省略 be 动词？
 
