@@ -90,9 +90,11 @@ He studied hard so that he could get a scholarship.
 （他努力学习以获得奖学金。）  
 
 从属连接词so that所引导的副词从句中，主语he与主要从句的主语重复，可以省略。动词could get可以改写为was (able) to get,如此可省去be动词，留下补语部分的to get a scholarship,连接词也不再需要，就成为：  
-- He studied hard to get a scholarship.  
-如果怕so that he could省略后意思不清楚，也可如此补充：  
+
 >  
+He studied hard to get a scholarship.  
+如果怕so that he could省略后意思不清楚，也可如此补充：  
+>>  
 He studied hard so as to get a scholarship.  
 He studied hard in order to get a scholarship.  
 
