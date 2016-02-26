@@ -140,7 +140,7 @@ I have a job that your brother can do.
 先行词 关系从句  
 （我有件差事想请你哥哥来做。）  
 
-关系从句的关系词that是宾语,可以径行省略，成为：  
+关系从句的关系词 that 是宾语,可以径行省略，成为：  
 >  
 I have a job your brother can do.  
 先行词 关系从句  
