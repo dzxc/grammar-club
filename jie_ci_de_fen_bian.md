@@ -95,7 +95,7 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 ### 八、below/under
 
 
-这一对介系词的关系与上一对类似：below表示相对高度较低，而under则有标示定点的功能。例如：
+这一对介系词的关系与上一对类似：<b><u><em>below</em> 表示相对高度较低，而<em> under </em>则有标示定点的功能</u></b>。例如：
 The submarine is <em>below</em> the surface now.
 (潜艇在水面以下了。)
 below只能表示“比较低的高度”。但是：
