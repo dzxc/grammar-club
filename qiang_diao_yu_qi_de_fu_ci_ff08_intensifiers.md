@@ -53,12 +53,12 @@ The project is finished.
 
 这个意思就和原文不同了。程度副词和另外两类的 Intensifiers  一样，也是四大词类都可以修饰，**它的位置通常也是要放在修饰对象的前面**。例如:  
 >  
-- You can buy practically anything at a mall.  （在购物中心几乎什么都买得到。）  
+- You can buy <em>practically</em> anything at a mall.  （在购物中心几乎什么都买得到。）  
 (adv.) (n.)   
-- I can hardly hear   you.  
+- I can <em>hardly</em> hear   you.  
 （我快听不到你在说什么了。）  
 (aux.) (adv.) (v.)   
-- The promotion was moderately successful.   （促销活动还算成功。）  
+- The promotion was <em>moderately</em> successful.   （促销活动还算成功。）  
 (adv.) (a.)  
-- I know your father rather well.  (我跟你父亲还算蛮熟的。）  
+- I know your father <em>rather</em> well.  (我跟你父亲还算蛮熟的。）  
 (adv.) (adv.)  
