@@ -30,11 +30,11 @@ I <em>could have contributed</em> to the fund drive then,
 only that I <em>didn't have</em> any money with me.   
 （我本来可以响应募款活动的，不过当时身上没带钱。）  
 
-这两个从句都是过去时间。前面的是主要从句，非事实，所以用“过去+完成(could have contributed)”来表示。后面的从句虽然时间相同，可是“没带钱”是事实，所以不必改动语气，直接用过去简单式didn’t have就可以了。
+这两个从句都是过去时间。前面的是主要从句，非事实，所以用“过去+完成(could have contributed)”来表示。后面的从句虽然时间相同，可是“没带钱”是事实，所以不必改动语气，直接用过去简单式 didn’t have 就可以了。
 
-### 五、句型的变
+### 五、句型的变化
 
-化
+
 假设语气的句型很可能不是规规矩矩的“条件从句+主要从句”的形态。例如：
 It's time you kids were in bed. (你们这些小鬼现在该躺在床上了。）
 主要从句it is time是事实上床时间是真的到了，所以用现在简单式。从属从句（不是条件从句）则是非事实：小孩们都还没上床，所以用过去拼法的were in bed来表示非事实语气。再如：
