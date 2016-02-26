@@ -12,7 +12,7 @@
 (B) most of   
 (C) the most  
 (D) most  
-3. We were quite excited to catch the bird ____ .  
+3. We were quite excited to catch the bird ____.  
 (A) live  
 (B) living  
 (C) alive  
@@ -27,7 +27,7 @@
 (B) good  
 (C) better  
 (D) richer  
-6. The most ____ time of life is ____ .  
+6. The most ____ time of life is ____.  
 (A) joyful/young  
 (B) joy/young  
 (C) enjoyable/youth  
@@ -37,7 +37,7 @@
 (B) in the loudest voice possibly  
 (C) in the possible voice loudest  
 (D) in the possibly voice loudest  
-8. His intelligence is ____ .  
+8. His intelligence is ____.  
 (A) superior than mine   
 (B) more superior than hers  
 (C) superior to yours  
