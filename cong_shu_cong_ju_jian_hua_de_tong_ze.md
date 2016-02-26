@@ -95,8 +95,8 @@ He studied hard so that he could get a scholarship.
 He studied hard to get a scholarship.  
 如果怕so that he could省略后意思不清楚，也可如此补充：  
 >>  
-He studied hard so as to get a scholarship.  
-He studied hard in order to get a scholarship.  
+→He studied hard so as to get a scholarship.  
+→He studied hard in order to get a scholarship.  
 
 <b>所以，**从属从句**中如果**有助动词**，简化从句时只要**直接改成不定词**就可以了。</b>  
 #### 2.没有助动词时，变成Ving  
