@@ -86,7 +86,7 @@
    * [名词从句的放大](ming_ci_cong_ju_de_fang_da.md)
    * [疑问句改装的名词从句](yi_wen_ju_gai_zhuang_de_ming_ci_cong_ju.md)
    * [whether 和 if](whether_he_if.md)
-   * 结语
+   * [结语](12_jie_yu.md)
    * [Test 12](test_12.md)
 * [第十三章 副词从句](di_shi_san_zhang_fu_ci_cong_ju.md)
    * [副词从句的种类](fu_ci_cong_ju_de_zhong_lei.md)
