@@ -38,14 +38,15 @@ Whether insured or not, your house, a wooden building, needs a fire alarm.
 
 一个句子可分成主语部分（Subject)与动词引导的部分 (Predicate)。在简单句的五种基本句型中，有四种都是由动词来作最重要的叙述——告诉别人这个主语在做什么。例如：  
 >  
-Birds fly.（鸟儿飞。）  
+Birds <em>fly</em>.（鸟儿飞。）  
 S V  
-Birds cat worms.（鸟儿吃虫。）  
+Birds <em>cat</em> worms.（鸟儿吃虫。）  
 S V O  
-Birds give us songs.（鸟为我们歌唱。）  
+Birds <em>give</em> us songs.（鸟为我们歌唱。）  
 S V O O  
-Birds make the morning beautiful.（鸟儿令清晨无比美妙。） 
+Birds <em>make</em> the morning beautiful.（鸟儿令清晨无比美妙。） 
 S V O C  
+
 这四个不同句型的句子，同样都靠动词告诉别人，鸟做了什么事：“飞、吃虫、为我们歌唱、让清晨美丽”。只有另一种句型—— S+V+C——不然，它的动词没有意义（尤其是be动词)，不能告诉别人鸟在做什么，反而要靠补语来做全部的叙述，告诉别人“鸟怎么样”。be动词只扮演串连主语与补语的角色（所以叫做Linking Verb连缀动词）。例如:
 Birds are lovely.(鸟很可爱。）
 S V C
