@@ -22,9 +22,9 @@ I don't know anybody <em>else</em>. （我不认识别的人。）
 else 这个形容词的用法是配合像 someone,anybody 等的复合名词来使用。因为限定词的 some,any 已经和名词的 one,body 写在 一起，所以中间的形容词位置被挤掉了，else这个形容词就只能放到名词后面去了。
 <b>另外，有些a-开头的古英语形容词，除了可以放在补语位置外，如要用在名词短语中，也只能放在名词后面。</b>这是因为<u>古英语a-的词首代表一种暂时性的状态，类似拉丁文-ing词尾的味道。</u>因而这一类的形容词不适合放在名词语中间代表属性(attribute)的位置。例如：    
 >  
-John and his brother alike are unreliable.    
+John and his brother <em>alike</em> are unreliable.    
 （约翰和他弟弟都不可靠。）   
-Money alone cannot solve our problem.  
+Money <em>alone</em> cannot solve our problem.  
 （光靠钱解决不了我们的问题。  
 
 alike和alone这两个a-开头的古英语都不适合放入名词短语中, 只能放在后面。alone一字在money alone这个例子中的这种用法，也有些语言学家主张把它当作副词来解释。这个问题我们在谈到副词时会处理到。   
