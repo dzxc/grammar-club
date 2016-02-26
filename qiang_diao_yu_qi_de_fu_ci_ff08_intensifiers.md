@@ -28,21 +28,22 @@
 
 这是最典型的 Intensifiers 。它同样也是可以修饰四种主要词类，包括名词在内。<b>它的位置**通常要放在修饰对象的前面**</b>。请看以下的例子：  
 >  
-- He is very much his father’s son.  
+- He is <em>very</em> much his father’s son.  
 （他和他老爸一个调调。）  
 (adv.) (n.)  
-- You’re utterly insane!  
+- You’re <em>utterly</em> insane!  
 (你是完完全全疯了。)  
 (adv.) (a.)  
-- I badly need a drink.  
+- I <em>badly</em> need a drink.  
 (我亟需喝一杯。）  
 (adv.) (v.)   
 
 ### 三、程度副词（Adverbs of Degree）
 
 
-这一类副词和加强语气的副词很像，但是程度副词是用来做“有几成”的表示，而非加强语气。所以，如果把加强语气的副词去掉，只是语气变弱，意思不会变。但是如果拿掉程度副词，意思则可能会发生改变，如：
-The project is almost finished. (计划已经差不多完成了。）
+<b>这一类副词和加强语气的副词很像，但是程度副词是用来做**“有几成”**的表示，而非加强语气</b>  
+所以，<u>如果把加强语气的副词去掉，只是语气变弱，意思不会变。</u>  <b>但是如果拿掉程度副词，意思则可能会发生改变，</u>如：  
+The project is <em>almost</em> finished.   （计划已经差不多完成了。）  
 这个句子中的almost就是程度副词，表示“八九成，还不到十足”的程度，并非加强语气。如果把它拿掉，就变成：
 The project is finished.(计划已经完成。）
 这个意思就和原文不同了。程度副词和另外两类的Intensifiers 一样，也是四大词类都可以修饰，它的位置通常也是要放在修饰对象的前面。例如:
