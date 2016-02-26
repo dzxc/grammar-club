@@ -50,12 +50,12 @@ alike和alone这两个a-开头的古英语都不适合放入名词短语中, 只
 
 <b>单词形状的形容词才能够放入名词短语中间的位置。如果是短语形状而要放到名词短语中，就必须先加上hyphen制造成复合词。</b> 如果原先的短语中有复数的名词存在，还得先把-s去掉，因为要当形容词单词使用，不能有复数。例如：  
 >  
-a <em>turn-of-the-century</em> publication  
+- a <em>turn-of-the-century</em> publication  
 （一册在世纪转换之际出版的作品）  
-an <em>eye-opening</em> experience  
+- an <em>eye-opening</em> experience  
 （令人大开眼界的经验）  
-a <em>five-year-old</em> child  
+- a <em>five-year-old</em> child  
 （一个五岁小孩）  
-a <em>100-watt</em> light bulb  
+- a <em>100-watt</em> light bulb  
 （一支100瓦的灯泡）  
-请注意例句中的eye, year, watt等字都是因为转作形容词使用而把-s去掉。
+请注意例句中的eye, year, watt等字都是因为转作形容词使用而把 -s 去掉。
