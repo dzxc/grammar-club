@@ -16,13 +16,13 @@
 一般语法书常列出以下的规则：大的地方用 in ，小的地方用 at 。但是这种规则不大管用。首先，大、小没有一个客观的判断标准。 其次，这个规则也没有讲出重点：**其实，in 与 at 是“体”与“点”的关系**。例如：  
 - We'll <em>arrive at</em> Honolulu in 5 minutes, where we'll refuel before flying on to San Francisco.  
 （飞机将在五分钟后到达檀香山，加油后继续飞往旧金山。）  
-Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如此告知乘客时，是把它当成由台北到旧金山飞航路线上一个停靠加油的中途“点”，所以介词仍然用at。  
+Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如此告知乘客时，是把它当成由台北到旧金山飞航路线上一个停靠加油的中途“点”，所以介词仍然用 at 。  
 
 再如：  
 
 - The home-coming hero <em>arrived in</em> town and was greeted by the crowd gathered along Main Street.  
 （英雄凯旋回到故乡小镇，受到群众在大街旁夹道欢迎。）    
-这是个小镇，比Honolulu小得多，可是它是这位英雄进入的地方，因而被视为立体的空间，要用in。  
+这是个小镇，比 Honolulu 小得多，可是它是这位英雄进入的地方，因而被视为立体的空间，要用 in 。  
 
 ### 三、made of / made from
 
