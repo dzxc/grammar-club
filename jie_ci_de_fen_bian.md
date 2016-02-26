@@ -86,11 +86,11 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 - Mt.Everest soars <em>above</em> all other peaks in the Alps.  
 (珠穆朗玛峰比阿尔卑斯山的其他山峰都要高。)  
 
-above 的用法就只表示“比较高”。可是：  
+<b><em>above</em> 的用法就只表示“比较高”。</b>可是：  
 - The little child couldn't keep the umbrella <em>over</em> his head and soon got wet.  
 (那个小孩撑不住伞，不一会儿就淋湿了。)  
 
-这个小孩不是雨伞举不高，而是拿不稳，无法一直遮在头顶上方,所以会淋湿。over有这种标示定点的功能，表示“在……上方”。  
+这个小孩不是雨伞举不高，而是拿不稳，无法一直遮在头顶上方,所以会淋湿。 <b><em>over</em> 有这种标示定点的功能，表示“在……上方”。</b>  
 
 ### 八、below/under
 
