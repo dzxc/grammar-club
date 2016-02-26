@@ -56,7 +56,7 @@ crowded在这两个句子中都位于补语位置，用来形容主语 Yangmings
 2. Yangmingshan is <em>the most crowded</em> of Taibei's scenic spots.  
 （阳明山是台北游人最多的风景区。）  
 
-在例1中的补语是名词短语 a crowded scenic spot,形容词 crowded位于名词短语中。在例2中 the most crowded之后虽没有名词，可是有介系词短语of Taibei’s scenic spots (在台北各风景区之中），因而可以看出来是the most crowded one的省略，形容词 most crowded出现于名词短语the one的中间。“在台北各风景区之中最拥挤的‘那个’（风景区)”。在一个特定的范围中指出“最……” 的一个，有明确的指示功能，因而需要定冠词the。这种“指示性”才是要加定冠词的真正原因，光是死背“最高级要加定冠词”，不去了解为什么，也不去分辨是名词短语还是形容词补语，是很容易出错的。又如：
+在例1中的补语是名词短语 a crowded scenic spot,形容词 crowded 位于名词短语中。在例2中 the most crowded 之后虽没有名词，可是有介系词短语 of Taibei’s scenic spots （在台北各风景区之中），因而可以看出来是 the most crowded one 的省略，形容词 most crowded 出现于名词短语 the one 的中间。“在台北各风景区之中最拥挤的‘那个’（风景区)”。在一个特定的范围中指出“最……” 的一个，有明确的指示功能，因而需要定冠词the。这种“指示性”才是要加定冠词的真正原因，光是死背“最高级要加定冠词”，不去了解为什么，也不去分辨是名词短语还是形容词补语，是很容易出错的。又如：
 John is the shorter of the twins.
 (约翰是双胞胎中较矮的那个。)
 这个句子中虽然是比较级，可是shorter在双胞胎之中充分指出说的是哪一位，所以仍然要有定冠词。
