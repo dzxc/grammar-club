@@ -95,9 +95,11 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 ### 八、below/under
 
 
-这一对介系词的关系与上一对类似：<b><u><em>below</em> 表示相对高度较低，而<em> under </em>则有标示定点的功能</u></b>。例如：
-The submarine is <em>below</em> the surface now.
-(潜艇在水面以下了。)
-below只能表示“比较低的高度”。但是：
-Watch out! There's a dog <em>under</em> your car.(小心！车下有只狗！）
-这不是说狗比车子低，而是狗“在车子下方”，所以可能被轧到。under表示的就是“在……下方”。
+这一对介系词的关系与上一对类似：<b><u><em>below</em> 表示相对高度较低，而<em> under </em>则有标示定点的功能</u></b>。例如：  
+- The submarine is <em>below</em> the surface now.  
+(潜艇在水面以下了。)  
+
+<b><em>below</em>只能表示“比较低的高度”。但是：  
+- Watch out! There's a dog <em>under</em> your car.(小心！车下有只狗！）  
+
+这不是说狗比车子低，而是狗“在车子下方”，所以可能被轧到。<b><em>under</em>表示的就是“在……下方”。</b>
