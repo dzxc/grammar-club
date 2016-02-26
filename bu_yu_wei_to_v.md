@@ -134,7 +134,7 @@ He will be the toughest <em>guy</em> <em>to deal with</em>.
 ### 4.不定词的主语不清时如何处理
 
   
-如果主语省略会造成意思不清楚，可以安排主语于介系词短语中以宾语形态出现。最常用的介系词是for。例如：  
+<b>如果主语省略会造成意思不清楚，可以安排**主语于介系词短语中以宾语形态出现**。</b>最常用的介系词是 for 。例如：  
 >   
 I have a job that your brother can do.  
 先行词 关系从句  
