@@ -14,7 +14,7 @@
 还有一些要从意思来判断，例如： 
 - {% em type="red" %}Ex.54 Statistics (be) born in the gambling house.{% endem %}  
 主语statistics代表“统计学”，应用单数。  
-正确用法）Ex.54 was  
+{% em type="red" %}正确用法）Ex.54 was{% endem %}   
 
 - {% em type="red" %}Ex.55  
 The <em>statistics</em> (be) not all accurate.{% endem %}{% endem %}{% endem %}  
