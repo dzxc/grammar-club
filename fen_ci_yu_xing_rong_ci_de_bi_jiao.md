@@ -92,11 +92,11 @@ S V C
 同样的，fall是不及物动词，没有被动态，所以are fallen虽然 是"be+Ven”的构造，也不是被动态，而应解释为完成，“落下来了”。  
 句型是：  
 >  
-- The leaves <em>are fallen</em>.  
+The leaves <em>are fallen</em>.  
 （叶子全掉下来了。）  
 S V C  
 过去分词仍然做形容词解释。  
-- <em>I'm done.</em>It’s all yours.  
+<em>I'm done.</em>It’s all yours.  
 （我已经好了,该你用了。）  
 
 如果在学校用完了电脑，让给在你后面排队的人，就可以说这句话。这里的do固然是及物动词，可是不能解释为“我被做了”，只能说“我做完了”。因此am done仍然不是被动态，应该把done 视为形容词，解释为完成意义的“做完了”。  
