@@ -108,7 +108,7 @@ This is exactly the time we should do it.
 >  
 1. He will be the toughest guy.  
 O  
-2. u>You<u> u>must deal<u> u>with the guy<u>.  
+2. <u>You</u> <u>must deal</u> <u>with</u> <u>the guy</u>.  
 S V 介系词 O  
 
 例2中的the guy是介系词with的宾语，它和例1的guy重复而建立关系，改写成关系词来连接两句：  
