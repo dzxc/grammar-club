@@ -58,7 +58,7 @@ crowded在这两个句子中都位于补语位置，用来形容主语 Yangmings
 
 在例1中的补语是名词短语 a crowded scenic spot,形容词 crowded 位于名词短语中。在例2中 the most crowded 之后虽没有名词，可是有介系词短语 of Taibei’s scenic spots （在台北各风景区之中），因而可以看出来是 the most crowded one 的省略，形容词 most crowded 出现于名词短语 the one 的中间。“在台北各风景区之中最拥挤的‘那个’（风景区)”。在一个特定的范围中指出“最……” 的一个，有明确的指示功能，因而需要定冠词the。这种“指示性”才是要加定冠词的真正原因，光是死背“最高级要加定冠词”，不去了解为什么，也不去分辨是名词短语还是形容词补语，是很容易出错的。又如：  
 >  
-John is the shorter of the twins.  
+John is <em>the shorter</em> of the twins.  
 （约翰是双胞胎中较矮的那个。)  
 
 这个句子中虽然是比较级，可是shorter在双胞胎之中充分指出说的是哪一位，所以仍然要有定冠词。
@@ -66,7 +66,7 @@ John is the shorter of the twins.
 ### 三、that和 those 的使用
 
 
-比较级的句子要求对称工整，包括比较的对象在内。例如:  
+**比较级的句子要求对称工整，包括比较的对象在内**。例如:  
 >  
 My car is bigger than you.(误)  
 这句话就讲不通。我的车怎么能拿来和你的人相比呢？应该这样说才对称：  
@@ -78,7 +78,7 @@ My car is bigger than yours.（我的车比你的大。）
 Cars made in Taiwan are better than those made in Korea.  
 （台湾车比韩国车好。）  
 
-台湾车和韩国车比，势必要重复一个“车”字。这是对称的要求。可是从修辞的角度来看，重复要尽量避免。在不宜重复，又不能省略的状况之下，就要用代名词来取代。读者可能会问：用代名词为什么不用it/they，而得用that/those呢？因为，人称代名词的it/ they代表的就是先行词。在上例中如果用they，代表的就是cars made in Taiwan，而不能代表cars made in Korea。这时只能用限定词those，表示后面省掉了重复的名词cars。而those made in Korea 就是those cars made in Korea，不同于cars made in Taiwan，这样才算把两种车子分清楚。
+台湾车和韩国车比，势必要重复一个“车”字。这是对称的要求。可是从修辞的角度来看，重复要尽量避免。在不宜重复，又不能省略的状况之下，就要用代名词来取代。读者可能会问：用代名词为什么不用 it/they ，而得用 that/those 呢？因为，人称代名词的 it/ they 代表的就是先行词。在上例中如果用 they ，代表的就是 cars made in Taiwan ，而不能代表 cars made in Korea 。这时只能用限定词 those ，表示后面省掉了重复的名词 cars 。而 those made in Korea 就是 those cars made in Korea ，不同于 cars made in Taiwan ，这样才算把两种车子分清楚。
 
 ### 四、比较级的倒装
 
