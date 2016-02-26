@@ -58,11 +58,13 @@ John is not a man who can be trusted.
 
 不定词中如果是及物动词，又有加不加宾语的差别。这也要看原来关系从句的句型来判断。例如：  
 >  
-1. This is exactly the thing to do.（这正是该做的事。）
-先行词 简化形容词从句
-2. This is exactly the time to do it.
-先行词 简化形容词从句
-（是做这件事的时候了。）
+1. This is exactly the thing to do.  
+先行词 简化形容词从句  
+（这正是该做的事。）
+2. This is exactly the time to do it.  
+先行词 简化形容词从句  
+（是做这件事的时候了。）  
+
 例1可视为由这两句变化而来:  
 >  
 This is exactly the thing.  
@@ -140,7 +142,7 @@ I have a job that your brother can do.
 I have a job your brother can do.  
 先行词 关系从句  
 
-这个关系从句的动词can do照样可简化为to do,但是主语your brother 不宜省略，不然会变成I have a job to do （我自己有件差事要做)。碰到这种主语不能省略的情形，可以用介系词短语来安插主语（这是配合不定词时的选择，若非不定词则另当别论)，成为:  
+这个关系从句的动词 can do 照样可简化为 to do ,但是主语 your brother  不宜省略，不然会变成 I have a job to do  （我自己有件差事要做）。碰到这种主语不能省略的情形，可以用介系词短语来安插主语（这是配合不定词时的选择，若非不定词则另当别论），成为:  
 >  
 I have a job for your brother to do.  
 先行词 简化形容词从句  
