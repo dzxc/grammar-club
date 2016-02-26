@@ -1,8 +1,7 @@
 # 补语为 to V
 
 <b>如果**关系从句的动词有语气助动词**存在，就会成为**不定词补语**留下来。</b>  
-例如：  
-uJohn is the one who <em>should</em> go this time.  
+例如：  uJohn is the one who <em>should</em> go this time.  
 ( 这次是约翰走人。)    
 先行词 关系从句   
 
@@ -109,7 +108,7 @@ This is exactly the time we should do it.
 >  
 1. He will be the toughest guy.  
 O  
-2. <u>You</u> <u>must deal</u> <u>with the guy</u>.  
+2. u>You<u> u>must deal<u> u>with the guy<u>.  
 S V 介系词 O  
 
 例2中的the guy是介系词with的宾语，它和例1的guy重复而建立关系，改写成关系词来连接两句：  
@@ -125,7 +124,7 @@ He will be the toughest guy you must deal with.
 
 如果对方知道你的意思，那么关系从句的主语you就可省略，再把must简化为to，即成为：  
 >  
-He will be the toughest <em>guy</em> <em>to deal with</em>.  
+He will be the toughest <u>guy</u> <u>to deal with</u>.  
 先行词 简化形容词从句  
 
 不定词后面如果跟有介系词，大多是这个道理，只要还原成关系从句即可明白。  
