@@ -17,7 +17,7 @@
 ### 三、混合时间的变化
 
 
-<b>**假设语气**的<u>两个从句之间</u>，**时间可能不同**，**要分别判断**。</b>例如：   
+<b>假设语气的<u>两个从句之间**时间可能不同**</u>，**要分别判断**。</b>例如：   
 >  
 If I <em>had studied</em> harder in school, I <em>could qualify</em> for the job now.
 (我在学校时要是好好念书，现在就可以符合这项工作的要求了。）  
@@ -27,7 +27,7 @@ If I <em>had studied</em> harder in school, I <em>could qualify</em> for the job
 ### 四、混合真假的变化
 
 
-<b>在**假设语气中**，**两个从句间**的真假也可能不同</b>，例如：  
+<b>在假设语气中，**两个从句间的真假也可能不同**</b>，例如：  
 >  
 I <em>could have contributed</em> to the fund drive then,
 only that I <em>didn't have</em> any money with me.   
