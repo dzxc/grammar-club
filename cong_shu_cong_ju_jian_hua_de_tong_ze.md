@@ -1,21 +1,28 @@
 # 从属从句简化的通则
 
 <b>不论是名词类、形容词类还是副词类的从属从句，简化的共同原则是**省略主语与be动词，只保留补语部分**。</b>  
-这当中还有一些变化，例如若省略从属从句的主语会造成主语不清时该如何处理？剩下的补语部分如果词类与原来的从属从句词类不同时要怎么办？还有，连接词是否应一并省略？这些问题在不同词类的从属从句中，处理的方式不尽相同，当分别探讨。不过，<u>**“省略主语与 be 动词，只留补语”**，可以视为所有从属从句简化的共通原则</u>，是相当重要的观念，学习简化从句不妨从这个观念着手。
+这当中还有一些变化，例如若省略从属从句的主语会造成主语不清时该如何处理？剩下的补语部分如果词类与原来的从属从句词类不同时要怎么办？还有，连接词是否应一并省略？这些问题在不同词类的从属从句中，处理的方式不尽相同，当分别探讨。  
+不过，<u>**“省略主语与 be 动词，只留补语”**，可以视为所有从属从句简化的共通原则</u>，是相当重要的观念，学习简化从句不妨从这个观念着手。
 
 ### 一、为何省略主语？
 
 
-如果从属从句的主语是空洞的字眼(one、everybody, people 等)，或者从属从句主语在主要从句中重复出现，从修辞的角度来看皆有违精简的原则，如果能省略会更简洁。例如：
-1.It is common courtesy that one should wear black while one
-S V C
-attends a funeral.
-(参加丧礼时应该穿黑衣，这是基本礼貌。）
-这个句子的主要从句是It is common courtesy，至于由连接词 that引导的名词从句that one should wear black及连接词while引导的副词从句while one attends a funeral这两个从属从句的主语都是 one，代表anyone (任何人)，所以是空洞的字眼，可以省略掉，成为：
-It is common courtesy to wear black while attending a funeral.
-去除这两个空洞的主语，句子的意思还是一样，但是变得紧凑多了，修辞效果就比原来的句子好。再看下例：
+如果<u>**从属从句的主语是空洞的字眼**</u>(<em>one、everybody, people </em>等)，或者<u>**从属从句主语在主要从句中重复出现**</u>，从修辞的角度来看皆有违精简的原则，如果能省略会更简洁。例如：  
+>  
+<u>It</u> <u>is</u> <u>common courtesy</u> that one should wear black while one attends a funeral.  
+S V C  
+（参加丧礼时应该穿黑衣，这是基本礼貌。）  
+
+这个句子的主要从句是 It is common courtesy ，至于由连接词 that 引导的名词从句 that one should wear black 及连接词 while 引导的副词从句 while one attends a funeral 这两个从属从句的主语都是 one，代表 anyone (任何人)，所以是空洞的字眼，可以省略掉，成为：  
+>  
+It is common courtesy to wear black while attending a funeral.  
+
+去除这两个空洞的主语，句子的意思还是一样，但是变得紧凑多了，修辞效果就比原来的句子好。  
+
+再看下例：  
+>  
 2. Whether it is insured or not, your house, which is a wooden
-S
+S<u>
 building, needs a fire alarm.
 V C
 (你的房子是木造建筑，不论有没有保险都应该装个火警警钤。）
