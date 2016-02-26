@@ -36,7 +36,7 @@ Whether insured or not, your house, a wooden building, needs a fire alarm.
 ### 二、为何省略 be 动词？
 
 
-<b>一个句子可分成主语部分（Subject)与动词引导的部分 (Predicate)。在简单句的五种基本句型中，有四种都是由动词来作最重要的叙述——告诉别人这个主语在做什么。</b>例如：  
+一个句子可分成主语部分（Subject)与动词引导的部分 (Predicate)。<b>在简单句的五种基本句型中，有四种都是由动词来作最重要的叙述——告诉别人这个主语在做什么。</b>例如：  
 >  
 Birds <em>fly</em>.（鸟儿飞。）  
 S V  
