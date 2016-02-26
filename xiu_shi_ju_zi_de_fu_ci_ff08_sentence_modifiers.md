@@ -23,18 +23,27 @@
 ### 二、分离副词(Disjuncts)
 
 
-把它归于修饰句子的副词类是方便的分法。严格说起来，它应该是属于修饰另一句话的方法、状态副词。请看例句：
-Scientifically, the experiment was a success.
-(adv.)
-(从科学的角度来说，这个实验成功了。）
-固然scientifically可以说是修饰全句，可是深入一点来看，这个句子是下面这句的省略：
-Scientifically speaking, the experiment was a success.
-(adv.)
-这个副词其实是修饰动词speak的方法状态副词。更进一步把简化从句还原成下面的原貌：
-If we are speaking scientifically, the experiment was a success.
-(adv.)
-这个例子可以看出来，原来有两句话。第一句被简化成只剩一个方法、状态副词scientifically,修饰“怎么说”，再附在第二句上。看到这个地步，就不难了解为什么这个副词要有逗点隔开了——原来那是两个从句之间的逗号！分离副词也可以调到主语动词中间的位置以及句尾的位置，可是仍然要有逗号隔开。请比较下面的例子：
-You're not answering my questions honestly.(你并没有老实回答我。）
-Honestly, what are you going to do about it?
-(老实说，你打算如何处置呢？）
-第一句的honestly是单纯的方法、状态副词，修饰动词answer。第二句的honestly则是分离副词，原本是honestly speaking (老实说)。它是简化从句的残余，可以为方便起见归于修饰全句的副词类。
+把它归于修饰句子的副词类是方便的分法。<u>严格说起来，它应该是属于修饰另一句话的方法、状态副词。</u>请看例句：  
+
+- <em>Scientifically</em>, the experiment was a success.  
+(adv.)  
+（从科学的角度来说，这个实验成功了。）  
+
+固然 scientifically 可以说是修饰全句，可是深入一点来看，这个句子是下面这句的省略：  
+
+- <em>Scientifically</em> speaking, the experiment was a success.  
+(adv.)  
+
+这个副词其实是修饰动词speak的方法状态副词。更进一步把简化从句还原成下面的原貌：  
+
+- If we are speaking <em>scientifically</em>, the experiment was a success.  
+(adv.)  
+
+这个例子可以看出来，原来有两句话。第一句被简化成只剩一个方法、状态副词 scientifically ,修饰“怎么说”，再附在第二句上。看到这个地步，就不难了解为什么这个副词要有逗点隔开了——原来那是两个从句之间的逗号！分离副词也可以调到主语动词中间的位置以及句尾的位置，可是仍然要有逗号隔开。请比较下面的例子：  
+
+- You're not <em>answering</em> my questions <em>honestly</em>.   
+（你并没有老实回答我。）  
+- <em>Honestly</em>, what are you going to do about it?  
+（老实说，你打算如何处置呢？）  
+第一句的 honestly 是单纯的方法、状态副词，修饰动词answer 。  
+第二句的 honestly 则是分离副词，原本是 honestly speaking  (老实说)。它是简化从句的残余，可以为方便起见归于修饰全句的副词类。
