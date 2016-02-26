@@ -136,7 +136,7 @@ He will be the toughest <em>guy</em> <em>to deal with</em>.
   
 <b>如果主语省略会造成意思不清楚，可以安排**主语于介系词短语中以宾语形态出现**。</b>最常用的介系词是 for 。例如：  
 >   
-I have a job that your brother can do.  
+I have a job <em>that</em> your brother can do.  
 先行词 关系从句  
 （我有件差事想请你哥哥来做。）  
 
@@ -145,7 +145,7 @@ I have a job that your brother can do.
 I have a job your brother can do.  
 先行词 关系从句  
 
-这个关系从句的动词 can do 照样可简化为 to do ,但是主语 your brother  不宜省略，不然会变成 I have a job to do  （我自己有件差事要做）。碰到这种主语不能省略的情形，可以用介系词短语来安插主语（这是配合不定词时的选择，若非不定词则另当别论），<em>成为:  
+这个关系从句的动词 can do 照样可简化为 to do ,但是主语 your brother  不宜省略，不然会变成 I have a job to do  （我自己有件差事要做）。碰到这种主语不能省略的情形，可以用介系词短语来安插主语（这是配合不定词时的选择，若非不定词则另当别论），成为:  
 >  
-I have a job for your brother to do.  
+I have a job <em>for</em> your brother to do.  
 先行词 简化形容词从句  
