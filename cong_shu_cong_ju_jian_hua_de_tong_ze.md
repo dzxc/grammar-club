@@ -95,13 +95,20 @@ He studied hard so as to get a scholarship.
 He studied hard in order to get a scholarship.  
 
 <b>所以，**从属从句**中如果**有助动词**，简化从句时只要**直接改成不定词**就可以了。</b>  
-#### 2.没有助动词时，变成Ving
-从属从句中若无be动词，也无助动词，可以如此思考：先加个be动词进去，原来的动词就加上-ing，使它成为进行式的形态。如此一来就有了be动词，Ving之后的部分则视为补语而保留下来。然后同样把主语和be动词这两个没有意义的部分省略，就完成了简化的动作。例如：  
+#### 2.没有助动词时，变成Ving  
+
+<b>从属从句中若无 be 动词，也无助动词</b>，可以如此思考：<b>**先加个 be 动词进去**，原来的动词就加上 -ing ，使它成为进行式的形态。如此一来就有了 be 动词， Ving 之后的部分则视为补语而保留下来。</b><u>然后同样把主语和 be 动词这两个没有意义的部分省略，就完成了简化的动作</u>。  
+例如：  
+>  
 John remembers that he saw the lady before.  
 S V 连接词 O  
 (约翰记得以前见过这位女士。)  
-从属连接词that所引导的宾语从句that he saw the lady before中，主语he就是主要从句的主语John，可省略。可是动词saw不是be动词，又没有助动词，所以无法省略。但是简化从句中不能留下这种动词，否则句型错误(John remembers saw the lady before 是错的，因为有两个动词)。这时候只要先把he saw the lady before 改成he was seeing the lady before，就有be动词了。当然，这里用进行式并不恰当，可是只要把he was省略就可避免这个问题：  
+
+从属连接词 that 所引导的宾语从句 that he saw the lady before 中，主语 he 就是主要从句的主语 John ，可省略。可是动词 saw 不是 be 动词，又没有助动词，所以无法省略。但是简化从句中不能留下这种动词，否则句型错误( John remembers saw the lady before 是错的，因为有两个动词)。这时候只要先把 he saw the lady before 改成he was seeing the lady before ，就有 be 动词了。当然，这里用进行式并不恰当，可是只要把he was省略就可避免这个问题： 
+>  
 John remembers seeing the lady before.  
 S V O  
-原来的that he saw the lady before是名词从句，作为主要从句中remembers的宾语。现在变成seeing the lady before,可以当动名词看待，仍是名词类，同样作宾语使用，符合词类要求又完整保留原意，这就是成功的简化从句。  
+
+原来的 that he saw the lady before 是名词从句，作为主要从句中 remembers 的宾语。现在变成 seeing the lady before ,可以当动名词看待，仍是名词类，同样作宾语使用，符合词类要求又完整保留原意，这就是成功的简化从句。   
+
 <b>所以，**从属从句简化**时，**如果没有be动词可省略**，也**没有助动词可改成不定词**，**一律加上-ing**,**使动词成为Ving**的形态留下来即可。</b>
