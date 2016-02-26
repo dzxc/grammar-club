@@ -54,24 +54,28 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 ### 五、throw to/throw at
 
 
-to代表方向，例如:
-I forgot my keys.Please get them at my desk and <em>throw</em> them <em>to</em> me.
-(我忘记带钥匙。请从我桌上拿来扔给我。)
-这时你在交待别人朝你的方向扔过来。可是：
-The kids are <em>throwing</em> rocks <em>at</em> the poor dog.
-(小孩子往那可怜的狗身上扔石头。)
-这时候，小孩子在瞄准这只狗要打它，是把它当做一个点，希望能打中，所以就要用at了。
+**to 代表方向**，例如:  
+- I forgot my keys.Please get them at my desk and <em>throw</em> them <em>to</em> me.  
+(我忘记带钥匙。请从我桌上拿来扔给我。)  
+
+这时你在交待别人朝你的方向扔过来。可是：  
+- The kids are <em>throwing</em> rocks <em>at</em> the poor dog.  
+(小孩子往那可怜的狗身上扔石头。)  
+
+这时候，小孩子在瞄准这只狗要打它，是把它当做**一个点**，希望能打中，所以**就要用 at 了**。
 
 ### 六、from...to/from...through
 
 
-请看下例：
-The circus will be here four months,<em>from</em> May <em>to</em> September.
-(马戏团要在这里表演四个月，从五月到九月。)
-由五月到九月，没有讲明日期，可能是五月中到九月中，所以大概是四个月。但是：
-The circus will be here five months,<em>from</em> May <em>through</em> September.
-(马戏团要在这里表演五个月，从五月一直到九月。)
-through是“穿过”，所以用来表示起迄时间时，意思是“头、尾皆包括在内”，所以是五月一日至九月卅日，包含整个的五月和九月，因而是五个月的时间。
+请看下例：  
+- The circus will be here four months,<em>from</em> May <em>to</em> September.  
+(马戏团要在这里表演四个月，从五月到九月。)  
+
+由五月到九月，没有讲明日期，可能是五月中到九月中，所以大概是四个月。但是：  
+- The circus will be here five months,<em>from</em> May <em>through</em> September.  
+(马戏团要在这里表演五个月，从五月一直到九月。)  
+
+**through 是“穿过”**，<b>所以用来表示起迄时间时，意思是“头、尾皆包括在内”</b>，所以是五月一日至九月卅日，包含整个的五月和九月，因而是五个月的时间。
 
 ### 七、above/overabove
 
