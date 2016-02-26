@@ -106,7 +106,7 @@ This is exactly the time we should do it.
 >  
 1. He will be the toughest guy.  
 O  
-2. You must deal with the guy.  
+2. <em>You</em> <em>must deal</em> <em>with the guy</em>.  
 S V 介系词 O  
 
 例2中的the guy是介系词with的宾语，它和例1的guy重复而建立关系，改写成关系词来连接两句：  
@@ -122,7 +122,7 @@ He will be the toughest guy you must deal with.
 
 如果对方知道你的意思，那么关系从句的主语you就可省略，再把must简化为to，即成为：  
 >  
-He will be the toughest guy to deal with.  
+He will be the toughest <em>guy</em> <em>to deal with</em>.  
 先行词 简化形容词从句  
 
 不定词后面如果跟有介系词，大多是这个道理，只要还原成关系从句即可明白。  
@@ -142,7 +142,7 @@ I have a job that your brother can do.
 I have a job your brother can do.  
 先行词 关系从句  
 
-这个关系从句的动词 can do 照样可简化为 to do ,但是主语 your brother  不宜省略，不然会变成 I have a job to do  （我自己有件差事要做）。碰到这种主语不能省略的情形，可以用介系词短语来安插主语（这是配合不定词时的选择，若非不定词则另当别论），成为:  
+这个关系从句的动词 can do 照样可简化为 to do ,但是主语 your brother  不宜省略，不然会变成 I have a job to do  （我自己有件差事要做）。碰到这种主语不能省略的情形，可以用介系词短语来安插主语（这是配合不定词时的选择，若非不定词则另当别论），<em>成为:  
 >  
 I have a job for your brother to do.  
 先行词 简化形容词从句  
