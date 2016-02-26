@@ -3,20 +3,20 @@
 <b>**这种倒装句是把地方副词挪到句首**，句型和there is/are的句型很接近，修辞功能在于**强调语气**，以及**衔接上下文**。</b>  
 例如： 
 >  
-- There goes the train!  
+There goes the train!  
 地方副词 V S  
 (你看，火车开走了！）  
 
 这个句子以倒装句处理，可以强调动词goes，表示“正在开走”。  
 再如： 
 >  
-- <u>Here</u> <u>is</u> <u>your ticket</u> for the opera!  
+<u>Here</u> <u>is</u> <u>your ticket</u> for the opera!  
 地方副词 V S  
 (你的歌剧票，拿去吧！）  
 
 除了 here,there之外，其他的地方副词也可以倒装，例如：  
 >  
-- In Loch Ness dwells a mysterious monster.  
+In Loch Ness dwells a mysterious monster.  
 地方副词 V S  
 （尼斯湖里住着一头神秘的水怪。）  
 
