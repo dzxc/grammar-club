@@ -105,6 +105,10 @@ out of his hermitage.
 (C) Occasionally  
 (D) Sometimes  
 
+
+---
+
+
 **Answer key 22**
 >  
 1.(B)    
