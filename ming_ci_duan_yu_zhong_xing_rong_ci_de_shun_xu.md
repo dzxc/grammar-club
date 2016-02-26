@@ -13,6 +13,7 @@ The murderer left behind <em>a <u>bloody</u> <u>old</u> <u>black</u> <u>Italian<
 
 leather 放得最近 glove ,因为 leather 是内容， glove 是形式。内容与形式是不可分的。就算手套剪碎了，皮革材料还在里面。表示产地的 Italian 也是属于不可变的因素。而且，an Italian glove (意大利手套)有相当强的表示属性的功能——告诉别人这是哪一种手套。至于说颜色black，在皮革染上黑色之后就不会变了。old这个字则是手套制成之后由新慢慢变旧。至于bloody，原先没有沾血，行凶时沾上。只要拿去洗，随时可以变干净，旧则不能再变新了。所以， bloody 这个形容词和“手套”的属性最无关，也是最可变的修饰语，就要放在这一堆 attributive adjectives 的最前面。再看一个例子：  
 >  
-He's wearing a handsome old brown U.S. Air Force leather flying jacket.  
-（他穿一件帅气、陈旧、褐色、美国空军的皮质飞行夹克。）  
-这个例子提供读者依据上述原则去揣摩一下。提示handsome是主观的字眼。夹克帅不帅，见仁见智，所以handsome是和jacket 的属性最无关的字眼。而flying jacket—定要放在一起才能表示“飞行夹克”，所以flying是表示这种夹克属性最强的字眼，要放得最接近。
+He's wearing <em>a handsome old brown U.S. Air Force leather flying</em> jacket.  
+（他穿一件帅气、陈旧、褐色、美国空军的皮质飞行夹克。）   
+
+这个例子提供读者依据上述原则去揣摩一下。提示 handsome 是主观的字眼。夹克帅不帅，见仁见智，所以 handsome 是和 jacket   的属性最无关的字眼。而 flying jacket 一定要放在一起才能表示“飞行夹克”，所以 flying 是表示这种夹克属性最强的字眼，要放得最接近。
