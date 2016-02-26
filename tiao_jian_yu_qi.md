@@ -11,7 +11,7 @@
 
 #### 一、表达时间的功能不完整
 
-语气助动词中，<em>must</em> 和 <em>should</em> 这两个词在拼法上没有变化。至于 <em>will/would,can/could,may/might</em> 这三对，虽然拼法有变化，可是并不表示时间，而是语气的变化：每一对的后者比前者更不确定。例如：  
+语气助动词中，<em>must</em> 和 <em>should</em> 这两个词在拼法上没有变化。至于 <em>will/would,can/could,may/might</em> <b>这三对，虽然拼法有变化，可是并不表示时间，而是语气的变化：**每一对的后者比前者更不确定**。</b>例如：  
 >  
 1. The doctor thinks it <em>can be</em> AIDS.  
 （医生认为可能是艾滋病。）  
