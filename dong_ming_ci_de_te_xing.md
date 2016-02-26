@@ -21,7 +21,7 @@ I am not afraid of <em>death</em>,but I am scared of <em>dying</em>.
 
 
 >  
-There are two weddings at the restaurant tonight.  
+There are <em>two weddings</em> at the restaurant tonight.  
 (这家餐厅今晚有两场婚礼。）  
 
 大部分的动名词是不可数名词，可是也有一些是可数的，像例句中的two  weddings 。动名词的前面有限定词 two ，后面加 -s 表示复数。这种用法跟普通名词没有两样，不定词却不能这样使用，这是动名词与不定词的差别之一。<b>**动名词的结构**很像**普通名词**，可以**有冠词**（例如：the burning); **有所有格**（例如：his running);**有复数**（例如：two weddings )。而**不定词**的结构则是**to加原形动词**，以**短语形态出现**（例如：to run, to leave )，不能加限定词或复数。</b>  
