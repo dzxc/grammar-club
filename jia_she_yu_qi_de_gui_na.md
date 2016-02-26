@@ -24,10 +24,12 @@ If I had studied harder in school, I could qualify for the job now.
 ### 四、混合真假的变化
 
 
-在假设语气中，两个从句间的真假也可能不同，例如：  
-I could have contributed to the fund drive then,
-only that I didn't have any money with me.
-(我本来可以响应募款活动的，不过当时身上没带钱。）
+<b>在**假设语气中**，**两个从句间**的真假也可能不同</b>，例如：  
+>  
+I <em>could have contributed</em> to the fund drive then,
+only that I <em>didn't have</em> any money with me.   
+（我本来可以响应募款活动的，不过当时身上没带钱。）  
+
 这两个从句都是过去时间。前面的是主要从句，非事实，所以用“过去+完成(could have contributed)”来表示。后面的从句虽然时间相同，可是“没带钱”是事实，所以不必改动语气，直接用过去简单式didn’t have就可以了。
 
 ### 五、句型的变
