@@ -31,7 +31,7 @@ Unit 3 is <u>as boring as</u> Unit 4. （第三单元和第四单元一样无聊
 |often   |oftener(more often)   |oftenest(most often)   |
 |shallow   |shallower(more shallow)   |shallowest(most shallow)   |
 
-<b>如果是<em>-y</em>结尾，这个长母音因为发音上的要求，要先变成短母音的 <em>i</em> ,再加字尾变化</b>，如：  
+<b>如果是 <em>-y</em> 结尾，这个长母音因为发音上的要求，要先变成短母音的 <em>i</em> ,再加字尾变化</b>，如：  
 
 |y结尾形容词   |
 |:-:|---|---|
