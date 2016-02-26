@@ -43,7 +43,7 @@ only that I <em>didn't have</em> any money with me.
 It's time you kids <em>were</em> in bed.   
 （你们这些小鬼现在该躺在床上了。）  
 
-主要从句 it is time 是事实上床时间是真的到了，所以用现在简单式。从属从句（不是条件从句）则是非事实：小孩们都还没上床，所以用过去拼法的were in bed来表示非事实语气。再如：  
+主要从句 it is time 是事实上床时间是真的到了，所以用现在简单式。从属从句（不是条件从句）则是非事实：小孩们都还没上床，所以用过去拼法的 were in bed 来表示非事实语气。再如：  
 >  
 If only I had more time!  
 （要是时间多一点有多好！）    
