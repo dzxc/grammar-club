@@ -17,12 +17,12 @@ Unit 3 is <u>as boring as</u> Unit 4. （第三单元和第四单元一样无聊
 
 |两个音节典型的形容词词尾             |
 |:-:|---|---|---|---|
-|crowd <u>ed</u>  |more   |crowded   |most   | crowded  |
-|lov <u>ing</u>   |more   |loving   |   |loving   |
-| help <u>ful</u>  |more   |helpful   | most  |helpful   |
-|usel <u>ess</u>   |more   |useless   |most   |useless   |
-|fam <u>ous</u>   |more   |famous   |most   |famous   |
-|act <u>ive</u>   |more   |active|most   |active   |
+|crowd <u>ed</u>  |more crowded   |most crowded  |
+|lov <u>ing</u>   |more loving   | most loving   |
+| help <u>ful</u>  |more helpful   | most helpful   |
+|usel <u>ess</u>   |more useless   |most useless   |
+|fam <u>ous</u>   |more famous   |most famous   |
+|act <u>ive</u>   |more active|most active   |
 
 <b>这些两个音节的词都是典型的形容词词尾，应分成两个词处理。其他的双音节形容词，如果不是典型的形容词字尾，变化则无限制。</b>例如：  
 
