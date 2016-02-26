@@ -105,7 +105,7 @@ This is exactly the time we should do it.
 ### 3.不定词后面有无介系词的判断
 
 
-<b>有些不定词宾语后面会跟个介系词，像to talk to、to deal with、to get into 等。这是因为介系词后面的宾语就是关系词，径行省略之故，因而只见介系词不见宾语。</b>例如：  
+<b>有些不定词宾语后面会跟个介系词，像 <em>to talk to,to deal with,to get into</em>  等。这是因为介系词后面的宾语就是关系词，径行省略之故，因而只见介系词不见宾语。</b>例如：  
 >  
 1. He will be the toughest guy.  
 O  
