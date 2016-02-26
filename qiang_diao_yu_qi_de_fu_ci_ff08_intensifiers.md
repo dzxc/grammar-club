@@ -5,32 +5,38 @@
 ### 一、强调范围的副词(Focusing Adverbs)
 
 
-**强调范围的副词**，这一类的副词不多，典型的像  <em>only,merely,also,especially, particularly,even</em> 等字就是这一类。它的功能在于**清楚界定出所谈事物的范围**，好比照相机对焦(focusing)的动作一般。它的**位置要求很严格**，<b>有些要放在所修饰对象的前面，有些则要放在后面，但都**不能和修饰的对象有任何距离**。</b>因为它可以修饰任何词类，只要位置一变动，意思也就跟着发生变化。以下举only为例说明:
-例：I heard about the accident yesterday.
-(我昨天听说了这件意外。）
-Only I heard about the accident yesterday. (No one else did.)
-(只有我是昨天听说这件意外的。）
-I only heard about the accident yesterday. (I didn't see it.)
-(我昨天只是听说了这件意外。）
-I heard about only the accident yesterday.
-(I didn't hear anything else.)
-(我昨天全听人在讲这件意外。）
-I heard about the accident only yesterday.
-(I didn't hear about it earlier.)
-(我直到昨天才听说这件意外。）
-这几个例子中，only分别修饰代名词I、动词heard、名词the accident与副词yesterday,可是都一样是当副词使用。
+**强调范围的副词**，这一类的副词不多，典型的像  <em>only,merely,also,especially, particularly,even</em> 等字就是这一类。它的功能在于**清楚界定出所谈事物的范围**，好比照相机对焦(focusing)的动作一般。它的**位置要求很严格**，<b>有些要放在所修饰对象的前面，有些则要放在后面，但都**不能和修饰的对象有任何距离**。</b>因为它可以修饰任何词类，只要位置一变动，意思也就跟着发生变化。以下举 <em>only</em> 为例说明:  
+>  
+- I heard about the accident yesterday.  
+（我昨天听说了这件意外。）  
+- <em>Onl</em>y I heard about the accident yesterday.   (No one else did.)  
+（只有我是昨天听说这件意外的。）  
+- I <em>onl</em>y heard about the accident yesterday.   (I didn't see it.)  
+（我昨天只是听说了这件意外。）
+- I heard about <em>onl</em>y the accident yesterday.  
+（I didn't hear anything else.)  
+(我昨天全听人在讲这件意外。）  
+- I heard about the accident <em>onl</em>y yesterday.  
+(I didn't hear about it earlier.)  
+（我直到昨天才听说这件意外。）  
+
+这几个例子中，only 分别修饰代名词 I、动词 heard 、名词 the accident 与副词 yesterday ,可是都一样是当副词使用。
 
 
 ### 二、加强语气的副词（Intensifiers）
 
 
-这是最典型的Intensifiers。它同样也是可以修饰四种主要词类，包括名词在内。它的位置通常要放在修饰对象的前面。请看以下的例子：
-He is very much his father’s son.（他和他老爸一个调调。）
-(adv.) (n.)
-You’re utterly insane!(你是完完全全疯了。)
-(adv.) (a.)
-I badly need a drink.(我亟需喝一杯。）
-(adv.) (v.)
+这是最典型的 Intensifiers 。它同样也是可以修饰四种主要词类，包括名词在内。<b>它的位置**通常要放在修饰对象的前面**</b>。请看以下的例子：  
+>  
+- He is very much his father’s son.  
+（他和他老爸一个调调。）  
+(adv.) (n.)  
+- You’re utterly insane!  
+(你是完完全全疯了。)  
+(adv.) (a.)  
+- I badly need a drink.  
+(我亟需喝一杯。）  
+(adv.) (v.)   
 
 ### 三、程度副词（Adverbs of Degree）
 
