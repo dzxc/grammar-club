@@ -2,23 +2,32 @@
 
 <b>如果**关系从句的动词有语气助动词**存在，就会成为**不定词补语**留下来。</b>  
 例如：  
-John is the one who <em>should</em> go this time.(这次是约翰走人。)  
-先行词 关系从句  
-关系从句中的who should go固然没有be动词，只要将其改成 who is to go就有了，且意思相近，再把who is省略，即成为：  
-John is <em>the one to go</em> this time.  
-简化形容词从句
+- John is the one who <em>should</em> go this time.  
+( 这次是约翰走人。)    
+先行词 关系从句   
+
+关系从句中的 who should go 固然没有 be 动词，只要将其改成 who is to go 就有了，且意思相近，再把 who is 省略，即成为：  
+- John is <em>the one to go</em> this time.   
+简化形容词从句  
 不定词的词类是“不一定”什么词类，也就是当名词、形容词、副词使用皆可。所以也符合原来关系从句的词类，可以形容先行词 the one，是正确的简化从句。
-1.不定词的主动、被动判断
-不定词也有主动与被动之分。其间的选择如果还原成关系从句就可以看得很清楚。例如：
-1. John is not a man to trust.(约翰这人不可信。）
-简化形容词从句
-2. John is not a man to be trusted.
-简化形容词从句
-例1和例2都对。为什么？这得看看原来的关系从句是什么。如果原先是这两句：
-John is not a man.
-O
-One can trust the man.
-S V O
+
+#### 1.不定词的主动、被动判断
+
+
+不定词也有主动与被动之分。其间的选择如果还原成关系从句就可以看得很清楚。例如：  
+>  
+- 1. John is not a man to trust.（ 约翰这人不可信。）  
+简化形容词从句  
+- 2. John is not a man to be trusted.  
+简化形容词从句  
+
+例1和例2都对。为什么？这得看看原来的关系从句是什么。如果原先是这两句：  
+>  
+John is not a man.  
+O   
+One can trust the man.  
+S V O  
+
 后面这一句的宾语the man就是前一句的a man，可以改为关系词，合成：
 John is not a man whom one can trust.
 先行词 关系从句
@@ -33,7 +42,7 @@ S V
 就会成为这个复句：
 John is not a man who can be trusted.
 先行词 关系从句
-从这个关系从句简化出来（省略主语who,助动词改为不定词），即可得出例2 John is not a man to be trusted的结果。所以在这个例子中，不定词采主动或被动皆可。至于该用主动还是被动，要看上下文决定，不可一概而论。
+从这个关系从句简化出来（省略主语 who ,助动词改为不定词），即可得出例2 John is not a man to be trusted 的结果。所以在这个例子中，不定词采主动或被动皆可。至于该用主动还是被动，要看上下文决定，不可一概而论。
 2.不定词有无宾语的判断
 不定词中如果是及物动词，又有加不加宾语的差别。这也要看原来关系从句的句型来判断。例如：
 1. This is exactly the thing to do.(这正是该做的事。）
