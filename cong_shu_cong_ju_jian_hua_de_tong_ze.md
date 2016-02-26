@@ -61,7 +61,7 @@ S V C
 ### 三、没有 be 动词怎么办？
 
 
-<b>如果从属从句中没有be动词可为省略，那么可分为两种情形来处理。</b>  
+<b>如果从属从句中没有 be 动词可为省略，那么可分为两种情形来处理。</b>  
 
 #### 1.有助动词时，变成不定词
 
@@ -83,17 +83,17 @@ S V C
 5.Children can't watch this movie.  
 >>→Children are not to watch this movie. （这部电影儿童不能看。）  
 
-当然，助动词改写成be加不定词，表达的意思不如原来的精确。这是为求简洁所作的牺牲。不过也可以用<em>going to、willing to、able to、likely to、in order to、so as to、free to、bound to</em> 等等来补充，况且依附于主要从句中又可以靠上下文来暗示，所以不会偏离原意。例如：  
+当然，助动词改写成 be 加不定词，表达的意思不如原来的精确。这是为求简洁所作的牺牲。不过也可以用 <em>going to、willing to、able to、likely to、in order to、so as to、free to、bound to</em> 等等来补充，况且依附于主要从句中又可以靠上下文来暗示，所以不会偏离原意。例如：  
 >  
 He studied hard so that he could get a scholarship.  
 连接词  
 （他努力学习以获得奖学金。）  
 
-从属连接词so that所引导的副词从句中，主语he与主要从句的主语重复，可以省略。动词could get可以改写为was (able) to get,如此可省去be动词，留下补语部分的to get a scholarship,连接词也不再需要，就成为：  
+从属连接词 so that 所引导的副词从句中，主语 he 与主要从句的主语重复，可以省略。动词 could get 可以改写为 was (able) to get ,如此可省去 be 动词，留下补语部分的 to get a scholarship ,连接词也不再需要，就成为：  
 
 >  
 He studied hard to get a scholarship.  
-如果怕so that he could省略后意思不清楚，也可如此补充：  
+如果怕 so that he could 省略后意思不清楚，也可如此补充：  
 >>  
 →He studied hard so as to get a scholarship.  
 →He studied hard in order to get a scholarship.  
