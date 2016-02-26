@@ -2,7 +2,7 @@
 
 <b>如果**关系从句的动词有语气助动词**存在，就会成为**不定词补语**留下来。</b>  
 例如：  
-- John is the one who <em>should</em> go this time.  
+uJohn is the one who <em>should</em> go this time.  
 ( 这次是约翰走人。)    
 先行词 关系从句   
 
@@ -109,7 +109,7 @@ This is exactly the time we should do it.
 >  
 1. He will be the toughest guy.  
 O  
-2. <em>You</em> <em>must deal</em> <em>with the guy</em>.  
+2. <u>You</u> <u>must deal</u> <u>with the guy</u>.  
 S V 介系词 O  
 
 例2中的the guy是介系词with的宾语，它和例1的guy重复而建立关系，改写成关系词来连接两句：  
