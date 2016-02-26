@@ -45,5 +45,5 @@
 （你并没有老实回答我。）  
 - <em>Honestly</em>, what are you going to do about it?  
 （老实说，你打算如何处置呢？）  
-第一句的 honestly 是单纯的方法、状态副词，修饰动词answer 。  
-第二句的 honestly 则是分离副词，原本是 honestly speaking  (老实说)。它是简化从句的残余，可以为方便起见归于修饰全句的副词类。
+第一句的 honestly 是单纯的方法、状态副词，修饰动词 answer 。  
+第二句的 honestly 则是分离副词，原本是 <em>honestly speaking</em>  (老实说)。它是简化从句的残余，可以为方便起见归于修饰全句的副词类。
