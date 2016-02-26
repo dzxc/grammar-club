@@ -17,10 +17,9 @@
 {% em type="red" %}正确用法）Ex.54 was{% endem %}   
 
 - {% em type="red" %}Ex.55  
-The <em>statistics</em> (be) not all accurate.{% endem %}{% endem %}{% endem %}  
-
+The <em>statistics</em> (be) not all accurate.{% endem %}  
 这时statistics代表一批统计数字（才能说“并非全都正确”），所以要用复数。  
-正确用法：Ex.55 are{% endem %} 
+{% em type="red" %}正确用法：Ex.55 are{% endem %} 
 
 
 以上所述，大致涵盖了处理一致性的所有重要原则。不过这方面的问题是知易行难。读者一定要多读多写，才能避免错误。本章全用例题说明，因而不另附练习。
