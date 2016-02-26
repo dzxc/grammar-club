@@ -89,6 +89,7 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 above 的用法就只表示“比较高”。可是：  
 - The little child couldn't keep the umbrella <em>over</em> his head and soon got wet.  
 (那个小孩撑不住伞，不一会儿就淋湿了。)  
+
 这个小孩不是雨伞举不高，而是拿不稳，无法一直遮在头顶上方,所以会淋湿。over有这种标示定点的功能，表示“在……上方”。  
 
 ### 八、below/under
