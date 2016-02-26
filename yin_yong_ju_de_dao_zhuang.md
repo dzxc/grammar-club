@@ -18,7 +18,7 @@ The WHO warns that cholera is coming back.
 S V O(间接引句)  
 （世界卫生组织警告：霍乱已死灰复燃。）  
 这句话有一个间接引句，除了选择把整个宾语从句移到句首之外，也可以选择只把引用句的主语移到句首来加强语气，主要从句倒装，成为：  
->  
+>>  
 Cholera, <u>warns</u> <u>the WHO</u>, is coming back.  
 V S  
 
