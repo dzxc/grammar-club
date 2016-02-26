@@ -6,5 +6,5 @@
 （比尔·克林顿，美国总统，是生育高峰期出生的。）
 
 由who引导的关系从句以名词短语 President of the U.S. 为补语，简化主语与be动词后就剩下它。这就是传统语法所谓的同位语：
-Bill Clinton, <em>President of the U.S.</em>, is a Baby Boomer.
+- Bill Clinton, <em>President of the U.S.</em>, is a Baby Boomer.  
 先行词 简化形容词从句
