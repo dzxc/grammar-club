@@ -3,7 +3,7 @@
 ### 练习一
 
 
-将下列各句中的副词从句（即部分）改写为简化从句:
+<b>将下列各句中的副词从句（即部分）改写为简化从句:</b>
 1. <u>After he was told to report to his supervisor</u>, the clerk left in a hurry.
 2. <u>Although he was ordered to leave</u>, the soldier did not move an inch.
 3. The plan must be modified <u>before it is put into effect</u>.
@@ -20,7 +20,7 @@ accident.
 ### 练习二
 
 
-请选出最适当的答案填入空格内，以使句子完整。  
+<b>请选出最适当的答案填入空格内，以使句子完整。</b>  
 >  
 1. ____ not a big star, the actor played in hundreds of films.  
 (A) Although  
@@ -79,7 +79,7 @@ accident.
 
 **Answer key 20**
 
-### 练习一
+<b>练习一</b>
 
 
 1. (Having been) told to report to his supervisor, the clerk left in a hurry.
@@ -95,7 +95,7 @@ wreck.
 或 Pork being so expensive, I'm buying beef instead.
 10. Considering his handicap, he has done very well indeed.
 
-### 练习二
+<b>练习二</b>
 
 >  
 1.(A)  
