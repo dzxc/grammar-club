@@ -18,7 +18,7 @@
 （影片因而并非十全十美。）  
 - It is still a good movie; <em>besides</em>, good romances are rare these days.  
 (adv.)  
-（这部片子还是不错，况且近来好的文艺片不多了。
+（这部片子还是不错，况且近来好的文艺片不多了。）
 
 ### 二、分离副词(Disjuncts)
 
