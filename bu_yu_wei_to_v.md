@@ -16,9 +16,9 @@
 
 不定词也有主动与被动之分。其间的选择如果还原成关系从句就可以看得很清楚。例如：  
 >  
-- 1. John is not a man to trust.（ 约翰这人不可信。）  
+- 1. John is not a man <em>to trust</em>.（ 约翰这人不可信。）  
 简化形容词从句  
-- 2. John is not a man to be trusted.  
+- 2. John is not a man <em>to be trusted</em>.  
 简化形容词从句  
 
 例1和例2都对。为什么？这得看看原来的关系从句是什么。如果原先是这两句：  
