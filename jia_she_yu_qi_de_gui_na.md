@@ -16,7 +16,7 @@
 ### 三、混合时间的变化
 
 
-假设语气的两个从句之间，时间可能不同，要分别判断。例如：   
+<b>假设语气的<u>两个从句之间</u>，**时间可能不同**，**要分别判断**。</b>例如：   
 >  
 If I <em>had studied</em> harder in school, I <em>could qualify</em> for the job now.
 (我在学校时要是好好念书，现在就可以符合这项工作的要求了。）  
