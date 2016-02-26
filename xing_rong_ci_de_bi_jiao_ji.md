@@ -2,9 +2,9 @@
 
 修饰语包括形容词与副词，都有比较级与最高级。形容词的比较级，可以视为“大于、小于、等于”这三种逻辑关系的表现方式。 例如：  
 >  
-Unit 3 is shorter than Unit 4. (第三单元比第四单元短。）  
-Unit 3 is less difficult than Unit 4. (第三单元没第四单元难。）  
-Unit 3 is as boring as Unit 4. (第三单元和第四单元一样无聊。）  
+Unit 3 is <u>shorter than</u> Unit 4. (第三单元比第四单元短。）  
+Unit 3 is <u>less difficult than</u> Unit 4. (第三单元没第四单元难。）  
+Unit 3 is <u>as boring as</u> Unit 4. (第三单元和第四单元一样无聊。）  
 
 
 ### 一、比较级的拼法
