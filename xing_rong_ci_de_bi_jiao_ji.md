@@ -68,7 +68,8 @@ John is <em>the shorter</em> of the twins.
 
 **比较级的句子要求对称工整，包括比较的对象在内**。例如:  
 >  
-My car is bigger than you.(误)  
+~~My car is bigger than you.~~(误)   
+
 这句话就讲不通。我的车怎么能拿来和你的人相比呢？应该这样说才对称：  
 >  
 My car is bigger than yours.（我的车比你的大。）  
@@ -83,7 +84,7 @@ Cars made in Taiwan are better than those made in Korea.
 ### 四、比较级的倒装
 
 
-比较级一定会有重复的部分，因而会有省略，也因此可以有倒装句法。例如：   
+**比较级一定会有重复的部分，因而会有省略，也因此可以有倒装句法**。例如：   
 >  
 A chimp has as much I.Q. as a child of five or six does.  
 S V  
