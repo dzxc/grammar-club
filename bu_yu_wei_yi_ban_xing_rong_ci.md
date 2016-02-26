@@ -11,4 +11,4 @@ Hilary Clinton,who is pretty and intelligent,is a popular First Lady.
 Hilary Clinton, pretty and intelligent, is a popular First Lady.  
 先行词 简化形容词从句  
 
-了解形容词从句的简化，就可以了解pretty and intelligent是简化从句的补语部分。由此观之，形容词只有两种位置：名词短语中 (a pretty woman)及补语位置(the woman is pretty)。如果乍看之下两个位置都不是，那么多半就是简化形容词从句的残留补语。
+了解形容词从句的简化，就可以了解 pretty and intelligent 是简化从句的补语部分。由此观之，形容词只有两种位置：**名词短语中**  (a pretty woman) 及**补语位置** (the woman is pretty) 。如果乍看之下两个位置都不是，那么多半就是简化形容词从句的残留补语。
