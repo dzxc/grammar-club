@@ -63,20 +63,19 @@ S V C
   
 这是因为**所有的语气助动词都可以改写成be动词加不定词**，例如：  
 >  
-You must go at once.  
+1.You must go at once.  
 >>→You are to go at once.（你必须马上离开。）  
-
 >  
-The train will leave in 10 minutes.  
+2.The train will leave in 10 minutes.  
 >>→The train is to leave in 10 minutes.（火车 10 分钟后开动） 
 >  
-He should do as I say.  
+3.He should do as I say.  
 >>→He is to do as I say.（他该按我说的去做。） 
 >  
-You may call me "Sir."  
+4.You may call me "Sir."  
 >>→You are to call me "Sir." （你可以叫我“先生”。）  
 >  
-Children can't watch this movie.  
+5.Children can't watch this movie.  
 >>→Children are not to watch this movie. （这部电影儿童不能看。）  
 
 当然，助动词改写成be加不定词，表达的意思不如原来的精确。这是为求简洁所作的牺牲。不过也可以用<em>going to、willing to、able to、likely to、in order to、so as to、free to、bound to</em> 等等来补充，况且依附于主要从句中又可以靠上下文来暗示，所以不会偏离原意。例如：  
