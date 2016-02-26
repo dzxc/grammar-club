@@ -17,8 +17,8 @@
 
 <b>**有几个特别的形容词**出现在名词短语中时，**不放在中间，却要放在名词后面**。</b>例如：  
 >  
-Someone else will have to do it. (另外要有人去做这事。)  
-I don't know anybody else. (我不认识别的人。）  
+Someone <em>else</em> will have to do it. (另外要有人去做这事。)  
+I don't know anybody <em>else</em>. (我不认识别的人。）  
 
 else这个形容词的用法是配合像someone、anybody等的复合名词来使用。因为限定词的some、any已经和名词的one、body写在 一起，所以中间的形容词位置被挤掉了，else这个形容词就只能放到名词后面去了。
 另外，有些a-开头的古英语形容词，除了可以放在补语位置外，如要用在名词短语中，也只能放在名词后面。这是因为古英语a-的词首代表一种暂时性的状态，类似拉丁文-ing词尾的味道。因而这一类的形容词不适合放在名词语中间代表属性(attribute)的位置。例如：
