@@ -37,7 +37,8 @@ only that I <em>didn't have</em> any money with me.
 ### 五、句型的变化
 
 
-假设语气的句型很可能不是规规矩矩的“条件从句+主要从句”的形态。例如：
+<b>假设语气的句型**很可能不是规规矩矩的“条件从句+主要从句”的形态**。</b>例如：  
+>  
 It's time you kids were in bed. (你们这些小鬼现在该躺在床上了。）
 主要从句it is time是事实上床时间是真的到了，所以用现在简单式。从属从句（不是条件从句）则是非事实：小孩们都还没上床，所以用过去拼法的were in bed来表示非事实语气。再如：
 If only I had more time! (要是时间多一点有多好！）
