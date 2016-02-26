@@ -46,7 +46,7 @@ Unit 3 is <u>as boring as</u> Unit 4. （第三单元和第四单元一样无聊
 >  
 1.Yangmingshan is crowded.（阳明山人潮汹涌。）  
 S C  
-2.Yangmingshan is most crowded in March. （三月的阳明山人最多。）  
+2.Yangmingshan is <em>most crowded</em> in March. （三月的阳明山人最多。）  
 S C  
 
 crowded在这两个句子中都位于补语位置，用来形容主语 Yangmingshan。因为不出现在名词短语中，自然不可能有冠词。再看下例：  
