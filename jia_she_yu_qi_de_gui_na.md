@@ -17,7 +17,7 @@
 ### 三、混合时间的变化
 
 
-<b>假设语气中，**两个从句之间时间可能不同**，**要分别判断**。</b>例如：   
+<b>假设语气中，**两个从句之间时间可能不同**<em>，**要分别判断**。</b>例如：   
 >  
 If I <em>had studied</em> harder in school, I <em>could qualify</em> for the job now.
 (我在学校时要是好好念书，现在就可以符合这项工作的要求了。）  
@@ -45,12 +45,12 @@ It's time you kids <em>were</em> in bed.
 
 主要从句 it is time 是事实上床时间是真的到了，所以用现在简单式。从属从句（不是条件从句）则是非事实：小孩们都还没上床，所以用过去拼法的 were in bed 来表示非事实语气。再如：  
 >  
-If only I had more time!  
+If only I <em>had</em> more time!  
 （要是时间多一点有多好！）    
 
 这是现在时间的假设语气，可是只留下条件从句，把整个主要从句省略掉了（有时间就可以如何，并没有交待)。还有：  
 >  
-I wish I had more time!   
+I <em>wish</em> I <em>had</em> more time!   
 （真希望时间能多一点！）  
 
 主要从句是事实：我真的希望，所以用现在简单式 I wish 。宾语从句（不是条件从句）则是非事实：时间并不能多出来，所以要用过去式的假设语气had来表示。
