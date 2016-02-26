@@ -16,8 +16,9 @@
 ### 三、混合时间的变化
 
 
-假设语气的两个从句之间，时间可能不同，要分别判断。例如：
-If I had studied harder in school, I could qualify for the job now.
+假设语气的两个从句之间，时间可能不同，要分别判断。例如：   
+>  
+If I <em>had studied</em> harder in school, I <em>could qualify</em> for the job now.
 (我在学校时要是好好念书，现在就可以符合这项工作的要求了。）
 条件从句是过去时间（在学校时）的假设语气，要退后成过去完成式(had studied) 来表示非事实。可是主要从句是现在时间(now)，只要用过去拼法的could就可以表达非事实了，不需用到“过去+ 完成(could have qualified)”。
 
