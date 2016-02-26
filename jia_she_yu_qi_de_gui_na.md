@@ -55,6 +55,10 @@ I wish I had more time!
 主要从句是事实：我真的希望，所以用现在简单式 I wish 。宾语从句（不是条件从句）则是非事实：时间并不能多出来，所以要用过去式的假设语气had来表示。
 <b>假设语气的句型变化还有很多，不必一一说明。读者见到此种句型，从**“真、假”**与**“时间”**两个角度去判断就可以了。</b>  
 
+
+---
+
+
 [^ 1]: 例 1. If I <em>were you</em>, I <em>wouldn't do</em> it.（假如我是你的话，我就不干。）
 [^ 2]: 例 2. If I <em>had known</em> earlier, I <em>might have done</em> something. （如果我早知道的话，也许早就采取一些行动了。）  
 [^ 3]: 例 3. If an asteroid <em>should hit</em> the earth, man <em>could die</em> out.（如果小行星撞击地球，人类可能会灭绝。）
