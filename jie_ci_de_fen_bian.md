@@ -37,17 +37,19 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 ### 四、between/amon
 
 
-一般语法书说 between 用于表示两者之间， among 则是三者以上，大致说来是可以接受的，可是要拿它当规则来背，就会有例外。其实这两个介系词的差别主要不在两个与多个之差，而在于：<b><u>**between** 有标示位置的功能</u>，**among** 则没有。</b>例如：  
+<u>一般语法书说 between 用于表示两者之间， among 则是三者以上，大致说来是可以接受的</u>，可是要拿它当规则来背，就会有例外。其实这两个介系词的差别主要不在两个与多个之差，而在于：<b><u>**between** 有标示位置的功能</u>，**among** 则没有。</b>例如：  
+- Taizhong lies <em>between</em> Taibei and Tainan.  
+(台中位于台北与台南之间。)   
 
-- Taizhong lies <em>between</em> Taibei and Tainan.
-(台中位于台北与台南之间。)
-说出两端来，而台中在两者之间，这时台中的位置自然就标出了范围。
-<em>Among</em> the major cities in Taiwan,Taizhong is the cleanest.
-(在台湾主要城市中，台中最为整洁。)
-在这个例子中，among只表示台中是各大都市之一，没有标示台中位置的功能，只知它在台湾岛上，没有表示位于何处。再看下例：
-Taibei lies <em>between</em> Taoyuan,Yilan and Jilong.
-(台北位于桃园、宜兰和基隆之间。)
-在这个例子中，between后面有三个地名，可是仍然要用between，因为现在不是说Taibei属于这三者之一，而是用这三个地名来标示范围，把台北夹在中间。既然是在标示位置，就该用 between。
+说出两端来，而台中在两者之间，这时台中的位置自然就标出了范围。  
+- <em>Among</em> the major cities in Taiwan,Taizhong is the cleanest.  
+(在台湾主要城市中，台中最为整洁。)  
+
+在这个例子中，among只表示台中是各大都市之一，没有标示台中位置的功能，只知它在台湾岛上，没有表示位于何处。再看下例：  
+- Taibei lies <em>between</em> Taoyuan,Yilan and Jilong.  
+(台北位于桃园、宜兰和基隆之间。)  
+
+在这个例子中，between 后面有三个地名，可是仍然要用 between ，因为现在不是说 Taibei 属于这三者之一，而是用这三个地名来标示范围，把台北夹在中间。既然是在标示位置，就该用  between 。
 
 ### 五、throw to/throw at
 
