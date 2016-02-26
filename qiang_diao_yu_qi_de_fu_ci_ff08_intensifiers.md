@@ -43,16 +43,22 @@
 
 <b>这一类副词和加强语气的副词很像，但是程度副词是用来做**“有几成”**的表示，而非加强语气</b>  
 所以，<u>如果把加强语气的副词去掉，只是语气变弱，意思不会变。</u>  <b>但是如果拿掉程度副词，意思则可能会发生改变，</u>如：  
+>  
 The project is <em>almost</em> finished.   （计划已经差不多完成了。）  
-这个句子中的almost就是程度副词，表示“八九成，还不到十足”的程度，并非加强语气。如果把它拿掉，就变成：
-The project is finished.(计划已经完成。）
-这个意思就和原文不同了。程度副词和另外两类的Intensifiers 一样，也是四大词类都可以修饰，它的位置通常也是要放在修饰对象的前面。例如:
-You can buy practically anything at a mall.
-(adv.) (n.)
-(在购物中心几乎什么都买得到。）
-I can hardly hear you.(我快听不到你在说什么了。）
-(aux.) (adv.) (v.)
-The promotion was moderately successful. (促销活动还算成功。）
-(adv.) (a.)
-I know your father rather well.(我跟你父亲还算蛮熟的。）
-(adv.) (adv.)
+
+这个句子中的 <em>almost</em> 就是程度副词，表示“八九成，还不到十足”的程度，并非加强语气。如果把它拿掉，就变成：  
+>  
+The project is finished.  
+（计划已经完成。）  
+
+这个意思就和原文不同了。程度副词和另外两类的 Intensifiers  一样，也是四大词类都可以修饰，**它的位置通常也是要放在修饰对象的前面**。例如:  
+>  
+- You can buy practically anything at a mall.  （在购物中心几乎什么都买得到。）  
+(adv.) (n.)   
+- I can hardly hear   you.  
+（我快听不到你在说什么了。）  
+(aux.) (adv.) (v.)   
+- The promotion was moderately successful.   （促销活动还算成功。）  
+(adv.) (a.)  
+- I know your father rather well.  (我跟你父亲还算蛮熟的。）  
+(adv.) (adv.)  
