@@ -2,11 +2,11 @@
 
 在开始谈比较级的倒装前，有一些关于比较级的修辞问题应先弄清楚，请看这个例子：  
 >  
-1. Girls like cats more than boys.(不清楚）  
+1. Girls like cats <em>more than boys</em>.(不清楚）  
 这个句子可能有两种意思：  
-2. Girls like cats more than boys do.  
+2. Girls like cats <em>more than boys do</em>.  
 （女孩比男孩更喜欢猫。）  
-3. Girls like cats more than they like boys.  
+3. Girls like cats <em>more than they like boys</em>.  
 （女孩比较喜欢猫，比较不喜欢男孩。）  
 
 <b>比较级的句型通常会牵涉到两个从句互相比较。这两个从句间应有重复的部分才能比较。一旦有重复，就有省略的空间。</b>  
