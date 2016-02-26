@@ -2,7 +2,7 @@
 
 八大词类当中，**属于修饰语性质的有形容词和副词两种**。这两种词类之间的分工，<b>在语法书中都是说<u>形容词用来修饰名词</u>，而<u>副词用来修饰名词以外的词类（包括动词、形容词与副词）</u></b>。这个区分大致说来成立。<b>可是，如果要求比较周延一点，就知道<u>有若干种副词其实也可以用来修饰名词类</u></b>。例如：  
 >  
-Vegetables, especially spinach, are good for you.  
+Vegetables, <em>especially</em> spinach, are good for you.  
 （蔬菜，尤其是菠菜，有益健康。）  
 
 这个例子当中就是用副词类的 especially 来修饰名词类的 spinach。要了解这些变化，就得很清楚认识副词的分类。
