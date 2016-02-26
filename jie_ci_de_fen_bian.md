@@ -80,7 +80,7 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 ### 七、above/overabove
 
 
-above表示相对高度超过，over则有标示定点的功能。 例如：
+<b><u><em>above</em> 表示相对高度超过</u>，<u><em>over</em> 则有标示定点的功能。</u></b>例如：
 Mt.Everest soars <em>above</em> all other peaks in the Alps.
 (珠穆朗玛峰比阿尔卑斯山的其他山峰都要高。)
 above的用法就只表示“比较高”。可是：
