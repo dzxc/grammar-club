@@ -27,7 +27,7 @@
 (B) good  
 (C) better  
 (D) richer  
-6. The most ____ time of life is ____.  
+6. The most ______time of life is______.  
 (A) joyful/young  
 (B) joy/young  
 (C) enjoyable/youth  
