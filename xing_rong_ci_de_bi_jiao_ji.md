@@ -22,4 +22,4 @@ Unit 3 is <u>as boring as</u> Unit 4. （第三单元和第四单元一样无聊
 | help <u>ful</u>  |more   |helpful   | most  |helpful   |
 |usel <u>ess</u>   |more   |useless   |most   |useless   |
 |fam <u>ous</u>   |more   |famous   |most   |famous   |
-|act <u>ive</u>   |more   |active<u>   </em>|most   |active   |
+|act <u>ive</u>   |more   |active|most   |active   |
