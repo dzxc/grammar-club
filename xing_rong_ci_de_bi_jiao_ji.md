@@ -62,7 +62,10 @@ John is the shorter of the twins.
 （约翰是双胞胎中较矮的那个。)  
 
 这个句子中虽然是比较级，可是shorter在双胞胎之中充分指出说的是哪一位，所以仍然要有定冠词。
-三、that和 those 的使用
+
+### 三、that和 those 的使用
+
+
 比较级的句子要求对称工整，包括比较的对象在内。例如:  
 >  
 My car is bigger than you.(误)  
@@ -76,7 +79,10 @@ Cars made in Taiwan are better than those made in Korea.
 （台湾车比韩国车好。）  
 
 台湾车和韩国车比，势必要重复一个“车”字。这是对称的要求。可是从修辞的角度来看，重复要尽量避免。在不宜重复，又不能省略的状况之下，就要用代名词来取代。读者可能会问：用代名词为什么不用it/they，而得用that/those呢？因为，人称代名词的it/ they代表的就是先行词。在上例中如果用they，代表的就是cars made in Taiwan，而不能代表cars made in Korea。这时只能用限定词those，表示后面省掉了重复的名词cars。而those made in Korea 就是those cars made in Korea，不同于cars made in Taiwan，这样才算把两种车子分清楚。
-四、比较级的倒装
+
+### 四、比较级的倒装
+
+
 比较级一定会有重复的部分，因而会有省略，也因此可以有倒装句法。例如：   
 >  
 A chimp has as much I.Q. as a child of five or six does.  
