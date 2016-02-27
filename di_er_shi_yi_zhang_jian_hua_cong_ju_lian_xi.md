@@ -55,13 +55,17 @@ puzzled the medical team.
 2. The resort town has resumed its air of tranquillity.  
 （这个度假小镇又恢复了平静。）  
 
-这两句话之间没有重复的元素，但有逻辑关系存在：在观光客走了之后，或是因为观光客都走了，小镇才得以恢复平静。这时可以用副词从句的方式，选择恰当的连接词（after、because、now that等）附在句1前面，再把句1与句2并列即可：
+这两句话之间没有重复的元素，但有逻辑关系存在：在观光客走了之后，或是因为观光客都走了，小镇才得以恢复平静。这时可以用副词从句的方式，选择恰当的连接词（after、because、now that 等）附在句1前面，再把句1与句2并列即可：  
+>  
 Now that the summer tourists are all gone, the resort town has resumed
-its air of tranquillity.
-Now that引导的副词从句若要进一步简化，关键在主语、动词两个部分。主语the summer tourists与主要从句并无重复，必须保留下来以免损害句意。动词部分有be动词(are)，后面还有补语 (gone)。这时若去掉be动词，留下主语与补语，就破坏了这个副词从句的结构，可以省略连接词now that，成为：
+its air of tranquillity.  
+
+Now that 引导的副词从句若要进一步简化，关键在主语、动词两个部分。主语 the summer tourists 与主要从句并无重复，必须保留下来以免损害句意。动词部分有 be 动词(are)，后面还有补语 (gone)。这时若去掉 be 动词，留下主语与补语，就破坏了这个副词从句的结构，可以省略连接词 now that ，成为：
+>  
 (With) the summer tourists all gone, the resort town has resumed its
-air of tranquillity.
-如果最前面没有加上with，而是以the summer tourists all gone直接代表一个简化的副词从句，这种讲法比较文诌诌，不够口语化。
+air of tranquillity.  
+
+如果最前面没有加上 with ，而是以 the summer tourists all gone 直接代表一个简化的副词从句，这种讲法比较文诌诌，不够口语化。
 较口语化的做法是，用介系词with来取代连接词now that的意义，而把the tourists放在with后面作它的宾语，all gone仍然作补语，即成为上句中多一个with在前面的句型。
 
 #### 例三
