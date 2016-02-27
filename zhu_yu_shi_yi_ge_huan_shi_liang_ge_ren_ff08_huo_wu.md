@@ -1,6 +1,6 @@
 # 主语是一个还是两个人（或物）？
 
-这部分主要讨论对等连接词and的判断。请比较：
+<b>这部分主要讨论对等**连接词and**的判断。</b>请比较：
 Ex.1 Your brother John (have) come to see you.
 Ex.2 Your brother and John (have) come to see you.
 句1中的your brother可以看出来就是John，是同一个人，所以是单数的主语，要用单数的动词。然而在句2中一旦加上对等连接词，成为your brother and John之后，就是两个人，是复数的主语，要用复数的动词。一般说来，对等连接词and出现在主语中,往往表示主语有两个人（或物)，所以应该是复数。
