@@ -57,12 +57,12 @@ puzzled the medical team.
 
 这两句话之间没有重复的元素，但有逻辑关系存在：在观光客走了之后，或是因为观光客都走了，小镇才得以恢复平静。这时可以用副词从句的方式，选择恰当的连接词（after、because、now that 等）附在句1前面，再把句1与句2并列即可：  
 >  
-<em>Now that the summer tourists are all gone, the resort town has resumed
+<em>Now that the summer tourists are all gone</em>, the resort town has resumed
 its air of tranquillity.  
 
 Now that 引导的副词从句若要进一步简化，关键在主语、动词两个部分。主语 the summer tourists 与主要从句并无重复，必须保留下来以免损害句意。动词部分有 be 动词(are)，后面还有补语 (gone)。这时若去掉 be 动词，留下主语与补语，就破坏了这个副词从句的结构，可以省略连接词 now that ，成为：
 >  
-<em>(With) the summer tourists all gone, the resort town has resumed its
+<em>(With) the summer tourists all gone</em>, the resort town has resumed its
 air of tranquillity.  
 
 如果最前面没有加上 with ，而是以 the summer tourists all gone 直接代表一个简化的副词从句，这种讲法比较文诌诌，不够口语化。
@@ -80,17 +80,19 @@ air of tranquillity.
 
 这三句话中，句1和句2有一个交叉：Confucius 。经由这个交叉点建立关系，可用关系从句的方式连结，将句2的 Confucius 改写为关系词 who ，成为：  
 >  
-(1+2) Confucius, <em>who lived in the Eastern Zhou Dynasty, must have written on pieces of bamboo.  
+(1+2) Confucius, <em>who lived</em> in the Eastern Zhou Dynasty, must have written on pieces of bamboo.  
 
 这个关系从句( who lived in the Eastern Zhou Dynasty )可以进行简化，省略重复的主语 who ，再把普通动词 lived 改写为 living ，即成为简化形容词从句：  
 >  
-Confucius, <em>living in the Eastern Zhou Dynasty, must have written on pieces of bamboo.  
+Confucius, <em>living</em> in the Eastern Zhou Dynasty, must have written on pieces of bamboo.  
 
-东周时代的孔子为什么要用竹简写字？是因为句3:纸到东汉时期才有。句3的内容表示原因，所以用副词从句的方式——外加连接词 because 成为副词从句，与主要从句并列，即得到：
-（+3）Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, <em>because paper was not available until the Eastern Han Dynasty.
+东周时代的孔子为什么要用竹简写字？是因为句3:纸到东汉时期才有。句3的内容表示原因，所以用副词从句的方式——外加连接词 because 成为副词从句，与主要从句并列，即得到：  
+>  
+（+3）Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, <em>because paper was not available</em> until the Eastern Han Dynasty.  
+
 句中的副词从句（because 之后的部分）如要进一步简化，又要观察主语与动词部分。主语 paper 没有重复，必须留下来。动词虽然是 be 动词，可是副词从句的简化中，一旦留下主语，就得有个分词配合（传统语法称为分词构句)，所以使用 be 动词来制造分词 being ，并省略连接词 because ，即成为简化的副词从句：  
 >  
-Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, <em>paper not being available until the Eastern Han Dynasty.  
+Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, <em>paper not being available</em>. until the Eastern Han Dynasty.  
 
 #### 例四
 
@@ -104,14 +106,14 @@ Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of ba
 
 这个例子中的句1和句2也有一个交叉：the movable-type press，可以将它改写为关系词which，以关系从句方式连接：  
 >  
-（1+2) The movable-type press, <em>which was invented by Gutenberg, was introduced to England in 1485.  
+（1+2) The movable-type press, <em>which was</em> invented by Gutenberg, was introduced to England in 1485.  
 这个关系从句（ which 引导的部分）可以直接简化，省略主语 which 和 be 动词 was ，只保留补语 invented 这个部分，即成为简化的形容词从句：
 >  
-The movable-type press,<em>invented by Gutenberg, was introduced to England in 1485.  
+The movable-type press,<em>invented</em> by Gutenberg, was introduced to England in 1485.  
 
 句3中的主语 this event (这个事件）指的就是上面整句话的那个事件。这时候因为上面的句子比较长，可以先加个同位语 an event ，再用它和句3主语 the event 的交叉构成关系从句，成为：
 >  
-（+3) The movable-type press, invented by Gutenberg, was introduced to England in 1485, <em>an event which marked the end of the Dark Ages there.  
+（+3) The movable-type press, invented by Gutenberg, was introduced to England in 1485, <em>an event which marked</em> the end of the Dark Ages there.  
 
 要进一步简化这个句子，可以把重复部分 an event 删除，再省略关系从句的主语 which ，把动词 marked 改成分词 marking:
 The movable-type press, invented by Gutenberg, was introduced to
