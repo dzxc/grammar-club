@@ -30,7 +30,7 @@ senator 是参议员，delegate  是代表。到底是一个人还是两个人�
 ---
 
 
-<b>因此限定词可以帮助判断名词短语的单复数。</b><u>不过 <em>every</em> 这个限定词又有不同的考量。</u>例如：  
+<b>因此**限定词**可以帮助判断**名词短语的单复数**。</b><u>不过 <em>every</em> 这个限定词又有不同的考量。</u>例如：  
 
 - {% em type="green" %}Ex.5 Every man and every woman (have) to do something for the country.{% endem %}  
 句中主语 every man 和 every woman 虽然各有限定词，是两个名词短语，似乎代表复数。不过再从意思上判断，man 和 woman 是相对称的内容，指人的两种性别。重复 every 是为了加强语气：不是指有两个人，而是表示不论男女，每一个“人”。亦即 every man and every woman 的语气近似 man or woman,every “person” ，所以应该选择单数的动词。  
