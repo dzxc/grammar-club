@@ -1,19 +1,38 @@
 # 主语是一个还是两个人（或物）？
 
-<b>这部分主要讨论对等**连接词and**的判断。</b>请比较：
-Ex.1 Your brother John (have) come to see you.
-Ex.2 Your brother and John (have) come to see you.
-句1中的your brother可以看出来就是John，是同一个人，所以是单数的主语，要用单数的动词。然而在句2中一旦加上对等连接词，成为your brother and John之后，就是两个人，是复数的主语，要用复数的动词。一般说来，对等连接词and出现在主语中,往往表示主语有两个人（或物)，所以应该是复数。
-正确用法：Ex.1 hasEx.2 have
-以上是大家都知道的判断原则。再下来就有了变化。请看:
-Ex.3 The senator and delegate (want) to make an announcement.
-Ex.4 The senator and the delegate (want) to make an announcement.
-senator是参议员，delegate 是代表。到底是一个人还是两个人要发表声明呢？本书前面曾讨论到名词短语，现在要用这个观念来帮忙了。
-名词短语有三个构成元素：限定词（包括冠词）、形容词与名词。其中任一元素都可省略。例如the rich这个名词短语就只有限定词the和形容词rich，把名词（people)省略了。
-句3的主语the senator and delegate可视为一个名词短语。限定词只留一个the，名词部分则用and连接senator和delegate。这种情形应视为一个人，同时具有参议员和代表双重身分,所以是单数。
-句4中的主语the senator和the delegate各有限定词，需视为两个名词短语，因而是指两个人，动词也就该用复数。
-正确用法：Ex.3 wants Ex.4 want
-因此限定词可以帮助判断名词短语的单复数。不过every这个限定词又有不同的考量。例如：
+<b>这部分主要讨论对等**连接词and**的判断。</b>  
+请比较：
+
+- Ex.1   
+Your brother John (have) come to see you.  
+
+- Ex.2   
+Your brother and John (have) come to see you.  
+
+句1中的 your brother 可以看出来就是 John ，是同一个人，所以是单数的主语，要用单数的动词。然而在句2中一旦加上对等连接词，成为 your brother and John 之后，就是两个人，是复数的主语，要用复数的动词。一般说来，对等连接词 and 出现在主语中,往往表示主语有两个人（或物)，所以应该是复数。  
+正确用法：Ex.1 has  Ex.2 have  
+
+
+---
+
+
+以上是大家都知道的判断原则。再下来就有了变化。  
+请看:  
+- Ex.3 The senator and delegate (want) to make an announcement.  
+- Ex.4 The senator and the delegate (want) to make an announcement.  
+
+senator 是参议员，delegate  是代表。到底是一个人还是两个人要发表声明呢？本书前面曾讨论到名词短语，现在要用这个观念来帮忙了。<b>名词短语有三个构成元素：限定词（包括冠词）、形容词与名词。其中任一元素都可省略。</b>例如 the rich 这个名词短语就只有限定词 the 和形容词 rich ，把名词(people)省略了。  
+
+句3的主语 the senator and delegate 可视为一个名词短语。限定词只留一个 the ，名词部分则用 and 连接 senator 和 delegate 。这种情形应视为一个人，同时具有参议员和代表双重身分,所以是单数。
+句4中的主语 the senator和the delegate 各有限定词，需视为两个名词短语，因而是指两个人，动词也就该用复数。  
+
+正确用法：Ex.3 wants   Ex.4 want  
+
+
+---
+
+
+<b>因此限定词可以帮助判断名词短语的单复数。</b><u>不过 <em>every</em> 这个限定词又有不同的考量。</u>例如：
 Ex.5 Every man and every woman (have) to do something for the country.
 句中主语every man和every woman虽然各有限定词，是两个名词短语，似乎代表复数。不过再从意思上判断，man和woman是相对称的内容，指人的两种性别。重复every是为了加强语气：不是指有两个人，而是表示不论男女，每一个“人”。亦即every man and every woman 的语气近似 man or woman,every “person”，所以应该选择单数的动词。
 正确用法：Ex.5 has
