@@ -193,21 +193,22 @@ Not having practiced as much as I should, I am worried about forgetting what to 
 
 #### 例八
 
+>  
+1. A. Fries was the leader of the College football team then.  
+（A.弗赖斯当时是学院足球队队长。）  
+2. A. Fries is the director of a football club now.  
+A.弗赖斯现在是一家足球俱乐部的主管。）  
+3. A. Fries saw something.  
+（A.弗赖斯当时见到一件事。）  
+4. The College football team lost in the important game.  
+（学院足球队在重要的球赛中失利。）  
+5. A. Fries offered something.  
+（A.弗赖斯提议做一件事。）  
+6. He would assume responsibility.  
+（弗赖斯愿意负责。）  
+7. He would tender his resignation.  
+（弗赖斯将提出辞呈。）   
 
-1. A. Fries was the leader of the College football team then.
-(A.弗赖斯当时是学院足球队队长。）
-2. A. Fries is the director of a football club now.
-(A.弗赖斯现在是一家足球俱乐部的主管。）
-3. A. Fries saw something.
-(A.弗赖斯当时见到一件事。）
-4. The College football team lost in the important game.
-(学院足球队在重要的球赛中失利。）
-5. A. Fries offered something.
-(A.弗赖斯提议做一件事。）
-6. He would assume responsibility.
-(弗赖斯愿意负责。）
-7. He would tender his resignation.
-(弗赖斯将提出辞呈。）
 这里一共有七个句子，要合并在一起，而且其中六个都得简化，只许留下一个完整的从句。这可能是个不小的挑战，请读者仔细观察如何逐步完成整个动作。
 首先，句1和句2分别叙述A.弗赖斯当时与现在的身份。这两句在内容与句型上对仗工整，适合以对等从句方式表现，故加上对等连接词and来连接：
 (1+2) A. Fries was the leader of the College football team then and he is the director of a football club now.
