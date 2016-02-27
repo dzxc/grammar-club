@@ -78,6 +78,7 @@ bread和butter都不可数，使用零冠词(zero article)，因而看不到限�
 {% em type="green" %}正确用法：Ex.11 is   Ex.12 have{% endem %}  
 
 下面这个例子也缺限定词，请读者练习:  
-- {% em type="green" %}Ex.13 Oil and water (do) not mix.{% endem %}  
+- {% em type="green" %}Ex.13  
+Oil and water (do) not mix.{% endem %}  
 {% em type="green" %}正确用法：Ex.13 do{% endem %}  
 (油和水这“两种”物质无法混合。这是一句英语谚语。)
