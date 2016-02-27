@@ -20,7 +20,7 @@ Your brother and John (have) come to see you.{% endem %}
 - {% em type="green" %}Ex.3 The senator and delegate (want) to make an announcement.{% endem %}  
 - {% em type="green" %}Ex.4 The senator and the delegate (want) to make an announcement.{% endem %}  
 
-senator 是参议员，delegate  是代表。到底是一个人还是两个人要发表声明呢？本书前面曾讨论到名词短语，现在要用这个观念来帮忙了。<b>名词短语有三个构成元素：限定词（包括冠词）、形容词与名词。其中任一元素都可省略。</b>例如 the rich 这个名词短语就只有限定词 the 和形容词 rich ，把名词(people)省略了。  
+senator 是参议员，delegate  是代表。到底是一个人还是两个人要发表声明呢？本书前面曾讨论到名词短语，现在要用这个观念来帮忙了。<b>**名词短语**有三个构成元素：**限定词**（包括冠词）、**形容词**与**名词**。其中任一元素都可省略。</b>例如 the rich 这个名词短语就只有限定词 the 和形容词 rich ，把名词(people)省略了。  
 
 句3的主语 the senator and delegate 可视为一个名词短语。限定词只留一个 the ，名词部分则用 and 连接 senator 和 delegate 。这种情形应视为一个人，同时具有参议员和代表双重身分,所以是单数。
 句4中的主语 the senator和the delegate 各有限定词，需视为两个名词短语，因而是指两个人，动词也就该用复数。  
