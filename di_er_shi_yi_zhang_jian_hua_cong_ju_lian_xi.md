@@ -227,30 +227,52 @@ A.弗赖斯现在是一家足球俱乐部的主管。）
 >  
 (1+2) A. Fries was the leader of the College football team then and he is the director of a football club now.  
 
-对等从句的简化方法是两从句间相对应位置如有重复，则省略一个。因此把and右边那个从句重复的he is去掉，成为：
-(A) A. Fries was the leader of the College football team then and the director of a football club now.
-这个描述弗赖斯身份的句子，我们称作句A，先放着备用。下一步来组合3和4两句。句3中“弗赖斯见到”的something就是 整个句4的内容：“学院足球队比赛失利”。所以把句4冠上连接词 that成为名词从句，置于句3中取代something，作为saw的宾语：
-（3+4）A. Fries saw that the College football team lost in the important game.
-that引导的这个名词从句可以如此简化：主语the Callege football team改为所有格留下，动词lost直接改为名词的lost，成为:
-(B) A. Fries saw the College football team's loss in the important game.
+对等从句的简化方法是两从句间相对应位置如有重复，则省略一个。因此把 and 右边那个从句重复的 he is 去掉，成为：  
+>  
+(A) A. Fries was the leader of the College football team then and the director of a football club now.  
+
+这个描述弗赖斯身份的句子，我们称作句A，先放着备用。下一步来组合3和4两句。句3中“弗赖斯见到”的 something 就是 整个句4的内容：“学院足球队比赛失利”。所以把句4冠上连接词 that成为名词从句，置于句3中取代 something ，作为 saw 的宾语：  
+>  
+（3+4）A. Fries saw that the College football team lost in the important game.  
+
+that 引导的这个名词从句可以如此简化：主语 the Callege football team 改为所有格留下，动词 lost 直接改为名词的 lost ，成为:  
+>  
+(B) A. Fries saw the College football team's loss in the important game.  
+
 “弗赖斯眼见学院足球队失利。”这句话我们称作句B，也先放着暂时不用。
-接下来组合5和6两句。句5 “弗赖斯提出”的something，就是句6的“他要负起责任”。所以如法炮制把句6改成名词从句置入句5来取代something,成为：
-(5+6) A. Fries offered that he (would) assume responsibility.
-这个句子可再将助动词简化为不定词to V的简化从句he be to assume，而be动词可再省略成为：
-A. Fries offered to assume responsibility.
-现在就用这个句子来把前面整理的结果堆砌上去。先把句A 拿出来。句A内容是描述弗赖斯的职位，有补充形容A.弗赖斯身份的功能，所以拿它来做关系从句，将A. Fries改为关系词who，附于上句的主语A. Fries之后，成为：
-（+A）A. Fries, who was the leader of the College football team then and the director of a football club now, offered to assume responsibility.
-句中这个who引导的关系从句可以简化，省略主语who和be 动词was，留下名词类补语（一般所谓的同位语)，成为：
-A. Fries, the leader of the College football team then and the director of a football club now,offered to assume responsibility.
-“当时的学院足球队队长，现今一家足球俱乐部的主管弗赖斯，表示要负责。”为什么？因为句B: “他目睹学院足球队比赛失利。”现在把句B拿出来用，它和上句的关系是因果关系，所以加上连接词because，做成副词从句与上句并列：
-（+B）Because he saw the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility.
-句子越来越长了，现在来简化一下。上句中because引导的副词从句，主语he和主要从句的A. Fries 重复，可以省略。动词saw 因无be动词与助动词，可直接改成seeing，再把多余的because去掉，成为：
-Seeing the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility.
-别忘了，一直未动用到句7: “弗赖斯打算提出辞呈。”从内容来看，它是说明上句中“负责”(assume responsibility)的方式。也就是句7应拿来修饰上句中的原形动词assume—词。“以……方式” 的最佳表达是用by的介系词短语，所以把句7(He would tender his resignation.)直接放入by的后面，不过，by是介系词，后面只能接受名词短语，所以要将句7简化为名词短语的形态。省略主语 he，动词would tender 因为要放在介系词后面，只能改成动名词 tendering,成为：
-(+7) Seeing the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility by tendering his resignation.
-(眼见学院足球队在重大的比赛中失利，当时的学院足球队队长，也现在一家足球俱乐部的主管弗赖斯，表示要提出辞呈以示负责。）
-终于大功告成。读者经过这一番演练，当可了解上面这个句子实际上隐含多达七句话。然而经过简化的过程，删掉了一切多余的元素，最后的结果并不显得太长或太复杂，这就是简化从句的功效。
-如开场白中所述，简化从句是高难度句型，颇富挑战性。读者若看到这里都能大致了解，那么句型观念可说已相当完整，欠缺的只是大量的阅读功夫，那要靠日积月累的培养。有清晰的句型观念，再加上大量的阅读，日后自然能写出一手好文章。
+接下来组合5和6两句。句5 “弗赖斯提出”的 something ，就是句6的“他要负起责任”。所以如法炮制把句6改成名词从句置入句5来取代 something ,成为：  
+>  
+(5+6) A. Fries offered that he (would) assume responsibility.  
+这个句子可再将助动词简化为不定词 to V 的简化从句 he be to assume ，而 be 动词可再省略成为：  
+>  
+A. Fries offered to assume responsibility.  
+
+现在就用这个句子来把前面整理的结果堆砌上去。先把句A 拿出来。句A内容是描述弗赖斯的职位，有补充形容A.弗赖斯身份的功能，所以拿它来做关系从句，将 A. Fries 改为关系词 who ，附于上句的主语 A. Fries 之后，成为：  
+>  
+（+A）A. Fries, who was the leader of the College football team then and the director of a football club now, offered to assume responsibility.  
+
+句中这个 who 引导的关系从句可以简化，省略主语 who 和 be 动词 was ，留下名词类补语（一般所谓的同位语)，成为：  
+>  
+A. Fries, the leader of the College football team then and the director of a football club now,offered to assume responsibility.  
+
+“当时的学院足球队队长，现今一家足球俱乐部的主管弗赖斯，表示要负责。”为什么？因为句B: “他目睹学院足球队比赛失利。”现在把句B拿出来用，它和上句的关系是因果关系，所以加上连接词because，做成副词从句与上句并列：  
+>  
+（+B）Because he saw the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility.  
+
+句子越来越长了，现在来简化一下。上句中 because 引导的副词从句，主语 he 和主要从句的 A. Fries 重复，可以省略。动词 saw  因无 be 动词与助动词，可直接改成 seeing ，再把多余的 because 去掉，成为：  
+>  
+Seeing the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility.  
+
+别忘了，一直未动用到句7: “弗赖斯打算提出辞呈。”从内容来看，它是说明上句中“负责”(assume responsibility)的方式。也就是句7应拿来修饰上句中的原形动词 assume 一词。“以……方式” 的最佳表达是用 by 的介系词短语，所以把句7(He would tender his resignation.)直接放入 by 的后面，不过， by 是介系词，后面只能接受名词短语，所以要将句7简化为名词短语的形态。省略主语 he，动词 would tender 因为要放在介系词后面，只能改成动名词 tendering ,成为：  
+>  
+(+7) Seeing the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility by tendering his resignation.  
+
+（眼见学院足球队在重大的比赛中失利，当时的学院足球队队长，也现在一家足球俱乐部的主管弗赖斯，表示要提出辞呈以示负责。）  
+
+终于大功告成。读者经过这一番演练，当可了解上面这个句子实际上隐含多达七句话。然而经过简化的过程，删掉了一切多余的元素，最后的结果并不显得太长或太复杂，这就是简化从句的功效。  
+
+如开场白中所述，简化从句是高难度句型，颇富挑战性。读者若看到这里都能大致了解，那么句型观念可说已相当完整，欠缺的只是大量的阅读功夫，那要靠日积月累的培养。有清晰的句型观念，再加上大量的阅读，日后自然能写出一手好文章。  
+
 下面再附上一篇练习，请读者先自行尝试组合、简化其中的句子，再比对附在后面的参考——只是参考，因为简化从句没有一定的做法，也没有标准答案。 
 
 在告别句型之前，还有一个问题要处理：倒装句。下一章我们就来研究这个也很重要的问题。
