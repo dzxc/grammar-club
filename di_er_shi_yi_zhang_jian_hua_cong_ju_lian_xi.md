@@ -164,9 +164,9 @@ Educated in an art college, Ben Kook acts unusual <em>when dealing</em> with eco
 I'd like <em>you to meet</em> some people.  
 
 再把句3加上去。句3是表示时间，可以用连接词 before 把它改成副词从句：
-(+3) I'd like you to meet some people <em>before you (can) leave.
+(+3) I'd like you to meet some people <em>before you (can) leave</em>.
 这个副词从句若进一步简化，得把before留下才能表达 “在……之前”的意思。但before这个连接词也可当介系词用，一旦后面的从句简化了，它就成为介系词，只能接名词形态。因此把重复的主语you省略后，原来的动词leave要改成动名词leaving的形态，成为：
-I'd like you to meet some people <em>before leaving.
+I'd like you to meet some people <em>before leaving</em>.
 
 #### 例七
 
