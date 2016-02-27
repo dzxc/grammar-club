@@ -49,11 +49,11 @@ puzzled the medical team.
 
 #### 例二
 
-
+>  
 1. The summer tourists are all gone.  
-(夏季的观光客都走光了。）  
+（夏季的观光客都走光了。）  
 2. The resort town has resumed its air of tranquillity.  
-(这个度假小镇又恢复了平静。）  
+（这个度假小镇又恢复了平静。）  
 
 这两句话之间没有重复的元素，但有逻辑关系存在：在观光客走了之后，或是因为观光客都走了，小镇才得以恢复平静。这时可以用副词从句的方式，选择恰当的连接词（after、because、now that等）附在句1前面，再把句1与句2并列即可：
 Now that the summer tourists are all gone, the resort town has resumed
