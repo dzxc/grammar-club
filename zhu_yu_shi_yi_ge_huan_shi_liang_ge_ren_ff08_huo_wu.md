@@ -34,19 +34,23 @@ senator 是参议员，delegate  是代表。到底是一个人还是两个人�
 
 <b>因此**限定词**可以帮助判断**名词短语的单复数**。</b><u>不过 <em>every</em> 这个限定词又有不同的考量。</u>例如：  
 
-- {% em type="green" %}Ex.5 Every man and every woman (have) to do something for the country.{% endem %}  
+- {% em type="green" %}Ex.5   
+Every man and every woman (have) to do something for the country.{% endem %}  
 句中主语 every man 和 every woman 虽然各有限定词，是两个名词短语，似乎代表复数。不过再从意思上判断，man 和 woman 是相对称的内容，指人的两种性别。重复 every 是为了加强语气：不是指有两个人，而是表示不论男女，每一个“人”。亦即 every man and every woman 的语气近似 man or woman,every “person” ，所以应该选择单数的动词。  
 {% em type="green" %}正确用法：Ex.5 has{% endem %}  
 
 这个情况有点近似英语的一个成语：  
-- {% em type="green" %}Ex.6 All work and no play (make) Jack a dull boy.{% endem %}  
+- {% em type="green" %}Ex.6  
+All work and no play (make) Jack a dull boy.{% endem %}  
 主语 all work 和 no play 是两个名词短语(all和no都是限定词)， 似乎应为复数。不过从内容上来看，一天二十四小时都在工作(all work),就表示没有任何时间游戏 (no play)。所以 all work and no play  与其说是两件事，不如说是同一件事情的一体两面，重复是为了加强语气。因此动词应选单数。  
 {% em type="green" %}正确用法：Ex.6 makes{% endem %}  
 
 再看一个可以用限定词帮助判断的例子：  
 
-- {% em type="green" %}Ex.7 A cup and saucer (be) placed on the table.{% endem %}  
-- {% em type="green" %}Ex.8 A cup and a dish (be) placed on the table.{% endem %}  
+- {% em type="green" %}Ex.7  
+A cup and saucer (be) placed on the table.{% endem %}  
+- {% em type="green" %}Ex.8  
+A cup and a dish (be) placed on the table.{% endem %}  
 句7中的 saucer 是放在咖啡杯下的小碟子，杯与碟可视为一组，所以主语中 a cup and saucer 只用了一个限定词 a ，当“一组咖啡杯”看待，是单一的名词短语，应作单数。  
 句8中的主语，一个是杯子，一个是菜盘子，这两件东西不能当一组看待，所以用 a cup and a dish 这两个名词短语来表示，因此动词要用复数。  
 {% em type="green" %}正确用法：Ex.7 is   Ex.8 are{% endem %}  
