@@ -88,20 +88,22 @@ Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of ba
 
 东周时代的孔子为什么要用竹简写字？是因为句3:纸到东汉时期才有。句3的内容表示原因，所以用副词从句的方式——外加连接词 because 成为副词从句，与主要从句并列，即得到：
 （+3）Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, because paper was not available until the Eastern Han Dynasty.
-句中的副词从句（because之后的部分）如要进一步简化，又要观察主语与动词部分。主语paper没有重复，必须留下来。动词虽然是be动词，可是副词从句的简化中，一旦留下主语，就得有个分词配合（传统语法称为分词构句)，所以使用be动词来制造分词being，并省略连接词because，即成为简化的副词从句：
-Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, paper not being available until the Eastern Han Dynasty.
+句中的副词从句（because 之后的部分）如要进一步简化，又要观察主语与动词部分。主语 paper 没有重复，必须留下来。动词虽然是 be 动词，可是副词从句的简化中，一旦留下主语，就得有个分词配合（传统语法称为分词构句)，所以使用 be 动词来制造分词 being ，并省略连接词 because ，即成为简化的副词从句：  
+>  
+Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, paper not being available until the Eastern Han Dynasty.  
 
 #### 例四
 
+>  
+1. The movable-type press was invented by Gutenberg.  
+（古登堡发明活版印刷。）  
+2. The movable-type press was introduced to England in 1485.  
+（活版印刷在1485年引进英国。）  
+3. This event marked the end of the Dark Ages there.  
+（这件事标示英国黑暗时期的结束。）  
 
-1. The movable-type press was invented by Gutenberg.
-(古登堡发明活版印刷。）
-2. The movable-type press was introduced to England in 1485.
-(活版印刷在1485年引进英国。)
-3. This event marked the end of the Dark Ages there.
-(这件事标示英国黑暗时期的结束。）
 这个例子中的句1和句2也有一个交叉：the movable-type press，可以将它改写为关系词which，以关系从句方式连接：
-(1+2) The movable-type press, which was invented by Gutenberg, was introduced to England in 1485.
+（1+2) The movable-type press, which was invented by Gutenberg, was introduced to England in 1485.
 这个关系从句（which引导的部分）可以直接简化，省略主语 which和be动词was，只保留补语invented这个部分，即成为简化的形容词从句：
 The movable-type press,invented by Gutenberg, was introduced to England in 1485.
 句3中的主语this event (这个事件）指的就是上面整句话的那个事件。这时候因为上面的句子比较长，可以先加个同位语an event，再用它和句3主语the event的交叉构成关系从句，成为：
