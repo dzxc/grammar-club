@@ -139,18 +139,20 @@ Educated in an art college, Ben Kook acts unusual at times.
 >  
 （+3) Educated in an art college, Ben Kook acts unusual (at times) when he deals with economic matters.  
 
-句中括弧部分的 at times 是副词类，属于次要元素，又与后面的 when 重复，可以先行省略。进一步的简化做法仍是一样：把主语 he 省略，动词deals改成dealing。不过，由于原先的at times已经省略，所以与它重复的when不宜省略。把when留下来，即成为：
-Educated in an art college, Ben Kook acts unusual when dealing with economic matters.
+句中括弧部分的 at times 是副词类，属于次要元素，又与后面的 when 重复，可以先行省略。进一步的简化做法仍是一样：把主语 he 省略，动词 deals 改成  dealing 。不过，由于原先的 at times 已经省略，所以与它重复的 when 不宜省略。把 when 留下来，即成为：  
+>  
+Educated in an art college, Ben Kook acts unusual when dealing with economic matters.  
 
 #### 例六
 
-
+>  
 1. I'd like something.  
-(我希望一件事。）  
+（我希望一件事。）  
 2. You will meet some people.  
-(你去见见一些人。）  
+（你去见见一些人。）  
 3. Then you can leave.  
-(然后你就可以走了。）  
+（然后你就可以走了。）  
+
 句1中的宾语something.就是整个句2叙述的那件事，所以在句2前面加上一个连接词that，成为名词从句，然后放入句1中 something的位置作为like的宾语：
 (1+2) I'd like that you (will) meet some people.
 附带提一下，1+2合并时，that从句的语气成为祈使句的语气，所以助动词will应省略成原形动词，但简化时仍变成不定词。以下的例子若看到助动词上加个括弧都是同样的原因。这里的名词从句要简化时，因主语you与主要从句并无重复，所以要留下来，把它放在like后面的宾语位置。简化从句的做法是把助动词简化为不定词to V，因为语气助动词 must、should、will(would)、can(could)、 may(might)等都可以改写成be + to的形式。省略be动词后就剩下to，所以上面这个从句中的will meet就改成to meet当补语用，成为：
@@ -162,17 +164,18 @@ I'd like you to meet some people before leaving.
 
 #### 例七
 
+>  
+1.I have not practiced very much.  
+（我练习得不多。）  
+2.I should have practiced very much.  
+（我应该多练习。）  
+3.I am worried about something.  
+（我担心一件事。）  
+4.I might forget something.  
+（我可能忘记什么事。）  
+5.What should I say during the speech contest?
+（在演讲比赛中我该说些什么？）
 
-1.I have not practiced very much.
-(我练习得不多。）
-2.I should have practiced very much.
-(我应该多练习。）
-3.I am worried about something.
-(我担心一件事。）
-4.I might forget something.
-(我可能忘记什么事。）
-5. What should I say during the speech contest?
-(在演讲比赛中我该说些什么？）
 句1和句2可以用比较级as...as的连接词合成复句：
 (1+2) I have not practiced as much as I should (have practiced).
 因为“练习不够”，才会造成句3 “我很担心”的结果。表示这种因果关系，可以使用because的副词从句来连接：
