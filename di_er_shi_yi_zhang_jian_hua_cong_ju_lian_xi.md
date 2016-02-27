@@ -102,13 +102,18 @@ Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of ba
 3. This event marked the end of the Dark Ages there.  
 （这件事标示英国黑暗时期的结束。）  
 
-这个例子中的句1和句2也有一个交叉：the movable-type press，可以将它改写为关系词which，以关系从句方式连接：
-（1+2) The movable-type press, which was invented by Gutenberg, was introduced to England in 1485.
-这个关系从句（which引导的部分）可以直接简化，省略主语 which和be动词was，只保留补语invented这个部分，即成为简化的形容词从句：
-The movable-type press,invented by Gutenberg, was introduced to England in 1485.
-句3中的主语this event (这个事件）指的就是上面整句话的那个事件。这时候因为上面的句子比较长，可以先加个同位语an event，再用它和句3主语the event的交叉构成关系从句，成为：
-（+3) The movable-type press, invented by Gutenberg, was introduced to England in 1485, an event which marked the end of the Dark Ages there.
-要进一步简化这个句子，可以把重复部分an event 删除，再省略关系从句的主语which，把动词 marked 改成分词 marking:
+这个例子中的句1和句2也有一个交叉：the movable-type press，可以将它改写为关系词which，以关系从句方式连接：  
+>  
+（1+2) The movable-type press, which was invented by Gutenberg, was introduced to England in 1485.  
+这个关系从句（ which 引导的部分）可以直接简化，省略主语 which 和 be 动词 was ，只保留补语 invented 这个部分，即成为简化的形容词从句：
+>  
+The movable-type press,invented by Gutenberg, was introduced to England in 1485.  
+
+句3中的主语 this event (这个事件）指的就是上面整句话的那个事件。这时候因为上面的句子比较长，可以先加个同位语 an event ，再用它和句3主语 the event 的交叉构成关系从句，成为：
+>  
+（+3) The movable-type press, invented by Gutenberg, was introduced to England in 1485, an event which marked the end of the Dark Ages there.  
+
+要进一步简化这个句子，可以把重复部分 an event 删除，再省略关系从句的主语 which ，把动词 marked 改成分词 marking:
 The movable-type press, invented by Gutenberg, was introduced to
 England in 1485, marking the end of the Dark Ages there.
 
@@ -122,13 +127,19 @@ England in 1485, marking the end of the Dark Ages there.
 3. Ben Kook deals with economic matters at these times.  
 (这时本·库克处理经济事务。）  
 
-句1和句2之间有因果关系：因为在艺术学院读过书，所以才有与众不同的表现。那么就在句1前面加上连接词because成为副词从句，与句2的主要从句并列，成为：
-(1+2) Because he was educated in an art college. Ben Kook acts unusual at times.
-这个句子中，简化because引导的副词从句，可以直接省略he was，再把连接词because删去，只保留补语educated部分，成为：
-Educated in an art college, Ben Kook acts unusual at times.
-这个句子要与句3连结，可以观察到句尾的at times就是句3 结尾部分的at these times。以这个交叉改写为关系词when，构成关系从句的形态：
-（+3) Educated in an art college, Ben Kook acts unusual (at times) when he deals with economic matters.
-句中括弧部分的at times是副词类，属于次要元素，又与后面的when重复，可以先行省略。进一步的简化做法仍是一样：把主语he省略，动词deals改成dealing。不过，由于原先的at times已经省略，所以与它重复的when不宜省略。把when留下来，即成为：
+句1和句2之间有因果关系：因为在艺术学院读过书，所以才有与众不同的表现。那么就在句1前面加上连接词 because 成为副词从句，与句2的主要从句并列，成为： 
+>  
+(1+2) Because he was educated in an art college. Ben Kook acts unusual at times.  
+
+这个句子中，简化 because 引导的副词从句，可以直接省略he was，再把连接词 because 删去，只保留补语 educated 部分，成为：  
+>  
+Educated in an art college, Ben Kook acts unusual at times.  
+
+这个句子要与句3连结，可以观察到句尾的 at times 就是句3 结尾部分的 at these times 。以这个交叉改写为关系词 when ，构成关系从句的形态：  
+>  
+（+3) Educated in an art college, Ben Kook acts unusual (at times) when he deals with economic matters.  
+
+句中括弧部分的 at times 是副词类，属于次要元素，又与后面的 when 重复，可以先行省略。进一步的简化做法仍是一样：把主语 he 省略，动词deals改成dealing。不过，由于原先的at times已经省略，所以与它重复的when不宜省略。把when留下来，即成为：
 Educated in an art college, Ben Kook acts unusual when dealing with economic matters.
 
 #### 例六
