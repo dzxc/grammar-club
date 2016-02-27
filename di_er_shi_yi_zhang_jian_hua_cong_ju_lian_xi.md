@@ -66,7 +66,7 @@ Now that 引导的副词从句若要进一步简化，关键在主语、动词�
 air of tranquillity.  
 
 如果最前面没有加上 with ，而是以 the summer tourists all gone 直接代表一个简化的副词从句，这种讲法比较文诌诌，不够口语化。
-较口语化的做法是，用介系词with来取代连接词now that的意义，而把the tourists放在with后面作它的宾语，all gone仍然作补语，即成为上句中多一个with在前面的句型。
+较口语化的做法是，用介系词 with 来取代连接词 now that 的意义，而把 the tourists 放在 with 后面作它的宾语， all gone 仍然作补语，即成为上句中多一个 with 在前面的句型。
 
 #### 例三
 
