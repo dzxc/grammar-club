@@ -117,7 +117,7 @@ The movable-type press,<em>invented</em> by Gutenberg, was introduced to England
 
 要进一步简化这个句子，可以把重复部分 an event 删除，再省略关系从句的主语 which ，把动词 marked 改成分词 marking:
 The movable-type press, invented by Gutenberg, was introduced to
-England in 1485, <em>marking the end of the Dark Ages there.
+England in 1485, <em>marking</em> the end of the Dark Ages there.
 
 #### 例五
 
