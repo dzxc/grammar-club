@@ -248,10 +248,10 @@ that 引导的这个名词从句可以如此简化：主语 the Callege football
 “弗赖斯眼见学院足球队失利。”这句话我们称作句B，也先放着暂时不用。
 接下来组合5和6两句。句5 “弗赖斯提出”的 something ，就是句6的“他要负起责任”。所以如法炮制把句6改成名词从句置入句5来取代 something ,成为：  
 >  
-(5+6) A. Fries offered <em>that he (would) assume responsibility.  
+(5+6) A. Fries offered <em>that he (would) assume</em> responsibility.  
 这个句子可再将助动词简化为不定词 to V 的简化从句 he be to assume ，而 be 动词可再省略成为：  
 >  
-A. Fries offered <em>to assume responsibility.  
+A. Fries offered <em>to assume</em> responsibility.  
 
 现在就用这个句子来把前面整理的结果堆砌上去。先把句A 拿出来。句A内容是描述弗赖斯的职位，有补充形容A.弗赖斯身份的功能，所以拿它来做关系从句，将 A. Fries 改为关系词 who ，附于上句的主语 A. Fries 之后，成为：  
 >  
