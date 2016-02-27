@@ -131,15 +131,15 @@ England in 1485, <em>marking</em> the end of the Dark Ages there.
 
 句1和句2之间有因果关系：因为在艺术学院读过书，所以才有与众不同的表现。那么就在句1前面加上连接词 because 成为副词从句，与句2的主要从句并列，成为： 
 >  
-(1+2) <em>Because he was educated in an art college. Ben Kook acts unusual at times.  
+(1+2) <em>Because he was educated</em> in an art college. Ben Kook acts unusual at times.  
 
 这个句子中，简化 because 引导的副词从句，可以直接省略he was，再把连接词 because 删去，只保留补语 educated 部分，成为：  
 >  
-<em>Educated in an art college, Ben Kook acts unusual at times.  
+<em>Educated</em> in an art college, Ben Kook acts unusual at times.  
 
 这个句子要与句3连结，可以观察到句尾的 at times 就是句3 结尾部分的 at these times 。以这个交叉改写为关系词 when ，构成关系从句的形态：  
 >  
-（+3) Educated in an art college, Ben Kook acts unusual <em>(at times) when <em>he deals with economic matters.  
+（+3) Educated in an art college, Ben Kook acts unusual <em>(at times) when</em> <em>he deals</em> with economic matters.  
 
 句中括弧部分的 at times 是副词类，属于次要元素，又与后面的 when 重复，可以先行省略。进一步的简化做法仍是一样：把主语 he 省略，动词 deals 改成  dealing 。不过，由于原先的 at times 已经省略，所以与它重复的 when 不宜省略。把 when 留下来，即成为：  
 >  
