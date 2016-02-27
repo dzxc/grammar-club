@@ -1,6 +1,6 @@
 # 主语是哪一个？
 
-这部分主要讨论主语中夹有对等连接词or、but，以及比较级连接词as、than时的判断。
+这部分主要讨论主语中夹有对等连接词 or、but ，以及比较级连接词 as、than 时的判断。
 Ex.14 You want to borrow money? But I,as well as you,(be) broke.
 一般语法书碰到这种状况又是列出规则叫人背,其实如果了解简化从句，根本不必背。这个句子可以还原为完整的句子：
 I am broke as well as you are.
