@@ -118,7 +118,7 @@
    * [简化后剩下的补语是Ving形态时](jian_hua_hou_sheng_xia_de_bu_yu_shi_ving_xing_tai_.md)
    * [to V 与 Ving 的比较](to_v_yu_ving_de_bi_jiao.md)
    * [结语](18_jie_yu.md)
-   * Test 18
+   * [Test 18](test_18.md)
 * [第十九章 副词从句简化之一](di_shi_jiu_zhang_fu_ci_cong_ju_jian_hua_zhi_yi.md)
    * [简化为 Ving 补语](jian_hua_wei_ving_bu_yu.md)
    * [结语](di_shi_jiu_zhang_jie_yu.md)
