@@ -265,7 +265,7 @@ Seeing the College football team's loss in the important game, A. Fries, the lea
 
 别忘了，一直未动用到句7: “弗赖斯打算提出辞呈。”从内容来看，它是说明上句中“负责”(assume responsibility)的方式。也就是句7应拿来修饰上句中的原形动词 assume 一词。“以……方式” 的最佳表达是用 by 的介系词短语，所以把句7(He would tender his resignation.)直接放入 by 的后面，不过， by 是介系词，后面只能接受名词短语，所以要将句7简化为名词短语的形态。省略主语 he，动词 would tender 因为要放在介系词后面，只能改成动名词 tendering ,成为：  
 >  
-(+7) Seeing the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility by tendering his resignation.  
+(+7) Seeing the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility <u>by tendering his resignation</u>.  
 
 （眼见学院足球队在重大的比赛中失利，当时的学院足球队队长，也现在一家足球俱乐部的主管弗赖斯，表示要提出辞呈以示负责。）  
 
