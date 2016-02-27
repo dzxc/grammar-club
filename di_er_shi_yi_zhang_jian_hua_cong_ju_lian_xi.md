@@ -200,15 +200,15 @@ Because 引导的副词从句，简化时可把重复的主语 I 省略。动词
 
 这个句子中的介系词短语 about the possibility 意思和下文的 that  从句重复，可以省略。但是如果要简化其后的 that 从句，就得把介系词 about 留下来，简化的结果才有地方安置。 that 从句的简化，省去重复的主语I之后，动词 might forget 的简化一般是改成不定词 to forget 。可是现在要放在介系词about后面，不能用不定词的形态，只能改成 forgetting :  
 >  
-<em>Not having practiced as much as I should, I am worried <em>about forgetting something.  
+Not having practiced as much as I should, I am worried <em>about forgetting</em> something.  
 
 现在，这个句子中“担心会忘记的”那件 something ，就是句 5的问题：“演讲比赛该说什么？”只要将这个疑问句改成非疑问句，就是一个名词从句，可直接取代上句中的 something ，作为 forget 的宾语：  
 >  
-（+5）Not having practiced as much as I should, I am worried about <em>forgetting what I should say during the speech contest.  
+（+5）Not having practiced as much as I should, I am worried about <em>forgetting what I should say</em> during the speech contest.  
 
 最后一步是简化 what 引导的名词从句。做法一样：省略主语 I ，动词 should say 改为不定词 to say:  
 >  
-Not having practiced as much as I should, I am worried about forgetting <em>what to say during the speech contest.  
+Not having practiced as much as I should, I am worried about forgetting <em>what to say</em> during the speech contest.  
 
 #### 例八
 
@@ -231,11 +231,11 @@ A.弗赖斯现在是一家足球俱乐部的主管。）
 这里一共有七个句子，要合并在一起，而且其中六个都得简化，只许留下一个完整的从句。这可能是个不小的挑战，请读者仔细观察如何逐步完成整个动作。
 首先，句1和句2分别叙述A.弗赖斯当时与现在的身份。这两句在内容与句型上对仗工整，适合以对等从句方式表现，故加上对等连接词 and 来连接：  
 >  
-(1+2) A. Fries was the leader of the College football team then <em>and he is the director of a football club now.  
+(1+2) A. Fries was the leader of the College football team then <em>and he is the director</em> of a football club now.  
 
 对等从句的简化方法是两从句间相对应位置如有重复，则省略一个。因此把 and 右边那个从句重复的 he is 去掉，成为：  
 >  
-(A) A. Fries was the leader of the College football team then and <em>the <em>director of a football club now.  
+(A) A. Fries was the leader of the College football team then and <em>the</em> <em>director</em> of a football club now.  
 
 这个描述弗赖斯身份的句子，我们称作句A，先放着备用。下一步来组合3和4两句。句3中“弗赖斯见到”的 something 就是 整个句4的内容：“学院足球队比赛失利”。所以把句4冠上连接词 that成为名词从句，置于句3中取代 something ，作为 saw 的宾语：  
 >  
