@@ -17,8 +17,10 @@ Your brother and John (have) come to see you.{% endem %}
 
 以上是大家都知道的判断原则。再下来就有了变化。  
 请看:  
-- {% em type="green" %}Ex.3 The senator and delegate (want) to make an announcement.{% endem %}  
-- {% em type="green" %}Ex.4 The senator and the delegate (want) to make an announcement.{% endem %}  
+- {% em type="green" %}Ex.3   
+The senator and delegate (want) to make an announcement.{% endem %}  
+- {% em type="green" %}Ex.4   
+The senator and the delegate (want) to make an announcement.{% endem %}  
 
 senator 是参议员，delegate  是代表。到底是一个人还是两个人要发表声明呢？本书前面曾讨论到名词短语，现在要用这个观念来帮忙了。<b>**名词短语**有三个构成元素：**限定词**（包括冠词）、**形容词**与**名词**。其中任一元素都可省略。</b>例如 the rich 这个名词短语就只有限定词 the 和形容词 rich ，把名词(people)省略了。  
 
