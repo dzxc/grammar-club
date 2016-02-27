@@ -70,19 +70,23 @@ air of tranquillity.
 
 #### 例三
 
-
+>  
 1. Confucius must have written on pieces of bamboo.  
-(孔子当年一定是在竹简上写字。）  
+（孔子当年一定是在竹简上写字。）  
 2. Confucius lived in the Eastern Zhou Dynasty.  
-(孔子是东周时代的人。）  
+（孔子是东周时代的人。）  
 3. Paper was not available until the Eastern Han Dynasty.  
-(纸到东汉时期才有。）  
+（纸到东汉时期才有。）  
 
-这三句话中，句1和句2有一个交叉：Confucius。经由这个交叉点建立关系，可用关系从句的方式连结，将句2的Confucius改写为关系词who，成为：
-(1+2) Confucius, who lived in the Eastern Zhou Dynasty, must have written on pieces of bamboo.
-这个关系从句(who lived in the Eastern Zhou Dynasty)可以进行简化，省略重复的主语who，再把普通动词lived改写为living，即成为简化形容词从句：
-Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo.
-东周时代的孔子为什么要用竹简写字？是因为句3:纸到东汉时期才有。句3的内容表示原因，所以用副词从句的方式——外加连接词because成为副词从句，与主要从句并列，即得到：
+这三句话中，句1和句2有一个交叉：Confucius 。经由这个交叉点建立关系，可用关系从句的方式连结，将句2的 Confucius 改写为关系词 who ，成为：  
+>  
+(1+2) Confucius, who lived in the Eastern Zhou Dynasty, must have written on pieces of bamboo.  
+
+这个关系从句( who lived in the Eastern Zhou Dynasty )可以进行简化，省略重复的主语 who ，再把普通动词 lived 改写为 living ，即成为简化形容词从句：  
+>  
+Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo.  
+
+东周时代的孔子为什么要用竹简写字？是因为句3:纸到东汉时期才有。句3的内容表示原因，所以用副词从句的方式——外加连接词 because 成为副词从句，与主要从句并列，即得到：
 （+3）Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, because paper was not available until the Eastern Han Dynasty.
 句中的副词从句（because之后的部分）如要进一步简化，又要观察主语与动词部分。主语paper没有重复，必须留下来。动词虽然是be动词，可是副词从句的简化中，一旦留下主语，就得有个分词配合（传统语法称为分词构句)，所以使用be动词来制造分词being，并省略连接词because，即成为简化的副词从句：
 Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, paper not being available until the Eastern Han Dynasty.
