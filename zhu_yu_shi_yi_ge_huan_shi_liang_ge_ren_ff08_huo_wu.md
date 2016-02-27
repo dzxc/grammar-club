@@ -61,14 +61,18 @@ A cup and a dish (be) placed on the table.{% endem %}
 
 下面这个例子可釆同样原则，借助限定词来判断单复数，读者请自行练习一下:  
 
-- {% em type="green" %}Ex.9A brown and white dog (be) at your doorsteps.{% endem %}  
-- {% em type="green" %}Ex.10 A brown and a white dog (be) fighting over a bone.{% endem %}  
+- {% em type="green" %}Ex.9  
+A brown and white dog (be) at your doorsteps.{% endem %}  
+- {% em type="green" %}Ex.10  
+A brown and a white dog (be) fighting over a bone.{% endem %}  
 {% em type="green" %}正确用法：Ex.9 is Ex.10 are{% endem %}  
 
 以上所述大抵都可借助限定词来观察一致性。如果没有限定词呢？请看下例：  
 
-- {% em type="green" %}Ex.11 Bread and butter (be) not very tasty but very filling.{% endem %}  
-- {% em type="green" %}Ex.12 Bread and butter (have) both risen in price.{% endem %}  
+- {% em type="green" %}Ex.11  
+Bread and butter (be) not very tasty but very filling.{% endem %}  
+- {% em type="green" %}Ex.12  
+Bread and butter (have) both risen in price.{% endem %}  
 bread和butter都不可数，使用零冠词(zero article)，因而看不到限定词。这时要从意思上判断单复数。句11说 bread and butter  “不怎么好吃，但是吃得饱”。bread有人吃到饱，不过大概没有人只拿着 butter 吃到饱吧？所以这个句子中的 bread and butter 应该是一种食品：吐司面包涂奶油。从意思上判断是单数，应用单数动词。  
 句12中既然说 bread and butter “双双涨价”，自然是两种民生物资，应视为复数。  
 {% em type="green" %}正确用法：Ex.11 is   Ex.12 have{% endem %}  
