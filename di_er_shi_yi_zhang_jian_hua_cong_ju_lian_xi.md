@@ -1,6 +1,6 @@
 # 第二十一章 简化从句练习
 
-<b>**简化从句**，亦即一般短语书所谓的**非限定从句(Non-finite Clauses)**</b>，是高度精简的句型，也是较具挑战性的句型，在TIME 中俯拾皆是。本书一连几章介绍这个比较庞大的概念，现在已到了验收的时候。这一章就用sentence combining的形态来练习如何精简复杂的句子。  
+<b>**简化从句**，亦即一般短语书所谓的**非限定从句(Non-finite Clauses)**</b>，是高度精简的句型，也是较具挑战性的句型，在 TIME  中俯拾皆是。本书一连几章介绍这个比较庞大的概念，现在已到了验收的时候。这一章就用 sentence combining 的形态来练习如何精简复杂的句子。  
 
 <b>首先回顾一下简化从句的两大原则：</b>  
 一、<b>**对等从句**中，相对应位置（主语与主语，动词与动词等）如果重复，择一弹性省略。</b>   
@@ -13,27 +13,38 @@
 
 #### 例一
 
-  
+>  
 1. The patient had not responded to the standard treatment.  
 （病人对标准疗法没有反应。） 
 2. This fact greatly puzzled the medical team.  
 （医疗小组对此深感不解。）  
 
-这两个简单句中，句2的主语this fact指的就是整个句1叙述的那件事。两句经由这个交叉建立了关系，可以考虑用关系从句 （即形容词从句）连结起来。亦即把句2的交叉点this fact改写为关系词，附于句1上作关系从句，成为：
-The patient had not responded to the standard treatment,which greatly puzzled the medical team.(不够清楚)
-如此组合这两句话，短语上看来可以，但修辞上有严重的缺点：关系词which固然可以代表逗点前的整句话（表示病人缺乏反应这一点令人困惑)，但是它也可以代表逗号前面的名词the standard treatment（表示标准治疗方式本身令人困惑）。如此一来，一个句子有两种可能的解释，犯了模棱两可(ambiguous)的毛病，也就是没有把意义表达清楚，不如尝试另一种组合方式。
-既然整个句1是句2主语this fact的内容，不妨把它改成名词从句（前面加上连接词that即可)，然后直接置于句2中this fact的位置当主语使用，成为复句：
-That the patient had not responded to the standard treatment greatly puzzled the medical team.
-这个句子中的名词从句（that引导的从句）可再进一步简化，一般做法是删除主语与be动词。但这个从句中主语是the patient，在主要从句中并无重复，无法省略。动词had not responded其中也没有be动词可以省略，那么该怎么做？首先，动词简化的通用原则是：
-一、有 be 动词即省略 be 动词；
-二、有语气助动词（can，must，should等）则改为不定词（to V）；
-三、除此之外的动词一律加上 -ing 保留下来。
-以had not responded这个动词短语而言，符合第三种情形，所以改写为not having responded，以取代原先的名词从句。原来的主语the patient改为所有格(the patient's)置于前面，再删除无意义的连接词that即完成了简化的动作，成为：
+这两个简单句中，句2的主语 this fact 指的就是整个句1叙述的那件事。两句经由这个交叉建立了关系，可以考虑用关系从句 （即形容词从句）连结起来。亦即把句2的交叉点 this fact 改写为关系词，附于句1上作关系从句，成为：
+>  
+The patient had not responded to the standard treatment,which greatly puzzled the medical team.(不够清楚)  
+
+如此组合这两句话，短语上看来可以，但修辞上有严重的缺点：关系词 which 固然可以代表逗点前的整句话（表示病人缺乏反应这一点令人困惑)，但是它也可以代表逗号前面的名词 the standard treatment （表示标准治疗方式本身令人困惑）。如此一来，一个句子有两种可能的解释，犯了模棱两可(ambiguous)的毛病，也就是没有把意义表达清楚，不如尝试另一种组合方式。
+既然整个句1是句2主语 this fact 的内容，不妨把它改成名词从句（前面加上连接词 that 即可)，然后直接置于句2中 this fact 的位置当主语使用，成为复句：  
+>  
+That the patient had not responded to the standard treatment greatly puzzled the medical team.  
+
+这个句子中的名词从句（that 引导的从句）可再进一步简化，一般做法是删除主语与 be 动词。但这个从句中主语是 the patient ，在主要从句中并无重复，无法省略。动词 had not responded 其中也没有 be 动词可以省略，那么该怎么做？首先，<b>**动词简化**的通用原则</b>是：  
+<b>
+一、有 be 动词即**省略 be 动词**  
+二、有语气助动词（can，must，should 等）则改为不定词（ to V ）  
+三、除此之外的动词一律加上 -ing 保留下来  
+</b>
+
+以 had not responded 这个动词短语而言，符合第三种情形，所以改写为 not having responded ，以取代原先的名词从句。原来的主语 the patient 改为所有格( the patient's )置于前面，再删除无意义的连接词 that 即完成了简化的动作，成为：  
+>  
 The patient's not having responded to the standard treatment greatly
-puzzled the medical team.
-另外，也可以直接进行词类变化，把动词改写为名词后，成为:
+puzzled the medical team.  
+
+另外，也可以直接进行词类变化，把动词改写为名词后，成为:  
+>  
 The patient's failure to respond to the standard treatment greatly
-puzzled the medical team.
+puzzled the medical team.  
+
 这种讲法读起来会比上一种讲法更自然一点。
 
 #### 例二
