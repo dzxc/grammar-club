@@ -184,19 +184,19 @@ I'd like you to meet some people <em>before leaving</em>.
 
 句1和句2可以用比较级 as...as 的连接词合成复句：
 >  
-(1+2) I have not practiced <em>as much as I should (have practiced).  
+(1+2) I have not practiced <em>as much as I should</em>. (have practiced).  
 
 因为“练习不够”，才会造成句3 “我很担心”的结果。表示这种因果关系，可以使用 because 的副词从句来连接：  
 >  
-（+3）<em>Because I have not practiced as much as I should, I am worried about something.  
+（+3）<em>Because I have not practiced</em> as much as I should, I am worried about something.  
 
 Because 引导的副词从句，简化时可把重复的主语 I 省略。动词部分 have not practiced 因为没有 be 动词，也没有语气助动词，就只能加上 -ing ，成为 not having practiced ，再把连接词 Because 删去，成为：  
 >  
-<em>Not having practiced as much as I should, I am worried aboutsomething.  
+<em>Not having practiced</em> as much as I should, I am worried aboutsomething.  
 
 这个句子中，“担心的事情”  something ，就是句4的内容“我可能会忘记什么事”。因为 something 是放在介系词 about 的后面，要连成复句的话可以先改成 about the possibility ，再把句4加上连接词 that ，形成名词从句，作为 possibility 的同位语，成为：  
 >  
-(+4) Not having practiced as much as I should, I am worried <em>(about the possibility） that I might forget something.  
+(+4) Not having practiced as much as I should, I am worried <em>(about the possibility） that I might forget</em> something.  
 
 这个句子中的介系词短语 about the possibility 意思和下文的 that  从句重复，可以省略。但是如果要简化其后的 that 从句，就得把介系词 about 留下来，简化的结果才有地方安置。 that 从句的简化，省去重复的主语I之后，动词 might forget 的简化一般是改成不定词 to forget 。可是现在要放在介系词about后面，不能用不定词的形态，只能改成 forgetting :  
 >  
