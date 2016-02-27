@@ -100,7 +100,10 @@ S V C 介系词 O(简化名词从句）
 2. I am worried about my son lying all the time.
 S V C 介系词 O C
 句1和句2这两种处理方式在语法上都正确。在意思上又以句1更接近原意。因为在原句中，说话的人所担心的是一件事情(that my son lies all the time)，简化为 my son's lying all the time仍是一件事情，比较接近。但改成句2时，担心的对象变成了人(my son)，事情(lying all the time)则降格成了修饰语，所以意思和原句稍有出入。
-五、如何处理被动态
+
+### 五、如何处理被动态
+
+
 被动态中若省略主语和be动词，剩下的补语Ven是形容词类，无法取代原来的名词从句，所以必须进一步修改。例如：
 That anyone is called a liar is the greatest insult.
 S(名词从句） V C
@@ -125,7 +128,10 @@ I am looking forward to the invitation to the party.
 I am looking forward to being invited to the party.
 简化名词从句
 名词从句简化成Ving的形式，如果是被动态时，以being Ven的形式就可以表示，并仍以名词的形式保留下来。
-六、动词是单纯的 be 动词时
+
+### 六、动词是单纯的 be 动词
+
+时
 若名词从句中是be动词，后面接一般的名词或形容词作补语，则须加上-ing成为being:
 That one is a teacher requires a lot of patience.
 S(名词从句) V O
@@ -142,7 +148,10 @@ S（名词从句） V C
 这个名词从句是单纯的be动词后接形容词busy作补语。简化时也不能径行省略be动词，否则会剩下形容词busy，无法充当主语。正确的做法仍是改成-ing:
 Being busy is no excuse for the negligence.
 简化名词从句
-简化后剩下的补语是to V形态时
+
+### 简化后剩下的补语是to V形态时
+
+
 名词从句简化，若其中有语气助动词，含有不确定语气，就会成为不定词(to V)。如：
 The children expect that they can get presents for Christmas.
 S V 0(名词从句)
@@ -162,7 +171,7 @@ S V O C 名词从句
 I think it strange to fear ghosts.
 简化名词从句
 
-### 一、主语不适合省略时
+#### 一、主语不适合省略时
 
 
 名词从句的主语如果和主要从句不重复，又不是空泛的字眼，省略时往往会改变句意。这时就要想办法改变这个主语，将它保留。在有些句型中可以把主语放入宾语位置，变成S+V+0+C的句型，例如：
@@ -183,7 +192,7 @@ S(名词从句) V C
 For the Clippers to beat the Lakers was quite a marvelous feat.
 简化名词从句
 
-### 二、代表疑问句的名词从句简化
+#### 二、代表疑问句的名词从句简化
 
 
 名词从句有两种。一种是由直述句外加连接词that而形成。这种名词从句简化时，无意义的that要省略。另一种是由疑问句改造，通常以疑问词来充当连接词。例如：
