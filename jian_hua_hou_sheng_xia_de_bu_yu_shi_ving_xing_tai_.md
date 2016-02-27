@@ -1,7 +1,10 @@
 # 简化后剩下的补语是Ving形态时
 
 和形容词从句简化的做法相同，如果名词从句中没有be动词，也没有助动词，一律把动词加上-ing。以下就名词从句常出现的位置分别举例说明。
-一、主语位置
+
+### 一、主语位置
+
+
 That I drink good wine with friends is my greatest enjoyment.
 S(名词从句) V C
 (和好友一起喝美酒是我最大的享受。）
@@ -10,15 +13,24 @@ That I am drinking good wine with friends is my greatest enjoyment.
 然后就可省略主语I与be动词，以及已经没有作用的连接词 that，成为较紧凑的句子：
 Drinking good wine with friends is my greatest enjoyment.
 简化名词从句
-二、宾语位置
-1.动词的宾语
+
+### 二、宾语位置
+
+
+
+#### 1.动词的宾语
+
+
 Many husbands enjoy that they do the cooking.
 S V O(名词从句)
 (许多丈夫喜欢下厨做菜。）
 名词从句的主语they与主要从句主语husbands相同，所以可省略。动词是do，没有be动词或助动词，所以要加上-ing再省略连接词，成为：
 Many husbands enjoy doing the cooking.
 简化名词从句
-2.介系词的宾语
+
+#### 2.介系词的宾语
+
+
 1. He got used to something.
 S V C 介系词 O
 2. He worked late into the night.
@@ -26,16 +38,25 @@ S V C 介系词 O
 He got used to working late into the night.
 简化名词从句
 (他习惯了熬夜工作。）
-三、补语位置
+
+### 三、补语位置
+
+
 His favorite pastime is that he goes fishing on weekends.
 S V C (名词从句）
 (他最喜欢的消遣就是周末钓鱼。）
 省略名词从句的he，动词加-ing而成为：
 His favorite pastime is going fishing on weekends.
 简化名词从句
-四、主语不能省略时
+
+### 四、主语不能省略时
+
+
 有时省略名词从句的主语会造成句意的改变，这时要设法用其 他方式来处理。以下几种方式较为常见：
-1.改成s+v+o+c的句型
+
+#### 1.改成s+v+o+c的句型
+
+
 但要如此修改，名词从句必须是处于宾语位置，而且主要从句的动词适用于S+V+0+C的句型。例如：
 I imagined that a beautiful girl was singing to me.
 S V O（名词从句）
@@ -46,7 +67,10 @@ I imagined singing to myself.(我想象在对自己唱歌。）
 I imagined a beautiful girl singing to me.
 S V O C
 主语a beantiflil girl放到宾语位置，原来的主语补语singing to me放在宾语补语的位置，就可顺利解决问题。原来的复句也简化为S+V+0+C的句型。
-2.用所有格来处理
+
+#### 2.用所有格来处
+
+理
 That he calls my girlfriend every day is too much for me.
 S（名词从句） V C
 (他每天打电话给我女朋友真让我受不了。）
@@ -58,7 +82,10 @@ S V C
 His calling my girlfriend every day is too much for me.
 S (简化名词从句 ) V C
 名词从句简化为Ving的形态，而主语不能省略时，大多可用所有格来处理主语的部分。
-3.加介系词来处理
+
+#### 3.加介系词来处理
+
+
 这只适合一种特殊的句型。例如：
 I am worried that my son lies all the time.
 SV C 名词从句
