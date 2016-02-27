@@ -155,13 +155,15 @@ Educated in an art college, Ben Kook acts unusual <em>when dealing</em> with eco
 3. Then you can leave.  
 （然后你就可以走了。）  
 
-句1中的宾语something.就是整个句2叙述的那件事，所以在句2前面加上一个连接词that，成为名词从句，然后放入句1中 something的位置作为like的宾语：  
+句1中的宾语 something .就是整个句2叙述的那件事，所以在句2前面加上一个连接词 that ，成为名词从句，然后放入句1中 something 的位置作为 like 的宾语：  
 >  
 (1+2) I'd like <em>that you (will) meet</em> some people.  
 
-附带提一下，1+2合并时，that从句的语气成为祈使句的语气，所以助动词will应省略成原形动词，但简化时仍变成不定词。以下的例子若看到助动词上加个括弧都是同样的原因。这里的名词从句要简化时，因主语you与主要从句并无重复，所以要留下来，把它放在like后面的宾语位置。简化从句的做法是把助动词简化为不定词to V，因为语气助动词 must、should、will(would)、can(could)、 may(might)等都可以改写成be + to的形式。省略be动词后就剩下to，所以上面这个从句中的will meet就改成to meet当补语用，成为：
-I'd like <em>you to meet some people.
-再把句3加上去。句3是表示时间，可以用连接词before把它改成副词从句：
+附带提一下，1+2合并时，that 从句的语气成为祈使句的语气，所以助动词will应省略成原形动词，但简化时仍变成不定词。以下的例子若看到助动词上加个括弧都是同样的原因。这里的名词从句要简化时，因主语you与主要从句并无重复，所以要留下来，把它放在like后面的宾语位置。简化从句的做法是把助动词简化为不定词 to V，因为语气助动词 must、should、will(would)、can(could)、 may(might)等都可以改写成be + to的形式。省略be动词后就剩下 to，所以上面这个从句中的will meet就改成to meet当补语用，成为：  
+>  
+I'd like <em>you to meet</em> some people.  
+
+再把句3加上去。句3是表示时间，可以用连接词 before 把它改成副词从句：
 (+3) I'd like you to meet some people <em>before you (can) leave.
 这个副词从句若进一步简化，得把before留下才能表达 “在……之前”的意思。但before这个连接词也可当介系词用，一旦后面的从句简化了，它就成为介系词，只能接名词形态。因此把重复的主语you省略后，原来的动词leave要改成动名词leaving的形态，成为：
 I'd like you to meet some people <em>before leaving.
