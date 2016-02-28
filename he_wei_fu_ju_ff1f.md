@@ -5,22 +5,26 @@
 
 ### 一、名词从句
 
-
+>  
 1. I know something.  
 S V O  
 2. I am right.  
+>>  
 → I know that I am right.  
 （我知道我是对的。）  
 S V O  
+
 I am right 是一个独立的简单句，外加连接词 that 成为名词从句，放在主要从句中当做 know 的宾语。
 
 ### 二、形容词从句
 
-
+>  
 1. My father is a man.  
 2. He always keeps his word.  
+>>  
 →My father is a man who always keeps his word.  
 （我父亲是个信守诺言的人。）  
+
 形容词从句又称关系从句。两个各自独立的简单句之间必须要有关系，也就是要有一个重复的元素存在。上例中，例1与例2即因为 a man 和 he 的重复而建立关系，再将重复点的he改写成关系词 who ，就可以将两句连在一起了。who always keeps his word 用来形容前面的名词 man ，所以称为形容词从句。
 
 ### 三、副词从句
