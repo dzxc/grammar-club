@@ -41,7 +41,7 @@ Having nothing to do here, we might as well go home.
 ### 四、应该省略的连接词
 
 
-<b>在做这种简化动作时，表示原因的连接词 <em>because,since</em> 等等通常要省略，若保留下来会显得相当刺眼。</b>因为这种句型本身就强烈暗示因果关系，再加上 because 会十分累赘。
+<b>在做这种简化动作时，<u>表示原因的连接词 <em>because,since</em> 等等通常要省略</u>，若保留下来会显得相当刺眼。</b>因为这种句型本身就强烈暗示因果关系，再加上 because 会十分累赘。
 
 ### 五、应该保留的连接词
 
