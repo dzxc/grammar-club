@@ -196,7 +196,7 @@ her mother came to kiss her goodnight.
 ### 十、所谓“独立短语”
 
 
-副词从句简化时，若主语与主要从句不同就不能省略。这时可以选择保留主语，只省略be动词和连接词。在主语后面保留现在分词或过去分词的补语。上面的例子可以修改如下：
+<b>副词从句简化时，若主语与主要从句不同就不能省略。这时可以选择保留主语，只省略 be 动词和连接词。在主语后面保留现在分词或过去分词的补语。</b>上面的例子可以修改如下：
 The child already sleeping soundly in bed,her mother came
 简化副词从句 S V
 to kiss her goodnight.
