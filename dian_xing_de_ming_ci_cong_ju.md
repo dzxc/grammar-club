@@ -89,9 +89,14 @@ I am afraid that I can't help you.
 You'd better take care that nothing goes wrong.  
 S V O 同位语  
 （你最好小心，别出錯。）  
-这个句子的宾语是care，是S+V+O的句型，同样没有位置可以放名词从句，但是可以视为下面两句的结合：
-1.You'd better take care of that thing.
-2.Nothing goes wrong.
-例2加上that成为名词从句，可以放在that thing 后面作为同位语，再把of that thing这个介系词短语省略就成为：
-You'd better take care that nothing goes wrong.
-句中的连接词that省略掉，也不会影响句意或造成不清楚，所以可以省略。
+
+这个句子的宾语是care，是S+V+O的句型，同样没有位置可以放名词从句，但是可以视为下面两句的结合：  
+>  
+1.You'd better take care of that thing.  
+2.Nothing goes wrong.  
+
+例2加上 that 成为名词从句，可以放在 that thing 后面作为同位语，再把 of that thing 这个介系词短语省略就成为：  
+>   
+You'd better take care that nothing goes wrong.  
+
+句中的连接词 that 省略掉，也不会影响句意或造成不清楚，所以可以省略。
