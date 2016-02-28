@@ -1,18 +1,21 @@
 # 简化为 Ving 补语
 
-若副词从句是一般语法书所谓的进行式(be +Ving)，那么省略主语和be动词后就只剩Ving补语。反之，若没有be动词可省略，也没有语气助动词可供改写，就得先改成进行式，再省略be动词，仍然可得到Ving的结果。例如：
-While he was lying on the couch,the boy fell asleep.
-副词从句 S V C
-(小男孩在沙发上躺着，就睡着了。）
-上例中副词从句的主语he就是主要从句的主语the boy，这个重复就有可以省略的空间。同时副词从句中有现成的be动词，是 Linking Verb(连缀动词)，本身没有意义，因此，省去主语与be动词，不会改变原句的意思：
-1. While lying on the couch, the boy fell asleep.
-简化副词从句
+若副词从句是一般语法书所谓的进行式( be +Ving )，那么省略主语和 be 动词后就只剩 Ving 补语。反之，若没有 be 动词可省略，也没有语气助动词可供改写，就得先改成进行式，再省略 be 动词，仍然可得到 Ving 的结果。例如：  
+
+- While he was lying on the couch,the boy fell asleep.  
+副词从句 S V C  
+（小男孩在沙发上躺着，就睡着了。）  
+
+上例中副词从句的主语 he 就是主要从句的主语 the boy ，这个重复就有可以省略的空间。同时副词从句中有现成的 be 动词，是 Linking Verb (连缀动词)，本身没有意义，因此，省去主语与 be 动词，不会改变原句的意思：  
+>  
+1.While lying on the couch, the boy fell asleep.  
+简化副词从句  
 
 ### 一、连接词是否保留
 
 
 副词从句因为已经简化，不再有主语、动词，所以上例中它的连接词while也没有存在的必要。不过，副词从句的连接词除了语法功能之外，还有词义的功能：while和before不同，也和if、although等不一样，虽然简化了，副词从句的连接词有时还是要保留，至于保留与否则完全取决于修辞上是否清楚。简化是为了让句子更简洁，可是绝不可伤害清楚性。在句子够清楚的前提下，副词从句的连接词可以一并省去，上例即成为：
-2. Lying on the couch,the boy fell asleep.
+2.Lying on the couch,the boy fell asleep.
 简化副词从句
 一般来说，while (包括when等）是表示"当……之时”的连接词，because (包括as、since等）是“因为”的连接词，省略后通常不妨碍句子的清楚性。但还是要一个一个句子去判断,看看省略之后读者是否可能会误解。
 
