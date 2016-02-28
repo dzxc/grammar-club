@@ -15,6 +15,7 @@ You want to borrow money? But I,as well as you,(be) broke.
 这个句子可以还原为：  
 >  
 I am no less responsible than you are.  
+
 同样的，no less than yon are 这个比较级的句子可以简化，省略 are ，再往前移，所以句15的动词也应该依它的主语 I 而定。  
 正确用法：Ex.15 am  
 
@@ -25,22 +26,32 @@ I am no less responsible than you are.
 正确用法：Ex.16 was  
 再看这个例子：  
 - Ex.17 The eggs,not the hen,(be) stolen.  
-主语 the eggs,not the hen 里面虽然没有 but ，可是意思、功能和 the eggs but not the hen 相同，后面的部分要排除（因为母鸡没被偷走，动词要跟the eggs)。  正确用法：Ex.17 were  
+
+主语 the eggs,not the hen 里面虽然没有 but ，可是意思、功能和 the eggs but not the hen 相同，后面的部分要排除（因为母鸡没被偷走，动词要跟the eggs)。   
+正确用法：Ex.17 were   
+
 下面这个例子比较复杂些:  
 - Ex.18 Not only you but also I(be) at fault.  
 主语 not only you but also I 在意思上虽然是 you 和 I 都算在内，不过语气偏重在 I 的部分。而且对等连接词前面的部分有 not ，表示形式上否定掉前面的 you ，所以主语要跟后面的 I 走。  
-正确用法：Ex.18 was  
+正确用法：Ex.18 was   
+
 最后来看看对等连接词 or 的判断。这个连接词表达的逻辑关系是“二选一”，不同于 and 表示“两边都算”以及 but 表示“否定掉一个”。二选一该选哪一个做主语，完全没有暗示，所以在用法上是“选靠近动词的部分”做主语。例如：  
 - Ex.19 Either my father alone or both my parents (be) coming.  
 到底是父亲一个人来，还是父母亲一起来，完全没有暗示，只知道不会两者同时发生，要选一个。这时只能选靠近动词的 both my parents 做主语。  
-正确用法：Ex.19 are  
+正确用法：Ex.19 are   
+
 下面这个句子差不多，请读者自行判断：  
 - Ex.20 Neither he nor his friends (be) there at that time.  正确用法：Ex.20 were  
 最后这个句子要考虑一下:  
-- Ex.21 (Do) he or his friends want to go?   这是疑问句，负责交代一致性的助动词靠近前面的 he ，所以要选 he 做主语。   正确用法：Ex.21 Dose  主语中有 every、each、either、neither 等表示“一”的字眼时 只要有这些表示“一”的字眼在，后面有名词的话就得使用单数名词，做主语时也就得用单数动词配合。这很容易了解，请读者自行练习：  
+- Ex.21 (Do) he or his friends want to go?    
+这是疑问句，负责交代一致性的助动词靠近前面的 he ，所以要选 he 做主语。   
+正确用法：Ex.21 Dose   
+
+主语中有 every、each、either、neither 等表示“一”的字眼时 只要有这些表示“一”的字眼在，后面有名词的话就得使用单数名词，做主语时也就得用单数动词配合。这很容易了解，请读者自行练习：  
 - Ex.22 Everybody (be) to report here tomorrow.  
 正确用法：Ex.22 is  
-- Ex.23 Every student (have) several chapters to report on.   正确用法：Ex.23 has  
+- Ex.23 Every student (have) several chapters to report on.  
+正确用法：Ex.23 has  
 - Ex.24 Each (have) to make a five-minute speech.  
 正确用法：Ex.24 has  
 - Ex.25 You (have) to make a five-minute speech each.  
