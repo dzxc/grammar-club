@@ -136,8 +136,8 @@ which和动词bears，D错在用介系词短语of which作主语。
 A和C都在名词origin前面加上了短语(many centuries ago 和many
 centuries)来修饰，可是名词前面只能用单词的形容词来修饰，所以错误。B
 是正确的形容词从句。  
-8.Ⅰ(D) Ⅱ
-两个位置都省掉了先行词，所以只能选择what。  
+8.Ⅰ(D) Ⅱ（B）
+两个位置都省掉了先行词，所以只能选择what。
 9.(D)  
 空格前无先行词，只能选A或D。而“当选总统”者应为“人”，故选D。  
 10.(C)  
@@ -146,7 +146,7 @@ centuries)来修饰，可是名词前面只能用单词的形容词来修饰，�
 11.(D)  
 空格以下原来是这一句：I love Jane very much，改成关系从句即为whom I
 love very much。因为关系从句前面有逗号，所以whom不能省略。  
-12. (D)  
+12.(D)  
 All that glitters is not gold.(会发亮的并不都是金子。)这是一句格言。
 关系从句that glitters之中的关系词应用that，因为先行词all表示“全
 部”，是一个指示明确的范围，所以要用that来取代which。  
