@@ -9,15 +9,17 @@
 
 ### 一、主语位置
 
-
-1.Something is strange.  
-S  
+>  
+1.Something is strange.    
+S   
 2.He didn't show up on time.  
+>>  
 →(A) That he didn’t show up on time is strange.  
 S  
 →(B) It is strange that he didn't show up on time.  
 S  
 （真是奇怪，他没有准时来。）  
+
 例 2 He didn't show up on time 就是例1 主语 something 的内容。在它前面加上 that  (表示“那件事”）就成了名词从句，可以直接放人例1主语(something)的位置，做为is的主语使用，成为(A)的复句。
 另外，名词从句如果很长，直接放入主语位置使用时，可能会让读者看不清楚，这时候可以用 it 这个虚词(expletive)来填入主语位置，让主要从句 It is strange 比较清楚地表达出来，名词从句则向后移，成为(B)的复句。
 
@@ -44,13 +46,16 @@ S
 >  
 He didn't show up is strange.(误)  
 
-这个句子就有问题。因为没有从属连接词，读者会以为He didn't show up就是主要从句，再看到后面的is strange就会觉得奇怪了。一般语法书说名词从句作宾语使用时，可以省略that，主要就是因为宾语位置是明显的从属位置，省掉连接词不会不清楚，主语位置则不然。总之，能否省略，要看省略以后能不能维持意思的清楚。
-1.I find something strange.
-S V O C
-2.He didn't show up on time.
-→(A) I find it strange that he didn't show up on time.
-O
-(我觉得奇怪，他竟然没有准时来。）
+这个句子就有问题。因为没有从属连接词，读者会以为He didn't show up就是主要从句，再看到后面的is strange就会觉得奇怪了。一般语法书说名词从句作宾语使用时，可以省略that，主要就是因为宾语位置是明显的从属位置，省掉连接词不会不清楚，主语位置则不然。总之，能否省略，要看省略以后能不能维持意思的清楚。  
+>  
+1.I find something strange.  
+S V O C  
+2.He didn't show up on time.  
+>>  
+→(A) I find it strange that he didn't show up on time.  
+O  
+（我觉得奇怪，他竟然没有准时来。）  
+
 例2 He didn't show up on time.就是例1的宾语something的内容，可以加上连接词that，成为名词从句，放入something的位置作宾语使用。可是它后面还有一个补语strange，如果宾语的从句太长，又会造成不清楚，所以还是借用虚字it暂代宾语位置，将从句后移，成为(A)的结果。
 
 ### 三、补语位置
