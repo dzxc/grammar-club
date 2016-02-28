@@ -54,7 +54,7 @@ Having nothing to do here, we might as well go home.
 ### 五、应该保留的连接词
 
 
-反之，如果连接词省略会造成句意不清，就得保留，例如:  
+反之，<b><u>如果连接词省略会造成句意不清，就得保留</u></b>，例如:  
 >  
 Although we have nothing to do here,we can't leave early.  
 副词从句 S V  
