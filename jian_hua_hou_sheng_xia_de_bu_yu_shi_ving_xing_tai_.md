@@ -145,86 +145,123 @@ S(名词从句） V C
 Called a liar is the greatest insult.(误)  
 S V C  
 
-剩下的补语 called a liar 是形容词类，不能取代原来的名词从句作主语。如果将called改成calling，虽然变成了名词类，但是被动的意味消失了： called a liar是“打电话给一个骗子”。所以，为了维持被动态，called a liar不能更动，只能借用前面的be动词来作词类变化，成为being called a liar。be动词本身没有意义，把它加上-ing纯粹只有词类变化的功能，并不改变句意，因而成为：
-Being called a liar is the greatest insult.
-S(简化名词从句) V C
-再看一个例子：
-1.I am looking forward to something.
-2.I am invited to the party.
-例2就是例1中something的内容，可以简化后放人something的位置。但是例2是被动态，如果直接省略主语与be动词，会成为：
-I am looking forward to invited to the party.(误)
-形容词
-过去分词补语invited...是形容词，不能直接放在介系词to的后面。若直接将invited的词类改变，就这个例子而言意思也维持不变：
-I am looking forward to the invitation to the party.
-名词
-(我盼望着受邀去参加舞会。）
-如果按照前面的做法，加上being来改变invited的词类当然也可以：
-I am looking forward to being invited to the party.
-简化名词从句
-名词从句简化成Ving的形式，如果是被动态时，以being Ven的形式就可以表示，并仍以名词的形式保留下来。
+剩下的补语 called a liar 是形容词类，不能取代原来的名词从句作主语。如果将 called 改成 calling ，虽然变成了名词类，但是被动的意味消失了： called a liar 是“打电话给一个骗子”。所以，为了维持被动态，called a liar 不能更动，只能借用前面的 be 动词来作词类变化，成为 being called a liar 。be 动词本身没有意义，把它加上 -ing 纯粹只有词类变化的功能，并不改变句意，因而成为：  
+>  
+Being called a liar is the greatest insult.  
+S(简化名词从句) V C  
+
+再看一个例子：  
+>  
+1.I am looking forward to something.  
+2.I am invited to the party.  
+
+例2就是例1中 something 的内容，可以简化后放人  something 的位置。但是例2是被动态，如果直接省略主语与 be 动词，会成为：  
+>  
+I am looking forward to invited to the party.(误)  
+形容词  
+
+过去分词补语 invited... 是形容词，不能直接放在介系词to的后面。若直接将 invited 的词类改变，就这个例子而言意思也维持不变：  
+>  
+I am looking forward to the invitation to the party.  
+名词  
+（我盼望着受邀去参加舞会。）  
+
+如果按照前面的做法，加上 being 来改变 invited 的词类当然也可以：  
+>  
+I am looking forward to being invited to the party.  
+简化名词从句  
+
+名词从句简化成 Ving 的形式，如果是被动态时，以 being Ven 的形式就可以表示，并仍以名词的形式保留下来。
 
 ### 六、动词是单纯的 be 动词
 
 时
-若名词从句中是be动词，后面接一般的名词或形容词作补语，则须加上-ing成为being:
-That one is a teacher requires a lot of patience.
-S(名词从句) V O
-(做老师的人就得很有耐心。）
-名词从句中是单纯的be动词，后面接a teacher作补语。简化时改成being...才能保持“做”老师的味道：
-Being a teacher requires a lot of patience.
-简化名词从句
-若省略be动词，成为：
-A teacher requires a lot of patience.
-意思会稍有不同。又如：
-That he was busy is no excuse for the negligence.
-S（名词从句） V C
-(“他很忙”并不能构成疏忽的借口。）
-这个名词从句是单纯的be动词后接形容词busy作补语。简化时也不能径行省略be动词，否则会剩下形容词busy，无法充当主语。正确的做法仍是改成-ing:
-Being busy is no excuse for the negligence.
-简化名词从句
+若名词从句中是 be  动词，后面接一般的名词或形容词作补语，则须加上 -ing 成为 being :  
+>  
+That one is a teacher requires a lot of patience.  
+S(名词从句) V O  
+（做老师的人就得很有耐心。）  
+
+名词从句中是单纯的 be 动词，后面接 a teacher 作补语。简化时改成 being... 才能保持“做”老师的味道：  
+>  
+Being a teacher requires a lot of patience.  
+简化名词从句  
+
+若省略 be 动词，成为：  
+>  
+A teacher requires a lot of patience.  
+
+意思会稍有不同。又如：  
+>  
+That he was busy is no excuse for the negligence.  
+S（名词从句） V C  
+（“他很忙”并不能构成疏忽的借口。）  
+
+这个名词从句是单纯的 be 动词后接形容词 busy 作补语。简化时也不能径行省略 be 动词，否则会剩下形容词 busy ，无法充当主语。正确的做法仍是改成 -ing :  
+>  
+Being busy is no excuse for the negligence.  
+简化名词从句  
 
 ### 简化后剩下的补语是to V形态时
 
 
-名词从句简化，若其中有语气助动词，含有不确定语气，就会成为不定词(to V)。如：
-The children expect that they can get presents for Christmas.
-S V 0(名词从句)
-(孩子们期望圣诞节能得到礼物。）
-这个名词从句中有助动词，表示不确定语气（还不一定拿得到）。简化时可以先把助动词改写为be + to (所有的语气助动词都可如此改写以便简化)，成为：
-The children expect that they are to get presents for Christmas.
-名词从句
-如此一来，名词从句中有了 be动词，就可以把that they are这三个没有内容的部分简化，成为不定词的形态：
-The children expect to get presents for Christmas.
-O(简化名词从句)
-不定词即“不一定是什么词类”，可当名词、形容词、副词，所以不必顾虑词类是否符合的问题。唯一要注意的是，不定词不适合放在介系词后面，这时要改为Ving的形式。再看一个例子：
-I think it strange that man should fear ghosts.
-S V O C 名词从句
-(我觉得人竟然怕鬼是很奇怪的事。）
-上面的名词从句是当作think的宾语使用。不过这个宾语从句后面还有宾语补语strange，照写的话会产生断句的问题，所以用it这个虚字(expletive)暂代一下宾语位置，而把真正的宾语从句移到补语后面。
-这个名词从句的主语是man，可以指任何人，所以是空泛的字眼，可以省略。助动词should就可简化为不定词，成为：
-I think it strange to fear ghosts.
-简化名词从句
+名词从句简化，若其中有语气助动词，含有不确定语气，就会成为不定词(to V)。如：  
+>
+The children expect that they can get presents for Christmas.  
+S V 0(名词从句)  
+（孩子们期望圣诞节能得到礼物。）  
+
+这个名词从句中有助动词，表示不确定语气（还不一定拿得到）。简化时可以先把助动词改写为 be + to (所有的语气助动词都可如此改写以便简化)，成为：  
+>  
+The children expect that they are to get presents for Christmas.  
+名词从句  
+
+如此一来，名词从句中有了 be 动词，就可以把 that they are 这三个没有内容的部分简化，成为不定词的形态：  
+>  
+The children expect to get presents for Christmas.  
+O(简化名词从句)  
+
+不定词即“不一定是什么词类”，可当名词、形容词、副词，所以不必顾虑词类是否符合的问题。唯一要注意的是，不定词不适合放在介系词后面，这时要改为Ving的形式。再看一个例子：  
+>  
+I think it strange that man should fear ghosts.  
+S V O C 名词从句  
+（我觉得人竟然怕鬼是很奇怪的事。）  
+
+上面的名词从句是当作 think 的宾语使用。不过这个宾语从句后面还有宾语补语 strange ，照写的话会产生断句的问题，所以用 it 这个虚字(expletive)暂代一下宾语位置，而把真正的宾语从句移到补语后面。
+这个名词从句的主语是 man ，可以指任何人，所以是空泛的字眼，可以省略。助动词 should 就可简化为不定词，成为：  
+>  
+I think it strange to fear ghosts.  
+简化名词从句  
 
 #### 一、主语不适合省略时
 
 
-名词从句的主语如果和主要从句不重复，又不是空泛的字眼，省略时往往会改变句意。这时就要想办法改变这个主语，将它保留。在有些句型中可以把主语放入宾语位置，变成S+V+0+C的句型，例如：
-I want that you should go.
-S V O（名词从句）
-(我希望你去。）
-名词从句的主语是you，有特定的对象，又和主要从句不重复，因而不适合省略。此时先将should改写为be + to，成为：
-I want that you are to go.
-S V O
-然后省去be动词，主语的you放入宾语位置，主语补语to go 就成了宾语补语，成为：
-I want you to go.
-S V O C
-在大部分的句型中，不定词原来的主语可放在介系词后的宾语位置以保留下来，例如：
-That the Clippers should beat the Lakers was quite a marvelous feat.
-S(名词从句) V C
-(快艇队竟然击败湖人队，真是相当了不起的。）
-名词从句的主语the Clippers不能省，又没有别处可安插，就可加介系词for，简化为：
-For the Clippers to beat the Lakers was quite a marvelous feat.
-简化名词从句
+名词从句的主语如果和主要从句不重复，又不是空泛的字眼，省略时往往会改变句意。这时就要想办法改变这个主语，将它保留。在有些句型中可以把主语放入宾语位置，变成 S+V+0+C 的句型，例如：  
+>  
+I want that you should go.  
+S V O（名词从句）  
+（我希望你去。）  
+
+名词从句的主语是 you ，有特定的对象，又和主要从句不重复，因而不适合省略。此时先将 should 改写为 be + to ，成为：  
+>  
+I want that you are to go.  
+S V O  
+
+然后省去 be 动词，主语的 you 放入宾语位置，主语补语 to go 就成了宾语补语，成为：  
+>  
+I want you to go.  
+S V O C  
+
+在大部分的句型中，不定词原来的主语可放在介系词后的宾语位置以保留下来，例如：  
+>  
+That the Clippers should beat the Lakers was quite a marvelous feat.  
+S(名词从句) V C  
+（快船队竟然击败湖人队，真是相当了不起的。）   
+
+名词从句的主语 the Clippers 不能省，又没有别处可安插，就可加介系词 for ，简化为：  
+>  
+For the Clippers to beat the Lakers was quite a marvelous feat.  
+简化名词从句  
 
 #### 二、代表疑问句的名词从句简化
 
