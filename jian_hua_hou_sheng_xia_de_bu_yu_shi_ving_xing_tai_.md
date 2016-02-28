@@ -266,7 +266,7 @@ For the Clippers to beat the Lakers was quite a marvelous feat.
 #### 二、代表疑问句的名词从句简化
 
 
-名词从句有两种。一种是由直述句外加连接词 that 而形成。这种名词从句简化时，无意义的 that 要省略。另一种是由疑问句改造，通常以疑问词来充当连接词。例如：  
+<b>名词从句有两种。一种是由直述句外加连接词 that 而形成。这种名词从句简化时，无意义的 that 要省略。另一种是由疑问句改造，通常以疑问词来充当连接词。</b>例如：  
 >  
 1.What should I do?  
 2.I don't know the question.  
