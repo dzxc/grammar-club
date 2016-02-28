@@ -55,24 +55,35 @@ O
 
 ### 三、补语位置
 
+>  
+The car is ruined.The important thing is that we're all right.  
+S V C  
+（车子报销了，要紧的是我们都安然无恙。）  
 
-The car is ruined.The important thing is that we're all right.
-S V C
-(车子报销了，要紧的是我们都安然无恙。）
-名词类的主语补语与主语之间是同等关系，也就是：
-the important thing = we're all right
-把we're all right前面加上连接词that (表示“那件事情”），作为名词从句，放在be动词后面的补语位置，和主语the important thing(要紧的事情）同等，就成为一个复句。
-名词从句放在补语位置，只要不会产生断句的困难或意思的混淆，仍然可以省略连接词that，例如上面这句就可以写成：
-The important thing is we're all right.
-四、同位语位置
-等看过后面对“简化从句”的探讨，会了解到所谓同位语其实就是形容词从句简化之后所留下的补语。这是后话，目前不妨接受 传统语法中的“同位语”一词。
-The story that he once killed a man might just be true.
-S 同位语
-(他杀过人这件事极有可能是真的。）
-上例中he once killed a man原是一个完整的简单句，加上连接词that之后成为名词从句，放在名词the story的后面作它的同位语，也就是和它同等的东西。
-I am afraid that I can't help you.(对不起，我帮不了你。）
-S V C 同位语
-上例中I can’t help you 是完整的单句，外加连接词that，这种构造就是名词从句。名词从句属于名词类，要放在主要从句的名词位置使用。可是主要从句I am afraid 当中看不出来有任何名词位置可以放这个名词从句。原来这中间经过省略，请看下面的句子；
+名词类的主语补语与主语之间是同等关系，也就是：  
+>  
+the important thing = we're all right  
+
+把 we're all right 前面加上连接词 that  (表示“那件事情”），作为名词从句，放在be动词后面的补语位置，和主语 the important thing (要紧的事情）同等，就成为一个复句。
+名词从句放在补语位置，只要不会产生断句的困难或意思的混淆，仍然可以省略连接词 that ，例如上面这句就可以写成：  
+>  
+The important thing is we're all right.  
+
+### 四、同位语位置
+
+
+等看过后面对“简化从句”的探讨，会了解到所谓同位语其实就是形容词从句简化之后所留下的补语。这是后话，目前不妨接受 传统语法中的“同位语”一词。  
+>  
+The story that he once killed a man might just be true.  
+S 同位语  
+（他杀过人这件事极有可能是真的。）  
+
+上例中 he once killed a man 原是一个完整的简单句，加上连接词 that 之后成为名词从句，放在名词 the story 的后面作它的同位语，也就是和它同等的东西。  
+>  
+I am afraid that I can't help you.(对不起，我帮不了你。）  
+S V C 同位语  
+上例中 I can’t help you   是完整的单句，外加连接词 that ，这种构造就是名词从句。名词从句属于名词类，要放在主要从句的名词位置使用。可是主要从句 I am afraid 当中看不出来有任何名词位置可以放这个名词从句。原来这中间经过省略，请看下面的句子；  
+>  
 1.I am afraid of that thing.
 2.I can't help you.
 例2的I can’t help you加上连接词that，成为名词从句，可以视为例1中thing的同位语。基于以下三点原因：  
