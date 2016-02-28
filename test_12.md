@@ -108,3 +108,9 @@ hundreds of years is hard to believe.
 (B) what now  
 (C) what is now  
 (D) that now  
+
+
+
+---
+
+**Answer key 12**
