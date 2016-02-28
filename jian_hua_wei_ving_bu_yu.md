@@ -24,8 +24,9 @@
 ### 二、所谓“分词构句”
 
 
-以例2而言，省去 while 之后，句子仍然清楚，不过传统语法学家解释起来就大费周章。他们只看到lying on the couch是现在分词短语，属于形容词类，但显然不是用来修饰名词类的the boy (它不是用来特别指出哪一个男孩)，而是修饰动词类的fell(用来说明是何时、在何种状态下睡着)。以形容词修饰动词，这不是犯了词类错误吗？面对这个矛盾,语法学家于是创造了一个名称：分词构 句——lying on the couch这个分词短语本身就构成一个从句，一个修饰动词fell的副词从句。
-了解简化从句的来龙去脉后，就会了解“分词构句” 一词实在是多此一举。lying on the couch本来就是副词从句while he was lying on the couch的简化，无需用任何特别名称来表示。当然，若把连接词while保留（如例1),可以更明确表示这是副词从句。在这个例子中，是否要保留while属于个人的选择：若比较注重句子的清楚性就保留它，若比较注重简洁性就省略它。不论有无while, 都不影响一个事实：lying on the couch是简化的副词从句。
+以例2而言，省去 while 之后，句子仍然清楚，不过传统语法学家解释起来就大费周章。他们只看到 lying on the couch 是现在分词短语，属于形容词类，但显然不是用来修饰名词类的 the boy (它不是用来特别指出哪一个男孩)，而是修饰动词类的 fell (用来说明是何时、在何种状态下睡着)。以形容词修饰动词，这不是犯了词类错误吗？面对这个矛盾,语法学家于是创造了一个名称：分词构句—— lying on the couch 这个分词短语本身就构成一个从句，一个修饰动词 fell 的副词从句。  
+
+了解简化从句的来龙去脉后，就会了解“分词构句” 一词实在是多此一举。lying on the couch 本来就是副词从句 while he was lying on the couch 的简化，无需用任何特别名称来表示。当然，若把连接词 while 保留（如例1),可以更明确表示这是副词从句。在这个例子中，是否要保留 while 属于个人的选择：若比较注重句子的清楚性就保留它，若比较注重简洁性就省略它。不论有无 while , 都不影响一个事实：lying on the couch 是简化的副词从句。
 
 ### 三、没有 be 动词与助动词时
 
@@ -36,9 +37,14 @@ Because we have nothing to do here,we might as well go home.
 副词从句 S V  
 （在这儿也没事做，我们还不如回家算了。）  
 
-首先请观察副词从句中的 to do here ，其实这是简化的形容词从句（形容词从句的简化已经在前面章节介绍过），原来是 that we can do here，修饰先行词nothing。然后再看看副词从句的动词have，这是普通动词，没有be动词可省略，也没有语气助动词可供改写。这个动词若不处理掉，句子将无法简化。所以必须加上be动词，原来的动词 have 就得变成 having: Because we are having nothing to do here, we might as well go home。请注意：这种修改不是为了要改成进行式（这个句子并不适合采用进行式)，而是为了做词类变化：把having nothing to do here移入补语部分，we are便得以省略，成为：
-Having nothing to do here, we might as well go home.
-简化副词从句
+首先请观察副词从句中的 to do here ，其实这是简化的形容词从句（形容词从句的简化已经在前面章节介绍过），原来是 that we can do here ，修饰先行词nothing。然后再看看副词从句的动词 have ，这是普通动词，没有 be 动词可省略，也没有语气助动词可供改写。这个动词若不处理掉，句子将无法简化。所以必须加上 be 动词，原来的动词 have 就得变成 having:   
+>  
+Because we are having nothing to do here, we might as well go home。  
+
+请注意：这种修改不是为了要改成进行式（这个句子并不适合采用进行式)，而是为了做词类变化：把 having nothing to do here 移入补语部分，we are 便得以省略，成为：  
+>  
+Having nothing to do here, we might as well go home.  
+简化副词从句  
 
 ### 四、应该省略的连接词
 
