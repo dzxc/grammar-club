@@ -56,6 +56,6 @@ the number 就是 that number ，指的是一个数字，所以是单数。 a nu
 
 不过英语里面要用 a pair 来表示的东西，像<em>shoes、glasses、trousers、scissors</em>等等，也可以直接说 these shoes… 等，这时当然要用复数。  
 - Ex.48 These pants (be) very fancy.  
-正确用法：Ex.48 are
+正确用法：Ex.48 are  
 (从这个句子中看不出these pants是一条裤子还是几条裤子，因为同
 样都要用复数形式。）
