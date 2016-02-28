@@ -76,18 +76,19 @@ S V C 同位语
 1.I am afraid of that thing.
 2.I can't help you.
 例2的I can’t help you加上连接词that，成为名词从句，可以视为例1中thing的同位语。基于以下三点原因：  
-1. that thing没有意义
+1. that thing 没有意义
 2. that thing 与 that I can't help you 重复
-3. of that thing是可有可无的介系词短语  
+3. of that thing 是可有可无的介系词短语  
 
 于是将of that thing省略掉。就成为：  
 >  
 I am afraid that I can't help you.  
 
-这句话中的名词从句仍应视为用在同位语位置。句中的that也可以省略。再看一个例子：
-You'd better take care that nothing goes wrong.
-S V O 同位语
-(你最好小心，别出錯。）
+这句话中的名词从句仍应视为用在同位语位置。句中的that也可以省略。再看一个例子：  
+>  
+You'd better take care that nothing goes wrong.  
+S V O 同位语  
+（你最好小心，别出錯。）  
 这个句子的宾语是care，是S+V+O的句型，同样没有位置可以放名词从句，但是可以视为下面两句的结合：
 1.You'd better take care of that thing.
 2.Nothing goes wrong.
