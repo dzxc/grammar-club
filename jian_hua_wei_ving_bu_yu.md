@@ -104,11 +104,13 @@ being a student 因为有 being ，所以 a student 很明显是补语，意思�
 ### 七、兼作介系词的连接词： before, after, since
 
 
-<b>还有一种情况**需要使用 being** ，情形稍微复杂一些</b>，请看下面的例子：
-Before he was in school, he used to be a naughty child.
-副词从句 S V C
-(上学读书以前，他原本是个小顽童。）
-副词从句中有现成的he was可省略。如果省略，连接词before 也一并拿掉，就成为：
+<b>还有一种情况**需要使用 being** ，情形稍微复杂一些</b>，请看下面的例子：  
+>  
+Before he was in school, he used to be a naughty child.  
+副词从句 S V C  
+（上学读书以前，他原本是个小顽童。）  
+
+副词从句中有现成的 he was 可省略。如果省略，连接词 before 也一并拿掉，就成为：
 In school,he used to be a naughty child.
 这个句子本身没错，只不过和原句意思不同，成为：他从前在学校里很调皮。会产生句意的出入，主要是因为表示时间关系的连接词before被省略了。若把before保留呢？
 Before in school, he used to be a naughty child.(误)
