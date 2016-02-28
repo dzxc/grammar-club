@@ -175,8 +175,8 @@ I am looking forward to being invited to the party.
 
 ### 六、动词是单纯的 be 动词
 
-时
-若名词从句中是 be  动词，后面接一般的名词或形容词作补语，则须加上 -ing 成为 being :  
+
+<b>若名词从句中是 be 动词，后面接一般的名词或形容词作补语，则须加上 -ing 成为 being</b> :  
 >  
 That one is a teacher requires a lot of patience.  
 S(名词从句) V O  
