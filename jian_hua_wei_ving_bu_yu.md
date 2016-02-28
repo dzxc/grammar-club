@@ -83,7 +83,7 @@ S V O 副词从句
 ### 六、being 的运用
 
 
-副词从句的 be 动词一般在简化时要省略，但有些状况下要以  being 的方式留下来，以下举几个例子说明：  
+<b>副词从句的** be 动词**一般在简化时要省略，但<u>有些状况下要以  **being 的方式**留下来</u></b>，以下举几个例子说明：  
 >  
 As I am a student,I can't afford to get married.  
 副词从句 S V O  
