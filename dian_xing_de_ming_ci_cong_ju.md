@@ -89,9 +89,10 @@ I am afraid that I can't help you.(对不起，我帮不了你。）
 S V C 同位语  
 上例中 I can’t help you   是完整的单句，外加连接词 that ，这种构造就是名词从句。名词从句属于名词类，要放在主要从句的名词位置使用。可是主要从句 I am afraid 当中看不出来有任何名词位置可以放这个名词从句。原来这中间经过省略，请看下面的句子；  
 >  
-1.I am afraid of that thing.
-2.I can't help you.
-例2的I can’t help you加上连接词that，成为名词从句，可以视为例1中thing的同位语。基于以下三点原因：  
+1.I am afraid of that thing.  
+2.I can't help you.  
+
+例2的 I can’t help you 加上连接词 that，成为名词从句，可以视为例1中 thing 的同位语。基于以下三点原因：  
 1. that thing 没有意义
 2. that thing 与 that I can't help you 重复
 3. of that thing 是可有可无的介系词短语  
