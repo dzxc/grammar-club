@@ -1,11 +1,15 @@
 # 典型的名词从句
 
-典型的名词从句具有以下几个特色：
-1.本身原来是一个完整、独立的简单句。
-2.前面加上连接词that。这个连接词没有意义，只有语法功能，表示后面跟着一个名词从句。
-3.名词从句须放在主要子句的名词位置（主语、宾语、补语、同位语等位置），当作名词使用。
-现在依名词从句出现的各种位置来看看它的变化。
-一、主语位置
+典型的名词从句具有以下几个特色：  
+1. 本身原来是一个完整、独立的简单句。  
+2. 前面加上连接词that。这个连接词没有意义，只有语法功能，表示后面跟着一个名词从句。  
+3. 名词从句须放在主要子句的名词位置（主语、宾语、补语、同位语等位置），当作名词使用。  
+
+现在依名词从句出现的各种位置来看看它的变化。  
+
+### 一、主语位置
+
+
 1.Something is strange.
 S
 2.He didn't show up on time.
@@ -16,7 +20,10 @@ S
 (真是奇怪，他没有准时来。）
 例 2 He didn't show up on time 就是例1 主语something的内容。在它前面加上that (表示“那件事”）就成了名词从句，可以直接放人例1主语(something)的位置，做为is的主语使用，成为(A)的复句。
 另外，名词从句如果很长，直接放入主语位置使用时，可能会让读者看不清楚，这时候可以用it这个虚词(expletive)来填入主语位置，让主要从句It is strange比较清楚地表达出来，名词从句则向后移，成为(B)的复句。
-二、宾语位置
+
+### 二、宾语位置
+
+
 1.The defendant said something.
 S V O
 2.He didn't do it.
@@ -39,7 +46,10 @@ S V O C
 O
 (我觉得奇怪，他竟然没有准时来。）
 例2 He didn't show up on time.就是例1的宾语something的内容，可以加上连接词that，成为名词从句，放入something的位置作宾语使用。可是它后面还有一个补语strange，如果宾语的从句太长，又会造成不清楚，所以还是借用虚字it暂代宾语位置，将从句后移，成为(A)的结果。
-三、补语位置
+
+### 三、补语位置
+
+
 The car is ruined.The important thing is that we're all right.
 S V C
 (车子报销了，要紧的是我们都安然无恙。）
@@ -59,12 +69,15 @@ S V C 同位语
 上例中I can’t help you 是完整的单句，外加连接词that，这种构造就是名词从句。名词从句属于名词类，要放在主要从句的名词位置使用。可是主要从句I am afraid 当中看不出来有任何名词位置可以放这个名词从句。原来这中间经过省略，请看下面的句子；
 1.I am afraid of that thing.
 2.I can't help you.
-例2的I can’t help you加上连接词that，成为名词从句，可以视为例1中thing的同位语。基于以下三点原因：
-1.that thing没有意义
-2.that thing 与 that I can't help you 重复
-3.of that thing是可有可无的介系词短语
-于是将of that thing省略掉。就成为：
-I am afraid that I can't help you.
+例2的I can’t help you加上连接词that，成为名词从句，可以视为例1中thing的同位语。基于以下三点原因：  
+1. that thing没有意义
+2. that thing 与 that I can't help you 重复
+3. of that thing是可有可无的介系词短语  
+
+于是将of that thing省略掉。就成为：  
+>  
+I am afraid that I can't help you.  
+
 这句话中的名词从句仍应视为用在同位语位置。句中的that也可以省略。再看一个例子：
 You'd better take care that nothing goes wrong.
 S V O 同位语
