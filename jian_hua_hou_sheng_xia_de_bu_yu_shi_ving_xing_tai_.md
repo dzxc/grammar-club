@@ -67,49 +67,69 @@ His favorite pastime is going fishing on weekends.
 #### 1.改成s+v+o+c的句型
 
 
-但要如此修改，名词从句必须是处于宾语位置，而且主要从句的动词适用于S+V+0+C的句型。例如：
-I imagined that a beautiful girl was singing to me.
-S V O（名词从句）
-(我想象有个美女在对我唱歌。）
-以上的名词从句中，主语是a beautiful girl，和主要从句的主语I不同。如果径行简化，省略主语与be动词，会变成：
-I imagined singing to myself.(我想象在对自己唱歌。）
-这个句子的意思就完全不一样了。所以，要完整保留原意，名词从句的主语a beautiful girl不能省略，只能把be动词省略。在上例中恰好可以这样处理：
-I imagined a beautiful girl singing to me.
-S V O C
-主语a beantiflil girl放到宾语位置，原来的主语补语singing to me放在宾语补语的位置，就可顺利解决问题。原来的复句也简化为S+V+0+C的句型。
+但要如此修改，名词从句必须是处于宾语位置，而且主要从句的动词适用于 S+V+0+C 的句型。例如：  
+>  
+I imagined that a beautiful girl was singing to me.   
+S V O（名词从句）  
+（我想象有个美女在对我唱歌。）  
+
+以上的名词从句中，主语是 a beautiful girl ，和主要从句的主语 I 不同。如果径行简化，省略主语与 be 动词，会变成：  
+>  
+I imagined singing to myself.  
+（我想象在对自己唱歌。）  
+
+这个句子的意思就完全不一样了。所以，要完整保留原意，名词从句的主语 a beautiful girl 不能省略，只能把 be 动词省略。在上例中恰好可以这样处理：
+>  
+I imagined a beautiful girl singing to me.  
+S V O C  
+
+主语 a beantiflil girl 放到宾语位置，原来的主语补语 singing to me 放在宾语补语的位置，就可顺利解决问题。原来的复句也简化为 S+V+0+C 的句型。  
+
 
 #### 2.用所有格来处
 
-理
-That he calls my girlfriend every day is too much for me.
-S（名词从句） V C
-(他每天打电话给我女朋友真让我受不了。）
-若径行简化名词从句的主语he，会成为：
-Calling my girlfriend every day is too much for me.
-S V C
-(每天打电话给我女朋友真让我受不了。）
-这句的意思变成是自己不爱打电话。所以，要保留原意，名词从句的主语he不能省略。但calling my girlfriend every day取代了名词从句成为主要从句的主语，已经没有位置可安插原来的主语he。这时可把原主语he改成所有格，就能放在calling…之前，成为：
-His calling my girlfriend every day is too much for me.
-S (简化名词从句 ) V C
-名词从句简化为Ving的形态，而主语不能省略时，大多可用所有格来处理主语的部分。
+>  
+That he calls my girlfriend every day is too much for me.  
+S（名词从句） V C  
+（他每天打电话给我女朋友真让我受不了。）
+
+若径行简化名词从句的主语 he ，会成为：  
+>  
+Calling my girlfriend every day is too much for me.  
+S V C  
+（每天打电话给我女朋友真让我受不了。）  
+
+这句的意思变成是自己不爱打电话。所以，要保留原意，名词从句的主语 he 不能省略。但 calling my girlfriend every day 取代了名词从句成为主要从句的主语，已经没有位置可安插原来的主语 he 。这时可把原主语 he 改成所有格，就能放在 calling… 之前，成为：  
+>  
+His calling my girlfriend every day is too much for me.  
+S (简化名词从句 ) V C  
+名词从句简化为 Ving 的形态，而主语不能省略时，大多可用所有格来处理主语的部分。
 
 #### 3.加介系词来处理
 
 
-这只适合一种特殊的句型。例如：
-I am worried that my son lies all the time.
-SV C 名词从句
-(我很发愁我儿子老说谎。）
-在简化前，首先要了解这个名词从句扮演的角色。在S+V+C 的句型后面，本来并没有名词存在的空间，所以上述的句型要这样诠释：
-I am worried about the fact that my son lies all the time
-S V C 同位语（名词从句）
-这句的名词从句that my son lies all the time是the fact的同位语(即形容词从句which is that...的补语，其中which is经简化而省略)。这个名词从句简化后即可置入与它重复的the fact的位置。因主语my son与主要从句主语I不同，故可用所有格来处理，成为：
-1.I am worried about my son's lying all the time.
-S V C 介系词 O(简化名词从句）
-也可以将主语my son置于about后面的宾语位置，lying all the time作宾语补语：
-2. I am worried about my son lying all the time.
-S V C 介系词 O C
-句1和句2这两种处理方式在语法上都正确。在意思上又以句1更接近原意。因为在原句中，说话的人所担心的是一件事情(that my son lies all the time)，简化为 my son's lying all the time仍是一件事情，比较接近。但改成句2时，担心的对象变成了人(my son)，事情(lying all the time)则降格成了修饰语，所以意思和原句稍有出入。
+这只适合一种特殊的句型。例如：  
+>  
+I am worried that my son lies all the time.  
+S V C 名词从句  
+（我很发愁我儿子老说谎。）  
+
+在简化前，首先要了解这个名词从句扮演的角色。在 S+V+C  的句型后面，本来并没有名词存在的空间，所以上述的句型要这样诠释：  
+>  
+I am worried about the fact that my son lies all the time  
+S V C 同位语（名词从句）  
+
+这句的名词从句 that my son lies all the time是the fact 的同位语(即形容词从句 which is that... 的补语，其中 which is 经简化而省略)。这个名词从句简化后即可置入与它重复的 the fact 的位置。因主语 my son 与主要从句主语 I 不同，故可用所有格来处理，成为：  
+>  
+1.I am worried about my son's lying all the time.  
+S V C 介系词 O（简化名词从句）  
+
+也可以将主语 my son 置于 about 后面的宾语位置，lying all the time 作宾语补语：  
+>  
+2. I am worried about my son lying all the time.  
+S V C 介系词 O C  
+
+句1和句2这两种处理方式在语法上都正确。在意思上又以句1更接近原意。因为在原句中，说话的人所担心的是一件事情( that my son lies all the time )，简化为 my son's lying all the time 仍是一件事情，比较接近。但改成句2时，担心的对象变成了人 my son )，事情( lying all the time )则降格成了修饰语，所以意思和原句稍有出入。
 
 ### 五、如何处理被动态
 
