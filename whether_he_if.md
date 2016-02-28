@@ -1,6 +1,6 @@
 # whether 和 if
 
-疑问句改装的名词从句中比较特别的是由 whether 引导的名词从句。 whether 并不能独立当做疑问词来引导一个带问号的疑问句，可是它可以引导代表一个问题的名词从句，请看下例：  
+<b>疑问句改装的名词从句中比较特别的是由 <em>whether</em> 引导的名词从句。 <em>whether</em> 并不能独立当做疑问词来引导一个带问号的疑问句，可是它可以引导代表一个问题的名词从句</b>，请看下例：  
 >  
 1. I can’t tell which.
 S V O  
@@ -13,7 +13,7 @@ O
 >   
 I can't tell if he’s telling the truth or not.  
 
-whether 和解释为“是否”的 if 在大多数的情况下可以互换使用，但是在句首位置以及介系词后面就只能用 whether ，请从下面的例子思考一下为什么。  
+<b><em>whether</em> 和解释为“是否”的 <em>if</em> 在大多数的情况下可以互换使用，但是在句首位置以及介系词后面就只能用 whether</b> ，请从下面的例子思考一下为什么。  
 >  
 1.Either the stock market will improve or it will not.  
 2.(The question) which is impossible to say now.  
