@@ -4,15 +4,19 @@
 
 ### 一、主语位置
 
+>   
+That I drink good wine with friends is my greatest enjoyment.  
+S(名词从句) V C  
+（和好友一起喝美酒是我最大的享受。）  
 
-That I drink good wine with friends is my greatest enjoyment.
-S(名词从句) V C
-(和好友一起喝美酒是我最大的享受。）
-典型的名词从句是由一个直述句（如I drink good wine with friends)外加连接词that而构成，表示“那件事”。上例中这个名词从句置于主要从句的主语位置当主语使用。简化的做法是省去里面的主语I (因为主要从句中有“my” greatest enjoyment可表示是谁在喝酒)。但因为这个名词从句没有be动词，也没有助动词，所以得先把它改成进行式的形态：
-That I am drinking good wine with friends is my greatest enjoyment.
-然后就可省略主语I与be动词，以及已经没有作用的连接词 that，成为较紧凑的句子：
-Drinking good wine with friends is my greatest enjoyment.
-简化名词从句
+典型的名词从句是由一个直述句（如 I drink good wine with friends )外加连接词 that 而构成，表示“那件事”。上例中这个名词从句置于主要从句的主语位置当主语使用。简化的做法是省去里面的主语 I  (因为主要从句中有“my” greatest enjoyment 可表示是谁在喝酒)。但因为这个名词从句没有 be 动词，也没有助动词，所以得先把它改成进行式的形态：  
+>  
+That I am drinking good wine with friends is my greatest enjoyment.  
+
+然后就可省略主语 I 与 be 动词，以及已经没有作用的连接词 that ，成为较紧凑的句子：  
+>  
+Drinking good wine with friends is my greatest enjoyment.  
+简化名词从句  
 
 ### 二、宾语位置
 
