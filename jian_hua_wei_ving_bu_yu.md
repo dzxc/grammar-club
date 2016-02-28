@@ -123,7 +123,7 @@ Before being in school, he used to be a naughty child.
 ### 八、时态的问题
 
 
-简化副词从句还得注意时态问题，例如：
+<b>简化副词从句还得**注意时态**问题</b>，例如：
 After he wrote the letter, he put it to mail.
 副词从句
 (他写好了信，就拿去邮寄。）
