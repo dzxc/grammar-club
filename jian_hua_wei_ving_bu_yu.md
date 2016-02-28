@@ -118,15 +118,21 @@ Before he was in school, he used to be a naughty child.
 副词从句 S V C  
 （上学读书以前，他原本是个小顽童。）  
 
-副词从句中有现成的 he was 可省略。如果省略，连接词 before 也一并拿掉，就成为：
-In school,he used to be a naughty child.
-这个句子本身没错，只不过和原句意思不同，成为：他从前在学校里很调皮。会产生句意的出入，主要是因为表示时间关系的连接词before被省略了。若把before保留呢？
-Before in school, he used to be a naughty child.(误)
-保留before问题就更大了。因为before这个字除了当连接词以外，也可以当介系词（例如before 1977、before the war等等）。简化从句中如果留下before,因为已经省去主语、动词，读者会判断这个before是介系词，不是连接词。那么before后面就只能接名词类的东西。before in school这个组合因而成为一项语法错误。这是词类的错误，修改方法是进行词类变化。若把in school改成名词类，例如去掉in,就可以放在before之后，成为before school。如此一来，语法问题是解决了，但是意思稍嫌不清楚。因为before school看起来不像“开始上学读书以前”，反而像“早上开始上课前”。另一个改法就是借用无字面意义的be动词来作词类变化：
-Before being in school, he used to be a naughty child.
-简化副词从句
-一旦有be动词存在，后面就可以接补语in school。而be动词本身釆用being (动名词）的形状，放在介系词before的后面也符合词类的要求，这样才算解决了问题。
-副词从句的连接词中，before、after, since是身兼连接词与介系词的双重词类。简化时要注意：它会被视为介系词，故后面只能接名词类，必要时得加上being来作词类变化。
+副词从句中有现成的 he was 可省略。如果省略，连接词 before 也一并拿掉，就成为：  
+>  
+In school,he used to be a naughty child.  
+
+这个句子本身没错，只不过和原句意思不同，成为：他从前在学校里很调皮。会产生句意的出入，主要是因为表示时间关系的连接词 before 被省略了。若把 before 保留呢？  
+>  
+Before in school, he used to be a naughty child.(误)  
+
+保留 before 问题就更大了。因为 before 这个字除了当连接词以外，也可以当介系词（例如 before 1977、before the war 等等）。简化从句中如果留下 before ,因为已经省去主语、动词，读者会判断这个 before 是介系词，不是连接词。那么 before 后面就只能接名词类的东西。before in school 这个组合因而成为一项语法错误。这是词类的错误，修改方法是进行词类变化。若把 in school 改成名词类，例如去掉 in ,就可以放在 before 之后，成为 before school 。如此一来，语法问题是解决了，但是意思稍嫌不清楚。因为 before school 看起来不像“开始上学读书以前”，反而像“早上开始上课前”。另一个改法就是借用无字面意义的 be 动词来作词类变化：  
+>  
+Before being in school, he used to be a naughty child.  
+简化副词从句  
+
+一旦有 be 动词存在，后面就可以接补语 in school 。而 be 动词本身釆用 being （动名词）的形状，放在介系词 before 的后面也符合词类的要求，这样才算解决了问题。
+副词从句的连接词中，before、after, since 是身兼连接词与介系词的双重词类。简化时要注意：它会被视为介系词，故后面只能接名词类，必要时得加上 being 来作词类变化。
 
 ### 八、时态的问题
 
@@ -166,7 +172,7 @@ When he had written the letter,he put it to mail.
 ### 九、Dangling Modifier 的错误
 
 
-副词从句的简化有一个相当严格的要求：主语只有在与主要从句相同时才可省略。如果忽略这一点就径行省略，会产生语法、修辞的错误。这项错误一不小心就会发生，修辞学中甚至有一个特别的名称来称呼它：Dangling Modifiers (悬荡修饰语)。请看下例：
+副词从句的简化有一个相当严格的要求：<b>主语只有在与主要从句相同时才可省略。</b>如果忽略这一点就径行省略，会产生语法、修辞的错误。这项错误一不小心就会发生，修辞学中甚至有一个特别的名称来称呼它：Dangling Modifiers (悬荡修饰语)。请看下例：
 When the child was already sleeping soundly in bed,her mother
 副词从句 S
 came to kiss her goodnight.
