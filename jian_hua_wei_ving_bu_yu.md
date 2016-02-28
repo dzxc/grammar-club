@@ -143,13 +143,17 @@ Writing the letter, he put it to mail.(误）
 When he was writing the letter, he put it to mail.  
 （他正在写信的时候,拿去邮寄。）  
 
-这就不合理了。读者在看不到连接词时，会假设时间副词从句的连接词是when。所以如果要省略after，在时态上要做如下的处理：
-2.Having written the letter, he put it to mail.
-简化副词从句
-这是用完成式与简单式的对比来交代写信在先，邮寄在后。句子还原后就能看得更清楚：
-When he had written the letter,he put it to mail.
-副词从句
-若连接词是不能表达先后功能的when,就得靠动词时态来表达。had written (过去完成式）在先，put (过去简单式）在后。以这句来说，副词从句的动词had written没有be动词，也没有语气助动词（had是时态助动词)，简化方法就只有加-ing成为having written。连接词when属于可省略之列。例2即是简化结果，也是正确的简化从句做法。
+这就不合理了。读者在看不到连接词时，会假设时间副词从句的连接词是 when 。所以如果要省略 after ，在时态上要做如下的处理：  
+>  
+2.Having written the letter, he put it to mail.  
+简化副词从句  
+
+这是用完成式与简单式的对比来交代写信在先，邮寄在后。句子还原后就能看得更清楚：  
+>  
+When he had written the letter,he put it to mail.  
+副词从句  
+
+若连接词是不能表达先后功能的 when ,就得靠动词时态来表达。had written  (过去完成式）在先，put (过去简单式）在后。以这句来说，副词从句的动词 had written 没有 be 动词，也没有语气助动词( had 是时态助动词)，简化方法就只有加 -ing 成为 having written 。连接词 when 属于可省略之列。例2即是简化结果，也是正确的简化从句做法。
 
 ### 九、Dangling Modifier 的错误
 
