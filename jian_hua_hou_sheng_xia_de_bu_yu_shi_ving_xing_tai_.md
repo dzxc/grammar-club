@@ -134,14 +134,18 @@ S V C 介系词 O C
 ### 五、如何处理被动态
 
 
-被动态中若省略主语和be动词，剩下的补语Ven是形容词类，无法取代原来的名词从句，所以必须进一步修改。例如：
-That anyone is called a liar is the greatest insult.
-S(名词从句） V C
-(任何人被叫作骗子都是最大的侮辱。）
-这个名词从句的主语anyone没有特定的对象，是空泛的字眼，可省略。再省略be动词和连接词that，本来算是完成了简化，可是:
-Called a liar is the greatest insult.(误)
-S V C
-剩下的补语called a liar是形容词类，不能取代原来的名词从句作主语。如果将called改成calling，虽然变成了名词类，但是被动的意味消失了： called a liar是“打电话给一个骗子”。所以，为了维持被动态，called a liar不能更动，只能借用前面的be动词来作词类变化，成为being called a liar。be动词本身没有意义，把它加上-ing纯粹只有词类变化的功能，并不改变句意，因而成为：
+被动态中若省略主语和 be 动词，剩下的补语 Ven 是形容词类，无法取代原来的名词从句，所以必须进一步修改。例如：  
+>  
+That anyone is called a liar is the greatest insult.  
+S(名词从句） V C  
+（任何人被叫作骗子都是最大的侮辱。）  
+
+这个名词从句的主语 anyone 没有特定的对象，是空泛的字眼，可省略。再省略 be 动词和连接词 that ，本来算是完成了简化，可是:  
+>  
+Called a liar is the greatest insult.(误)  
+S V C  
+
+剩下的补语 called a liar 是形容词类，不能取代原来的名词从句作主语。如果将called改成calling，虽然变成了名词类，但是被动的意味消失了： called a liar是“打电话给一个骗子”。所以，为了维持被动态，called a liar不能更动，只能借用前面的be动词来作词类变化，成为being called a liar。be动词本身没有意义，把它加上-ing纯粹只有词类变化的功能，并不改变句意，因而成为：
 Being called a liar is the greatest insult.
 S(简化名词从句) V C
 再看一个例子：
