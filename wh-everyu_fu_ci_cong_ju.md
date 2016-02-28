@@ -1,6 +1,6 @@
 # Wh-ever与副词从句
 
-wh-ever解释为no matter wh-，是表示让步、条件的语气，它的功能相当于副词从句的连接词，引导的就是副词从句。例如：
+wh-ever 解释为 no matter wh-，是表示让步、条件的语气，它的功能相当于副词从句的连接词，引导的就是副词从句。例如：
 Whenever(=No matter when) he gets upset, he turns on the radio.
 (只要他心情不好，他就会打开收音机。）
 这个句子中whenever当作no matter when (不论何时）来解释，是一种表让步或条件的语气，和if的语气近似。它引导的从句就当副词从句看待，也就是直接附加在主要从句上，修饰其动词turns on。另外，wherever, however等由关系副词变出来的连接词，同样都分别解释为no matter where, no matter how,后而引导的也都是副词从句。可是由关系代名词变出来的whoever, whatever 与whichever的变化就比较复杂，请看下例：
