@@ -172,20 +172,25 @@ When he had written the letter,he put it to mail.
 ### 九、Dangling Modifier 的错误
 
 
-副词从句的简化有一个相当严格的要求：<b>主语只有在与主要从句相同时才可省略。</b>如果忽略这一点就径行省略，会产生语法、修辞的错误。这项错误一不小心就会发生，修辞学中甚至有一个特别的名称来称呼它：Dangling Modifiers (悬荡修饰语)。请看下例：
-When the child was already sleeping soundly in bed,her mother
-副词从句 S
-came to kiss her goodnight.
-V
-(小孩已经在床上睡得很熟了，这时她妈妈来亲她一下道晚安。）
-副词从句的主语是小孩(the child)，主要从句的主语却是她妈妈(her mother)。如果忽略这一点而径行简化，省去主语与be动词，就会得出这个结果：
-Already sleeping soundly in bed, her mother came to kiss her
-Dangling Modifier
-goodnight.(误)
-看到already sleeping soundly in bed这个简化从句时，知道有个人在床上熟睡，可是主语省略了，不知是谁在睡，这时候读者只能假定就是主要从句的主语her mother，这个句子就因而发生了沟通的错误。简化副词从句属于副词类，是一个修饰语，可是却找不到依归，有如悬荡在半空中，所以这是个被称为Dangling Modifier 的错误。碰到这种问题，有两种常用的修改方式，其一是从主要从句下手：改变主要从句的结构，让它的主语与副词从句的主语相同。上例可修改如下：
+**副词从句的简化**有一个相当严格的要求：<b>主语只有在与主要从句相同时才可省略。</b>如果忽略这一点就径行省略，会产生语法、修辞的错误。这项错误一不小心就会发生，修辞学中甚至有一个特别的名称来称呼它：Dangling Modifiers (悬荡修饰语)。请看下例：  
+>  
+When the child was already sleeping soundly in bed,her mother  
+副词从句 S  
+came to kiss her goodnight.  
+V  
+（小孩已经在床上睡得很熟了，这时她妈妈来亲她一下道晚安。）   
+
+副词从句的主语是小孩( the child )，主要从句的主语却是她妈妈( her mother )。如果忽略这一点而径行简化，省去主语与 be 动词，就会得出这个结果：  
+>  
+Already sleeping soundly in bed, her mother came to kiss her goodnight.(误)  
+Dangling Modifier  
+
+看到 already sleeping soundly in bed 这个简化从句时，知道有个人在床上熟睡，可是主语省略了，不知是谁在睡，这时候读者只能假定就是主要从句的主语 her mother ，这个句子就因而发生了沟通的错误。简化副词从句属于副词类，是一个修饰语，可是却找不到依归，有如悬荡在半空中，所以这是个被称为 Dangling Modifier  的错误。碰到这种问题，有两种常用的修改方式，其一是从主要从句下手：改变主要从句的结构，让它的主语与副词从句的主语相同。上例可修改如下：  
+>  
 Already sleeping soundly in bed,the child did not know it when简化副词从句 S V
-her mother came to kiss her goodnight.
-(小孩在床上熟睡着，并不知道妈妈来亲她道晚安。）
+her mother came to kiss her goodnight.  
+（小孩在床上熟睡着，并不知道妈妈来亲她道晚安。）  
+
 主语相同时，简化副词从句就可尘埃落定，找到修饰的对象。另一种改法是从副词从句下手：保留不同的主语。
 
 ### 十、所谓“独立短语”
