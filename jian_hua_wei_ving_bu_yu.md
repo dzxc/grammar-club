@@ -117,7 +117,10 @@ When he was writing the letter, he put it to mail.
 When he had written the letter,he put it to mail.
 副词从句
 若连接词是不能表达先后功能的when,就得靠动词时态来表达。had written (过去完成式）在先，put (过去简单式）在后。以这句来说，副词从句的动词had written没有be动词，也没有语气助动词（had是时态助动词)，简化方法就只有加-ing成为having written。连接词when属于可省略之列。例2即是简化结果，也是正确的简化从句做法。
-九、Dangling Modifier 的错误
+
+### 九、Dangling Modifier 的错误
+
+
 副词从句的简化有一个相当严格的要求：主语只有在与主要从句相同时才可省略。如果忽略这一点就径行省略，会产生语法、修辞的错误。这项错误一不小心就会发生，修辞学中甚至有一个特别的名称来称呼它：Dangling Modifiers (悬荡修饰语)。请看下例：
 When the child was already sleeping soundly in bed,her mother
 副词从句 S
@@ -133,14 +136,20 @@ Already sleeping soundly in bed,the child did not know it when简化副词从句
 her mother came to kiss her goodnight.
 (小孩在床上熟睡着，并不知道妈妈来亲她道晚安。）
 主语相同时，简化副词从句就可尘埃落定，找到修饰的对象。另一种改法是从副词从句下手：保留不同的主语。
-十、所谓“独立短语”
+
+### 十、所谓“独立短语”
+
+
 副词从句简化时，若主语与主要从句不同就不能省略。这时可以选择保留主语，只省略be动词和连接词。在主语后面保留现在分词或过去分词的补语。上面的例子可以修改如下：
 The child already sleeping soundly in bed,her mother came
 简化副词从句 S V
 to kiss her goodnight.
 传统语法称这种保留主语的简化副词从句为“独立短语”。那是把already sleeping soundly in bed视为形容词短语看待，修饰前面的名词the child。可是名词the child就无法成功纳入主要从句来诠释。传统语法分析不够深入，因此碰到困难就取个名称来搪塞，“独立短语”的名称就是这样来的——无法纳入主要从句中，就叫 它“独立”好了！
 从简化从句的角度来看就能完整地了解。简化时以不妨碍清楚性为原则。一般的副词从句要省去主语，是因为和主要从句主语重复，省略不会影响语意。可是主语不同时，一旦省略就会造成语意不清。这时的选择就是不省略，把主语保留下来，如此而已。
-十一、保留主语时的注意事项
+
+### 十一、保留主语时的注意事项
+
+
 简化副词从句时，如果主语不同而需保留，有两点必须注意: 第一，连接词要省略。简化从句一般是省略主语、be动词与连接词 (视情形决定是否省略)。如果主语要保留，连接词又留下，就只是省掉一个be动词，那么并没有达到简化的效果。
 When the child already sleeping soundly in bed, her mother came to kiss her goodnight.(误)
 这个句子看起来不像简化从句，反而像写错了，漏掉一个be 动词。
