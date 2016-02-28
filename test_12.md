@@ -83,7 +83,7 @@ hundreds of years is hard to believe.
 (B) is it  
 (C) that it is  
 (D) is  
-18.Many voters are concerned ____ may not be able to deliver on his promises.  
+18. Many voters are concerned ____ may not be able to deliver on his promises.  
 (A) over the candidate  
 (B) with the candidate  
 (C) that the candidate  
