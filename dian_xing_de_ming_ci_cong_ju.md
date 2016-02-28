@@ -33,13 +33,17 @@ S V O
 （被告说那不是他做的。）  
 
 例2的 He didn't do it. 就是例1中 something 的内容，于是在例2前面加上连接词that成为名词从句，然后直接放入例1中作为 said 的宾语，就成为(A)的复句。
-名词从句的连接词 that 因为没有意义，只有标示从句的语法功能，所以有时能省略。如果名词从句放在及物动词后面的宾语位置，读者可以清楚看出这是名词从句，就可以省略连接词that。试比较下面两句：
-1.The defendant said that he didn't do it.
-O
-2.That he didn't show up is strange.
-S
-例1的名词从句放在宾语位置，省略掉that之后仍然清楚。例2的名词从句放在主语位置，如果省略掉that,成为：
-He didn't show up is strange.(误)
+名词从句的连接词 that 因为没有意义，只有标示从句的语法功能，所以有时能省略。如果名词从句放在及物动词后面的宾语位置，读者可以清楚看出这是名词从句，就可以省略连接词 that 。试比较下面两句：  
+>   
+1.The defendant said that he didn't do it.  
+O  
+2.That he didn't show up is strange.  
+S  
+
+例1的名词从句放在宾语位置，省略掉that之后仍然清楚。例2的名词从句放在主语位置，如果省略掉that,成为：  
+>  
+He didn't show up is strange.(误)  
+
 这个句子就有问题。因为没有从属连接词，读者会以为He didn't show up就是主要从句，再看到后面的is strange就会觉得奇怪了。一般语法书说名词从句作宾语使用时，可以省略that，主要就是因为宾语位置是明显的从属位置，省掉连接词不会不清楚，主语位置则不然。总之，能否省略，要看省略以后能不能维持意思的清楚。
 1.I find something strange.
 S V O C
