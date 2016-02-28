@@ -205,7 +205,7 @@ Being busy is no excuse for the negligence.
 ### 简化后剩下的补语是to V形态时
 
 
-名词从句简化，若其中有语气助动词，含有不确定语气，就会成为不定词(to V)。如：  
+<b>名词从句简化，若其中有语气助动词，含有不确定语气，就会成为不定词(to V)。</b>如：  
 >
 The children expect that they can get presents for Christmas.  
 S V 0(名词从句)  
