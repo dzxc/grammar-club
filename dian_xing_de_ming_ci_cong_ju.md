@@ -10,14 +10,14 @@
 ### 一、主语位置
 
 
-1.Something is strange.
-S
-2.He didn't show up on time.
-→(A) That he didn’t show up on time is strange.
-S
-→(B) It is strange that he didn't show up on time.
-S
-(真是奇怪，他没有准时来。）
+1.Something is strange.  
+S  
+2.He didn't show up on time.  
+→(A) That he didn’t show up on time is strange.  
+S  
+→(B) It is strange that he didn't show up on time.  
+S  
+（真是奇怪，他没有准时来。）  
 例 2 He didn't show up on time 就是例1 主语something的内容。在它前面加上that (表示“那件事”）就成了名词从句，可以直接放人例1主语(something)的位置，做为is的主语使用，成为(A)的复句。
 另外，名词从句如果很长，直接放入主语位置使用时，可能会让读者看不清楚，这时候可以用it这个虚词(expletive)来填入主语位置，让主要从句It is strange比较清楚地表达出来，名词从句则向后移，成为(B)的复句。
 
@@ -29,7 +29,7 @@ S V O
 2.He didn't do it.
 →(A) The defendant said that he didn’t do it.
 S V O
-(被告说那不是他做的。）
+（被告说那不是他做的。）
 例2的He didn't do it.就是例1中something的内容，于是在例2前面加上连接词that成为名词从句，然后直接放入例1中作为said的宾语，就成为(A)的复句。
 名词从句的连接词that因为没有意义，只有标示从句的语法功能，所以有时能省略。如果名词从句放在及物动词后面的宾语位置，读者可以清楚看出这是名词从句，就可以省略连接词that。试比较下面两句：
 1.The defendant said that he didn't do it.
