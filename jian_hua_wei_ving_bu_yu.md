@@ -28,10 +28,11 @@
 ### 三、没有 be 动词与助动词时
 
 
-如果原来的副词从句没有be动词，也没有语气助动词(can、 must、may),只有普通动词，那么就会成为Ving的形式，例如：
-Because we have nothing to do here,we might as well go home.
-副词从句 S V
-(在这儿也没事做，我们还不如回家算了。）
+如果原来的副词从句没有 be 动词，也没有语气助动词( can、 must、may ),只有普通动词，那么就会成为 Ving 的形式，例如：  
+>  
+Because we have nothing to do here,we might as well go home.  
+副词从句 S V  
+（在这儿也没事做，我们还不如回家算了。）  
 首先请观察副词从句中的to do here，其实这是简化的形容词从句（形容词从句的简化已经在前面章节介绍过)，原来是that we can do here，修饰先行词nothing。然后再看看副词从句的动词have，这是普通动词，没有be动词可省略，也没有语气助动词可供改写。这个动词若不处理掉，句子将无法简化。所以必须加上be动词，原来的动词 have 就得变成 having: Because we are having nothing to do here, we might as well go home。请注意：这种修改不是为了要改成进行式（这个句子并不适合采用进行式)，而是为了做词类变化：把having nothing to do here移入补语部分，we are便得以省略，成为：
 Having nothing to do here, we might as well go home.
 简化副词从句
