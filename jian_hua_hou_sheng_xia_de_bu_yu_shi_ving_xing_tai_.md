@@ -266,24 +266,35 @@ For the Clippers to beat the Lakers was quite a marvelous feat.
 #### 二、代表疑问句的名词从句简化
 
 
-名词从句有两种。一种是由直述句外加连接词 that 而形成。这种名词从句简化时，无意义的 that 要省略。另一种是由疑问句改造，通常以疑问词来充当连接词。例如：
-1.What should I do?
-2.I don't know the question.
-S V O
-例1就是例2中the question的内容，可直接用疑问词what当连接词来取代，成为：
-I dont know what I should do.(我不知如何是好。）
-S V O(名词从句)
-这个名词从句省去主语I，助动词改为不定词，成为：
-I don't know what to do.
-S V O(简化名词从句)
-唯一不同之处在于疑问句what是有意义的字，应该保留。语法书说where to V、how to V、when to V等是名词短语，其实这些都是由疑问词引导的名词从句简化而成。
-如果是Yes/No question，没有疑问词，要制造名词从句时就得添加whether，例如：
-1. Should I vote for Mary?
-2. I can't decide the question.
-例1就是例2中的the question。不过例1是疑问句，又没有疑问词，要置入例2中，先要加上whether，成为：
-I can’t decide whether I should vote for Mary (or not).
-S V O (名词从句)
-(我无法决定要不要投票给玛丽。）
-whether是由连接词either...or变造而成。在这个名词从句中，主语I与主要从句主语相同，可以省略。助动词改写成不定词to V 之后，即简化成：
-I can't decide whether to vote for Mary.
+名词从句有两种。一种是由直述句外加连接词 that 而形成。这种名词从句简化时，无意义的 that 要省略。另一种是由疑问句改造，通常以疑问词来充当连接词。例如：  
+>  
+1.What should I do?  
+2.I don't know the question.  
+S V O  
+
+例1就是例2中 the question 的内容，可直接用疑问词 what 当连接词来取代，成为：  
+>  
+I dont know what I should do.（我不知如何是好。）  
+S V O(名词从句)  
+
+这个名词从句省去主语 I ，助动词改为不定词，成为：  
+>  
+I don't know what to do.  
+S V O(简化名词从句)  
+
+唯一不同之处在于疑问句 what 是有意义的字，应该保留。语法书说 where to V、how to V、when to V 等是名词短语，其实这些都是由疑问词引导的名词从句简化而成。
+如果是 Yes/No question ，没有疑问词，要制造名词从句时就得添加 whether ，例如：  
+>  
+1. Should I vote for Mary?  
+2. I can't decide the question.  
+
+例1就是例2中的 the question 。不过例1是疑问句，又没有疑问词，要置入例2中，先要加上 whether ，成为：  
+>  
+I can’t decide whether I should vote for Mary (or not).  
+S V O (名词从句)  
+（我无法决定要不要投票给玛丽。）  
+
+whether 是由连接词 either...or 变造而成。在这个名词从句中，主语 I 与主要从句主语相同，可以省略。助动词改写成不定词 to V 之后，即简化成：  
+>  
+I can't decide whether to vote for Mary.  
 简化名词从句
