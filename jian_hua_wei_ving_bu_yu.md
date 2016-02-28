@@ -209,6 +209,8 @@ to kiss her goodnight.
 
 
 简化副词从句时，如果主语不同而需保留，有两点必须注意:    <b>第一，连接词要省略。简化从句一般是省略主语、be动词与连接词 (视情形决定是否省略)。</b>如果主语要保留，连接词又留下，就只是省掉一个be动词，那么并没有达到简化的效果。
-When the child already sleeping soundly in bed, her mother came to kiss her goodnight.(误)
-这个句子看起来不像简化从句，反而像写错了，漏掉一个be 动词。
-简化副词从句若保留主语，<b>第二件注意事项是：后面必须配合分词补语（现在分词或过去分词)</b>。因为只有如此，才可明显看出这是省略be动词的简化从句。The child sleeping soundly清楚说明 the child是主语，sleeping soundly是补语，省略be动词与连接词，形成简化的副词从句。传统语法把“独立短语”视为“分词构句”的变化，就是因为保留主语和使用分词补语有必然的关联性。
+>  
+When the child already sleeping soundly in bed, her mother came to kiss her goodnight.(误)  
+
+这个句子看起来不像简化从句，反而像写错了，漏掉一个 be 动词。
+简化副词从句若保留主语，<b>第二件注意事项是：后面必须配合分词补语（现在分词或过去分词)</b>。因为只有如此，才可明显看出这是省略be动词的简化从句。The child sleeping soundly 清楚说明 the child 是主语，sleeping soundly 是补语，省略be动词与连接词，形成简化的副词从句。传统语法把“独立短语”视为“分词构句”的变化，就是因为保留主语和使用分词补语有必然的关联性。
