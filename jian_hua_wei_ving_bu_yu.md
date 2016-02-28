@@ -104,7 +104,7 @@ being a student 因为有 being ，所以 a student 很明显是补语，意思�
 ### 七、兼作介系词的连接词： before, after, since
 
 
-还有一种情况需要使用being，情形稍微复杂一些，请看下面的例子：
+<b>还有一种情况**需要使用 being** ，情形稍微复杂一些</b>，请看下面的例子：
 Before he was in school, he used to be a naughty child.
 副词从句 S V C
 (上学读书以前，他原本是个小顽童。）
