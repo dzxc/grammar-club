@@ -136,7 +136,7 @@ which和动词bears，D错在用介系词短语of which作主语。
 A和C都在名词origin前面加上了短语(many centuries ago 和many
 centuries)来修饰，可是名词前面只能用单词的形容词来修饰，所以错误。B
 是正确的形容词从句。  
-8.Ⅰ(D) Ⅱ（B）  
+8.Ⅰ(D) Ⅱ
 两个位置都省掉了先行词，所以只能选择what。  
 9.(D)  
 空格前无先行词，只能选A或D。而“当选总统”者应为“人”，故选D。  
