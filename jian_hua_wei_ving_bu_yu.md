@@ -46,42 +46,60 @@ Having nothing to do here, we might as well go home.
 ### 五、应该保留的连接词
 
 
-反之，如果连接词省略会造成句意不清，就得保留，例如:
-Although we have nothing to do here,we can't leave early.
-副词从句 S V
-(虽然这儿没事，我们还是不能提早离开。）
-副词从句的主语we与主要从句的主语相同，可以省略。动词 have是普通动词，可以改成having保留下来，成为：
-Although haveing nothing to do here,we can't leave early.
-简化副词从句
-本来没事应该可以离开，但是却相反。这种“相反”的逻辑关系要靠连接词although来表示，所以although不宜省略，不然会让读者搞不清楚：是因为没事才不能早走吗？
-语法上although这个连接词已无必要，只是为了表达逻辑关系而保留。如果省略它，用别的方式来表示逻辑关系也未尝不可，例如：
-Having nothing to do here, we still can't leave early.
-在主要从句中加个副词still就可取代although来表达“相反”的逻辑，although省略也不会造成语意不清。再看下例：
-He raised his hand,as if he was trying to hit her.
-S V O 副词从句
-(他举起手来，好像要打她。）
-副词从句的he was省略之后，就简化为：
-1. He raised his hand, as if trying to hit her.
-简化副词从句
-例1的连接词as if不宜省略，不然会产生误解:
-2. He raised his hand,trying to hit her.
-简化副词从句
-例2中省略连接词as if,意思就成为：他举起手来，“因为”要 打她。读者看不到连接词，往往会联想最常见的because,因而就 产生误解。这时就不应省略连接词。
+反之，如果连接词省略会造成句意不清，就得保留，例如:  
+>  
+Although we have nothing to do here,we can't leave early.  
+副词从句 S V  
+（虽然这儿没事，我们还是不能提早离开。）  
+
+副词从句的主语 we 与主要从句的主语相同，可以省略。动词  have 是普通动词，可以改成 having 保留下来，成为：  
+>  
+Although haveing nothing to do here,we can't leave early.  
+简化副词从句  
+
+本来没事应该可以离开，但是却相反。这种“相反”的逻辑关系要靠连接词 although 来表示，所以 although 不宜省略，不然会让读者搞不清楚：是因为没事才不能早走吗？
+语法上 although 这个连接词已无必要，只是为了表达逻辑关系而保留。如果省略它，用别的方式来表示逻辑关系也未尝不可，例如：  
+>  
+Having nothing to do here, we still can't leave early.  
+
+在主要从句中加个副词 still 就可取代 although 来表达“相反”的逻辑， although 省略也不会造成语意不清。再看下例：  
+>  
+He raised his hand,as if he was trying to hit her.  
+S V O 副词从句  
+（他举起手来，好像要打她。）  
+
+副词从句的he was省略之后，就简化为：  
+>  
+1. He raised his hand, as if trying to hit her.  
+简化副词从句  
+
+例1的连接词 as if 不宜省略，不然会产生误解:  
+>  
+2. He raised his hand,trying to hit her.  
+简化副词从句  
+
+例2中省略连接词 as if ,意思就成为：他举起手来，“因为”要 打她。读者看不到连接词，往往会联想最常见的 because ,因而就 产生误解。这时就不应省略连接词。
 
 ### 六、being 的运用
 
 
-副词从句的be动词一般在简化时要省略，但有些状况下要以 being的方式留下来，以下举几个例子说明：
-As I am a student,I can't afford to get married.
-副词从句 S V O
-(因为现在我还是学生，所以结不起婚。）
-这个句子有几种简化方式。如果把副词从句中的I am省略，剩下的补语是名词类的a student。假如连接词as再省略，只剩下a student就省略得太过头了，读者无从判断这是个简化的副词从句 (因形状差太多)，反而可能误会a student是主语，或者是同位语。为了避免误会，一个办法是保留连接词：
-As a student, I can't afford to get married.
-简化副词从句
-只要有连接词，读者可以清楚看出是简化从句，a student是省略I am以后留下的补语，整个句意就很清楚。另一个办法是省略连接词as，借用无意义的be动词改成being:
-Being a student,I can't afford to get married.
-简化副词从句
-being a student因为有being，所以a student很明显是补语，意思是“身为学生”或“是学生”。谁是？主语当然是和主要从句的主语I相同：我是，这样句意也就清楚了。
+副词从句的 be 动词一般在简化时要省略，但有些状况下要以  being 的方式留下来，以下举几个例子说明：  
+>  
+As I am a student,I can't afford to get married.  
+副词从句 S V O  
+（因为现在我还是学生，所以结不起婚。）  
+
+这个句子有几种简化方式。如果把副词从句中的 I am 省略，剩下的补语是名词类的 a student 。假如连接词 as 再省略，只剩下 a student 就省略得太过头了，读者无从判断这是个简化的副词从句 (因形状差太多)，反而可能误会 a student 是主语，或者是同位语。为了避免误会，一个办法是保留连接词：  
+>  
+As a student, I can't afford to get married.  
+简化副词从句  
+
+只要有连接词，读者可以清楚看出是简化从句，a student 是省略 I am 以后留下的补语，整个句意就很清楚。另一个办法是省略连接词 as ，借用无意义的 be 动词改成 being:  
+>  
+Being a student,I can't afford to get married.  
+简化副词从句  
+
+being a student 因为有 being ，所以 a student 很明显是补语，意思是“身为学生”或“是学生”。谁是？主语当然是和主要从句的主语 I 相同：我是，这样句意也就清楚了。
 
 ### 七、兼作介系词的连接词： before, after, since
 
