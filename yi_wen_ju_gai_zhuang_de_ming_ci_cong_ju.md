@@ -1,6 +1,6 @@
 # 疑问句改装的名词从句
 
-典型的名词从句是外加连接词 that ，表示“那件事情”( that thing)。另外，以疑问词( who、what、when 等)引导的疑问句，也可以改装成名词从句，代表一个问题( the question )。例如：  
+典型的名词从句是外加连接词 that ，表示“那件事情”( that thing)。另外，<b>以<em>疑问词( who、what、when 等)</em>引导的疑问句，也可以改装成名词从句，代表**一个问题( the question )**。</b>例如：  
 >  
 1. I know the question.  
 S V O  
