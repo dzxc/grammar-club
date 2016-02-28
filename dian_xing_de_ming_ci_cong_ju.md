@@ -69,7 +69,7 @@ S V C
 >  
 the important thing = we're all right  
 
-把 we're all right 前面加上连接词 that  (表示“那件事情”），作为名词从句，放在be动词后面的补语位置，和主语 the important thing (要紧的事情）同等，就成为一个复句。
+把 we're all right 前面加上连接词 that  (表示“那件事情”），作为名词从句，放在 be 动词后面的补语位置，和主语 the important thing (要紧的事情）同等，就成为一个复句。
 名词从句放在补语位置，只要不会产生断句的困难或意思的混淆，仍然可以省略连接词 that ，例如上面这句就可以写成：  
 >  
 The important thing is we're all right.  
