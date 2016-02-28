@@ -115,7 +115,7 @@ bubbles.
 
 **Answer key 14 ** 
 >   
-1.（C）   
+1.(C)   
 这个位置要能作got的主语，又要作连接词，因而是关系代名词（A、C或D)。
 其中A是宾格不行，D又需省去先行词，所以只剩C的which，表示“写信这
 件事”或“这封信”险些引起争吵。  
@@ -143,7 +143,7 @@ centuries)来修饰，可是名词前面只能用单词的形容词来修饰，�
 10.(C)  
 关系从句可还原为 We are to be judged under the criterion.(我们应以
 此标准来被衡量。)，因而改成关系从句要用under which。  
-11. (D)  
+11.(D)  
 空格以下原来是这一句：I love Jane very much，改成关系从句即为whom I
 love very much。因为关系从句前面有逗号，所以whom不能省略。  
 12. (D)  
