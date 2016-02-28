@@ -19,7 +19,7 @@ I can't tell if he’s telling the truth or not.
 2.(The question) which is impossible to say now.  
 S  
 >>  
-→(A) Whether the stock market will improve or not is impossible to
+→(A) Whether the stock market will improve or not is impossible to  
 S  
 say now.    
 （股市是否会涨，现在还很难说。）  
