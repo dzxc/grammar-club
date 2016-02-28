@@ -24,34 +24,40 @@ Drinking good wine with friends is my greatest enjoyment.
 
 #### 1.动词的宾语
 
+>  
+Many husbands enjoy that they do the cooking.  
+S V O(名词从句)  
+（许多丈夫喜欢下厨做菜。）  
 
-Many husbands enjoy that they do the cooking.
-S V O(名词从句)
-(许多丈夫喜欢下厨做菜。）
-名词从句的主语they与主要从句主语husbands相同，所以可省略。动词是do，没有be动词或助动词，所以要加上-ing再省略连接词，成为：
-Many husbands enjoy doing the cooking.
-简化名词从句
+名词从句的主语 they 与主要从句主语 husbands 相同，所以可省略。动词是 do ，没有 be 动词或助动词，所以要加上 -ing 再省略连接词，成为：  
+>  
+Many husbands enjoy doing the cooking.  
+简化名词从句  
 
 #### 2.介系词的宾语
 
+>  
+1. He got used to something.  
+S V C 介系词 O    
+2. He worked late into the night.  
 
-1. He got used to something.
-S V C 介系词 O
-2. He worked late into the night.
-整个例2就是例1中something的内容。要把例2放入something 的位置，还不能直接用名词从句that he worked late into the night的形式，因前面是介系词to，不能直接放名词从句作宾语，所以例2—定要先行简化。做法还是将相同的主语省略，动词加上 –ing，成为：
-He got used to working late into the night.
-简化名词从句
-(他习惯了熬夜工作。）
+整个例2就是例1中 something 的内容。要把例2放入 something  的位置，还不能直接用名词从句 that he worked late into the night 的形式，因前面是介系词 to ，不能直接放名词从句作宾语，所以例2—定要先行简化。做法还是将相同的主语省略，动词加上  –ing ，成为：  
+>  
+He got used to working late into the night.  
+简化名词从句  
+（他习惯了熬夜工作。）  
 
 ### 三、补语位置
 
+>  
+His favorite pastime is that he goes fishing on weekends.  
+S V C (名词从句）  
+（他最喜欢的消遣就是周末钓鱼。）  
 
-His favorite pastime is that he goes fishing on weekends.
-S V C (名词从句）
-(他最喜欢的消遣就是周末钓鱼。）
-省略名词从句的he，动词加-ing而成为：
-His favorite pastime is going fishing on weekends.
-简化名词从句
+省略名词从句的 he ，动词加 -ing 而成为：  
+>  
+His favorite pastime is going fishing on weekends.  
+简化名词从句  
 
 ### 四、主语不能省略时
 
