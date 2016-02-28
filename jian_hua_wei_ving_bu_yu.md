@@ -123,18 +123,26 @@ Before being in school, he used to be a naughty child.
 ### 八、时态的问题
 
 
-<b>简化副词从句还得**注意时态**问题</b>，例如：
-After he wrote the letter, he put it to mail.
-副词从句
-(他写好了信，就拿去邮寄。）
-这两个从句中的动词wrote与put都是过去简单式，两者的先后顺序是靠连接词after来区分。在副词从句简化时，有以下两个选择：
-1. After writing the letter, he put it to mail.
-简化副词从句
-简化的步骤仍是省去相同的主语he，把普通动词改为Ving。如果像例1选择把连接词after留下来，就可以清楚分出先后顺序，是正确的简化从句。附带一提的是，after在从句简化后即成为介系词，后面要接名词。writing the letter是动名词短语，可以符合词类要求。然而若把连接词after一并省略就会出现问题：
-Writing the letter, he put it to mail.(误）
-因为after省略了，读者看到的印象会是：
-When he was writing the letter, he put it to mail.
-(他正在写信的时候,拿去邮寄。）
+<b>简化副词从句还得**注意时态**问题</b>，例如：  
+>  
+After he wrote the letter, he put it to mail.  
+副词从句  
+（他写好了信，就拿去邮寄。）  
+
+这两个从句中的动词 wrote 与 put 都是过去简单式，两者的先后顺序是靠连接词 after 来区分。在副词从句简化时，有以下两个选择：  
+>  
+1. After writing the letter, he put it to mail.  
+简化副词从句  
+
+简化的步骤仍是省去相同的主语 he ，把普通动词改为 Ving 。如果像例1选择把连接词 after 留下来，就可以清楚分出先后顺序，是正确的简化从句。附带一提的是， after 在从句简化后即成为介系词，后面要接名词。writing the letter 是动名词短语，可以符合词类要求。然而若把连接词 after 一并省略就会出现问题：  
+>  
+Writing the letter, he put it to mail.(误）  
+
+因为 after 省略了，读者看到的印象会是：  
+>  
+When he was writing the letter, he put it to mail.  
+（他正在写信的时候,拿去邮寄。）  
+
 这就不合理了。读者在看不到连接词时，会假设时间副词从句的连接词是when。所以如果要省略after，在时态上要做如下的处理：
 2.Having written the letter, he put it to mail.
 简化副词从句
