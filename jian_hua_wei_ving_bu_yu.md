@@ -7,15 +7,24 @@ While he was lying on the couch,the boy fell asleep.
 上例中副词从句的主语he就是主要从句的主语the boy，这个重复就有可以省略的空间。同时副词从句中有现成的be动词，是 Linking Verb(连缀动词)，本身没有意义，因此，省去主语与be动词，不会改变原句的意思：
 1. While lying on the couch, the boy fell asleep.
 简化副词从句
-一、连接词是否保留
+
+### 一、连接词是否保留
+
+
 副词从句因为已经简化，不再有主语、动词，所以上例中它的连接词while也没有存在的必要。不过，副词从句的连接词除了语法功能之外，还有词义的功能：while和before不同，也和if、although等不一样，虽然简化了，副词从句的连接词有时还是要保留，至于保留与否则完全取决于修辞上是否清楚。简化是为了让句子更简洁，可是绝不可伤害清楚性。在句子够清楚的前提下，副词从句的连接词可以一并省去，上例即成为：
 2. Lying on the couch,the boy fell asleep.
 简化副词从句
 一般来说，while (包括when等）是表示"当……之时”的连接词，because (包括as、since等）是“因为”的连接词，省略后通常不妨碍句子的清楚性。但还是要一个一个句子去判断,看看省略之后读者是否可能会误解。
-二、所谓“分词构句”
+
+### 二、所谓“分词构句”
+
+
 以例2而言，省去while之后，句子仍然清楚，不过传统语法学家解释起来就大费周章。他们只看到lying on the couch是现在分词短语，属于形容词类，但显然不是用来修饰名词类的the boy (它不是用来特别指出哪一个男孩)，而是修饰动词类的fell(用来说明是何时、在何种状态下睡着)。以形容词修饰动词，这不是犯了词类错误吗？面对这个矛盾,语法学家于是创造了一个名称：分词构 句——lying on the couch这个分词短语本身就构成一个从句，一个修饰动词fell的副词从句。
 了解简化从句的来龙去脉后，就会了解“分词构句” 一词实在是多此一举。lying on the couch本来就是副词从句while he was lying on the couch的简化，无需用任何特别名称来表示。当然，若把连接词while保留（如例1),可以更明确表示这是副词从句。在这个例子中，是否要保留while属于个人的选择：若比较注重句子的清楚性就保留它，若比较注重简洁性就省略它。不论有无while, 都不影响一个事实：lying on the couch是简化的副词从句。
-三、没有 be 动词与助动词时
+
+### 三、没有 be 动词与助动词时
+
+
 如果原来的副词从句没有be动词，也没有语气助动词(can、 must、may),只有普通动词，那么就会成为Ving的形式，例如：
 Because we have nothing to do here,we might as well go home.
 副词从句 S V
@@ -23,9 +32,15 @@ Because we have nothing to do here,we might as well go home.
 首先请观察副词从句中的to do here，其实这是简化的形容词从句（形容词从句的简化已经在前面章节介绍过)，原来是that we can do here，修饰先行词nothing。然后再看看副词从句的动词have，这是普通动词，没有be动词可省略，也没有语气助动词可供改写。这个动词若不处理掉，句子将无法简化。所以必须加上be动词，原来的动词 have 就得变成 having: Because we are having nothing to do here, we might as well go home。请注意：这种修改不是为了要改成进行式（这个句子并不适合采用进行式)，而是为了做词类变化：把having nothing to do here移入补语部分，we are便得以省略，成为：
 Having nothing to do here, we might as well go home.
 简化副词从句
-四、应该省略的连接词
+
+### 四、应该省略的连接词
+
+
 在做这种简化动作时，表示原因的连接词because、since等等通常要省略，若保留下来会显得相当刺眼。因为这种句型本身就强烈暗示因果关系，再加上because会十分累赘。
-五、应该保留的连接词
+
+### 五、应该保留的连接词
+
+
 反之，如果连接词省略会造成句意不清，就得保留，例如:
 Although we have nothing to do here,we can't leave early.
 副词从句 S V
@@ -47,7 +62,10 @@ S V O 副词从句
 2. He raised his hand,trying to hit her.
 简化副词从句
 例2中省略连接词as if,意思就成为：他举起手来，“因为”要 打她。读者看不到连接词，往往会联想最常见的because,因而就 产生误解。这时就不应省略连接词。
-六、being 的运用
+
+### 六、being 的运用
+
+
 副词从句的be动词一般在简化时要省略，但有些状况下要以 being的方式留下来，以下举几个例子说明：
 As I am a student,I can't afford to get married.
 副词从句 S V O
@@ -59,7 +77,10 @@ As a student, I can't afford to get married.
 Being a student,I can't afford to get married.
 简化副词从句
 being a student因为有being，所以a student很明显是补语，意思是“身为学生”或“是学生”。谁是？主语当然是和主要从句的主语I相同：我是，这样句意也就清楚了。
-七、兼作介系词的连接词： before, after, since
+
+### 七、兼作介系词的连接词： before, after, since
+
+
 还有一种情况需要使用being，情形稍微复杂一些，请看下面的例子：
 Before he was in school, he used to be a naughty child.
 副词从句 S V C
@@ -73,7 +94,10 @@ Before being in school, he used to be a naughty child.
 简化副词从句
 一旦有be动词存在，后面就可以接补语in school。而be动词本身釆用being (动名词）的形状，放在介系词before的后面也符合词类的要求，这样才算解决了问题。
 副词从句的连接词中，before、after, since是身兼连接词与介系词的双重词类。简化时要注意：它会被视为介系词，故后面只能接名词类，必要时得加上being来作词类变化。
-八、时态的问题
+
+### 八、时态的问题
+
+
 简化副词从句还得注意时态问题，例如：
 After he wrote the letter, he put it to mail.
 副词从句
