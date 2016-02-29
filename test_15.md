@@ -138,28 +138,28 @@ not only要与but also配合使用，而且要求对称。Not only后面是一�
 and右边用原形动词dance和左边的原形动词shop对称。  
 10.(C)  
 Not only移至句首时要用倒装句型。  
-11.(A)  
+11. (A)  
 and左边是名词the origin，右边也要求名词来对称，故选A。go指“围棋”，
 源自日文。  
-12.(D)  
+12. (D)  
 同样是着眼于对称要求。只有D的pleasant beaches可以和 and 左边的
 spectacular volcanoes 和 friendly people 对称。  
-13.(D)  
+13. (D)  
 未省略前是 the air is still，the humidity is high，and the air pressure
 is low这三个以and连接的对等从句，省略掉重复的be动词之后即得出D。  
-14.(A)  
+14. (A)  
 nor置于句首时要用倒装句型。  
-15.(B)  
+15. (B)  
 and的右边有副词repeatedly，因而左边选副词carefully来对称。  
-16.(C)  
+16. (C)  
 形容词more reliable可和形容词more accurate对称。  
-17.(C)  
+17. (C)  
 比较级也要求对称。比较的一方是动名词短语controlling the way...,所
 以在than后面与它比较的另一方应选C，trying to...也是动名词短语。  
-18.(A)  
+18. (A)  
 因为对等连接词and的要求，所以选名词happiness来和名词 harmony、
 efficiency 对称。  
-19.(C)    
+19. (C)    
 not... but表示“非前者，是后者”。铅笔用的不是铅，是石墨。  
-20.(C)  
+20. (C)  
 下文有but also for…，所以空格中要选not only for...来配合。  
