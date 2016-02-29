@@ -12,5 +12,5 @@
 
 ### 求打赏
 
-做了这本书，也花了些时间，求赏一杯咖啡钱，三五块不嫌少，当然多多益善。  
+做了这本书，也花了些时间，求赏一杯咖啡钱，三五块不嫌少，当然多多益善。或者直接转到：zhusandiao@gmail.com  
 ![打赏](http://7fva1q.com1.z0.glb.clouddn.com/pay_for_me.jpg)
