@@ -1,6 +1,6 @@
 # 何时该使用that？
 
-关系代名词 who 和 which 有时可用 that 来取代。这中间的选择有差别，需要说明一下。that是借自指示代名词，具有指示的功能。所以，关系从句如果有指示的作用时才适合借用that作关系词。例如：
+<u>关系代名词<b> <em>who</em> 和 <em>which</em> 有时可用 <em>that</em> 来取代</b></u>。这中间的选择有差别，需要说明一下。that 是借自指示代名词，具有指示的功能。<b>所以，关系从句如果有**指示的作用**时才适合**借用 that 作关系词**。</b>例如：
 Man is an animal that is capable of reason.
 S1 V1 S2 V2
 (人类是有理性能力的动物。）
