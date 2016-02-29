@@ -1,10 +1,16 @@
 # 何时该使用that？
 
-<u>关系代名词<b> <em>who</em> 和 <em>which</em> 有时可用 <em>that</em> 来取代</b></u>。这中间的选择有差别，需要说明一下。that 是借自指示代名词，具有指示的功能。<b>所以，关系从句如果有**指示的作用**时才适合**借用 that 作关系词**。</b>例如：
-Man is an animal that is capable of reason.
-S1 V1 S2 V2
-(人类是有理性能力的动物。）
-主要从句中的先行词an animal本来可以代表任何一种动物，范围极大。后面加上一个条件：The animal is capable of reason (有理性能力的那种)，明确指出是哪种动物才能算人，具有指示的功能。所以关系词可以选择不用which而借用that。事实上，上面这个句型常被用在各种下定义的句子中，这时候因为指示的功能明确，多半都是用that，例如：
+<u>关系代名词<b> <em>who</em> 和 <em>which</em> 有时可用 <em>that</em> 来取代</b></u>。这中间的选择有差别，需要说明一下。that 是借自指示代名词，具有指示的功能。<b>所以，关系从句如果有**指示的作用**时才适合**借用 that 作关系词**。</b>例如：  
+>  
+Man is an animal that is capable of reason.  
+S1 V1 S2 V2  
+（人类是有理性能力的动物。）  
+
+主要从句中的先行词 an animal 本来可以代表任何一种动物，范围极大。后面加上一个条件：  
+>  
+The animal is capable of reason   （有理性能力的那种），明确指出是哪种动物才能算人，具有指示的功能。所以关系词可以选择不用 which 而借用 that 。  
+
+事实上，上面这个句型常被用在各种下定义的句子中，这时候因为指示的功能明确，多半都是用that，例如：
 Meteorology is a science that deals with the behavior
 S1 V1 S2 V2
 of the atmosphere.
