@@ -10,7 +10,10 @@ After he was shot in the knee,he couldn't fight.
 例句中副词从句的主语he与主要从句的主语相同，可以简化。省去主语与be动词后，不再需要连接词，成为：
 Shot in the knee,he couldn't fight.
 简化副词从句
-一、是否保留连接词
+
+#### 一、是否保留连接词
+
+
 上例中连接词after可以不留，因为shot是过去分词，本身就表示“已经中枪”、“中枪之后”，已有完成式的暗示，因而不再需要after—词。但下面的例子则不同：
 Although he was shot in the knee, he killed three more enemy soldiers.
 副词从句
@@ -20,7 +23,10 @@ Although shot in the knee, he killed three more enemy soldiers.
 简化副词从句
 或者，如果省略although的话，也必须用其他方式来表示句中的“相反”暗示，例如：
 Shot in the knee, he still killed three more enemy soldiers.
-二、三个特殊的连接词
+
+#### 二、三个特殊的连接词
+
+
 另外，连接词如果要留下来，要注意一点：before、after、since这三个连接词也可以当介系词用。如果其中任何一个出现在简化从句中，由于没有了主语、动词，这个连接词就得当介系词看待，亦即：后面要接名词。例如：
 Before it was redecorated,the house was in bad shape.
 副词从句
@@ -36,7 +42,10 @@ be动词是没有内容的字眼。在此加上being—词，纯粹是因应词�
 Before redecoration, the house was in bad shape.
 介系词短语
 除了 before以外，after和since这两个连接词如需保留，也都要注意词类的问题。
-三、如何应用 having been
+
+#### 三、如何应用 having been
+
+
 许多学习者对having been颇觉困扰。在此用一个例子来说明它的用法：
 1. Because they had been warned,they proceeded carefully.
 副词从句
@@ -49,7 +58,10 @@ Before redecoration, the house was in bad shape.
 简化副词从句
 这个句子中，warned—字是过去分词，本身就具有完成的暗示（表示“已经”受到警告)，所以把had been省略并不影响句意。
 如果把例2和例3两句比较一下，当可发现：having been后面如果跟的是过去分词，那么即使把having been省略，在语法上同样正确（因为例2的having...和例3的warned同属分词，词类相同），而且在意思上也相同。因为例2的having been是表达“已经” 的意思，而例3里的warned同样表达了“已经”的意思。所以，having been后面如果跟的是过去分词，就可省略，不会有任何影响。
-四、主语不同时
+
+#### 四、主语不同时
+
+
 副词从句简化为Ven，如果主语和主要从句的主语不同，就得把主语留下来，不得省略。例如：
 When the coffin had been interred,the minister said
 副词从句
@@ -61,7 +73,10 @@ a few comforting words.
 The coffin (having been) interred,the minister said
 简化副词从句
 a few comforting words.
-五、简化为 to V
+
+#### 五、简化为 to V
+
+
 如果原来的副词从句中有语气助动词（can、should、must之类)，带有不确定语气，简化之后就会成为不定词。例如：
 He studied hard in order that he could get a scholarship.
 副词从句
@@ -79,21 +94,30 @@ I'll only be too glad to help.
 副词从句中凡有助动词存在，简化的结果都是一样连接词省略，主语如果相同亦省略，助动词拿掉be动词之后变成to,所以就剩下to V的结果。
 单纯的be动词时
 如果副词从句的动词是单纯的be动词，后面可能是一般的名词、形容词类的补语。要简化时，首先得注意主语要和主要从句的主语相同，然后才可以把连接词留下来，省去主语和be动词，留下补语。例如：
-一、介系词短语
+
+#### 一、介系词短语
+
+
 When you are under attack, you must take cover immediately.
 副词从句
 (受到攻击时，要立刻寻找掩护。）
 这个副词从句的动词是be动词，补语是介系词短语under attack。简化后成为：
 When under attack, you must take cover immediately.
 简化副词从句
-二、形容词
+
+#### 二、形容词
+
+
 While it is small in size,the company is very competitive.
 副词从句
 (这家公司規模虽小，但很有竞争力。）
 副词从句中的补语是形容词small，简化方式相同：
 While small in size, the company is very competitive.
 简化副词从句
-三、名词
+
+#### 三、名词
+
+
 Although he was a doctor by training，Asimov became a writer.
 副词从句
 (虽然接受的是做医生的训练，但阿西莫夫后来成了作家。）
