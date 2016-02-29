@@ -136,7 +136,7 @@ not only要与but also配合使用，而且要求对称。Not only后面是一�
 以对称。  
 9. (A)  
 and右边用原形动词dance和左边的原形动词shop对称。  
-10.(C)  
+10. (C)  
 Not only移至句首时要用倒装句型。  
 11. (A)  
 and左边是名词the origin，右边也要求名词来对称，故选A。go指“围棋”，
