@@ -1,2 +1,131 @@
 # 副词从句的种类
 
+副词从句因为结构十分单纯，所以学习副词从句的重点只是在认识各种连接词，以便写作时可以选择贴切的连接词来表达各种逻辑关系。以下按照各种逻辑关系把副词从句的连接词大略分类。
+一、时间、地方
+1.He became more frugal after he got married.
+连接词 副词从句
+(他结婚以后变得比较节俭。）
+副词从句修饰动词became的时间。
+2.I'll be waiting for you until you're married.
+连接词 副词从句
+(我会等你，直到你结婚为止。）
+副词从句修饰动词Will be waiting的时间。
+附带说明一下：未来时间的副词从句,虽然还没有到发生的时间，可是语气上必须当作“到了那个时候”来说，所以时态要用现在式来表示（如例2中的are married)。这是属于语气的问题，在从前介绍语气的单元中曾说明过。
+3.It was all over when I got there.
+连接词 副词从句
+(我赶到的时候事情都结束了。）
+副词从句修饰动词was的时间。
+when这个连接词，也可以当做关系词来使用，这点留待下一章讲到关系从句时再详细说明。
+4.A small town grew where three roads met.
+连接词 副词从句
+(一个小镇在三条路交会处发展起来。）
+副词从句修饰动词grew的地方。
+同样的，where这个连接词也可以当作关系词来解释。
+二、条件
+1. If he calls,I'll say you're sleeping.
+连接词 副词从句
+(如果他打电话来，我就说你在睡觉。）
+副词从句修饰动词Will say的条件——如果打来就会说，不打来就不说了。
+在表示条件的副词从句中，如果时间是未来，也必须以“当作真正发生”的语气来说，所以要用现在式的动词。同时请注意say的宾语（名词从句）you're sleeping也用现在式，因为这是当作已经打来了，自然要说“在睡觉”，而不是“要去睡觉”（will be sleeping)。只有主要从句I'll say用未来式的动词，因为如果打来了“就会”说，这表示现在还没说！
+2.He won't have it his way,as long as I'm here.
+连接词 副词从句
+(只要我在，不会让他称心如意。）
+副词从句修饰动词won't have的条件。
+as long as也可以用比较级来诠释。
+3.Suppose you were ill,where would you go?
+连接词 副词从句
+(假定你生病了，你会到哪里去？）
+副词从句修饰动词would go的条件。
+suppose本来是动词，这个副词从句原来是supposing that you were ill 的句型，经过省略后才成为只剩suppose—字当连接词用。同时请注意例3中两个动词都是非事实的假设语气。
+三、原因，结果
+1. As there isn't much time left,we might as well call it a day.
+连接词 副词从句
+(既然时间所剩无几，我们不妨就此结束好了。）
+副词从句修饰动词might call的原因。
+2.There's nothing to worry about,now that Father is back.
+连接词 副词从句
+(既然父亲回来了，就没什么好担心了。）
+副词从句修饰动词is的原因。
+请注意：简单句前面加上一个单独的、没有意义的that，会成为名词从句（指“那件事”）。可是that—旦配合其他字眼当作连接词、具有表达逻辑关系的功能时，就成了副词从句的连接词，引导的是副词从句。now that解释为“既然”，用来表达原因，所以它后面的Father is back就成了副词从句。
+3.He looked so sincere that no one doubted his story.
+连 接 词 副词从句
+(他看起来是那么诚恳，所以没有人怀疑他说的话。）
+副词从句修饰形容词sincere造成什么结果。
+连接词so...that表示因果关系，所以引导的是副词从句。
+4.The mother locked the door from the outside,so that
+连接词
+the kids couldn't get out when they saw fire.
+副词从句
+(这位妈妈把门反锁，所以小孩看到火起时也跑不出去。）
+副词从句修饰动词locked造成什么结果。
+连接词so that亦表示因果关系，所以引导的是副词从句。请注意这个副词从句中又有一个表示时间的副词从句when they saw fire。
+四、目的
+1.The mother locked away the drugs so that
+连接词
+the kids wouldn't swallow any by mistake.
+副词从句
+(这位妈妈把药锁好，目的是不让小孩误食。）
+副词从句修饰动词locked有什么目的。
+同样是so that连接词，同样引导副词从句，但是这里用来表示目的。
+2.I've typed out the main points in boldface,in order that
+连接词
+you won't miss them.
+副词从句
+(我用黑体字把重点打出来，好让你们不会遗漏掉。）
+副词从句修饰动词type out有何目的。同样的，这里的连接词不是单独、无意义的that，而是表示目的的in order that，所以引导的是副词从句。
+3.I've underlined the key points, lest you miss them.
+连接词 副词从句
+(我已把重点画了线，以免你们把它们漏掉。）
+副词从句修饰动词have underlined有何目的。
+4.You'd better bring more money,in case you should need it.
+连接词 副词从句
+(你最好多带点钱，万一要用。）
+副词从句修饰动词bring的目的。
+五、让步
+1.Although you may object,I must give it a try.
+连接词 副词从句
+(虽然你可能会反对，我仍然必须试试看。）
+副词从句修饰动词must give。
+2.While the disease is not fatal,it can be very dangerous.
+连接词 副词从句
+(这虽然不是要命的病，不过也很危险。）
+副词从句修饰动词can be。
+3.Wh-拼法的连接词，若解释为No matter...(不论)，就表示让步语气，引导副词从句。
+Whether (=No matter) you agree or not,I want to give it a try.
+连接词 副词从句
+(无论你是否同意，我都想试一试。）
+Whoever (=No matter who) calls,I won't answer.
+连接词+副词从句
+(不管谁来电话，我都不接。）
+Whichever (=No matter which) way you go,I'll follow.
+连接词+副词从句
+(不论你走到哪里，我都跟定你了。）
+However (=No matter how) cold it is,he's always wearing a shirt only.
+连接词+副词从句
+(不管多冷，他总是只穿件村衫。）
+Wherever (=No matter where) he is，I’ll get him!
+连接词+副词从句
+(不管他躲到哪儿，我都会抓到他！）
+Whenever (=No matter when) you like,you can call me.
+连接词+副词从句
+(你随时给我来电话都可以。）
+六、限制
+1.As far as money is concerned,you needn't worry.
+连接词 副词从句
+(钱的方面你不必担心。）
+副词从句修饰动词needn't worry，表示不必担心的事情是在某一方面，暗示也许是别的方面才要担心。
+2.Picasso was a revolutionary in that he broke all traditions.
+连接词 副词从句
+(毕加索是革命派，即他打破了一切传统。）
+副词从句修饰动词was，把“是革命派”的意思加以限制：在于打破传统，并非真的举枪起义。
+连接词in that是由in the sense that (从某种意义来说）省略而来。
+七、方法，状态
+1.He played the piano as Horowitz would have.
+连接词 副词从句
+(他弹钢琴有如大师霍洛维兹。）
+副词从句修饰动词played——如何弹法。
+2.He writes as if he is left handed.(他写字像左撇子。)
+He writes as if he were left handed.
+He writes as if he was left handed.
+连接词 副词从句
+上面三句中，用is表示他应该真的是左撇子，用were表示他不是，只是冒充左撇子，用was则表示不一定——可能是，也可能不是。三句话都是用连接词as if引导后面的副词从句，修饰动词 writes——“如何写法”。
