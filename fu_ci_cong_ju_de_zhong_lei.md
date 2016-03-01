@@ -22,10 +22,11 @@
 副词从句修饰动词 was 的时间。  
 
 when 这个连接词，也可以当做关系词来使用，这点留待下一章讲到关系从句时再详细说明。  
-- A small town grew where three roads met.  
+- A small town grew <u>where</u> <u>three roads met</u>.  
 连接词 副词从句  
 （一个小镇在三条路交会处发展起来。）  
-副词从句修饰动词 grew 的地方。
+副词从句修饰动词 grew 的地方。  
+
 同样的，where 这个连接词也可以当作关系词来解释。
 
 ### 二、条件
@@ -50,27 +51,32 @@ suppose本来是动词，这个副词从句原来是supposing that you were ill 
 ### 三、原因，结果
 
 
-1. As there isn't much time left,we might as well call it a day.
-连接词 副词从句
-(既然时间所剩无几，我们不妨就此结束好了。）
-副词从句修饰动词might call的原因。
-2.There's nothing to worry about,now that Father is back.
-连接词 副词从句
-(既然父亲回来了，就没什么好担心了。）
-副词从句修饰动词is的原因。
-请注意：简单句前面加上一个单独的、没有意义的that，会成为名词从句（指“那件事”）。可是that—旦配合其他字眼当作连接词、具有表达逻辑关系的功能时，就成了副词从句的连接词，引导的是副词从句。now that解释为“既然”，用来表达原因，所以它后面的Father is back就成了副词从句。
-3.He looked so sincere that no one doubted his story.
-连 接 词 副词从句
-(他看起来是那么诚恳，所以没有人怀疑他说的话。）
+1. As there isn't much time left,we might as well call it a day.  
+连接词 副词从句  
+（既然时间所剩无几，我们不妨就此结束好了。）  
+副词从句修饰动词 might call 的原因。  
+2. There's nothing to worry about,now that Father is back.  
+连接词 副词从句  
+（既然父亲回来了，就没什么好担心了。）  
+副词从句修饰动词 is 的原因。
+
+请注意：简单句前面加上一个单独的、没有意义的 that ，会成为名词从句（指“那件事”）。可 是 that 一旦配合其他字眼当作连接词、具有表达逻辑关系的功能时，就成了副词从句的连接词，引导的是副词从句。 now that 解释为“既然”，用来表达原因，所以它后面的 Father is back 就成了副词从句。  
+
+- He looked so sincere that no one doubted his story.  
+连 接 词 副词从句  
+（他看起来是那么诚恳，所以没有人怀疑他说的话。）
 副词从句修饰形容词sincere造成什么结果。
+
 连接词so...that表示因果关系，所以引导的是副词从句。
-4.The mother locked the door from the outside,so that
-连接词
-the kids couldn't get out when they saw fire.
-副词从句
-(这位妈妈把门反锁，所以小孩看到火起时也跑不出去。）
-副词从句修饰动词locked造成什么结果。
-连接词so that亦表示因果关系，所以引导的是副词从句。请注意这个副词从句中又有一个表示时间的副词从句when they saw fire。
+
+- The mother locked the door from the outside,so that  
+连接词  
+the kids couldn't get out when they saw fire.  
+副词从句  
+（这位妈妈把门反锁，所以小孩看到火起时也跑不出去。）  
+副词从句修饰动词 locked 造成什么结果。  
+
+连接词 so that 亦表示因果关系，所以引导的是副词从句。请注意这个副词从句中又有一个表示时间的副词从句 when they<u> saw fire。
 
 ### 四、目的
 
