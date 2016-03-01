@@ -22,9 +22,9 @@
 副词从句修饰动词 was 的时间。  
 
 when 这个连接词，也可以当做关系词来使用，这点留待下一章讲到关系从句时再详细说明。  
-- A small town grew where three roads met.
-连接词 副词从句
-(一个小镇在三条路交会处发展起来。）
+- A small town grew where three roads met.  
+连接词 副词从句  
+（一个小镇在三条路交会处发展起来。）  
 副词从句修饰动词 grew 的地方。
 同样的，where 这个连接词也可以当作关系词来解释。
 
