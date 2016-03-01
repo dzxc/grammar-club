@@ -35,9 +35,9 @@
 反之，<b>如果句子缺了补语，就会变得完全没有意义，因为叙述的部分完全缺乏。</b>请注意：**在所有的英语动词中，只有解释为“是”的动词是空的，完全没有意义。**一般的动词，不论及物或不及物，都要担任叙述全句最主要内容的工作。**只有解释为“是”的动词，没有叙述能力，只能扮演引导叙述部分的角色。**  
 
 例如：  
-3 . {% em type="green" %}John Smith{% endem %} <em>{% em type="red" %}was{% endem %}</em> a soldier.
+3 . {% em type="green" %}<em>John Smith</em>{% endem %} <em>{% em type="red" %}was{% endem %}</em> a soldier.
 （约翰·史密斯是军人。）  
-4 . {% em type="green" %}John Smith{% endem %} <em>{% em type="red" %}was{% endem %}</em> courageous.
+4 . {% em type="green" %}<em>John Smith</em>{% endem %} <em>{% em type="red" %}was{% endem %}</em> courageous.
 （约翰·史密斯很勇敢。）
 
 在例3中主语 John Smith 不变，可是动词 was 就和前面的例子都不一样。这个动词并没有告诉我们有关 John Smith 这个人的任何事情。叙述主要内容的工作落在后面的 a soldier 之上。动词 was 只是把 John Smith 和 a soldier 之间画上等号、串联起来而已。
