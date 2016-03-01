@@ -35,21 +35,31 @@ Shot in the knee, he still killed three more enemy soldiers.
 #### 二、三个特殊的连接词
 
 
-另外，连接词如果要留下来，要注意一点：before、after、since这三个连接词也可以当介系词用。如果其中任何一个出现在简化从句中，由于没有了主语、动词，这个连接词就得当介系词看待，亦即：后面要接名词。例如：
-Before it was redecorated,the house was in bad shape.
-副词从句
-(这栋房子重新装潢之前状况很糟。）
-副词从句简化之后，连接词before不能省略，否则意思会不同，成为：
-Redecorated, the house was in bad shape.
-因为过去分词redecorated有完成的暗示，上面这句的意思是 “重新装潢后，这栋房子状况很糟。”若要维持原意，则连接词before 不能省略。但是，before是可以当介系词使用的连接词，留下来又会有问题：
-Before redecorated, the house was in bad shape.(误)
-上句的错误在于before此时是介系词，后面却只有形容词类的 redecorated，造成语法错误。修改的办法是改变redecorated的词性。若要保留它的被动态，就不能作词尾的词类变化，只能在前面加 being来作词类变化：
-Before being redecorated, the house was in bad shape.
-简化副词从句
-be动词是没有内容的字眼。在此加上being—词，纯粹是因应词类变化的需求：用动名词词尾的-ing来变成名词，以符合before 介系词的要求。另外，以这个例子而言，忽略redecorated的被动态，改成名词redecorated，意思仍不失清楚：
-Before redecoration, the house was in bad shape.
-介系词短语
-除了 before以外，after和since这两个连接词如需保留，也都要注意词类的问题。
+另外，连接词如果要留下来，要注意一点： before,after,since 这三个连接词也可以当介系词用。如果其中任何一个出现在简化从句中，由于没有了主语、动词，这个连接词就得当介系词看待，亦即：后面要接名词。例如：  
+>  
+Before it was redecorated,the house was in bad shape.  
+副词从句  
+（这栋房子重新装潢之前状况很糟。）  
+
+副词从句简化之后，连接词 before 不能省略，否则意思会不同，成为：  
+>  
+Redecorated, the house was in bad shape.  
+
+因为过去分词 redecorated 有完成的暗示，上面这句的意思是 “重新装潢后，这栋房子状况很糟。”若要维持原意，则连接词 before  不能省略。但是， before 是可以当介系词使用的连接词，留下来又会有问题：  
+>  
+Before redecorated, the house was in bad shape.(误)  
+
+上句的错误在于 before 此时是介系词，后面却只有形容词类的  redecorated ，造成语法错误。修改的办法是改变 redecorated 的词性。若要保留它的被动态，就不能作词尾的词类变化，只能在前面加 being 来作词类变化：  
+>  
+Before being redecorated, the house was in bad shape.  
+简化副词从句  
+
+be 动词是没有内容的字眼。在此加上 being 一词，纯粹是因应词类变化的需求：用动名词词尾的 -ing 来变成名词，以符合 before  介系词的要求。另外，以这个例子而言，忽略 redecorated 的被动态，改成名词 redecorated ，意思仍不失清楚：  
+>  
+Before redecoration, the house was in bad shape.  
+介系词短语  
+
+除了 before 以外， after 和 since 这两个连接词如需保留，也都要注意词类的问题。
 
 #### 三、如何应用 having been
 
