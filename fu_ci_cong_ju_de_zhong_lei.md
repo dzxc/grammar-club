@@ -167,5 +167,6 @@ you won't miss them</u>.
 2. He writes as if he is left handed.(他写字像左撇子。)  
 He writes as if he were left handed.  
 He writes as if he was left handed.  
-连接词 副词从句  
+连接词 副词从句   
+
 上面三句中，用 is 表示他应该真的是左撇子，用 were 表示他不是，只是冒充左撇子，用 was 则表示不一定——可能是，也可能不是。三句话都是用连接词 as if 引导后面的副词从句，修饰动词 writes ——“如何写法”。
