@@ -181,9 +181,9 @@ S VO O (名词从句)
 
 这句中的 how… 从句应视为 How did you pull off that trick? 这个疑问句改造成的名词从句。 how 是疑问词，而不是关系词。又如：  
 >  
-1. I've forgotten the reason.  
-2. I called for a reaseon.   
->>→(A) I've forgotten the reason (why)I called.  
+1. I've forgotten <u>the reason</u>.  
+2. I called <u>for a reaseon</u>.   
+>>→(A) I've forgotten <u>the reason (why)I called</u>.  
 先行词 关系从句  
 （我忘了我为什么打这个电话。）  
 
