@@ -8,7 +8,7 @@
 They <em>plan</em> to marry next month. （他们计划下个月结婚。）  
     S V O  
 
-这个句子的to marry next month是plan的宾语，必须用名词类。那么为什么用不定词to marry，而不用动名词marrying呢？因为to marry next month 就是(that) they will marry next month 的变化。marry是计划中的事情，下个月才要发生，是未来式。再把they will marry改成they are to marry。这时候，如果把重复的主语they和空的be动词are省略掉，就成了不定词to marry。
+这个句子的 to marry next month 是 plan 的宾语，必须用名词类。那么为什么用不定词 to marry ，而不用动名词 marrying 呢？因为 to marry next month 就是(that) they will marry next month 的变化。marry 是计划中的事情，下个月才要发生，是未来式。再把 they will marry 改成 they are to marry 。这时候，如果把重复的主语 they 和空的 be 动词 are 省略掉，就成了不定词 to marry 。
 
 **二、 avoid**
 
