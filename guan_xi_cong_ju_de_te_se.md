@@ -27,23 +27,27 @@ S V
 ### 三、将关系从句附于主要子句的交集点（名词），后面来修饰它（做形容词使用）
 
 
-上例中就是把Who从句附在a man之后成为：
-For boyfriend I'm looking for a man
-名词（先行词）
-who is tall,rich,and well-educated.
-关系从句（形容词类）
-（找男朋友，我想找一个身材高、收入高、教育水准高的人。）
-由以上的分析可以看出，关系从句有一个很重要的特色：关系从句的连接词是从句中内含字眼的改写，而名词从句与副词从句的连接词都是外加的。请比较下列三句：
-1.I know that I am right.
-S V 连接词 O（名词从句）
-（我知道我对。）
-2.I know this because I have proof.
-S V O 连接词 副词从句
-（我知道，因为我有证据。）
-3.I don't trust people who talk too much.
-S V O 关系从句
-（我不信任话太多的人。）
-例1中的名词从句是由完整的简单句I am right.外加连接词that 所构成。例2的副词从句也是完整的单句I have proof外加连接词 because构成。只有例3的关系从句没有外加连接词，而是直接由They talk too much的单句，把they改写成who而构成。产生的关系从句who talk too much属于形容词的功能，用来修饰先行词people。
+上例中就是把 Who 从句附在 a man 之后成为：  
+>  
+For boyfriend I'm looking for a man  
+名词（先行词）  
+who is tall,rich,and well-educated.  
+关系从句（形容词类）  
+（找男朋友，我想找一个身材高、收入高、教育水准高的人。）  
+
+由以上的分析可以看出，关系从句有一个很重要的特色：关系从句的连接词是从句中内含字眼的改写，而名词从句与副词从句的连接词都是外加的。请比较下列三句：  
+>  
+1. I know that I am right.  
+S V 连接词 O（名词从句）  
+（我知道我对。）  
+2. I know this because I have proof.  
+S V O 连接词 副词从句  
+（我知道，因为我有证据。）  
+3. I don't trust people who talk too much.  
+S V O 关系从句  
+（我不信任话太多的人。）  
+
+例1中的名词从句是由完整的简单句 I am right .外加连接词 that  所构成。例2的副词从句也是完整的单句 I have proof 外加连接词  because 构成。只有例3的关系从句没有外加连接词，而是直接由 They talk too much 的单句，把 they 改写成 who 而构成。产生的关系从句 who talk too much 属于形容词的功能，用来修饰先行词 people 。
 
 #### 关系代名词与关系副词
 
