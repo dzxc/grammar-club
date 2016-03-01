@@ -3,21 +3,21 @@
 同样的道理，<b>如果关系从句缺乏指示的功能，就不该借用指示代名词 that 当关系词。</b><u>
 如果关系从句没有指示的作用，只是**补充说明**的性质，应该用**逗点**和**先行词**隔开。这时逗点的功能和括弧类似。</u>例如：  
 >  
-For boyfriend,I'm considering [your brother John],who is tall,    
+For boyfriend,<u>I'<u>m considering</u> [your brother John],<u>who <u>is tall,    
 S1 V1 先行词 S2 V2    
 rich,etc.    
 （找男朋友，我在考虑你哥哥约翰，他个子高、收入高等等。）  
 
 这个句子中的先行词 your brother John 是个专有名词，只代表一个人，听的人听到这个名字也已经知道是谁了，所以后面的关系从句不再具有指出是谁或是哪种人的功能。因而这个关系从句只有补充说明的功能，说明“为什么”在考虑John这个对象。这种补充说明的句子应该放在括弧性的逗点后面——括弧就是用来作补充说明的。同时也就不能再借用指示代名词 that 了，因为 that 是用来指出“哪个”或“哪种”的。语法书上把加上逗号的关系从句称为“非限定用法”，并且有一条规则说非限定用法的关系从句不能用 that 做关系词，道理就在这里。再看下面的例子：  
 >  
-I like [books],whatever the subject,that have illustrations.  
+<u>I</u> <u>like</u> [books],whatever the subject,<u>that</u> <u>have</u> illustrations.  
 S1 V1 先行词 S2 V2  
 （我喜欢的书，不论什么主题，都是附有插图的。）  
 
 关系从句 that have illustrations 虽然放在逗号后面，可是这个逗号是和前一个逗号构成一组括弧，把 whatever the subject 括在里面，关系从句本身并不是放在括弧中作补充说明，它仍然是一个具有指示功能的从句，指出喜欢的书是哪一种，所以还是可以借用指示代名词 that 。  
 另外，关系从句如果是放在括弧性的逗号中作补充说明，就不再适合省略宾语位置的关系词了。请看下例：  
 >  
-I like [TIME Classic Words],which many people like,too.  
+<u>I</u> <u>like</u> [TIME Classic Words],<u>which</u> many <u>people</u> <u>like</u>,too.  
 S1 V1 先行词 O S2 V2   
 （我喜欢《时代经典用字》，很多人都喜欢这套书。）  
 
