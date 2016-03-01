@@ -1,28 +1,40 @@
 # 关系从句的位置
 
-一般语法书都列出一条规则：关系从句要放在先行词的后面。这是因为关系从句是形容词类，是修饰语的性质，它修饰的对象就是先行词位置的名词。一般说来，修饰语与其修饰的对象应该尽量接近，以增强明确性。可是列成规则来背，就会有违反规则的情况出现，亦即所谓的例外。例外丛生的规则，不仅没有指导的功能，甚至会妨碍判断，所以判断关系从句的位置，应该回到原点：放在哪个位置最清楚？以此作为判断的准则，远胜于死背规则。例如:
-1.There are two apples in the basket.
-2.The basket is lying on the table.
-这两句中有the basket的重复关系，可以改成以关系词来连接。形成的关系从句就直接放在先行词的后面，成为：
-3.There are two apples in the basket which is lying on the table.
-先行词 关系从句
-(桌上的篮子里有两个苹果。）
-这个位置够清楚，因为关系从句中的动词is是单数形式，表示主语which是单数，所以which的先行词只能是单数的basket，不会是two apples。可是如果是下面这两个句子的连接就不同了：
-1.You can find two apples in the basket.
-2.I bought the apples.
-两句话在apples上建立关系，用关系词作成关系从句后，如果套用语法规则，把关系从句和先行词放在一起，就会成为：
-You can find two apples which I bought in the basket.(误)
-先行词 关系从句
-这个句子就没有把意思交待清楚。关系从句Which I bought插到先行词two apples后面，造成一个结果：地方副词in the basket 和它所修饰的动词can find之问距离过远，而且现在它更接近另一个动词bought(关系从句的动词)，所以这个句子读起来不像是“可以在篮子里找到我买的两个苹果”，反而像是“你可以找到我在篮子里买的两个苹果”。这就失去原来的意思了。
-如果把in the basket向前移，把关系从句挪后，就成为：
-You can find two apples in the basket which I bought.(误)
-先行词 关系从句
-这个句子还是有问题。因为关系词which不是主语，看不出应该是单数还是复数，所以它的先行词可能是apples,也可能是更接近的basket。也就是说，整个句子可以解释为“我买的两个苹果在篮子里”，也可以解释为“两个苹果在我买的篮子里”。一句话有两种不同的解释，就是没有把话说清楚。
-那么，到底该怎么说才算清楚？要避免混淆,最好的办法是把in the basket这个短语移开，成为：
-3.In the basket you can find two apples which I bought.
-先行词 关系从句
-(你会在篮子里找到我买的两个苹果。）
-这时候in the basket只能修饰can find,而关系从句也只有单一的先行词，意思才清楚。再看下面的例子：  
+一般语法书都列出一条规则：关系从句要放在先行词的后面。这是因为关系从句是形容词类，是修饰语的性质，它修饰的对象就是先行词位置的名词。一般说来，修饰语与其修饰的对象应该尽量接近，以增强明确性。可是列成规则来背，就会有违反规则的情况出现，亦即所谓的例外。例外丛生的规则，不仅没有指导的功能，甚至会妨碍判断，所以判断关系从句的位置，应该回到原点：放在哪个位置最清楚？以此作为判断的准则，远胜于死背规则。例如:  
+>  
+1. There are two apples in the basket.
+2. The basket is lying on the table.
+
+这两句中有 the basket 的重复关系，可以改成以关系词来连接。形成的关系从句就直接放在先行词的后面，成为：
+>  
+There are two apples in the basket which is lying on the table.  
+先行词 关系从句  
+（桌上的篮子里有两个苹果。）  
+
+这个位置够清楚，因为关系从句中的动词 is 是单数形式，表示主语 which 是单数，所以 which 的先行词只能是单数的 basket ，不会是 two apples 。可是如果是下面这两个句子的连接就不同了：  
+>  
+1. You can find two apples in the basket.  
+2. I bought the apples.  
+
+两句话在 apples 上建立关系，用关系词作成关系从句后，如果套用语法规则，把关系从句和先行词放在一起，就会成为：  
+>  
+You can find two apples which I bought in the basket.(误)  
+先行词 关系从句  
+
+这个句子就没有把意思交待清楚。关系从句 Which I bought 插到先行词 two apples 后面，造成一个结果：地方副词 in the basket 和它所修饰的动词 can find 之问距离过远，而且现在它更接近另一个动词 bought (关系从句的动词)，所以这个句子读起来不像是“可以在篮子里找到我买的两个苹果”，反而像是“你可以找到我在篮子里买的两个苹果”。这就失去原来的意思了。  
+如果把 in the basket 向前移，把关系从句挪后，就成为：  
+>  
+You can find two apples in the basket which I bought.(误)  
+先行词 关系从句  
+
+这个句子还是有问题。因为关系词 which 不是主语，看不出应该是单数还是复数，所以它的先行词可能是 apples ,也可能是更接近的 basket 。也就是说，整个句子可以解释为“我买的两个苹果在篮子里”，也可以解释为“两个苹果在我买的篮子里”。一句话有两种不同的解释，就是没有把话说清楚。  
+那么，到底该怎么说才算清楚？要避免混淆,最好的办法是把 in the basket 这个短语移开，成为：   
+>  
+In the basket you can find two apples which I bought.  
+先行词 关系从句  
+（你会在篮子里找到我买的两个苹果。）  
+
+这时候 in the basket 只能修饰 can find ,而关系从句也只有单一的先行词，意思才清楚。再看下面的例子：  
 >   
 1. A plague broke out.  
 （一场瘟疫爆发。）  
