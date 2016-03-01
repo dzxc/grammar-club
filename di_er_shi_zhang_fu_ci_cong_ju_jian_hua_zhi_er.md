@@ -64,18 +64,24 @@ Before redecoration, the house was in bad shape.
 #### 三、如何应用 having been
 
 
-许多学习者对having been颇觉困扰。在此用一个例子来说明它的用法：
-1. Because they had been warned,they proceeded carefully.
-副词从句
-(因为已经得到警告，他们就很小心地进行。）
-简化这个句子里的副词从句时，主语they当然可以先省掉。动词had been warned有两种处理方式。be动词固然没有内容，可以省略，但是had been是be动词的完成式，有“已经……”的意味。如果要保留下来，就得先把had been改成分词类的having been，成为：
-2. Having been warned,they proceeded carefully.
-简化副词从句
-另外，如果忽略例1中had been的完成式内容，把整个be动词的完成式视同一般的be动词，随主语一起省略，就可以把例1简化为：
-3. Warned, they proceeded carefully.
-简化副词从句
-这个句子中，warned—字是过去分词，本身就具有完成的暗示（表示“已经”受到警告)，所以把had been省略并不影响句意。
-如果把例2和例3两句比较一下，当可发现：having been后面如果跟的是过去分词，那么即使把having been省略，在语法上同样正确（因为例2的having...和例3的warned同属分词，词类相同），而且在意思上也相同。因为例2的having been是表达“已经” 的意思，而例3里的warned同样表达了“已经”的意思。所以，having been后面如果跟的是过去分词，就可省略，不会有任何影响。
+许多学习者对 having been 颇觉困扰。在此用一个例子来说明它的用法：  
+
+1.Because they had been warned,they proceeded carefully.  
+副词从句  
+（因为已经得到警告，他们就很小心地进行。）  
+
+简化这个句子里的副词从句时，主语 they 当然可以先省掉。动词 had been warned 有两种处理方式。 be 动词固然没有内容，可以省略，但是 had been 是 be 动词的完成式，有“已经……”的意味。如果要保留下来，就得先把had been改成分词类的having been，成为：  
+
+2.Having been warned,they proceeded carefully.  
+简化副词从句  
+
+另外，如果忽略例1中had been的完成式内容，把整个be动词的完成式视同一般的be动词，随主语一起省略，就可以把例1简化为：  
+
+3.Warned, they proceeded carefully.  
+简化副词从句  
+
+这个句子中，warned 一字是过去分词，本身就具有完成的暗示（表示“已经”受到警告)，所以把 had been 省略并不影响句意。  
+如果把例2和例3两句比较一下，当可发现： having been 后面如果跟的是过去分词，那么即使把 having been 省略，在语法上同样正确（因为例2的 having... 和例3的 warned 同属分词，词类相同），而且在意思上也相同。因为例2的 having been 是表达“已经” 的意思，而例3里的 warned 同样表达了“已经”的意思。所以， having been 后面如果跟的是过去分词，就可省略，不会有任何影响。
 
 #### 四、主语不同时
 
