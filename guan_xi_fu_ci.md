@@ -21,11 +21,11 @@
 二、<em>at a time</em> 和 <em>when</em> **重复**；  
 三、<em>at a time</em> 和 <em>when</em> 都是**可有可无的**副词类。  
 
-基于这三点观察，at a time 和 when 应该择一省略来避免重复，让句子紧凑些。也就是例3可以省略而变成以下两种状况：  
-
-4.The rain came when the farmers needed it most.  
+<b>基于这三点观察，<em>at a time</em> 和 <em>when</em> 应该择一省略来避免重复，让句子紧凑些。</b>也就是例3可以省略而变成以下两种状况：  
+>  
+例4. The rain came when the farmers needed it most.  
 关系从句  
-5.The rain came at a time the farmers needed it most.  
+例5. The rain came at a time the farmers needed it most.  
 关系从句  
 （这场雨下得正是时候，农夫们这时最需要它。）  
 
