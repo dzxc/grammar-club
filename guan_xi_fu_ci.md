@@ -168,9 +168,9 @@ V O O (名词从句)
 
 关系副词另外还有两个：由 so 改写的 how 与由 for a reason 改成的 why 。它们的变化也没什么特殊之处，只要注意关系从句与名词从句的差别即可。例如：  
 >  
-1. Can you show me the way?  
-2. You pulled off that trick in that way (=so).  
->>→ (A) Can you show me the way (how) you pulled off that trick?  
+1. Can you show me <u>the way</u>?  
+2. You pulled off that trick <u>in that way</u> (=so).  
+>>→ (A) Can you show me <u>the way (how) you pulled off that trick</u>?  
 先行词 关系从句  
 （能不能教我你那套把戏是怎么变的?）  
 
