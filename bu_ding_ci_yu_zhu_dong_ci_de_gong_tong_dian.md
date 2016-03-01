@@ -37,7 +37,7 @@ I want <em>to go</em>. （我想去。）
 >  
 例：He is right.（他是对的。）  
 He <em>may be</em> right.（他可能是对的。）  
-He seems</em> <em>to be right.（他好像是对的。）
+He seems <em>to be</em> right.（他好像是对的。）
 
 第一句 He is right. 是确定的语气，把“他是对的”当作事实来叙述。一旦加上助动词 may 之后，就成了不确定的语气。所以第二句 He may be right 只是一个推测，不是事实叙述。同样的，一旦用到不定词，也是不确定的语气。第三句 He seems to be right 也是推测，不是事实叙述。<b>这种**不确定语气**是**不定词与助动词之间**一个**很重要的共同点**，可以用来判断何时该用不定词。</b>
 
