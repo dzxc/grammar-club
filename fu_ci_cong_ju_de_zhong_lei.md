@@ -80,32 +80,35 @@ the kids couldn't get out when they saw fire.
 （这位妈妈把门反锁，所以小孩看到火起时也跑不出去。）  
 副词从句修饰动词 locked 造成什么结果。  
 
-连接词 so that 亦表示因果关系，所以引导的是副词从句。请注意这个副词从句中又有一个表示时间的副词从句 when they<u> saw fire。
+连接词 so that 亦表示因果关系，所以引导的是副词从句。请注意这个副词从句中又有一个表示时间的副词从句 when they saw fire。
 
 ### 四、目的
 
 
-1.The mother locked away the drugs so that
-连接词
-the kids wouldn't swallow any by mistake.
-副词从句
-(这位妈妈把药锁好，目的是不让小孩误食。）
-副词从句修饰动词locked有什么目的。
-同样是so that连接词，同样引导副词从句，但是这里用来表示目的。
-2.I've typed out the main points in boldface,in order that
-连接词
-you won't miss them.
-副词从句
-(我用黑体字把重点打出来，好让你们不会遗漏掉。）
-副词从句修饰动词type out有何目的。同样的，这里的连接词不是单独、无意义的that，而是表示目的的in order that，所以引导的是副词从句。
-3.I've underlined the key points, lest you miss them.
-连接词 副词从句
-(我已把重点画了线，以免你们把它们漏掉。）
-副词从句修饰动词have underlined有何目的。
-4.You'd better bring more money,in case you should need it.
-连接词 副词从句
-(你最好多带点钱，万一要用。）
-副词从句修饰动词bring的目的。
+- The mother locked away the drugs so that  
+连接词  
+the kids wouldn't swallow any by mistake.  
+副词从句  
+（这位妈妈把药锁好，目的是不让小孩误食。）  
+副词从句修饰动词 locked 有什么目的。  
+同样是 so that 连接词，同样引导副词从句，但是这里用来表示目的。  
+
+- I've typed out the main points in boldface,in order that  
+连接词  
+you won't miss them.  
+副词从句  
+（我用黑体字把重点打出来，好让你们不会遗漏掉。）  
+副词从句修饰动词type out有何目的。同样的，这里的连接词不是单独、无意义的that，而是表示目的的in order that，所以引导的是副词从句。  
+
+- I've underlined the key points, lest you miss them.  
+连接词 副词从句  
+（我已把重点画了线，以免你们把它们漏掉。）  
+副词从句修饰动词have underlined有何目的。  
+
+- You'd better bring more money,in case you should need it.  
+连接词 副词从句  
+（你最好多带点钱，万一要用。）  
+副词从句修饰动词bring的目的。  
 
 ### 五、让步
 
