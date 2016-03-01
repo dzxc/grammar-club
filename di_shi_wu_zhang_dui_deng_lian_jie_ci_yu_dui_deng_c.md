@@ -129,7 +129,7 @@ Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century 
 
 
 **例九**  
-The large number of sizable orders suggests that factory operations are thriving, but that the low-tech nature of the processing indicates that profit margins will not be as high as might be expected.(误)
+The large number of sizable orders suggests that factory operations are thriving, <u>but that the low-tech nature of the processing indicates that</u> profit margins will not be as high as might be expected.(误)
 (从许多巨额订单来看，工厂的营运畅旺，可是加工程序属于低科技，显示利润幅度可能不像预期那么高。）
 对等连接词but右边是that引导的名词从句，只能与左边的that factory operations are thriving对称。但是如此解释出来的句意不通。仔细对比but的左右边，发现意思上是另一种形式的对称：
 A.The large number of sizable orders suggests something good.
@@ -137,14 +137,14 @@ S V O
 B.The low-tech nature of the processing indicates something bag.
 S V O
 这两句在形式与意思上都很对称。其中宾语部分的something good与something bad分别以一个that引导的名词从句来表示。看出这层对称关系之后就可以明白：but的右边应该与左边的主要从句对称，两句都是主要从句，不应以从属连接词that来引导，所以 把but右边的that拿掉，成为:
-The large number of sizable orders suggests that factory operations are thriving, but the low-tech nature of the processing indicates that profit margins will not be as high as might be expected.(正)
+The large number of sizable orders suggests that factory operations are thriving, <u>but the low-tech nature of the processing indicates that</u> profit margins will not be as high as might be expected.(正)
 
 
 ---
 
 
 **例十**  
-Not only is China the world's most populous state but also the largest market in the 21st century.(误)
+Not only is China the world's most populous state <u>but also the largest market</u> in the 21st century.(误)
 (中国不仅是世界人口最多的国家，也是21世纪最大的市场。）
 像not only... but also之类以相关词组(correlatives)出现的对等连接词，在对称方面的要求更为严格：not only与but之间所夹的部分要和but右边对称。原句中把：not only移到句首成倒装句，造成的结果是它与but之间夹着一个完整的从句。因此but的右边只有名词短语the largest market...就不对称，应该改为完整的从句，成为：
 Not only is China the world's most populous state but it is also the largest market in the 21st century.(正）
