@@ -21,7 +21,7 @@
 - Turn off <em>the portal light</em>.
 （把门口的灯关掉。）
 
-第一句中虽然a light后面有in his house来修饰，可是一栋房子中电灯可能有数十个，如果看到有一个是亮的，仍然只能算是one light，而不是that light。所以in his house虽然放在后面，但并不算是明确的指示，仍然要用a light。相反的，在第二句中，叫人把大门口的灯关掉，在the portal light —词中的portal，虽然是附在名词前面的形容词，可是有明确的指示功能，因为门口的灯通常只有一盏，所以已经指明了要关哪一盏灯，这时就要用the light。**总之，不必死背，但要先了解a(n)是来自于one(一个)，the则是来自于that/those(那个)，再逐一判断。**
+第一句中虽然 a light 后面有 in his house 来修饰，可是一栋房子中电灯可能有数十个，如果看到有一个是亮的，仍然只能算是 one light ，而不是 that light 。所以 in his house 虽然放在后面，但并不算是明确的指示，仍然要用 a light 。相反的，在第二句中，叫人把大门口的灯关掉，在 the portal light 一词中的 portal ，虽然是附在名词前面的形容词，可是有明确的指示功能，因为门口的灯通常只有一盏，所以已经指明了要关哪一盏灯，这时就要用 the light 。**总之，不必死背，但要先了解a(n)是来自于one(一个)，the则是来自于that/those(那个)，再逐一判断。**
 
 
 ---
