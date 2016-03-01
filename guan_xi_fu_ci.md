@@ -210,13 +210,17 @@ when Queen Elizabeth I was on the throne.
 关系从句  
 （莎士比亚出生于1564年，当时伊莉莎白女王一世在位。）  
 
-再看下例：
-1. The best museum in Taiwan is the Palace Museum.
-2. You can see our national treasures there.
+再看下例：  
+>  
+1. The best museum in Taiwan is the Palace Museum.  
+2. You can see our national treasures there.  
+
 故宫博物院是个明确的地名，已无法进一步指认，所以关系从句要用括弧性的逗号隔开，当作补充说明，成为：
-3.The best museum in Taiwan is the Palace Museum,
-先行词
-where you can see our national treasures.
-关系从句
-(台湾最好的博物馆是故宮，那里可以看到我们的国宝。）
-当然，这里的where不能够省略，因为括弧与正文切断开来，不能借用，括弧中要重新作完整的交待。
+>  
+3.The best museum in Taiwan is the Palace Museum,  
+先行词  
+where you can see our national treasures.  
+关系从句  
+（台湾最好的博物馆是故宮，那里可以看到我们的国宝。）  
+
+当然，这里的 where 不能够省略，因为括弧与正文切断开来，不能借用，括弧中要重新作完整的交待。
