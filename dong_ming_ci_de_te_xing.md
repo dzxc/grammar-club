@@ -41,7 +41,7 @@ S V O
 （那时我晚上教儿童英语教得很愉快。）
   
 
-在传统语法中，句中宾语的部分被视为一个动名词短语。如果深入分析，将会发现这个短语中有动词(teach)、宾语(English)、介系词短语(to school children)、时间副词(at night)，只差没有主语。可是，teach 的主语很明显：与主要从句中的 I 是同一个人。所以，这个动名词短语可以还原成一个名词从句：  
+在传统语法中，句中宾语的部分被视为一个动名词短语。如果深入分析，将会发现这个短语中有动词( teach )、宾语( English )、介系词短语( to school children )、时间副词( at night )，只差没有主语。可是，teach 的主语很明显：与主要从句中的 I 是同一个人。所以，这个动名词短语可以还原成一个名词从句：  
 
 >  
 I really enjoyed that I taught English to school at night.  
