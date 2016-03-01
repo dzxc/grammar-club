@@ -106,23 +106,32 @@ a few comforting words.
 #### 五、简化为 to V
 
 
-如果原来的副词从句中有语气助动词（can、should、must之类)，带有不确定语气，简化之后就会成为不定词。例如：
-He studied hard in order that he could get a scholarship.
-副词从句
-(他用功读书，为的是要拿奖学金。）
-副词从句的动词could get并不表示拿到了奖学金，只是想要拿，带有不确定语气。这时就可简化为不定词。从前提过，所有的语气助动词都可改写为be+to的形状，意思不会有太大的变化。所以助动词的简化，去除了be动词就剩下to，成为不定词：
-He studied hard in order to get a scholarship.
-简化副词从句
-再看一个例子：
-I'll only be too glad if I can help.
-副词从句
-(如果帮得上忙，我非常乐意。）
-副词从句中的动词can help有助动词在，仍是不确定语气：还没开始帮忙。简化后成为：
-I'll only be too glad to help.
-简化副词从句
-副词从句中凡有助动词存在，简化的结果都是一样连接词省略，主语如果相同亦省略，助动词拿掉be动词之后变成to,所以就剩下to V的结果。
-单纯的be动词时
-如果副词从句的动词是单纯的be动词，后面可能是一般的名词、形容词类的补语。要简化时，首先得注意主语要和主要从句的主语相同，然后才可以把连接词留下来，省去主语和be动词，留下补语。例如：
+如果原来的副词从句中有语气助动词( can、should、must 之类)，带有不确定语气，简化之后就会成为不定词。例如：  
+>  
+He studied hard in order that he could get a scholarship.  
+副词从句  
+（他用功读书，为的是要拿奖学金。）  
+
+副词从句的动词 could get 并不表示拿到了奖学金，只是想要拿，带有不确定语气。这时就可简化为不定词。从前提过，所有的语气助动词都可改写为 be+to 的形状，意思不会有太大的变化。所以助动词的简化，去除了 be 动词就剩下 to ，成为不定词：  
+>  
+He studied hard in order to get a scholarship.  
+简化副词从句  
+
+再看一个例子：  
+>  
+I'll only be too glad if I can help.  
+副词从句  
+（如果帮得上忙，我非常乐意。）  
+
+副词从句中的动词 can help 有助动词在，仍是不确定语气：还没开始帮忙。简化后成为：  
+>  
+I'll only be too glad to help.  
+简化副词从句  
+
+副词从句中凡有助动词存在，简化的结果都是一样连接词省略，主语如果相同亦省略，助动词拿掉 be 动词之后变成 to ,所以就剩下 to V 的结果。
+单纯的 be 动词时
+如果副词从句的动词是单纯的 be 动词，后面可能是一般的名词、形容词类的补语。要简化时，首先得注意主语要和主要从句的主语相同，然后才可以把连接词留下来，省去主语和 be 动词，留下补语。  
+例如：
 
 #### 一、介系词短语
 
