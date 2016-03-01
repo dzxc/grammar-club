@@ -40,4 +40,4 @@
 4 . John Smith <em>was</em> courageous.
 （约翰·史密斯很勇敢。）
 
-在例3中主语John Smith不变，可是动词was就和前面的例子都不一样。这个动词并没有告诉我们有关John Smith这个人的任何事情。叙述主要内容的工作落在后面的a soldier之上。动词was只是把John Smith和a soldier之间画上等号、串联起来而已。
+在例3中主语 John Smith 不变，可是动词 was 就和前面的例子都不一样。这个动词并没有告诉我们有关 John Smith 这个人的任何事情。叙述主要内容的工作落在后面的 a soldier 之上。动词 was 只是把 John Smith 和 a soldier 之间画上等号、串联起来而已。
