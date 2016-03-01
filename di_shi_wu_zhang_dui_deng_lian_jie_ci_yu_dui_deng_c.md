@@ -6,7 +6,7 @@
 
 以下不再赘述简单的观念，直接提供十二则例子来说明对等连接词与对等从句需注意的地方。这些例子部分模仿 GMAT 考题的形态，每一句中都有一部分画了底线，其中包含对等连接词使用不当所造成的错误。读者可以自我测验一下：先找找看错在哪里，试着改改看，然后再看后面的说明以及建议的改法。这些例句的性质相当接近 GMAT 考题，句型结构多半较长，也比较复杂，其中包含了本书下一章才会讲解的“简化从句”。如果读者一时无法全部了解，或是不知如何修改，可以先看一下翻译再尝试改改看。  
 
-1. The Yangtze River, the most vital source of irrigation water across the width of China and important as a transportation conduit as well, has nurtured the Chinese civilization for millennia.(误）  
+例一. The Yangtze River, the most vital source of irrigation water across the width of China and important as a transportation conduit as well, has nurtured the Chinese civilization for millennia.(误）  
 （长江是横贯中国最重要的灌溉水源，同时也是重要的交通管道，数千年来孕育着中华文化。）  
 
 主要从句的基本句型是：  
@@ -18,7 +18,7 @@ S V O
 >  
 The Yangtze River,the most vital source of irrigation water across the width of China and an important transportation conduit,has nurtured the Chinese civilization for millennia.(正）  
 
-2. Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)
+例二. Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)
 (科学家认为引发冬眠的因素包括环境的气温下降、食物短缺、白昼缩短以及荷尔蒙作用。）
 句中画底线的部分是以by A、B、C and by D的结构来修饰宾语从句中的动词is triggered。由内容来看A、B、C、D是平行的(都是引发冬眠的因素)，应该以对等的方式来处理。可是原句的处理方式中，by A、B、C之间缺乏连接词，而and只能连接两个by引导的介系词短语(by this and by that),因此原句的结构有语法上的问题。  
 最佳的修改方式是把A、B、C、D四项平行的因素并列，以连接词and串连，共同置于单一的介系词之后成为byA、B、C and D的结构，故应修正为：
