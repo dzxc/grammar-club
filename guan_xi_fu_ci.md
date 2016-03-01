@@ -217,7 +217,7 @@ when Queen Elizabeth I was on the throne.
 
 故宫博物院是个明确的地名，已无法进一步指认，所以关系从句要用括弧性的逗号隔开，当作补充说明，成为：
 >  
-3.The best museum in Taiwan is the Palace Museum,  
+3. The best museum in Taiwan is the Palace Museum,  
 先行词  
 where you can see our national treasures.  
 关系从句  
