@@ -5,11 +5,11 @@
 ### 一、时间、地方
 
 
-1. He became more frugal after he got married.  
+1. He became more frugal <u>after</u> he <u>got married</u>.  
 连接词 副词从句  
 （他结婚以后变得比较节俭。）  
 副词从句修饰动词 became 的时间。  
-2. I'll be waiting for you until you're married.  
+2. I'll be waiting for you <u>until</u> <u>you're married</u>.  
 连接词 副词从句  
 （我会等你，直到你结婚为止。）  
 副词从句修饰动词 Will be waiting 的时间。  
