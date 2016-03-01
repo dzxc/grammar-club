@@ -197,15 +197,19 @@ S V O（名词从句）
 #### 有逗点隔开的关系从句
 
 
-<b>关系副词引导的关系从句，如果要用逗号与主要从句隔开，原因与关系代名词时的情形完全相同：<u></u>将逗号视为一组括弧，括弧中的关系从句为补充说明的功能，失去了指示的功能。<u></u>所以关系副词不能用指示代名词 that 来替代，同时也不能够省略</u>。</b>请看下例：
-1. Shakespeare was born in 1564.
-2. Queen Elizabeth I was on the throne then.
-例2的then和例1的1564重复，建立关系，改写成关系词when 。然后，因为先行词1564是一个明确的年代，不是模糊的时间（像 a time等)，所以只能补充说明那一年有什么特别的事情，而不是进一步指出时间。这种性质的先行词，后面要用括弧性的逗号把关系从句括起来，成为：
-3.Shakespeare was born in 1564，
-先行词
-when Queen Elizabeth I was on the throne.
-关系从句
-(莎士比亚出生于1564年，当时伊莉莎白女王一世在位。）
+<b>关系副词引导的关系从句，如果要用逗号与主要从句隔开，原因与关系代名词时的情形完全相同：将逗号视为一组括弧，括弧中的关系从句为补充说明的功能，失去了指示的功能。<u>所以关系副词不能用指示代名词 that 来替代，同时也不能够省略</u>。</b>请看下例：  
+>  
+1. Shakespeare was born in 1564.  
+2. Queen Elizabeth I was on the throne then.  
+
+例2的 then 和例1的 1564 重复，建立关系，改写成关系词 when  。然后，因为先行词1564是一个明确的年代，不是模糊的时间(像 a time 等)，所以只能补充说明那一年有什么特别的事情，而不是进一步指出时间。这种性质的先行词，后面要用括弧性的逗号把关系从句括起来，成为：  
+>  
+3.Shakespeare was born in 1564，  
+先行词  
+when Queen Elizabeth I was on the throne.  
+关系从句  
+（莎士比亚出生于1564年，当时伊莉莎白女王一世在位。）  
+
 再看下例：
 1. The best museum in Taiwan is the Palace Museum.
 2. You can see our national treasures there.
