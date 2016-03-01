@@ -110,7 +110,7 @@ Once the safety concerns over the new production procedure were removed and <u>i
 - Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, <u>serving as sentinel and to sound a warning at the slightest threat</u>,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)  
 （蜂窝中的工蜂担负各种任务，包括守卫入口、站哨并在威胁来临时发出警报，以及到巢外寻找富有花朵及花蜜的地区。）  
 
-句子中在 such as 之后列举工蜂担负的任务，基本上是A、B and C的结构，其中B (画底线部分）又可以分成 B1 与 B2 --站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel与to sound a warning在结构上一是动名词，一是不定词，并不对称。再看看 A(guarding the entrance)与 C(exploring outside the nest),都是动名词，所以B1与B2也应使用动名词才能对称，于是改为： 
+句子中在 such as 之后列举工蜂担负的任务，基本上是A、B and C的结构，其中B (画底线部分）又可以分成 B1 与 B2 --站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel 与 to sound a warning 在结构上一是动名词，一是不定词，并不对称。再看看  A(guarding the entrance) 与 C(exploring outside the nest) ,都是动名词，所以 B1 与 B2 也应使用动名词才能对称，于是改为： 
 >  
 Worker bees in a honeybee hive assume various tasks, such as guarding the entrance,<u>serving as sentinel and sounding a warning at the slightest threat</u>，and exploring outside the nest for areas rich in flowers and,consequently,nectar.(正）
 
