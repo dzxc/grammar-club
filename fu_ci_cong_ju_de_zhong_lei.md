@@ -32,21 +32,25 @@ when 这个连接词，也可以当做关系词来使用，这点留待下一章
 ### 二、条件
 
 
-1. If he calls,I'll say you're sleeping.
-连接词 副词从句
-(如果他打电话来，我就说你在睡觉。）
-副词从句修饰动词Will say的条件——如果打来就会说，不打来就不说了。
-在表示条件的副词从句中，如果时间是未来，也必须以“当作真正发生”的语气来说，所以要用现在式的动词。同时请注意say的宾语（名词从句）you're sleeping也用现在式，因为这是当作已经打来了，自然要说“在睡觉”，而不是“要去睡觉”（will be sleeping)。只有主要从句I'll say用未来式的动词，因为如果打来了“就会”说，这表示现在还没说！
-2.He won't have it his way,as long as I'm here.
-连接词 副词从句
-(只要我在，不会让他称心如意。）
-副词从句修饰动词won't have的条件。
-as long as也可以用比较级来诠释。
-3.Suppose you were ill,where would you go?
-连接词 副词从句
-(假定你生病了，你会到哪里去？）
-副词从句修饰动词would go的条件。
-suppose本来是动词，这个副词从句原来是supposing that you were ill 的句型，经过省略后才成为只剩suppose—字当连接词用。同时请注意例3中两个动词都是非事实的假设语气。
+- <u>If</u> <u>he calls</u>,I'll say you're sleeping.  
+连接词 副词从句  
+（如果他打电话来，我就说你在睡觉。）  
+副词从句修饰动词 Will say 的条件——如果打来就会说，不打来就不说了。  
+
+在表示条件的副词从句中，如果时间是未来，也必须以“当作真正发生”的语气来说，所以要用现在式的动词。同时请注意 say 的宾语（名词从句）you're sleeping 也用现在式，因为这是当作已经打来了，自然要说“在睡觉”，而不是“要去睡觉”(will be sleeping)。只有主要从句 I'll say 用未来式的动词，因为如果打来了“就会”说，这表示现在还没说！  
+
+- He won't have it his way,as long as I'm here.  
+连接词 副词从句  
+（只要我在，不会让他称心如意。）  
+副词从句修饰动词 won't have 的条件。  
+as long as也可以用比较级来诠释。  
+
+- <u>Suppose</u> <u>you were ill</u>,where would you go?  
+连接词 副词从句  
+（假定你生病了，你会到哪里去？）  
+副词从句修饰动词would go的条件。  
+
+suppose 本来是动词，这个副词从句原来是 supposing that you were ill  的句型，经过省略后才成为只剩 suppose 一字当连接词用。同时请注意例3中两个动词都是非事实的假设语气。
 
 ### 三、原因，结果
 
