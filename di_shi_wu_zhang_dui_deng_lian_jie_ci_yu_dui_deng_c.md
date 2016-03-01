@@ -85,7 +85,8 @@ Population density is very low in Canada,the largest country in the Western Hemi
 
 **例六**  
 - Once the safety concerns over the new production procedure were removed and with its superiority to the old one being proved, there was nothing to stop the factory from switching over.(误)   
-（新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）  
+（新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）   
+
 对等连接词and出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为对等从句，成为：  
 >  
 <u>The safety concerns</u> over the new production procedure  
