@@ -93,19 +93,19 @@ suppose 本来是动词，这个副词从句原来是 supposing that you were il
 副词从句修饰动词 locked 有什么目的。  
 同样是 so that 连接词，同样引导副词从句，但是这里用来表示目的。  
 
-- I've typed out the main points in boldface,in order that  
+- I've typed out the main points in boldface,<u>in order that  
 连接词  
-you won't miss them.  
+you won't miss them</u>.  
 副词从句  
 （我用黑体字把重点打出来，好让你们不会遗漏掉。）  
 副词从句修饰动词type out有何目的。同样的，这里的连接词不是单独、无意义的that，而是表示目的的in order that，所以引导的是副词从句。  
 
-- I've underlined the key points, lest you miss them.  
+- I've underlined the key points, <u>lest</u> <u>you miss them</u>.  
 连接词 副词从句  
 （我已把重点画了线，以免你们把它们漏掉。）  
 副词从句修饰动词have underlined有何目的。  
 
-- You'd better bring more money,in case you should need it.  
+- You'd better bring more money,<u>in case</u> <u>you should need it</u>.  
 连接词 副词从句  
 （<u>你最好多带点钱，万一要用。）  
 副词从句修饰动词bring的目的。  
