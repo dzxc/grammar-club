@@ -52,6 +52,10 @@ S2 V2 O2
 >  
 Smoking by pregnant women may slow the growth of and generally harm the fetus.(正)  
 
+
+---
+
+
 例四、Rapid advances in computer technology have enhanced the speed of calculation, the quality of graphics, the fun with computer games, and have lowered prices.(误）  
 （电脑技术的快速进展提高了计算的速度、图形的品质、电脑游戏的乐趣，也降低了价格。）  
 
