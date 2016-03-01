@@ -187,5 +187,6 @@ New radio stations either take an overly partisan stance,resulting in lopsided p
 He's not an atheist; rather, he believes in agnosticism.  
 （他不是无神论者，而是信奉不可知论。）  
 
-可是分号不能取代对等连接词来连接名词短语，更不能取代 not... but 的相关词组，所以将相关词组还原成为：  >    
+可是分号不能取代对等连接词来连接名词短语，更不能取代 not... but 的相关词组，所以将相关词组还原成为：  
+>    
 Many modern-day scientists are not atheists, to whom there no such thing as God, but agnostics, who refrain from conjecturing about the existence of God, much less His properties.(正)
