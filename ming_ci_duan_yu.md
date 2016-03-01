@@ -17,7 +17,7 @@
 ---
 
 
-**其实，名词短语的这三个部分当中，每个部分都可以省略。**在a new book中，即使拿掉形容词，剩下a book，这个名词短语还是正确的。同样地，在the best answer中如果拿掉名词，剩下the best也一样是正确的。  
+**其实，名词短语的这三个部分当中，每个部分都可以省略。**在 a new book 中，即使拿掉形容词，剩下 a book ，这个名词短语还是正确的。同样地，在 the best answer 中如果拿掉名词，剩下 the best 也一样是正确的。  
 例如：  
 >  
 Of these answers, this one is <em>the best</em>.（在这些答案中，这个最好。）
