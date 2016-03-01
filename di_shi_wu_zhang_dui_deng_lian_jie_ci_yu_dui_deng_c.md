@@ -87,17 +87,21 @@ S1
 were removed and its superiority to the old one was proved.  
 V1 S2 V2  
 
-这两个对等从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有be动词是重复的元素，所以只能省略一个be 动词，成为:
-The safety concerns over the new production procedure were removed and its superiority to the old one proved.
-这个省略后的对等从句前面加上once (一旦）就成为表示条件的副词从句，若再附于主要从句之上，就成为符合对称要求的从句：
-Once the safety concerns over the new production procedure were removed and its superiority to the old one proved, there was nothing to stop the factory from switching over.(正）  
+这两个对等从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有be动词是重复的元素，所以只能省略一个be 动词，成为:  
+>  
+The safety concerns over the new production procedure were removed and its superiority to the old one proved.  
+
+这个省略后的对等从句前面加上 once  （一旦）就成为表示条件的副词从句，若再附于主要从句之上，就成为符合对称要求的从句：  
+>  
+Once the safety concerns over the new production procedure were removed and its superiority to the old one proved, there was nothing to stop the factory from switching over.(正）    
 
 
 ---
 
 
-7. Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, serving as sentinel and to sound a warning at the slightest threat,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)
-(蜂窝中的工蜂担负各种任务，包括守卫入口、站哨并在威胁来临时发出警报，以及到巢外寻找富有花朵及花蜜的地区。）
+例七、Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, serving as sentinel and to sound a warning at the slightest threat,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)  
+（蜂窝中的工蜂担负各种任务，包括守卫入口、站哨并在威胁来临时发出警报，以及到巢外寻找富有花朵及花蜜的地区。）  
+
 句子中在such as之后列举工蜂担负的任务，基本上是A、B and C的结构，其中B (画底线部分）又可以分成B1与B2—一站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel与to sound a warning在结构上一是动名词，一是不定词，并不对称。再看看 A(guarding the entrance)与 C(exploring outside the nest),都是动名词，所以B1与B2也应使用动名词才能对称，于是改为：
 Worker bees in a honeybee hive assume various tasks, such as guarding the entrance,serving as sentinel and sounding a warning at the slightest threat，and exploring outside the nest for areas rich in flowers and,consequently,nectar.(正）
 
