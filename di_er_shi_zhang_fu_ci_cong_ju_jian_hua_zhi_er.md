@@ -122,12 +122,14 @@ I'll only be too glad to help.
 #### 一、介系词短语
 
 
-When you are under attack, you must take cover immediately.
-副词从句
-(受到攻击时，要立刻寻找掩护。）
-这个副词从句的动词是be动词，补语是介系词短语under attack。简化后成为：
-When under attack, you must take cover immediately.
-简化副词从句
+When you are under attack, you must take cover immediately.  
+副词从句  
+（受到攻击时，要立刻寻找掩护。）  
+
+这个副词从句的动词是 be 动词，补语是介系词短语 under attack 。简化后成为：  
+
+When under attack, you must take cover immediately.  
+简化副词从句  
 
 #### 二、形容词
 
