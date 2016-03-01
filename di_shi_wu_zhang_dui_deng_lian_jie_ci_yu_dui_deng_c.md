@@ -34,14 +34,14 @@ Scientists believe that hibernation is triggered <u>by decreasingenvironmental t
 句中画底线的部分是以 by A、B、C and by D 的结构来修饰宾语从句中的动词 is triggered 。由内容来看 A、B、C、D 是平行的(都是引发冬眠的因素)，应该以对等的方式来处理。可是原句的处理方式中，by A、B、C 之间缺乏连接词，而 and 只能连接两个 by 引导的介系词短语(by this and by that),因此原句的结构有语法上的问题。  
 最佳的修改方式是把 A、B、C、D 四项平行的因素并列，以连接词 and 串连，共同置于单一的介系词之后成为 by A、B、C and D 的结构，故应修正为：  
 >  
-Scientists believe that hibernation is triggered by decreasing environmental temperatures,food shortage,shorter periods of daylight, and hormonal activity.(正）  
+Scientists believe that hibernation is triggered <u>by decreasing</u> <u>environmental temperatures,food shortage,shorter periods of daylight, and hormonal activity</u>.(正）  
 
 
 ---
 
 
 **例三**  
-Smoking by pregnant women may slow the growth and generally harm the fetus.(误)  
+Smoking by pregnant women <u>may slow the growth and generally harm</u> the fetus.(误)  
 （孕妇吸烟可能妨碍胚胎发育，对胚胎造成一般性的伤害。）  
 
 这个句子可视为以下的对等从句的省略：  
