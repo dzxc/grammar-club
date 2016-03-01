@@ -5,8 +5,8 @@
 关系副词when就是时间副词then的改写，有连接词的功能。  
 请看下例：  
 >  
-例1. The rain came at a time.  
-例2. The farmers needed it most then.  
+例1. The rain came at <em>a time.  
+例2. The farmers needed it most <em>then</em>.  
 
 这两个句子以 a time 和 then 的重复建立关系( then 就是 at that time )。把时间副词 then 改写为关系副词 when ，借以连接两句，即成为：  
 >  
