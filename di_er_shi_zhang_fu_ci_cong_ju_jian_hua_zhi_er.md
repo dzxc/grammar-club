@@ -17,7 +17,8 @@ Shot in the knee,he couldn't fight.
 #### 一、是否保留连接词
 
 
-上例中连接词after可以不留，因为shot是过去分词，本身就表示“已经中枪”、“中枪之后”，已有完成式的暗示，因而不再需要after—词。但下面的例子则不同：
+上例中连接词 after 可以不留，因为 shot 是过去分词，本身就表示“已经中枪”、“中枪之后”，已有完成式的暗示，因而不再需要 after 一词。但下面的例子则不同：  
+
 Although he was shot in the knee, he killed three more enemy soldiers.
 副词从句
 (虽然膝盖中枪，他仍多杀了三名故军。）
