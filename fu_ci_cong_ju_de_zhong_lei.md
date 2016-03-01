@@ -55,11 +55,11 @@ suppose 本来是动词，这个副词从句原来是 supposing that you were il
 ### 三、原因，结果
 
 
-1. As there isn't much time left,we might as well call it a day.  
+1. <u>As <u>there isn't much time left,we might as well call it a day.  
 连接词 副词从句  
 （既然时间所剩无几，我们不妨就此结束好了。）  
 副词从句修饰动词 might call 的原因。  
-2. There's nothing to worry about,now that Father is back.  
+2. There's nothing to worry about,<u>now that <u>Father is back.  
 连接词 副词从句  
 （既然父亲回来了，就没什么好担心了。）  
 副词从句修饰动词 is 的原因。
@@ -73,9 +73,9 @@ suppose 本来是动词，这个副词从句原来是 supposing that you were il
 
 连接词so...that表示因果关系，所以引导的是副词从句。
 
-- The mother locked the door from the outside,so that  
+- The mother locked the door from the outside,<u>so that</u>  
 连接词  
-the kids couldn't get out when they saw fire.  
+<u>the kids couldn't get out when they saw fire</u>.  
 副词从句  
 （这位妈妈把门反锁，所以小孩看到火起时也跑不出去。）  
 副词从句修饰动词 locked 造成什么结果。  
@@ -85,9 +85,9 @@ the kids couldn't get out when they saw fire.
 ### 四、目的
 
 
-- The mother locked away the drugs so that  
+- The mother locked away the drugs <u>so that</u>  
 连接词  
-the kids wouldn't swallow any by mistake.  
+<u>the kids wouldn't swallow any by mistake</u>.  
 副词从句  
 （这位妈妈把药锁好，目的是不让小孩误食。）  
 副词从句修饰动词 locked 有什么目的。  
@@ -107,7 +107,7 @@ you won't miss them.
 
 - You'd better bring more money,in case you should need it.  
 连接词 副词从句  
-（你最好多带点钱，万一要用。）  
+（<u>你最好多带点钱，万一要用。）  
 副词从句修饰动词bring的目的。  
 
 ### 五、让步
