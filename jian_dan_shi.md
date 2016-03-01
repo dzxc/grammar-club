@@ -87,7 +87,7 @@ All mothers <em>love</em> their children.
 
 ----
 >  
-7-ELEVEN <em>is selling</em> big cokes at a discount this mouth.  
+7-ELEVEN <em>is selling</em> big cokes at a discount <em>this mouth</em>.  
 （统一超市这个月大杯可乐打折。）  
 ![简单式--现在时间](http://ww1.sinaimg.cn/large/92c4e634gw1f17ds2x1sgj209o047jra.jpg)   
 
