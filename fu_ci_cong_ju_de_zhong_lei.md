@@ -160,12 +160,12 @@ you won't miss them</u>.
 ### 七、方法，状态
 
 
-1.He played the piano as Horowitz would have.
-连接词 副词从句
-(他弹钢琴有如大师霍洛维兹。）
-副词从句修饰动词played——如何弹法。
-2.He writes as if he is left handed.(他写字像左撇子。)
-He writes as if he were left handed.
-He writes as if he was left handed.
-连接词 副词从句
-上面三句中，用is表示他应该真的是左撇子，用were表示他不是，只是冒充左撇子，用was则表示不一定——可能是，也可能不是。三句话都是用连接词as if引导后面的副词从句，修饰动词 writes——“如何写法”。
+1. He played the piano as Horowitz would have.  
+连接词 副词从句  
+(他弹钢琴有如大师霍洛维兹。）  
+副词从句修饰动词 played ——如何弹法。  
+2. He writes as if he is left handed.(他写字像左撇子。)  
+He writes as if he were left handed.  
+He writes as if he was left handed.  
+连接词 副词从句  
+上面三句中，用 is 表示他应该真的是左撇子，用 were 表示他不是，只是冒充左撇子，用 was 则表示不一定——可能是，也可能不是。三句话都是用连接词 as if 引导后面的副词从句，修饰动词 writes ——“如何写法”。
