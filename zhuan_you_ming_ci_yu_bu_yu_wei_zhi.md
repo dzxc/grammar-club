@@ -55,7 +55,7 @@ Mr. Elson is also <em>a member</em> of the Council of the city.
 
 **另外，当同位语是补语时，注意是否为专有名词**，例如：
 >  
-Mattin Wales, <em>Head of the football team</em>, at the time, wore a mustache.  
+Mattin Wales, <em>Head</em> of the football team, at the time, wore a mustache.  
 （马丁·韦尔斯，当时的足球队长，留有小胡子。）
 
 句中 Head of the football team 一般称为同位语[^2]，其实就是 who was Head of the football team at the time 这个形容词从句的省略。其中 who 代表马丁·韦尔斯，而 Head 则是主语补语，和马丁·韦尔斯是同等关系，所以仍然算是专有名词，不必用限定词。
