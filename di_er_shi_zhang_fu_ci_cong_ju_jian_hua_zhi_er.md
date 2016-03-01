@@ -121,33 +121,37 @@ I'll only be too glad to help.
 
 #### 一、介系词短语
 
-
+>  
 When you are under attack, you must take cover immediately.  
 副词从句  
 （受到攻击时，要立刻寻找掩护。）  
 
 这个副词从句的动词是 be 动词，补语是介系词短语 under attack 。简化后成为：  
-
+>  
 When under attack, you must take cover immediately.  
 简化副词从句  
 
 #### 二、形容词
 
 
-While it is small in size,the company is very competitive.
-副词从句
-(这家公司規模虽小，但很有竞争力。）
-副词从句中的补语是形容词small，简化方式相同：
-While small in size, the company is very competitive.
-简化副词从句
+While it is small in size,the company is very competitive.  
+副词从句  
+（这家公司規模虽小，但很有竞争力。）  
+副词从句中的补语是形容词small，简化方式相同：  
+
+While small in size, the company is very competitive.  
+简化副词从句  
 
 #### 三、名词
 
+>  
+Although he was a doctor by training，Asimov became a writer.  
+副词从句  
+（虽然接受的是做医生的训练，但阿西莫夫后来成了作家。）  
 
-Although he was a doctor by training，Asimov became a writer.
-副词从句
-(虽然接受的是做医生的训练，但阿西莫夫后来成了作家。）
-副词从句中的补语是名词a doctor，简化后成为：
-Although a doctor by training, Asimov became a writer.
-简化副词从句
+副词从句中的补语是名词 a doctor ，简化后成为：  
+>  
+Although a doctor by training, Asimov became a writer.  
+简化副词从句  
+
 观察以上三种情形，可以作一归纳：副词从句的连接词不同于名词从句或形容词从句，是有意义的连接词，简化时常要留下来。一旦留下连接词，那么它是由副词从句简化而成这一点就十分明显。所以，拿掉主语与be动词后，不论什么词类的补语—名词、 形容词、介系词短语—都可以留下来。不过有两点需要注意： 如果连接词是before与after之类，简化后成为介系词，后面只能接名词类。另外，表示原因的连接词because与sine，简化后通常不能原样留下来，要改成because of, as a result of 之类的介系词。做法请看下面说明。
