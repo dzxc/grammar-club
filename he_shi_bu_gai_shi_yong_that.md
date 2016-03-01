@@ -3,7 +3,7 @@
 同样的道理，<b>如果关系从句缺乏指示的功能，就不该借用指示代名词 that 当关系词。</b><u>
 如果关系从句没有指示的作用，只是**补充说明**的性质，应该用**逗点**和**先行词**隔开。这时逗点的功能和括弧类似。</u>例如：  
 >  
-For boyfriend,<u>I'<u>m considering</u> [your brother John],<u>who <u>is tall,    
+For boyfriend,<u>I</u>'<u>m considering</u> [your brother John],<u>who</u> <u>is tall</u>,    
 S1 V1 先行词 S2 V2    
 rich,etc.    
 （找男朋友，我在考虑你哥哥约翰，他个子高、收入高等等。）  
