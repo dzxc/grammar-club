@@ -133,12 +133,13 @@ When under attack, you must take cover immediately.
 
 #### 二、形容词
 
-
+>  
 While it is small in size,the company is very competitive.  
 副词从句  
 （这家公司規模虽小，但很有竞争力。）  
-副词从句中的补语是形容词small，简化方式相同：  
 
+副词从句中的补语是形容词small，简化方式相同：  
+>  
 While small in size, the company is very competitive.  
 简化副词从句  
 
