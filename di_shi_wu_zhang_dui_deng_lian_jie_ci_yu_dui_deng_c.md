@@ -15,10 +15,10 @@ The Yangtze River has nurtured the Chinese civilization.
 S V O  
 
 主语与动词中间的两个逗号当一对括弧来看，括弧中放的是主语 The Yangtze River 的同位语（就是形容词从句简化，省略 which is 的结果。详情将于“简化从句”单元中介绍)。这个句子就错在对等连接词 and 连接的两个部分在结构上并不对称：左边的 the most vital source 是名词短语，右边的 important 却是形容词，词类不同，不适合以对等连接词 and 连接。底线部分的改法不只一种，但是最简单的改法就是把右边的词类改为名词类以符合对称的要求，故应修正为：  
-
+>  
 The Yangtze River,the most vital source of irrigation water across the width of China and an important transportation conduit,has nurtured the Chinese civilization for millennia.(正）  
 
- 2. Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)
+2. Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)
 (科学家认为引发冬眠的因素包括环境的气温下降、食物短缺、白昼缩短以及荷尔蒙作用。）
 句中画底线的部分是以by A、B、C and by D的结构来修饰宾语从句中的动词is triggered。由内容来看A、B、C、D是平行的(都是引发冬眠的因素)，应该以对等的方式来处理。可是原句的处理方式中，by A、B、C之间缺乏连接词，而and只能连接两个by引导的介系词短语(by this and by that),因此原句的结构有语法上的问题。  
 最佳的修改方式是把A、B、C、D四项平行的因素并列，以连接词and串连，共同置于单一的介系词之后成为byA、B、C and D的结构，故应修正为：
