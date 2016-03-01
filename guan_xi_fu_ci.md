@@ -4,21 +4,22 @@
 一、when
 关系副词when就是时间副词then的改写，有连接词的功能。  
 请看下例：  
+>  
+例1. The rain came at a time.  
+例2. The farmers needed it most then.  
 
-1.The rain came at a time.  
-2.The farmers needed it most then.  
-
-这两个句子以a time和then的重复建立关系（then就是at that time)。把时间副词then改写为关系副词when，借以连接两句，即成为：  
-3.The rain came (at a time)(when)the farmers needed it most.  
+这两个句子以 a time 和 then 的重复建立关系( then 就是 at that time )。把时间副词 then 改写为关系副词 when ，借以连接两句，即成为：  
+>  
+例3. The rain came (at a time)(when)the farmers needed it most.  
 先行词 关系从句  
 
-如果认定 when 的先行词是 a time (名词)，那么关系从句形容这个名词，依旧是形容词类。这样的诠释比较统一，也比较单纯。也就是：在省略之前，关系从句全部都是形容词从句，所有的形容词从句也都是关系从句，两者间可划等号。
+如果认定 when 的先行词是 a time (名词)，那么关系从句形容这个名词，依旧是形容词类。这样的诠释比较统一，也比较单纯。也就是：<b>在省略之前，关系从句全部都是形容词从句，所有的形容词从句也都是关系从句，两者间可划等号。</b>  
 谈到省略，观察例3当可发现：  
 
-一、at a time 和 when 都是空洞、无内容的字眼（不像 in 1964, last January
+一、<em>at a time 和 <em>when</em> 都是**空洞、无内容**的字眼（不像 in 1964, last January
 之类有明确内容的时间)；  
-二、at a time 和 when 重复；  
-三、at a time 和 when 都是可有可无的副词类。  
+二、<em>at a time</em> 和 <em>when</em> **重复**；  
+三、<em>at a time</em> 和 <em>when</em> 都是**可有可无的**副词类。  
 
 基于这三点观察，at a time 和 when 应该择一省略来避免重复，让句子紧凑些。也就是例3可以省略而变成以下两种状况：  
 
