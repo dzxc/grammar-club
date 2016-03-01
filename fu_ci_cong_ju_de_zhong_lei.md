@@ -146,7 +146,7 @@ you won't miss them</u>.
 ### 六、限制
 
 
-1. As far as money is concerned,you needn't worry.  
+1. <u>As far as</u> <u>money is concerned</u>,you needn't worry.  
 连接词 副词从句  
 （钱的方面你不必担心。）  
 副词从句修饰动词 needn't   worry，表示不必担心的事情是在某一方面，暗示也许是别的方面才要担心。  
