@@ -16,7 +16,7 @@ The U.S. <em>established</em> diplomatic relations with the P.R.C.<em>in 1979</e
 
 ----
 >  
-The movable print <em>was introduced</em> to England in 1485.  
+The movable print <em>was introduced</em> to England <em>in 1485</em>.  
 （活版印刷于1485年被引进英国。）  
 ![过去时间](http://ww4.sinaimg.cn/large/92c4e634gw1f17cft9lrdj20am054dfq.jpg)
 
