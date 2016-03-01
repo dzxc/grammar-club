@@ -9,7 +9,7 @@
 
 
 >  
-The U.S. <em>established</em> diplomatic relations with the P.R.C.in 1979.  （美国与中华人民共和国于1979 年建交。）  
+The U.S. <em>established</em> diplomatic relations with the P.R.C.<em>in 1979</em>.  （美国与中华人民共和国于1979 年建交。）  
 ![过去时间](http://ww2.sinaimg.cn/large/92c4e634gw1f17c6yz04kj209z04ha9z.jpg)
 
 此句中，以in 1979来修饰动词establish (建立）的时间，表示美国与中华人民共和国建交发生在这段时间内，所以我们可以用括弧将in 1979括起来。而这个括弧在now的左边，属于过去时间，所以动词用established，是过去时间的简单式。
