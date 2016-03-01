@@ -174,10 +174,13 @@ New radio stations either take an overly partisan stance,resulting in lopsided p
 
 
 **例十二**  
-Many modern-day scientists are not atheists, to whom there is no such thing as God; rather agnostics, who refrain from conjecturing about the existence of God, much less His properties.(误)
-(许多当代科学家并非无神论者，即不相信有神存在，而是不可知论者，即不愿妄加臆测神的存在与否，更不愿推断神的属性。）
-这一句应该是以not A but B的相关词组来连接两个名词 atheists 和 agnostics，后面分别附上一个形容词从句。但是原句中却选择用分号（；）和副词rather来连接。分号可以取代连接词来连接两个从句，例如：
-He's not an atheist; rather, he believes in agnosticism.
-(他不是无神论者，而是信奉不可知论。）
-可是分号不能取代对等连接词来连接名词短语，更不能取代 not... but的相关词组，所以将相关词组还原成为：
+Many modern-day scientists are not atheists, to whom there is no such thing as God; <u>rather</u> agnostics, who refrain from conjecturing about the existence of God, much less His properties.(误)  
+（许多当代科学家并非无神论者，即不相信有神存在，而是不可知论者，即不愿妄加臆测神的存在与否，更不愿推断神的属性。）  
+
+这一句应该是以 not A but B 的相关词组来连接两个名词 atheists 和 agnostics ，后面分别附上一个形容词从句。但是原句中却选择用分号（；）和副词 rather 来连接。分号可以取代连接词来连接两个从句，例如：  
+>  
+He's not an atheist; rather, he believes in agnosticism.  
+（他不是无神论者，而是信奉不可知论。）  
+
+可是分号不能取代对等连接词来连接名词短语，更不能取代 not... but 的相关词组，所以将相关词组还原成为：  >  
 Many modern-day scientists are not atheists, to whom there no such thing as God, but agnostics, who refrain from conjecturing about the existence of God, much less His properties.(正)
