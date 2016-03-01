@@ -1,6 +1,7 @@
 # Test 2
 
-请选出最适当的答案填入空格内，以使句子完整。
+<b>请选出最适当的答案填入空格内，以使句子完整。</b>  
+
 >  
 1. The carpenter repaired ____ .  
 (A) the table's legs  
