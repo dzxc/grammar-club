@@ -50,8 +50,8 @@ penicilin.
 
 ----
 >  
-I <em>had been smoking</em> three packs of cigarettes a day before I decided
-to quit.  
+I <em>had been smoking</em> three packs of cigarettes a day <em>before I decided
+to quit</em>.  
 （我决定戒烟之前，每天要抽三包烟。）  
 ![完成式--过去时间](http://ww4.sinaimg.cn/large/92c4e634gw1f17fslfr4uj20c205m749.jpg)   
 
