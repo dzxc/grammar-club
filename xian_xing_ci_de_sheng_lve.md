@@ -69,14 +69,20 @@ You can take any car that you like.
 S1 V1 O1 O2（关系词） S2 V2  
 
 因为关系词 that 在关系从句(that you like)中是宾语，可以选择省略掉，成为：  
-4.You can take any car you like.
-S1 V1 O（先行词） S2 V2
-但是也可以选择省略先行词any car。这时关系词that要改成whichever来表示“不论哪一个”：
-5.You can take whichever you like.
-S1 V1 O S2 V2
-(你爱哪个就拿哪个。)
-或者也可以说：
-6.You can take whichever car you like.
-S1 V1 O S2 V2
-(你爱哪辆车就拿哪辆车。）
-whichever表示省略掉先行词。分析句型的时候也可以把whichever (car) you like直接视为名词从句，作为take的宾语。
+>  
+You can take any car you like.  
+S1 V1 O（先行词） S2 V2  
+
+但是也可以选择省略先行词 any car 。这时关系词 that 要改成 whichever 来表示“不论哪一个”：  
+>  
+You can take whichever you like.  
+S1 V1 O S2 V2  
+(你爱哪个就拿哪个。)  
+
+或者也可以说：  
+>  
+You can take whichever car you like.  
+S1 V1 O S2 V2  
+（你爱哪辆车就拿哪辆车。）  
+
+whichever 表示省略掉先行词。分析句型的时候也可以把 whichever (car) you like 直接视为名词从句，作为 take 的宾语。
