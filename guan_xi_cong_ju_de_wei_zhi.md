@@ -22,17 +22,22 @@ You can find two apples in the basket which I bought.(误)
 3.In the basket you can find two apples which I bought.
 先行词 关系从句
 (你会在篮子里找到我买的两个苹果。）
-这时候in the basket只能修饰can find,而关系从句也只有单一的先行词，意思才清楚。再看下面的例子：
-1. A plague broke out.
-(一场瘟疫爆发。）
-2. It lasted 20 years.
-(它延续了20年。）
-如果照规则处理，把例2改成关系从句，置于例1的先行词之后，就成为：
-A plague which lasted 20 years broke out.(误)
-先行词 关系从句
-这个句子虽不能说错，可是颠三倒四，不合逻辑。“一场延续了20年的瘟疫爆发了”。这就是套用语法规则而不知思考的结果。合理的说法是先说爆发，然后再说延续多久，也就是：
-3. A plague broke out which lasted 20 years.
-先行词 关系从句
-(一场瘟疫爆发，延续了20年。）
+这时候in the basket只能修饰can find,而关系从句也只有单一的先行词，意思才清楚。再看下面的例子：  
+>   
+1. A plague broke out.  
+（一场瘟疫爆发。）  
+2. It lasted 20 years.  
+（它延续了20年。）  
+
+如果照规则处理，把例2改成关系从句，置于例1的先行词之后，就成为：  
+>  
+A plague which lasted 20 years broke out.(误)  
+先行词 关系从句  
+
+这个句子虽不能说错，可是颠三倒四，不合逻辑。“一场延续了20年的瘟疫爆发了”。这就是套用语法规则而不知思考的结果。合理的说法是先说爆发，然后再说延续多久，也就是：  
+>  
+3. A plague broke out which lasted 20 years.  
+先行词 关系从句  
+（一场瘟疫爆发，延续了20年。）  
 这个关系从句与先行词虽然有距离，然而距离不远，而且中间只有动词相隔，没有别的名词来妨碍判断先行词的问题，所以应让它有距离，以换取表达顺序的合理性。
 总之，关系从句与其他的修饰语相同，应该尽量靠近修饰的对象，这是为了表达清楚起见。假如关系从句直接放在先行词后面会引起误解，就要把它移开或者进一步更动句型，不能一味硬套规则。
