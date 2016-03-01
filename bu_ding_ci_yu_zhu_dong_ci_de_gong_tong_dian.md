@@ -65,7 +65,7 @@ It <em>might even snow</em>.（说不定还会下雪。）
 It <em>must have rained</em> last night.（昨晚一定下过雨。）  
 ![](http://ww3.sinaimg.cn/large/92c4e634gw1f184ug9pbdj20ax05hglk.jpg)  
 
-<b>在**猜测过去**的事情时,助动词**不论是must、may还是might**，都**只能表示语气强弱**的差别**，无法表达过去**。助动词后面要接原形动词，也不能用过去式，所以别无选择，**只好用完成式来表示过去**，也就是must have rained 这种形态。</b>就这点来看，不定词仍然与助动词相同。
+<b>在**猜测过去**的事情时,助动词**不论是 must、may 还是 might **，都**只能表示语气强弱**的差别**，无法表达过去**。助动词后面要接原形动词，也不能用过去式，所以别无选择，**只好用完成式来表示过去**，也就是 must have rained  这种形态。</b>就这点来看，不定词仍然与助动词相同。
 
 >  
 It seems <em>to have rained</em> last night.（昨晚好像下过雨。）  
