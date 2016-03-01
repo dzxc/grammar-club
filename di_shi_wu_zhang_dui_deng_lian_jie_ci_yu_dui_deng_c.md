@@ -63,10 +63,12 @@ Smoking by pregnant women may slow the growth of and generally harm the fetus.(�
 >  
 Rapid advances in computer technology have enhanced the speed of calculation,the quality of graphics and the fun with computer games while lowering prices.(正）    
 
-5. Population density is very low in Canada, the largest country in the Western Hemisphere and it is the second largest in the whole world.(误）
-(加拿大人口密度很低，它是西半球最大的国家，也是世界第二大国。）
-这个句子中，the largest country in the Western Hemisphere 是形容词从句省略掉Which is之后留下的名词补语，也就是所谓的同位语（作为Canada的同位语)，置于对等连接词and的左边。但是连接词右边的 it is the second largest in the whole world 在涵意上虽然和左边对称，可是却是主要从句的结构，所以结构上并不对称。对等连接词的要求就是在涵意上、结构上都要尽量对称，所以可将 it is the second largest in the whole world 也改为名词短语以求结构对称工整，成为：
-Population density is very low in Canada,the largest country in the Western Hemisphere and the second largest in the whole world.(正）  
+例五、Population density is very low in Canada, the largest country in the Western Hemisphere and it is the second largest in the whole world.(误）  
+（加拿大人口密度很低，它是西半球最大的国家，也是世界第二大国。）  
+
+这个句子中，the largest country in the Western Hemisphere 是形容词从句省略掉 Which is 之后留下的名词补语，也就是所谓的同位语（作为 Canada 的同位语)，置于对等连接词and的左边。但是连接词右边的 it is the second largest in the whole world 在涵意上虽然和左边对称，可是却是主要从句的结构，所以结构上并不对称。对等连接词的要求就是在涵意上、结构上都要尽量对称，所以可将 it is the second largest in the whole world 也改为名词短语以求结构对称工整，成为：  
+>  
+Population density is very low in Canada,the largest country in the Western Hemisphere and the second largest in the whole world.(正）    
 
 6. Once the safety concerns over the new production procedure were removed and with its superiority to the old one being proved, there was nothing to stop the factory from switching over.(误)
 (新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）
