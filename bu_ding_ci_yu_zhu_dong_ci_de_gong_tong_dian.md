@@ -30,8 +30,8 @@ I am glad <em>to know you</em>.
 
 一、**后面都要接原形动词**
 >  
-例：I will <em>go</em>.（我要走了。）  
-I want to <em>go</em>. （我想去。）  
+例：I <em>will go</em>.（我要走了。）  
+I want <em>to go</em>. （我想去。）  
 
 二、**都有「不确定」的语气**
 >  
