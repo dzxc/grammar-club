@@ -102,26 +102,29 @@ Once the safety concerns over the new production procedure were removed and its 
 例七、Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, serving as sentinel and to sound a warning at the slightest threat,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)  
 （蜂窝中的工蜂担负各种任务，包括守卫入口、站哨并在威胁来临时发出警报，以及到巢外寻找富有花朵及花蜜的地区。）  
 
-句子中在such as之后列举工蜂担负的任务，基本上是A、B and C的结构，其中B (画底线部分）又可以分成B1与B2—一站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel与to sound a warning在结构上一是动名词，一是不定词，并不对称。再看看 A(guarding the entrance)与 C(exploring outside the nest),都是动名词，所以B1与B2也应使用动名词才能对称，于是改为：
-Worker bees in a honeybee hive assume various tasks, such as guarding the entrance,serving as sentinel and sounding a warning at the slightest threat，and exploring outside the nest for areas rich in flowers and,consequently,nectar.(正）
+句子中在 such as 之后列举工蜂担负的任务，基本上是 A、B and C 的结构，其中 B (画底线部分）又可以分成 B1 与 B2 --站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel与to sound a warning在结构上一是动名词，一是不定词，并不对称。再看看  A(guarding the entrance)与 C(exploring outside the nest) ,都是动名词，所以 B1 与 B2 也应使用动名词才能对称，于是改为：  
+>  
+Worker bees in a honeybee hive assume various tasks, such as guarding the entrance,serving as sentinel and sounding a warning at the slightest threat，and exploring outside the nest for areas rich in flowers and,consequently,nectar.(正）  
+
+
+---
+
+例八、Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400km to the Yellow Sea in the east and ranging from 4 to 12 m in width.(误）   
+（秦始皇在公元前第三世紀修筑了长城，这是巨大的建筑，从西端的甘肃蜿蜒
+2,400公里到东端的黄海，宽度由4米至12米不等。）  
+
+句中的 a gigantic construction 是 the Great Wall 的同位语，后面用 that meanders... 的形容词从句来修饰。对等连接词 and 的右边(底线部分）是 ranging ,可是左边却找不到 Ving 的结构可以与它对称。从意思上来看，右边是讲厚度，左边讲长度的部分只有形容词从句的动词 meanders 可能与 ranging 对称,所以把 ranging 改成动词 ranges 以求对称，成为：  
+>  
+Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400 km to the Yellow Sea in the east and ranges from 4 to 12 m in width.(正)  
 
 
 ---
 
 
-8. Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400km to the Yellow Sea in the east and ranging from 4 to 12 m in width.(误）
-(秦始皇在公元前第三世紀修筑了长城，这是巨大的建筑，从西端的甘肃蜿蜒
-2,400公里到东端的黄海，宽度由4米至12米不等。）
-句中的 a gigantic construction 是 the Great Wall 的同位语，后面用that meanders...的形容词从句来修饰。对等连接词and的右边(底线部分）是ranging,可是左边却找不到Ving的结构可以与它对称。从意思上来看，右边是讲厚度，左边讲长度的部分只有形容词从句的动词meanders可能与ranging对称,所以把ranging改成动词ranges 以求对称，成为：
-Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400 km to the Yellow Sea in the east and ranges from 4 to 12 m in width.(正)
+例九、The large number of sizable orders suggests that factory operations are thriving, but that the low-tech nature of the processing indicates that profit margins will not be as high as might be expected.(误)  
+（从许多巨额订单来看，工厂的营运畅旺，可是加工程序属于低科技，显示利润幅度可能不像预期那么高。）  
 
-
----
-
-
-9. The large number of sizable orders suggests that factory operations are thriving, but that the low-tech nature of the processing indicates that profit margins will not be as high as might be expected.(误)
-(从许多巨额订单来看，工厂的营运畅旺，可是加工程序属于低科技，显示利润幅度可能不像预期那么高。）
-对等连接词but右边是that引导的名词从句，只能与左边的that factory operations are thriving对称。但是如此解释出来的句意不通。仔细对比but的左右边，发现意思上是另一种形式的对称：
+对等连接词 but 右边是 that 引导的名词从句，只能与左边的 that factory operations are thriving对称。但是如此解释出来的句意不通。仔细对比but的左右边，发现意思上是另一种形式的对称：
 A.The large number of sizable orders suggests something good.
 S V O
 B.The low-tech nature of the processing indicates something bag.
