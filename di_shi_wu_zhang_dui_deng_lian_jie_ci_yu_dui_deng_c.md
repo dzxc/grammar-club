@@ -118,11 +118,14 @@ Worker bees in a honeybee hive assume various tasks, such as guarding the entran
 
 
 **例八**  
-- Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400km to the Yellow Sea in the east and <u>ranging</u> from 4 to 12 m in width.(误）
-(秦始皇在公元前第三世紀修筑了长城，这是巨大的建筑，从西端的甘肃蜿蜒
-2,400公里到东端的黄海，宽度由4米至12米不等。）
-句中的 a gigantic construction 是 the Great Wall 的同位语，后面用that meanders...的形容词从句来修饰。对等连接词and的右边(底线部分）是ranging,可是左边却找不到Ving的结构可以与它对称。从意思上来看，右边是讲厚度，左边讲长度的部分只有形容词从句的动词meanders可能与ranging对称,所以把ranging改成动词ranges 以求对称，成为：
-Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400 km to the Yellow Sea in the east and <u>ranges</u> from 4 to 12 m in width.(正)
+- Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400km to the Yellow Sea in the east and <u>ranging</u> from 4 to 12 m in width.（误）  
+- 
+（秦始皇在公元前第三世紀修筑了长城，这是巨大的建筑，从西端的甘肃蜿蜒
+2,400公里到东端的黄海，宽度由4米至12米不等。）  
+
+句中的 a gigantic construction 是 the Great Wall 的同位语，后面用 that meanders... 的形容词从句来修饰。对等连接词 and 的右边(底线部分）是 ranging ,可是左边却找不到 Ving 的结构可以与它对称。从意思上来看，右边是讲厚度，左边讲长度的部分只有形容词从句的动词 meanders 可能与 ranging 对称,所以把 ranging 改成动词 ranges 以求对称，成为：  
+>  
+Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400 km to the Yellow Sea in the east and <u>ranges</u> from 4 to 12 m in width.(正)  
 
 
 ---
