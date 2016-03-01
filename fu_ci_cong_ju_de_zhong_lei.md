@@ -5,14 +5,15 @@
 ### 一、时间、地方
 
 
-1.He became more frugal after he got married.
-连接词 副词从句
-(他结婚以后变得比较节俭。）
-副词从句修饰动词became的时间。
-2.I'll be waiting for you until you're married.
-连接词 副词从句
-(我会等你，直到你结婚为止。）
-副词从句修饰动词Will be waiting的时间。
+1. He became more frugal after he got married.  
+连接词 副词从句  
+（他结婚以后变得比较节俭。）  
+副词从句修饰动词 became 的时间。  
+2. I'll be waiting for you until you're married.  
+连接词 副词从句  
+（我会等你，直到你结婚为止。）  
+副词从句修饰动词 Will be waiting 的时间。  
+
 附带说明一下：未来时间的副词从句,虽然还没有到发生的时间，可是语气上必须当作“到了那个时候”来说，所以时态要用现在式来表示（如例2中的are married)。这是属于语气的问题，在从前介绍语气的单元中曾说明过。
 3.It was all over when I got there.
 连接词 副词从句
