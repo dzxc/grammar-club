@@ -75,7 +75,7 @@ Rapid advances in computer technology have enhanced <u>the speed of</u> <u>calcu
 - Population density is very low in Canada, <u>the largest country in the Western Hemisphere and it is the second largest in the whole world</u>.(误）  
 （加拿大人口密度很低，它是西半球最大的国家，也是世界第二大国。）  
 
-这个句子中，the largest country in the Western Hemisphere 是形容词从句省略掉 Which is 之后留下的名词补语，也就是所谓的同位语（作为 Canada 的同位语)，置于对等连接词and的左边。但是连接词右边的 it is the second largest in the whole world 在涵意上虽然和左边对称，可是却是主要从句的结构，所以结构上并不对称。对等连接词的要求就是在涵意上、结构上都要尽量对称，所以可将 it is the second largest in the whole world 也改为名词短语以求结构对称工整，成为：  
+这个句子中，the largest country in the Western Hemisphere 是形容词从句省略掉 Which is 之后留下的名词补语，也就是所谓的同位语（作为 Canada 的同位语)，置于对等连接词 and 的左边。但是连接词右边的 it is the second largest in the whole world 在涵意上虽然和左边对称，可是却是主要从句的结构，所以结构上并不对称。对等连接词的要求就是在涵意上、结构上都要尽量对称，所以可将 it is the second largest in the whole world 也改为名词短语以求结构对称工整，成为：  
 >  
 Population density is very low in Canada,the largest country in the Western Hemisphere and the second largest in the whole world.(正）    
 
@@ -87,14 +87,14 @@ Population density is very low in Canada,the largest country in the Western Hemi
 - Once the safety concerns over the new production procedure were removed and with its superiority to the old one being proved, there was nothing to stop the factory from switching over.(误)   
 （新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）   
 
-对等连接词and出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为对等从句，成为：  
+对等连接词 and 出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为对等从句，成为：  
 >  
 <u>The safety concerns</u> over the new production procedure  
 S1  
 <u>were removed</u> and <u>its superiority to the old one <u>was proved</u>.  
 V1 S2 V2  
 
-这两个对等从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有be动词是重复的元素，所以只能省略一个be 动词，成为:  
+这两个对等从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有 be 动词是重复的元素，所以只能省略一个 be 动词，成为:  
 >  
 The safety concerns over the new production procedure were removed and its superiority to the old one proved.  
 
@@ -110,7 +110,7 @@ Once the safety concerns over the new production procedure were removed and <u>i
 - Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, <u>serving as sentinel and to sound a warning at the slightest threat</u>,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)  
 （蜂窝中的工蜂担负各种任务，包括守卫入口、站哨并在威胁来临时发出警报，以及到巢外寻找富有花朵及花蜜的地区。）  
 
-句子中在such as之后列举工蜂担负的任务，基本上是A、B and C的结构，其中B (画底线部分）又可以分成B1与B2—一站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel与to sound a warning在结构上一是动名词，一是不定词，并不对称。再看看 A(guarding the entrance)与 C(exploring outside the nest),都是动名词，所以B1与B2也应使用动名词才能对称，于是改为： 
+句子中在 such as 之后列举工蜂担负的任务，基本上是A、B and C的结构，其中B (画底线部分）又可以分成B1与B2—一站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel与to sound a warning在结构上一是动名词，一是不定词，并不对称。再看看 A(guarding the entrance)与 C(exploring outside the nest),都是动名词，所以B1与B2也应使用动名词才能对称，于是改为： 
 >  
 Worker bees in a honeybee hive assume various tasks, such as guarding the entrance,<u>serving as sentinel and sounding a warning at the slightest threat</u>，and exploring outside the nest for areas rich in flowers and,consequently,nectar.(正）
 
