@@ -91,8 +91,8 @@ Come back at 5:00.Your car will <em>have been fixed</em> by then.
 
 ----
 >  
-<em>In two more minutes</em>,she will <em>have been talking</em> on the phone for
-three hours!  
+<em>In two more minutes</em>,she will <em>have been talking</em> on the phone <em>for
+three hours</em>!  
 （再过两分钟，她就一直打了足足三小时的电话了！）  
 
 这位小姐也真能讲话。动词是be动词，连接主语she和补语talking，“她一直讲”，-ing的字尾表示持续性，当形容词看。“再过两分钟”是未来的一个截止点，算到那时候就有三小时了(for three hours)，所以是完成式的箭头型时间，要用未来完成式的动词will have been，“会已经”（有三小时)。再和主语“她”与补语“一直打”连在一起，意思就清楚了。
