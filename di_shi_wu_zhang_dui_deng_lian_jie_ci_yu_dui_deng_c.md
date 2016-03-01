@@ -56,7 +56,7 @@ Smoking by pregnant women may slow the growth of and generally harm the fetus.(�
 ---
 
 
-例四、Rapid advances in computer technology have enhanced the speed of calculation, the quality of graphics, the fun with computer games, and have lowered prices.(误）  
+**例四、**Rapid advances in computer technology have enhanced the speed of calculation, the quality of graphics, the fun with computer games, and have lowered prices.(误）  
 （电脑技术的快速进展提高了计算的速度、图形的品质、电脑游戏的乐趣，也降低了价格。）  
 
 这个句子以 speed、quality 和 fun 三者为动词 have enhanced 的宾语，三者在内容与结构上都是对等的，可是却没有对等连接词来连接，反而在后面加上 and 和 have lowered prices 连在一起，成为 A、B、C and D 的结构，其中 A、B、C 都是名词短语，D 却是动词短语，这就犯了结构上不对称的毛病。内容上来说，A、B、C 是所增加的三样东西，D则是降低的东西，所以四者的内容也不对称，不适合并列。修改方法可以把前面三个名词短语用 A、Band C 的方式连接，第四项“降低价格”这项不对称的元素则不必对等, 而以从属从句简化（详见以后章节）的方式来处理，成为：  
@@ -67,7 +67,7 @@ Rapid advances in computer technology have enhanced the speed of calculation,the
 ---
 
 
-例五、Population density is very low in Canada, the largest country in the Western Hemisphere and it is the second largest in the whole world.(误）  
+**例五、**Population density is very low in Canada, the largest country in the Western Hemisphere and it is the second largest in the whole world.(误）  
 （加拿大人口密度很低，它是西半球最大的国家，也是世界第二大国。）  
 
 这个句子中，the largest country in the Western Hemisphere 是形容词从句省略掉 Which is 之后留下的名词补语，也就是所谓的同位语（作为 Canada 的同位语)，置于对等连接词and的左边。但是连接词右边的 it is the second largest in the whole world 在涵意上虽然和左边对称，可是却是主要从句的结构，所以结构上并不对称。对等连接词的要求就是在涵意上、结构上都要尽量对称，所以可将 it is the second largest in the whole world 也改为名词短语以求结构对称工整，成为：  
@@ -78,13 +78,15 @@ Population density is very low in Canada,the largest country in the Western Hemi
 ---
 
 
-6. Once the safety concerns over the new production procedure were removed and with its superiority to the old one being proved, there was nothing to stop the factory from switching over.(误)
-(新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）
-对等连接词and出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为对等从句，成为：
-The safety concerns over the new production procedure
-S1
-were removed and its superiority to the old one was proved.
-V1 S2 V2
+例六、Once the safety concerns over the new production procedure were removed and with its superiority to the old one being proved, there was nothing to stop the factory from switching over.(误)   
+（新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）  
+对等连接词and出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为对等从句，成为：  
+>  
+The safety concerns over the new production procedure  
+S1  
+were removed and its superiority to the old one was proved.  
+V1 S2 V2  
+
 这两个对等从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有be动词是重复的元素，所以只能省略一个be 动词，成为:
 The safety concerns over the new production procedure were removed and its superiority to the old one proved.
 这个省略后的对等从句前面加上once (一旦）就成为表示条件的副词从句，若再附于主要从句之上，就成为符合对称要求的从句：
