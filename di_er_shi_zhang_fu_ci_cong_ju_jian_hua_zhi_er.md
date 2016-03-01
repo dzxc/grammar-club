@@ -86,17 +86,22 @@ Before redecoration, the house was in bad shape.
 #### 四、主语不同时
 
 
-副词从句简化为Ven，如果主语和主要从句的主语不同，就得把主语留下来，不得省略。例如：
-When the coffin had been interred,the minister said
-副词从句
-a few comforting words.
-(棺材入土后，牧师说了几句安慰的话。）
-副词从句的主语是棺材，和主要从句的主语牧师不同，不能省略，不然会出现下面的结果：
-(Having been) interred, the minister said a few comforting words. (误）
-这个意思是“入土之后，牧师说了几句安慰的话。”也就是牧师入土了，在地下说话！正确的做法是：主语不同时要把主语留下，动词加以简化，并省去连接词，成为：
-The coffin (having been) interred,the minister said
-简化副词从句
-a few comforting words.
+副词从句简化为 Ven ，如果主语和主要从句的主语不同，就得把主语留下来，不得省略。例如：  
+>  
+When the coffin had been interred,the minister said  
+副词从句  
+a few comforting words.  
+（棺材入土后，牧师说了几句安慰的话。）  
+
+副词从句的主语是棺材，和主要从句的主语牧师不同，不能省略，不然会出现下面的结果：  
+
+(Having been) interred, the minister said a few comforting words. (误）  
+
+这个意思是“入土之后，牧师说了几句安慰的话。”也就是牧师入土了，在地下说话！正确的做法是：主语不同时要把主语留下，动词加以简化，并省去连接词，成为：  
+>  
+The coffin (having been) interred,the minister said  
+简化副词从句  
+a few comforting words.  
 
 #### 五、简化为 to V
 
