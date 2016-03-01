@@ -19,13 +19,17 @@ Shot in the knee,he couldn't fight.
 
 上例中连接词 after 可以不留，因为 shot 是过去分词，本身就表示“已经中枪”、“中枪之后”，已有完成式的暗示，因而不再需要 after 一词。但下面的例子则不同：  
 
-Although he was shot in the knee, he killed three more enemy soldiers.
-副词从句
-(虽然膝盖中枪，他仍多杀了三名故军。）
-句中连接词although带有“相反”的暗示，省去后意思会有出入，应该予以保留：
-Although shot in the knee, he killed three more enemy soldiers.
-简化副词从句
-或者，如果省略although的话，也必须用其他方式来表示句中的“相反”暗示，例如：
+Although he was shot in the knee, he killed three more enemy soldiers.  
+副词从句  
+（虽然膝盖中枪，他仍多杀了三名故军。）  
+
+句中连接词 although 带有“相反”的暗示，省去后意思会有出入，应该予以保留：  
+
+Although shot in the knee, he killed three more enemy soldiers.  
+简化副词从句  
+
+或者，如果省略 although 的话，也必须用其他方式来表示句中的“相反”暗示，例如：  
+
 Shot in the knee, he still killed three more enemy soldiers.
 
 #### 二、三个特殊的连接词
