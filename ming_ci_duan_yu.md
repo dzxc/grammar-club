@@ -10,7 +10,7 @@
 |<em>the</em> best answer   |最好的答案   |
 |<em>those</em> sweet roses   |那些芳香的玫瑰花   |
 
-这几个名词短语都是由三个部分所构成。<b>第一个部分（a、many、his等）就是限定词，这个限定词决定第三个部分（book、students、wife等)，亦即名词部分的范围。中间的部分(new、good、beautiful等）则是形容词，为依附在名词上的修饰语，是可有可无的元素</b>。[^1]
+这几个名词短语都是由三个部分所构成。<b>第一个部分（a、many、his等）就是限定词，这个限定词决定第三个部分(book、students、wife等)，亦即名词部分的范围。中间的部分(new、good、beautiful等）则是形容词，为依附在名词上的修饰语，是可有可无的元素</b>。[^1]
 
 
 
