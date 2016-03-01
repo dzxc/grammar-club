@@ -1,7 +1,10 @@
 # 副词从句的种类
 
 副词从句因为结构十分单纯，所以学习副词从句的重点只是在认识各种连接词，以便写作时可以选择贴切的连接词来表达各种逻辑关系。以下按照各种逻辑关系把副词从句的连接词大略分类。
-一、时间、地方
+
+### 一、时间、地方
+
+
 1.He became more frugal after he got married.
 连接词 副词从句
 (他结婚以后变得比较节俭。）
@@ -21,7 +24,10 @@ when这个连接词，也可以当做关系词来使用，这点留待下一章�
 (一个小镇在三条路交会处发展起来。）
 副词从句修饰动词grew的地方。
 同样的，where这个连接词也可以当作关系词来解释。
-二、条件
+
+### 二、条件
+
+
 1. If he calls,I'll say you're sleeping.
 连接词 副词从句
 (如果他打电话来，我就说你在睡觉。）
@@ -37,7 +43,10 @@ as long as也可以用比较级来诠释。
 (假定你生病了，你会到哪里去？）
 副词从句修饰动词would go的条件。
 suppose本来是动词，这个副词从句原来是supposing that you were ill 的句型，经过省略后才成为只剩suppose—字当连接词用。同时请注意例3中两个动词都是非事实的假设语气。
-三、原因，结果
+
+### 三、原因，结果
+
+
 1. As there isn't much time left,we might as well call it a day.
 连接词 副词从句
 (既然时间所剩无几，我们不妨就此结束好了。）
@@ -59,7 +68,10 @@ the kids couldn't get out when they saw fire.
 (这位妈妈把门反锁，所以小孩看到火起时也跑不出去。）
 副词从句修饰动词locked造成什么结果。
 连接词so that亦表示因果关系，所以引导的是副词从句。请注意这个副词从句中又有一个表示时间的副词从句when they saw fire。
-四、目的
+
+### 四、目的
+
+
 1.The mother locked away the drugs so that
 连接词
 the kids wouldn't swallow any by mistake.
@@ -81,7 +93,10 @@ you won't miss them.
 连接词 副词从句
 (你最好多带点钱，万一要用。）
 副词从句修饰动词bring的目的。
-五、让步
+
+### 五、让步
+
+
 1.Although you may object,I must give it a try.
 连接词 副词从句
 (虽然你可能会反对，我仍然必须试试看。）
@@ -109,7 +124,10 @@ Wherever (=No matter where) he is，I’ll get him!
 Whenever (=No matter when) you like,you can call me.
 连接词+副词从句
 (你随时给我来电话都可以。）
-六、限制
+
+### 六、限制
+
+
 1.As far as money is concerned,you needn't worry.
 连接词 副词从句
 (钱的方面你不必担心。）
@@ -119,7 +137,10 @@ Whenever (=No matter when) you like,you can call me.
 (毕加索是革命派，即他打破了一切传统。）
 副词从句修饰动词was，把“是革命派”的意思加以限制：在于打破传统，并非真的举枪起义。
 连接词in that是由in the sense that (从某种意义来说）省略而来。
-七、方法，状态
+
+### 七、方法，状态
+
+
 1.He played the piano as Horowitz would have.
 连接词 副词从句
 (他弹钢琴有如大师霍洛维兹。）
