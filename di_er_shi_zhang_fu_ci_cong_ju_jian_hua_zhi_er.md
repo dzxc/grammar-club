@@ -65,18 +65,18 @@ Before redecoration, the house was in bad shape.
 
 
 许多学习者对 having been 颇觉困扰。在此用一个例子来说明它的用法：  
-
+>  
 1.Because they had been warned,they proceeded carefully.  
 副词从句  
 （因为已经得到警告，他们就很小心地进行。）  
 
 简化这个句子里的副词从句时，主语 they 当然可以先省掉。动词 had been warned 有两种处理方式。 be 动词固然没有内容，可以省略，但是 had been 是 be 动词的完成式，有“已经……”的意味。如果要保留下来，就得先把had been改成分词类的having been，成为：  
-
+>  
 2.Having been warned,they proceeded carefully.  
 简化副词从句  
 
 另外，如果忽略例1中had been的完成式内容，把整个be动词的完成式视同一般的be动词，随主语一起省略，就可以把例1简化为：  
-
+>  
 3.Warned, they proceeded carefully.  
 简化副词从句  
 
