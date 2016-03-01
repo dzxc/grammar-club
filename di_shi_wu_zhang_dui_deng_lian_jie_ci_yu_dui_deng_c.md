@@ -72,7 +72,7 @@ Rapid advances in computer technology have enhanced <u>the speed of</u> <u>calcu
 
 
 **例五**  
-Population density is very low in Canada, the largest country in the Western Hemisphere and it is the second largest in the whole world.(误）  
+Population density is very low in Canada, <u>the largest country in the Western Hemisphere and it is the second largest in the whole world</u>.(误）  
 （加拿大人口密度很低，它是西半球最大的国家，也是世界第二大国。）  
 
 这个句子中，the largest country in the Western Hemisphere 是形容词从句省略掉 Which is 之后留下的名词补语，也就是所谓的同位语（作为 Canada 的同位语)，置于对等连接词and的左边。但是连接词右边的 it is the second largest in the whole world 在涵意上虽然和左边对称，可是却是主要从句的结构，所以结构上并不对称。对等连接词的要求就是在涵意上、结构上都要尽量对称，所以可将 it is the second largest in the whole world 也改为名词短语以求结构对称工整，成为：  
