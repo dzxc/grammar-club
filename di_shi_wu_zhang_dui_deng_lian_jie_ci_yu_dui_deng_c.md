@@ -141,7 +141,7 @@ S V O
 B. The low-tech nature of the processing indicates something bag.  
 S V O  
 
-这两句在形式与意思上都很对称。其中宾语部分的something good与something bad分别以一个that引导的名词从句来表示。看出这层对称关系之后就可以明白：but的右边应该与左边的主要从句对称，两句都是主要从句，不应以从属连接词that来引导，所以 把but右边的that拿掉，成为:
+这两句在形式与意思上都很对称。其中宾语部分的 something good 与 something bad 分别以一个 that 引导的名词从句来表示。看出这层对称关系之后就可以明白： but 的右边应该与左边的主要从句对称，两句都是主要从句，不应以从属连接词 that 来引导，所以 把 but 右边的 that 拿掉，成为:
 The large number of sizable orders suggests that factory operations are thriving, <u>but the low-tech nature of the processing indicates that</u> profit margins will not be as high as might be expected.(正)
 
 
