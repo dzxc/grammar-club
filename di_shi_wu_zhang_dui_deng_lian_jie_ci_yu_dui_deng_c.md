@@ -119,7 +119,6 @@ Worker bees in a honeybee hive assume various tasks, such as guarding the entran
 
 **例八**  
 - Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400km to the Yellow Sea in the east and <u>ranging</u> from 4 to 12 m in width.（误）  
-- 
 （秦始皇在公元前第三世紀修筑了长城，这是巨大的建筑，从西端的甘肃蜿蜒
 2,400公里到东端的黄海，宽度由4米至12米不等。）  
 
