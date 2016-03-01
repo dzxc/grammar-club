@@ -2,7 +2,7 @@
 
 如果把 many good students 中的限定词 many 拿掉，剩下 good students ，仍然是正确的。但如果把 a new book 中的限定词 a 拿掉，只剩下 new book ，就变成一个错误的名词短语，而这种错误在写作时偏偏常犯，所以我们有必要进一步加以讨论。
 
-从语源学 (etymology) 的角度来看，<u>冠词 a(n) 可以视为 one 一字的弱化 (reduction) 结果</u>。也就是说， <u>a(n) 就代表 one 的意思，只是语气比较弱</u>。a(n) 与 one 同样都是在交代它后面所接的名词是“一个”的概念。<b>如果<u>后面的名词**不适合以“一个”来交代**</u>，也就是不适合加 a(n) 的话，就可把限定词这个位置空下来</b>。  
+从语源学 (etymology) 的角度来看，<u>冠词 a(n) 可以视为 one 一字的弱化 (reduction) 结果</u>。也就是说， <u>a(n) 就代表 one 的意思，只是语气比较弱</u>。a(n) 与 one 同样都是在交代它后面所接的名词是“一个”的概念。<b>如果<u>后面的名词**不适合以“一个”来交代**，也就是不适合加 a(n) 的话</u>，就可把限定词这个位置空下来</b>。  
 例如： 
 >  
 <em>Unmarried men</em> are a rare species these days.  
