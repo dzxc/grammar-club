@@ -27,7 +27,7 @@ The Yangtze River,the most vital source of irrigation water across the width of 
 ---
 
 
-**例二**  
+**例二**
 Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)  
 （科学家认为引发冬眠的因素包括环境的气温下降、食物短缺、白昼缩短以及荷尔蒙作用。）  
   
@@ -40,7 +40,7 @@ Scientists believe that hibernation is triggered by decreasing environmental tem
 ---
 
 
-**例三**  
+**例三**
 Smoking by pregnant women may slow the growth and generally harm the fetus.(误)  
 （孕妇吸烟可能妨碍胚胎发育，对胚胎造成一般性的伤害。）  
 
@@ -105,8 +105,7 @@ Once the safety concerns over the new production procedure were removed and its 
 ---
 
 
-**例七**  
-Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, serving as sentinel and to sound a warning at the slightest threat,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)  
+例七Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, serving as sentinel and to sound a warning at the slightest threat,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)  
 （蜂窝中的工蜂担负各种任务，包括守卫入口、站哨并在威胁来临时发出警报，以及到巢外寻找富有花朵及花蜜的地区。）  
 
 句子中在such as之后列举工蜂担负的任务，基本上是A、B and C的结构，其中B (画底线部分）又可以分成B1与B2—一站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel与to sound a warning在结构上一是动名词，一是不定词，并不对称。再看看 A(guarding the entrance)与 C(exploring outside the nest),都是动名词，所以B1与B2也应使用动名词才能对称，于是改为：
@@ -116,8 +115,7 @@ Worker bees in a honeybee hive assume various tasks, such as guarding the entran
 ---
 
 
-**例八 ** 
-Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400km to the Yellow Sea in the east and ranging from 4 to 12 m in width.(误）
+例八Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400km to the Yellow Sea in the east and ranging from 4 to 12 m in width.(误）
 (秦始皇在公元前第三世紀修筑了长城，这是巨大的建筑，从西端的甘肃蜿蜒
 2,400公里到东端的黄海，宽度由4米至12米不等。）
 句中的 a gigantic construction 是 the Great Wall 的同位语，后面用that meanders...的形容词从句来修饰。对等连接词and的右边(底线部分）是ranging,可是左边却找不到Ving的结构可以与它对称。从意思上来看，右边是讲厚度，左边讲长度的部分只有形容词从句的动词meanders可能与ranging对称,所以把ranging改成动词ranges 以求对称，成为：
@@ -127,8 +125,7 @@ Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century 
 ---
 
 
-**例九 ** 
-The large number of sizable orders suggests that factory operations are thriving, but that the low-tech nature of the processing indicates that profit margins will not be as high as might be expected.(误)
+例九The large number of sizable orders suggests that factory operations are thriving, but that the low-tech nature of the processing indicates that profit margins will not be as high as might be expected.(误)
 (从许多巨额订单来看，工厂的营运畅旺，可是加工程序属于低科技，显示利润幅度可能不像预期那么高。）
 对等连接词but右边是that引导的名词从句，只能与左边的that factory operations are thriving对称。但是如此解释出来的句意不通。仔细对比but的左右边，发现意思上是另一种形式的对称：
 A.The large number of sizable orders suggests something good.
@@ -142,8 +139,7 @@ The large number of sizable orders suggests that factory operations are thriving
 ---
 
 
-**例十 ** 
-only is China the world's most populous state but also the largest market in the 21st century.(误)
+例十Not only is China the world's most populous state but also the largest market in the 21st century.(误)
 (中国不仅是世界人口最多的国家，也是21世纪最大的市场。）
 像not only... but also之类以相关词组(correlatives)出现的对等连接词，在对称方面的要求更为严格：not only与but之间所夹的部分要和but右边对称。原句中把：not only移到句首成倒装句，造成的结果是它与but之间夹着一个完整的从句。因此but的右边只有名词短语the largest market...就不对称，应该改为完整的从句，成为：
 Not only is China the world's most populous state but it is also the largest market in the 21st century.(正）
@@ -153,8 +149,7 @@ Not only is China the world's most populous state but it is also the largest mar
 ---
 
 
-**例十一 **  
-New radio stations are either overly partisan, resulting in lopsided propaganda, or avoid politics completely, shirking the media's responsibility as a public watchdog.(误)
+例十一New radio stations are either overly partisan, resulting in lopsided propaganda, or avoid politics completely, shirking the media's responsibility as a public watchdog.(误)
 (新成立的广播电台不是党派色彩过于鲜明，造成一面倒的宣传，就是完全避谈政治，推卸了媒体作为大众监察人的责任。)
 相关词组 either...or 之间所夹的部分也要与or右边对称。原句中左边是形容词partisan，右边却是动词avoid，无法对称（两个简化从句resulting…与shirking...在此先不讨论)。可将两边都改为形容词，成为：
 New radio stations are either overly partisan, resulting in lopsided propaganda, or completely apolitical, shirking the media's responsibility as a public watchdog.(正）
@@ -165,8 +160,7 @@ New radio stations either take an overly partisan stance,resulting in lopsided p
 ---
 
 
-**例十二**  
-Many modern-day scientists are not atheists, to whom there is no such thing as God; rather agnostics, who refrain from conjecturing about the existence of God, much less His properties.(误)
+例十二Many modern-day scientists are not atheists, to whom there is no such thing as God; rather agnostics, who refrain from conjecturing about the existence of God, much less His properties.(误)
 (许多当代科学家并非无神论者，即不相信有神存在，而是不可知论者，即不愿妄加臆测神的存在与否，更不愿推断神的属性。）
 这一句应该是以not A but B的相关词组来连接两个名词 atheists 和 agnostics，后面分别附上一个形容词从句。但是原句中却选择用分号（；）和副词rather来连接。分号可以取代连接词来连接两个从句，例如：
 He's not an atheist; rather, he believes in agnosticism.
