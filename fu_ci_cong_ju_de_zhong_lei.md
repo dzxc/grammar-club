@@ -116,12 +116,12 @@ you won't miss them</u>.
 1. <u>Although</u> <u>you may object</u>,I must give it a try.  
 连接词 副词从句  
 （虽然你可能会反对，我仍然必须试试看。）  
-副词从句修饰动词must give。  
+副词从句修饰动词 must give。  
 
 2. <u>While</u> <u>the disease is not fatal</u>,it can be very dangerous.  
 连接词 副词从句  
 （这虽然不是要命的病，不过也很危险。）  
-副词从句修饰动词can be。  
+副词从句修饰动词 can be。  
 
 3. Wh- 拼法的连接词，若解释为 No matter... (不论)，就表示让步语气，引导副词从句。  
 <u>Whether (=No matter) you agree or not</u>,I want to give it a try.  
@@ -146,15 +146,16 @@ you won't miss them</u>.
 ### 六、限制
 
 
-1.As far as money is concerned,you needn't worry.
-连接词 副词从句
-(钱的方面你不必担心。）
-副词从句修饰动词needn't worry，表示不必担心的事情是在某一方面，暗示也许是别的方面才要担心。
-2.Picasso was a revolutionary in that he broke all traditions.
-连接词 副词从句
-(毕加索是革命派，即他打破了一切传统。）
-副词从句修饰动词was，把“是革命派”的意思加以限制：在于打破传统，并非真的举枪起义。
-连接词in that是由in the sense that (从某种意义来说）省略而来。
+1. As far as money is concerned,you needn't worry.  
+连接词 副词从句  
+（钱的方面你不必担心。）  
+副词从句修饰动词 needn't   worry，表示不必担心的事情是在某一方面，暗示也许是别的方面才要担心。  
+
+2. Picasso was a revolutionary in that he broke all traditions.  
+连接词 副词从句  
+（毕加索是革命派，即他打破了一切传统。）  
+副词从句修饰动词 was ，把“是革命派”的意思加以限制：在于打破传统，并非真的举枪起义。
+连接词 in that 是由 in the sense that (从某种意义来说）省略而来。
 
 ### 七、方法，状态
 
