@@ -56,15 +56,19 @@ whoever 表示前面省掉一个先行词。句型分析上也可以直接把 wh
 ### 三、whichever
 
 
-如果是“任意选哪一个”的意思，可以用whichever来代表先行词的省略。例如：
-1.You can take any car.
-S V O
-2.You like it.
-S V O
-这两句中的any car和it重复，可以用关系从句合成:
-3.You can take any car that you like.
-S1 V1 O1 O2（关系词） S2 V2
-因为关系词that在关系从句(that you like)中是宾语，可以选择省略掉，成为：
+如果是“任意选哪一个”的意思，可以用whichever来代表先行词的省略。例如：  
+>  
+You can take any car.  
+S V O  
+You like it.  
+S V O  
+
+这两句中的 any car 和 it 重复，可以用关系从句合成:  
+>  
+You can take any car that you like.  
+S1 V1 O1 O2（关系词） S2 V2  
+
+因为关系词 that 在关系从句(that you like)中是宾语，可以选择省略掉，成为：  
 4.You can take any car you like.
 S1 V1 O（先行词） S2 V2
 但是也可以选择省略先行词any car。这时关系词that要改成whichever来表示“不论哪一个”：
