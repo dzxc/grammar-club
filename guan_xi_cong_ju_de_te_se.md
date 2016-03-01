@@ -40,7 +40,7 @@ S V O 关系从句
 |it(they)   |which   |
 |his(her,their,its)   |whose   |
 |him(her,them)   |whom   |
-|副词   |关系副词   |
+|<b>副词</b>   |<b>关系副词</b>   |
 |then   |when   |
 |there   |where   |
 |so   |how   |
