@@ -35,9 +35,9 @@ S1 V1 S2 V2
 
 如果把关系词 who 变成 whoever ，表示不管先行词是谁，那么就可以省略掉先行词了。例如：  
 >  
-1. I’ll shoot any person.  
+- I’ll shoot any person.  
 S V O  
-2. He moves.  
+- He moves.  
 S V  
 
 这两句中的 any person 与 he 重复，可以用关系从句合成：  
