@@ -10,7 +10,7 @@
 要判断一个名词是否为专有名词，有时并不是那么容易。像 Sunday 这种字，一个月中可能会有四到五天，所以我们可以说：
 >  
 >>  
-There are five <em>Sundays</em> this month.   
+There are <em>five Sundays</em> this month.   
 （这个月有五个星期日。）  
 >>  
 >  
