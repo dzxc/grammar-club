@@ -134,7 +134,7 @@ Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century 
 **例九**  
 - The large number of sizable orders suggests that factory operations are thriving, <u>but that the low-tech nature of the processing indicates that</u> profit margins will not be as high as might be expected.(误)
 (从许多巨额订单来看，工厂的营运畅旺，可是加工程序属于低科技，显示利润幅度可能不像预期那么高。）
-对等连接词but右边是that引导的名词从句，只能与左边的that factory operations are thriving对称。但是如此解释出来的句意不通。仔细对比but的左右边，发现意思上是另一种形式的对称：
+对等连接词 but 右边是 that 引导的名词从句，只能与左边的that factory operations are thriving对称。但是如此解释出来的句意不通。仔细对比but的左右边，发现意思上是另一种形式的对称：
 A.The large number of sizable orders suggests something good.
 S V O
 B.The low-tech nature of the processing indicates something bag.
