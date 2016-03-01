@@ -5,11 +5,11 @@
 ### 一、两个句子要有交集
 
 
-也就是:两个句子间要有一个重复的元素，由此建立“关系”，才可以用关系从句的方式来合成复句。例如：
-For boyfriend I'm looking for a man.
-(找男朋友，我想找个男人。）
-He is tall,rich,and well-educated.
-(他身材高、收入高、教育水准高。）
+也就是:两个句子间要有一个重复的元素，由此建立“关系”，才可以用关系从句的方式来合成复句。例如：  
+For boyfriend I'm looking for a man.  
+（找男朋友，我想找个男人。）  
+He is tall,rich,and well-educated.  
+（他身材高、收入高、教育水准高。）  
 这两个句子中的a man和he是重复的：a man就是代名词he所代表的对象（即先行词)。因为有这个交集存在，两个句子有关系，才可以进行下一步的动作——制造关系从句。
 
 ### 二、把交集点改写为关系词的拼法（wh-），让它产生连接词的功能
@@ -28,17 +28,17 @@ For boyfriend I'm looking for a man
 名词（先行词）
 who is tall,rich,and well-educated.
 关系从句（形容词类）
-(找男朋友，我想找一个身材高、收入高、教育水准高的人。）
+（找男朋友，我想找一个身材高、收入高、教育水准高的人。）
 由以上的分析可以看出，关系从句有一个很重要的特色：关系从句的连接词是从句中内含字眼的改写，而名词从句与副词从句的连接词都是外加的。请比较下列三句：
 1.I know that I am right.
 S V 连接词 O（名词从句）
-(我知道我对。）
+（我知道我对。）
 2.I know this because I have proof.
 S V O 连接词 副词从句
-(我知道，因为我有证据。）
+（我知道，因为我有证据。）
 3.I don't trust people who talk too much.
 S V O 关系从句
-(我不信任话太多的人。）
+（我不信任话太多的人。）
 例1中的名词从句是由完整的简单句I am right.外加连接词that 所构成。例2的副词从句也是完整的单句I have proof外加连接词 because构成。只有例3的关系从句没有外加连接词，而是直接由They talk too much的单句，把they改写成who而构成。产生的关系从句who talk too much属于形容词的功能，用来修饰先行词people。
 
 #### 关系代名词与关系副词
@@ -78,7 +78,7 @@ O S V
 再把关系从句和主要从句合起来成为复句：
 3.The man [whom you saw just now] is my uncle.
 S1 O S2 V2 V1 C
-(你刚看到的那个人是我叔叔。）
+（你刚看到的那个人是我叔叔。）
 如果把whom省略掉，读者仍然看得出来you saw just now是另一个从句，不会和主要从句The man...is my uncle混淆。这就是为什么可以省掉它的原因。
 反之，如果关系代名词是主语，就不适合省略，否则会造成断句上的困难。例如：
 1.The man is my uncle.
@@ -91,7 +91,7 @@ S V C
 再和句1合并成为复句:
 3.The man [who was here just now] is my uncle.
 S1 S2 V2 C2 V1 C1
-(刚才在这儿的那个人是我叔叔。）
+（刚才在这儿的那个人是我叔叔。）
 这时候如果要省掉Who (主语)，会造成断句上的困难：
 The man was here just now is my uncle.(误)  
 这个句子语法有错误，因为读者无从判断它的句型。看到The man was here just now为止都还好：读者的印象是一个简单句。可是后面再加上is my uncle的部分，就不知所云了。
