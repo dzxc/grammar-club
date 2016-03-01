@@ -15,7 +15,7 @@
 >  
 <em>Honesty</em> is not necessarily the best policy.  
 (诚实不一定是上策。）  
-<em>Fresh</em> water is a precious resource in Saudi Arabia.  
+<em>Fresh water</em> is a precious resource in Saudi Arabia.  
 (淡水是沙特阿拉伯的珍贵资源。）
 
 像 honesty 和 water 这些没有复数形态的词，都不适合加 a(n) 。我们可以这样说：如果词尾加-s，则表示该名词为复数。如果前面加 a(n) ，则表示“一个”，也就是单数。<b>如果不能加 -s ，通常表示这个字没有办法数，自然也就不能说是“一个”了。这时候我们就可以不用限定词。</b>    
