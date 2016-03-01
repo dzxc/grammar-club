@@ -99,7 +99,7 @@ The safety concerns over the new production procedure were removed and its super
 
 这个省略后的对等从句前面加上 once  （一旦）就成为表示条件的副词从句，若再附于主要从句之上，就成为符合对称要求的从句：  
 >  
-Once the safety concerns over the new production procedure were removed and its superiority to the old one proved, there was nothing to stop the factory from switching over.(正）    
+Once the safety concerns over the new production procedure were removed and <u>its superiority to the old one</u> proved, there was nothing to stop the factory from switching over.(正）    
 
 
 ---
