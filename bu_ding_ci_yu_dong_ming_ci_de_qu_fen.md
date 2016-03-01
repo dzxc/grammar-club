@@ -76,7 +76,7 @@ S V O
 （我记得昨晚六点打电话给她。）
 
 在前那句中，你交代服务生隔天六点打电话叫你起床，也就是交待他：  
-<b>Please remember you must give me a call.</b>  
+Please remember you must give me a call.  
 这时是确定的事实语气，没有助动词存在，也就不能变成不定词，所以只好用动名词calling。
 
 **七、 stop**
