@@ -7,9 +7,9 @@
 
 也就是:<b>两个句子间**要有一个重复的元素**，由此建立“关系”，才可以用关系从句的方式来合成复句。</b>例如：  
 >  
-For boyfriend I'm looking for a man.  
+For boyfriend I'm looking for <u>a man</u>.  
 （找男朋友，我想找个男人。）  
-He is tall,rich,and well-educated.  
+<u>He</u> is tall,rich,and well-educated.  
 （他身材高、收入高、教育水准高。）  
 
 这两个句子中的 a man 和 he 是重复的：a man 就是代名词 he 所代表的对象（即先行词)。因为有这个交集存在，两个句子有关系，才可以进行下一步的动作——制造关系从句。
@@ -19,7 +19,7 @@ He is tall,rich,and well-educated.
 
 在上例中就是把 he 改写为 who ，成为：  
 >  
-who is tall,rich,and well-educated.  
+<u>who</u> <u>is</u> tall,rich,and well-educated.  
 S V  
 
 这就是一个关系从句。 who 仍然具有 he 的功能，也就是作为这个从句的主语，但是它同时也有连接词的功能。
@@ -31,7 +31,7 @@ S V
 >  
 For boyfriend I'm looking for a man  
 名词（先行词）  
-who is tall,rich,and well-educated.  
+<u>who is tall,rich,and well-educated</u>.  
 关系从句（形容词类）  
 （找男朋友，我想找一个身材高、收入高、教育水准高的人。）  
 
@@ -74,23 +74,23 @@ S V O 关系从句
 语法书列出规则：关系代名词作宾语使用时可以省略。这条规则没错，就是不太好背！本书号称从头到尾没有一条规则要背，包括关系代名词的省略，其实都是可以理解的。   
 关系词所以常会省略，主要是因为它在句子中是重复的元素:和主要从句中的先行词重复。可是它除了代名词的功能之外，还有连接词的功能,用来标示另外一个从句的开始。假如两个从句的断句很清楚，把关系词省掉也不会影响句子的清楚性，就可以省略。例如：  
 >  
-1. The man is my uncle.(那个人是我叔叔。）  
+1. <u>The man</u> <u>is</u> <u>my uncle</u>.(那个人是我叔叔。）  
 S V C  
-2. You saw him just now.( 你刚刚看到他。）  
+2. <u>You</u> <u>saw</u> <u>him</u> just now.( 你刚刚看到他。）  
 S V O    
 
 例2中的 him 是宾语，与例1中的 man 重复，可以改成关系代名词 whom ,变成：  
 >  
-you saw whom just now  
+<u>you</u> <u>saw</u> <u>whom</u> just now  
 S V O  
 
 请观察一下：关系代名词是宾语的话，位置应该在动词后面。可是它要标示关系从句的开始，所以要调到句首(这个调动和它的省略大有关系)，成为：  
 >  
-whom you saw just now  
+<u>whom</u> <u>you</u> <u>saw</u> just now  
 O S V  
 再把关系从句和主要从句合起来成为复句：  
 >  
-3. The man [whom you saw just now] is my uncle.  
+3. <u>The man</u> <u>[whom</u> <u>you</u> <u>saw</u> just now] <u>is my uncle</u>.  
 S1 O S2 V2 V1 C  
 （你刚看到的那个人是我叔叔。）  
 
@@ -104,7 +104,7 @@ S V C
 
 例2中的 he 是主语，改成关系代名词 who 之后位置不会调动，直接成为：  
 >  
-who was here just now  
+<u>who</u> <u>was</u> <u>here</u> just now  
 S V C  
 
 再和句1合并成为复句:  
