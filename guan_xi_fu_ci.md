@@ -1,41 +1,57 @@
 # 关系副词
 
-如果关系从句中是以副词和主要从句中的先行词重复，就会改写为关系副词。<b>关系副词因为是副词类，不像关系代名词是重要的名词类，所以关系副词可以比较自由省略。<u>但是它与关系代名词一样，如果有括弧性的逗号隔开，就不能省略了。</u></b>详见下述。
+如果关系从句中是以副词和主要从句中的先行词重复，就会改写为关系副词。<b>关系副词因为是副词类，不像关系代名词是重要的名词类，所以关系副词可以比较自由省略。<u>但是它与关系代名词一样，如果有括弧性的逗号隔开，就不能省略了。</u></b>详见下述。  
 一、when
-关系副词when就是时间副词then的改写，有连接词的功能。请看下例：
-1. The rain came at a time.
-2. The farmers needed it most then.
-这两个句子以a time和then的重复建立关系（then就是at that time)。把时间副词then改写为关系副词when，借以连接两句，即成为：
-3. The rain came (at a time)(when)the farmers needed it most.
-先行词 关系从句
-如果认定when的先行词是a time (名词)，那么关系从句形容这个名词，依旧是形容词类。这样的诠释比较统一，也比较单纯。也就是：在省略之前，关系从句全部都是形容词从句，所有的形容词从句也都是关系从句，两者间可划等号。
-谈到省略，观察例3当可发现：
-一、at a time和when都是空洞、无内容的字眼（不像in 1964, last January
-之类有明确内容的时间)；
-二、at a time 和 when 重复；
-三、at a time和when都是可有可无的副词类。
-基于这三点观察，at a time和when应该择一省略来避免重复，让句子紧凑些。也就是例3可以省略而变成以下两种状况：
-4. The rain came when the farmers needed it most.
-关系从句
-5. The rain came at a time the farmers needed it most.
-关系从句
-(这场雨下得正是时候，农夫们这时最需要它。）
-一般语法书说例4中的关系从句(when the farmers needed it most)是副词从句，这是把when视为外加的连接词看待。这也可以讲得通，但是分析得不够透彻。因为when不是外加的连接词，而是内含的关系副词，只不过at a time被省略掉了，所以看不到先行词。反之，如果选择保留at a time而省略关系副词when,就成为例5的结果。例4和例5是同一个句子的不同省略方式，应该同样解释为关系从句比较合理。
-下面这组句子又有不同的变化：
-1. I need some time.
-2. I can be with my daughter then.
-这两句由名词的some time和副词的then (代表at that time)产生交叉而建立关系，可改写为关系词when来连接：
-3.I need some time (when) I can be with my daughter.
-先行词 关系从句
-本句如果要省略，仍可省去重复的关系副词when，成为：
-4. I need some time I can be with my daughter.
-S V O 关系从句
-(我需要点时间陪陪女儿。)
-但是如果省去同样重复的先行词some time就不行了:
-I need when I can be with my daughter.(误)
-S V 关系从句
-这是因为some time虽然没有内容，而且重复，可是它属于名词类，不是可有可无的副词类，不能随便省略成上面这句；省略之后，及物动词need没有宾语，就是错误的句子。
-如果说名词类的先行词不能随便省略,读者对下面这组句子的变化可能会有疑惑：
+关系副词when就是时间副词then的改写，有连接词的功能。  
+请看下例：  
+
+1.The rain came at a time.  
+2.The farmers needed it most then.  
+
+这两个句子以a time和then的重复建立关系（then就是at that time)。把时间副词then改写为关系副词when，借以连接两句，即成为：  
+3.The rain came (at a time)(when)the farmers needed it most.  
+先行词 关系从句  
+
+如果认定 when 的先行词是 a time (名词)，那么关系从句形容这个名词，依旧是形容词类。这样的诠释比较统一，也比较单纯。也就是：在省略之前，关系从句全部都是形容词从句，所有的形容词从句也都是关系从句，两者间可划等号。
+谈到省略，观察例3当可发现：  
+
+一、at a time 和 when 都是空洞、无内容的字眼（不像 in 1964, last January
+之类有明确内容的时间)；  
+二、at a time 和 when 重复；  
+三、at a time 和 when 都是可有可无的副词类。  
+
+基于这三点观察，at a time 和 when 应该择一省略来避免重复，让句子紧凑些。也就是例3可以省略而变成以下两种状况：  
+
+4.The rain came when the farmers needed it most.  
+关系从句  
+5.The rain came at a time the farmers needed it most.  
+关系从句  
+（这场雨下得正是时候，农夫们这时最需要它。）  
+
+一般语法书说例4中的关系从句( when the farmers needed it most )是副词从句，这是把 when 视为外加的连接词看待。这也可以讲得通，但是分析得不够透彻。因为 when 不是外加的连接词，而是内含的关系副词，只不过 at a time 被省略掉了，所以看不到先行词。反之，如果选择保留 at a time 而省略关系副词 when ,就成为例5的结果。例4和例5是同一个句子的不同省略方式，应该同样解释为关系从句比较合理。  
+下面这组句子又有不同的变化：  
+
+1.I need some time.  
+2.I can be with my daughter then.  
+
+这两句由名词的 some time 和副词的 then  (代表 at that time )产生交叉而建立关系，可改写为关系词 when 来连接：  
+
+3.I need some time (when) I can be with my daughter.  
+先行词 关系从句  
+
+本句如果要省略，仍可省去重复的关系副词when，成为：  
+
+4.I need some time I can be with my daughter.  
+S V O 关系从句  
+（我需要点时间陪陪女儿。）  
+
+但是如果省去同样重复的先行词 some time 就不行了:  
+
+I need when I can be with my daughter.(误)  
+S V 关系从句  
+
+这是因为 some time 虽然没有内容，而且重复，可是它属于名词类，不是可有可无的副词类，不能随便省略成上面这句；省略之后，及物动词 need 没有宾语，就是错误的句子。  
+如果说名词类的先行词不能随便省略,读者对下面这组句子的变化可能会有疑惑：  
 1. I know the time.
 S V O
 2. He will arrive then.
