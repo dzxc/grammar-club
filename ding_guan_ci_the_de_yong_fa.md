@@ -14,7 +14,7 @@
 - <em>The history of recent China</em> is a sorry record.
 （中国近代史是部伤心史。）
 
-第一句modern history —词中，history是抽象名词，不可数，因而没有a。而在形容词位置上的 modern 只是附在 history 上的修饰语，并不算明确的指示，所以不必加 the。第二句中 the history of recent China (中国近代史）则有of recent China附在后面，用来指出“那一段”历史。因为有这种指示性，所以必须在前面加上定冠词the，但也不要死背前、后修饰语的差别。再看看下面这一组例子：
+第一句 modern history 一词中，history 是抽象名词，不可数，因而没有 a 。而在形容词位置上的 modern 只是附在 history 上的修饰语，并不算明确的指示，所以不必加 the。第二句中 the history of recent China (中国近代史）则有 of recent China 附在后面，用来指出“那一段”历史。因为有这种指示性，所以必须在前面加上定冠词 the ，但也不要死背前、后修饰语的差别。再看看下面这一组例子：
 >  
 - He should be home;I saw <em>a light</em> in his house.
 （他应该在家；我看见他家亮灯了。）
