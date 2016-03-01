@@ -60,8 +60,8 @@ The witness <em>was being questioned</em> in court when he had a heart attack.
 
 
 >  
-Huang <em>pitches</em> a fast ball.Li <em>swings</em>.It looks like a hit.The
-shortstop <em>fails</em> to stop it.It's a double!  
+Huang <em>pitches</em> a fast ball.Li <em>swings</em>.It <em>looks</em> like a hit.The
+shortstop <em>fails</em> to stop it.It'<em>s</em> a double!  
 （黄[平洋]投出快速球，李[居明]挥棒，好像是安打，游击手没有拦到球，是二垒安打！）  
 ![简单式--现在时间](http://ww1.sinaimg.cn/large/92c4e634gw1f17dajenqzj20ag04m745.jpg)
 
