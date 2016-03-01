@@ -65,7 +65,7 @@ Rapid advances in computer technology have enhanced the speed of calculation, th
 
 这个句子以 speed、quality 和 fun 三者为动词 have enhanced 的宾语，三者在内容与结构上都是对等的，可是却没有对等连接词来连接，反而在后面加上 and 和 have lowered prices 连在一起，成为 A、B、C and D 的结构，其中 A、B、C 都是名词短语，D 却是动词短语，这就犯了结构上不对称的毛病。内容上来说，A、B、C 是所增加的三样东西，D则是降低的东西，所以四者的内容也不对称，不适合并列。修改方法可以把前面三个名词短语用 A、Band C 的方式连接，第四项“降低价格”这项不对称的元素则不必对等, 而以从属从句简化（详见以后章节）的方式来处理，成为：  
 >  
-Rapid advances in computer technology have enhanced the speed of calculation,the quality of graphics and the fun with computer games while lowering prices.(正）    
+Rapid advances in computer technology have enhanced <u>the speed of</u> <u>calculation,the quality of graphics and the fun with computer games while lowering prices</u>.(正）    
 
 
 ---
