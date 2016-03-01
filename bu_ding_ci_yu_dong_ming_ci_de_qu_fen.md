@@ -16,7 +16,7 @@ They <em>plan</em> to marry next month. （他们计划下个月结婚。）
 I <em>avoid</em> making the same mistake twice. （我避免犯同样的错误。）  
 S V O  
 
-这里用making比用to make恰当，因为to make是will make的省略，既然是“避免”，后面又用will make(将要做)，意思就变得不清楚了：
+这里用 making 比用 to make 恰当，因为 to make 是 will make 的省略，既然是“避免”，后面又用 will make (将要做)，意思就变得不清楚了：
 
 >  
 I <em>avoid</em> something.  
