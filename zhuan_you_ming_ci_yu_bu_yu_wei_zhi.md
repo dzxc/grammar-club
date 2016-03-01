@@ -44,7 +44,7 @@ Some say he was <em>a better president</em> than Mr. Robert.
 在这个从属子句[^1]中，主语he就是埃尔森先生。president仍然是主语补语，可是这里就要加a了。为什么？因为在上下文中和罗伯特先生做比较，这么一来就有前后两任校长，可以加-s,不是专有名词了。  
 还有：
 >  
-Mr. Elson is also <em>a member of the Council</em> of the city.  
+Mr. Elson is also <em>a member</em> of the Council of the city.  
 （埃尔森先生也是该城市政会委员。）
 
 本句中a member of the Council也是埃尔森先生的补语，类似 Council of the city。可是高中校长同一时间只有一人，市政会委员则有很多人，所以a member需要交代是“一名”，而非专有名词。
