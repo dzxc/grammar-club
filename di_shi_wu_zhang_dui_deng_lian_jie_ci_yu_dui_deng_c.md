@@ -88,9 +88,9 @@ Once the safety concerns over the new production procedure were removed and with
 （新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）  
 对等连接词and出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为对等从句，成为：  
 >  
-The safety concerns over the new production procedure  
+<u>The safety concerns</u> over the new production procedure  
 S1  
-were removed and its superiority to the old one was proved.  
+<u>were removed</u> and <u>its superiority to the old one <u>was proved</u>.  
 V1 S2 V2  
 
 这两个对等从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有be动词是重复的元素，所以只能省略一个be 动词，成为:  
