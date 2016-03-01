@@ -144,11 +144,14 @@ The large number of sizable orders suggests that factory operations are thriving
 
 
 **例十**  
-Not only is China the world's most populous state <u>but also the largest market</u> in the 21st century.(误)
-(中国不仅是世界人口最多的国家，也是21世纪最大的市场。）
-像not only... but also之类以相关词组(correlatives)出现的对等连接词，在对称方面的要求更为严格：not only与but之间所夹的部分要和but右边对称。原句中把：not only移到句首成倒装句，造成的结果是它与but之间夹着一个完整的从句。因此but的右边只有名词短语the largest market...就不对称，应该改为完整的从句，成为：
-Not only is China the world's most populous state but it is also the largest market in the 21st century.(正）
-注意also的位置不一定要和but放在一起。also和only —样有强调(focusing)的功能。Not only修饰动词is，与其对称之下also也和be动词放在一起才好，所以右边是but it is also而不是but also it is ...。
+Not only is China the world's most populous state <u>but also the largest market</u> in the 21st century.(误)  
+（中国不仅是世界人口最多的国家，也是21世纪最大的市场。）  
+
+像 not only... but also 之类以相关词组( correlatives )出现的对等连接词，在对称方面的要求更为严格：not only 与 but 之间所夹的部分要和 but 右边对称。原句中把：not only 移到句首成倒装句，造成的结果是它与 but 之间夹着一个完整的从句。因此 but 的右边只有名词短语 the largest market... 就不对称，应该改为完整的从句，成为：  
+>  
+Not only is China the world's most populous state <u>but it is also the largest market</u> in the 21st century.(正）  
+
+注意 also 的位置不一定要和 but 放在一起。also 和 only 一样有强调( focusing )的功能。Not only 修饰动词 is ，与其对称之下 also 也和 be 动词放在一起才好，所以右边是 but it is also 而不是 but also it is ...。
 
 
 ---
