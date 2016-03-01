@@ -113,35 +113,35 @@ you won't miss them</u>.
 ### 五、让步
 
 
-1.Although you may object,I must give it a try.  
+1. <u>Although</u> <u>you may object</u>,I must give it a try.  
 连接词 副词从句  
 （虽然你可能会反对，我仍然必须试试看。）  
 副词从句修饰动词must give。  
 
-2.While the disease is not fatal,it can be very dangerous.
-连接词 副词从句
-（这虽然不是要命的病，不过也很危险。）
+2. <u>While</u> <u>the disease is not fatal</u>,it can be very dangerous.  
+连接词 副词从句  
+（这虽然不是要命的病，不过也很危险。）  
 副词从句修饰动词can be。  
 
-3.Wh-拼法的连接词，若解释为No matter...(不论)，就表示让步语气，引导副词从句。
-Whether (=No matter) you agree or not,I want to give it a try.
-连接词 副词从句
-（无论你是否同意，我都想试一试。）
-Whoever (=No matter who) calls,I won't answer.
-连接词+副词从句
-（不管谁来电话，我都不接。）
-Whichever (=No matter which) way you go,I'll follow.
-连接词+副词从句
-（不论你走到哪里，我都跟定你了。）
-However (=No matter how) cold it is,he's always wearing a shirt only.
-连接词+副词从句
-（不管多冷，他总是只穿件村衫。）
-Wherever (=No matter where) he is，I’ll get him!
-连接词+副词从句
-（不管他躲到哪儿，我都会抓到他！）
-Whenever (=No matter when) you like,you can call me.
-连接词+副词从句
-（你随时给我来电话都可以。）
+3. Wh- 拼法的连接词，若解释为 No matter... (不论)，就表示让步语气，引导副词从句。  
+Whether (=No matter) you agree or not,I want to give it a try.  
+连接词 副词从句  
+（无论你是否同意，我都想试一试。）  
+Whoever (=No matter who) calls,I won't answer.  
+连接词+副词从句  
+（不管谁来电话，我都不接。）  
+Whichever (=No matter which) way you go,I'll follow.  
+连接词+副词从句  
+（不论你走到哪里，我都跟定你了。）  
+However (=No matter how) cold it is,he's always wearing a shirt only.  
+连接词+副词从句  
+（不管多冷，他总是只穿件村衫。）  
+Wherever (=No matter where) he is，I’ll get him!  
+连接词+副词从句  
+（不管他躲到哪儿，我都会抓到他！）   
+Whenever (=No matter when) you like,you can call me.  
+连接词+副词从句  
+（你随时给我来电话都可以。）  
 
 ### 六、限制
 
