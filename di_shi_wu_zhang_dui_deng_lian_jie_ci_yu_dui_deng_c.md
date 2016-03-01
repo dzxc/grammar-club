@@ -27,7 +27,7 @@ The Yangtze River,the most vital source of irrigation water across the width of 
 ---
 
 
-**例二**
+**例二**  
 Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)  
 （科学家认为引发冬眠的因素包括环境的气温下降、食物短缺、白昼缩短以及荷尔蒙作用。）  
   
@@ -40,7 +40,7 @@ Scientists believe that hibernation is triggered by decreasing environmental tem
 ---
 
 
-**例三**
+**例三**  
 Smoking by pregnant women may slow the growth and generally harm the fetus.(误)  
 （孕妇吸烟可能妨碍胚胎发育，对胚胎造成一般性的伤害。）  
 
