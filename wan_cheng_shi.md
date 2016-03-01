@@ -91,7 +91,7 @@ Come back at 5:00.Your car will <em>have been fixed</em> by then.
 
 ----
 >  
-In two more minutes,she will <em>have been talking</em> on the phone for
+<em>In two more minutes</em>,she will <em>have been talking</em> on the phone for
 three hours!  
 （再过两分钟，她就一直打了足足三小时的电话了！）  
 
