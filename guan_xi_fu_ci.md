@@ -118,12 +118,12 @@ I know when he will arrive.
 >  
 1. I know the question.  
 S V O  
-2. When will he arrive?  
+2. <u>When</u> will he arrive?  
 疑问词  
 
 由此变成：  
 >  
-3. I know when he will arrive.  
+3. <u>I</u> <u>know</u> <u>when he will arrive</u>.  
 S V O (名词从句)  
 
 这是由疑问句改造而成的名词从句，与关系从句无关，并不是 the time 的省略。when 是疑问词，不是关系词。
