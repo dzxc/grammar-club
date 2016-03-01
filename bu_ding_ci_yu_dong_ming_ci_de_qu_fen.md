@@ -120,7 +120,7 @@ S V O C
 The little girl <em>asked</em> if her mother would come to the PTA meeting.  
 S V O
 
-ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，所以会牵涉到语气助动词would come，这就会变成不定词to come。
+ask 是普通动词，邀请人参加，但别人愿不愿意是不确定的，所以会牵涉到语气助动词 would come ，这就会变成不定词 to come 。
 
 **使役动词与普通动词的差别就在于它有强制性，它的结果是确定的、无从选择的。因为这种确定性的语气，排除了助动词存在的空间，因而也就不能用不定词。**
 
