@@ -158,12 +158,16 @@ Not only is China the world's most populous state <u>but it is also the largest 
 
 
 **例十一**  
-New radio stations are either overly partisan, resulting in lopsided propaganda, or avoid politics completely, shirking the media's responsibility as a public watchdog.(误)
-(新成立的广播电台不是党派色彩过于鲜明，造成一面倒的宣传，就是完全避谈政治，推卸了媒体作为大众监察人的责任。)
-相关词组 either...or 之间所夹的部分也要与or右边对称。原句中左边是形容词partisan，右边却是动词avoid，无法对称（两个简化从句resulting…与shirking...在此先不讨论)。可将两边都改为形容词，成为：
-New radio stations are either overly partisan, resulting in lopsided propaganda, or completely apolitical, shirking the media's responsibility as a public watchdog.(正）
-或者两边都用动词，成为:
-New radio stations either take an overly partisan stance,resulting in lopsided propaganda,or avoid politics completely,thus shirking the media's responsibility as a public watchdog. (正）
+New radio stations are either overly partisan, resulting in lopsided propaganda, or avoid politics completely, shirking the media's responsibility as a public watchdog.(误)  
+（新成立的广播电台不是党派色彩过于鲜明，造成一面倒的宣传，就是完全避谈政治，推卸了媒体作为大众监察人的责任。）  
+
+相关词组 either...or 之间所夹的部分也要与 or 右边对称。原句中左边是形容词 partisan ，右边却是动词 avoid ，无法对称（两个简化从句 resulting... 与 shirking... 在此先不讨论)。可将两边都改为形容词，成为：  
+>  
+New radio stations are either overly partisan, resulting in lopsided propaganda, or completely apolitical, shirking the media's responsibility as a public watchdog.(正）  
+
+或者两边都用动词，成为:  
+>  
+New radio stations either take an overly partisan stance,resulting in lopsided propaganda,or avoid politics completely,thus shirking the media's responsibility as a public watchdog. (正）  
 
 
 ---
