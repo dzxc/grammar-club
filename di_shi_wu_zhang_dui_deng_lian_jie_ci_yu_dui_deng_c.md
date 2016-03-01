@@ -1,15 +1,24 @@
 # 第十五章 对等连接词与对等从句
 
-**对等连接词**（主要是 <em>and，or</em> 与 <em>but</em> 三个）<b>用来连接句子中**两个对等的部分（单词或短语)**，也可以连接**两个对等的从句**。</b><u>所谓对等，指的是**结构**与**内容**两方面都要对称，而且对得越工整越好。</u> 这个要求很容易理解，但是在写作时却常常被忽略而产生错误或不佳的句子。尤其是在有主、从关系的复句中，或者是简化从句中，若再出现对等连接词，稍有不慎就会出错。以“相关词组”(correlatives)出现的对等连接词(如 not... but; not only... but also; both... and; either... or 等等）也很容易造成错误。再者，对等连接词所连接的对等从句中常会为了避免重复而进行省略，这又是一个容易出错的地方。所以，对等连接词本身固然很单纯，但它在句中的运用却是变化万千。全世界最难的语法考试——GMAT (美国管理研究所入学测验）的语法修辞(Sentence Correction)部分，有关对等连接词的题目就占了不小的比例。
+**对等连接词**（主要是 <em>and，or</em> 与 <em>but</em> 三个）<b>用来连接句子中**两个对等的部分（单词或短语)**，也可以连接**两个对等的从句**。</b><u>所谓对等，指的是**结构**与**内容**两方面都要对称，而且对得越工整越好。</u>  
+
+这个要求很容易理解，但是在写作时却常常被忽略而产生错误或不佳的句子。尤其是在有主、从关系的复句中，或者是简化从句中，若再出现对等连接词，稍有不慎就会出错。以“相关词组”(correlatives)出现的对等连接词(如 not... but; not only... but also; both... and; either... or 等等）也很容易造成错误。再者，对等连接词所连接的对等从句中常会为了避免重复而进行省略，这又是一个容易出错的地方。所以，对等连接词本身固然很单纯，但它在句中的运用却是变化万千。全世界最难的语法考试——GMAT (美国管理研究所入学测验）的语法修辞(Sentence Correction)部分，有关对等连接词的题目就占了不小的比例。  
+
 以下不再赘述简单的观念，直接提供十二则例子来说明对等连接词与对等从句需注意的地方。这些例子部分模仿 GMAT 考题的形态，每一句中都有一部分画了底线，其中包含对等连接词使用不当所造成的错误。读者可以自我测验一下：先找找看错在哪里，试着改改看，然后再看后面的说明以及建议的改法。这些例句的性质相当接近 GMAT 考题，句型结构多半较长，也比较复杂，其中包含了本书下一章才会讲解的“简化从句”。如果读者一时无法全部了解，或是不知如何修改，可以先看一下翻译再尝试改改看。  
-1. The Yangtze River, the most vital source of irrigation water across the width of China and important as a transportation conduit as well, has nurtured the Chinese civilization for millennia.(误）
-(长江是横贯中国最重要的灌溉水源，同时也是重要的交通管道，数千年来孕育着中华文化。）
-主要从句的基本句型是：
-The Yangtze River has nurtured the Chinese civilization.
-S V O
-主语与动词中间的两个逗号当一对括弧来看，括弧中放的是主语The Yangtze River的同位语（就是形容词从句简化，省略which is的结果。详情将于“简化从句”单元中介绍)。这个句子就错在对等连接词and连接的两个部分在结构上并不对称：左边的the most vital source是名词短语，右边的important却是形容词，词类不同，不适合以对等连接词and连接。底线部分的改法不只一种，但是最简单的改法就是把右边的词类改为名词类以符合对称的要求，故应修正为：
-The Yangtze River,the most vital source of irrigation water across the width of China and an important transportation conduit,has nurtured the Chinese civilization for millennia.(正）
-2.Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)
+
+1. The Yangtze River, the most vital source of irrigation water across the width of China and important as a transportation conduit as well, has nurtured the Chinese civilization for millennia.(误）  
+（长江是横贯中国最重要的灌溉水源，同时也是重要的交通管道，数千年来孕育着中华文化。）  
+
+主要从句的基本句型是：  
+>  
+The Yangtze River has nurtured the Chinese civilization.   
+S V O  
+
+主语与动词中间的两个逗号当一对括弧来看，括弧中放的是主语 The Yangtze River 的同位语（就是形容词从句简化，省略 which is 的结果。详情将于“简化从句”单元中介绍)。这个句子就错在对等连接词 and 连接的两个部分在结构上并不对称：左边的 the most vital source 是名词短语，右边的 important 却是形容词，词类不同，不适合以对等连接词 and 连接。底线部分的改法不只一种，但是最简单的改法就是把右边的词类改为名词类以符合对称的要求，故应修正为：  
+
+The Yangtze River,the most vital source of irrigation water across the width of China and an important transportation conduit,has nurtured the Chinese civilization for millennia.(正）  
+
+2. Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)
 (科学家认为引发冬眠的因素包括环境的气温下降、食物短缺、白昼缩短以及荷尔蒙作用。）
 句中画底线的部分是以by A、B、C and by D的结构来修饰宾语从句中的动词is triggered。由内容来看A、B、C、D是平行的(都是引发冬眠的因素)，应该以对等的方式来处理。可是原句的处理方式中，by A、B、C之间缺乏连接词，而and只能连接两个by引导的介系词短语(by this and by that),因此原句的结构有语法上的问题。  
 最佳的修改方式是把A、B、C、D四项平行的因素并列，以连接词and串连，共同置于单一的介系词之后成为byA、B、C and D的结构，故应修正为：
@@ -26,11 +35,13 @@ Smoking by pregnant women may slow the growth of and generally harm the fetus.(�
 4. Rapid advances in computer technology have enhanced the speed of calculation, the quality of graphics, the fun with computer games, and have lowered prices.(误）
 (电脑技术的快速进展提高了计算的速度、图形的品质、电脑游戏的乐趣，也降低了价格。）
 这个句子以speed、quality和fun三者为动词have enhanced的宾语，三者在内容与结构上都是对等的，可是却没有对等连接词来连接，反而在后面加上and和have lowered prices连在一起，成为 A、B、CandD的结构，其中A、B、C都是名词短语，D却是动词短语，这就犯了结构上不对称的毛病。内容上来说，A、B、C是所增加的三样东西，D则是降低的东西，所以四者的内容也不对称，不适合并列。修改方法可以把前面三个名词短语用A、Band C的方式连接，第四项“降低价格”这项不对称的元素则不必对等, 而以从属从句简化（详见以后章节）的方式来处理，成为：
-Rapid advances in computer technology have enhanced the speed of calculation,the quality of graphics and the fun with computer games while lowering prices.(正）
+Rapid advances in computer technology have enhanced the speed of calculation,the quality of graphics and the fun with computer games while lowering prices.(正）  
+
 5. Population density is very low in Canada, the largest country in the Western Hemisphere and it is the second largest in the whole world.(误）
 (加拿大人口密度很低，它是西半球最大的国家，也是世界第二大国。）
 这个句子中，the largest country in the Western Hemisphere 是形容词从句省略掉Which is之后留下的名词补语，也就是所谓的同位语（作为Canada的同位语)，置于对等连接词and的左边。但是连接词右边的 it is the second largest in the whole world 在涵意上虽然和左边对称，可是却是主要从句的结构，所以结构上并不对称。对等连接词的要求就是在涵意上、结构上都要尽量对称，所以可将 it is the second largest in the whole world 也改为名词短语以求结构对称工整，成为：
-Population density is very low in Canada,the largest country in the Western Hemisphere and the second largest in the whole world.(正）
+Population density is very low in Canada,the largest country in the Western Hemisphere and the second largest in the whole world.(正）  
+
 6. Once the safety concerns over the new production procedure were removed and with its superiority to the old one being proved, there was nothing to stop the factory from switching over.(误)
 (新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）
 对等连接词and出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为对等从句，成为：
@@ -41,8 +52,9 @@ V1 S2 V2
 这两个对等从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有be动词是重复的元素，所以只能省略一个be 动词，成为:
 The safety concerns over the new production procedure were removed and its superiority to the old one proved.
 这个省略后的对等从句前面加上once (一旦）就成为表示条件的副词从句，若再附于主要从句之上，就成为符合对称要求的从句：
-Once the safety concerns over the new production procedure were removed and its superiority to the old one proved, there was nothing to stop the factory from switching over.(正）
-7.Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, serving as sentinel and to sound a warning at the slightest threat,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)
+Once the safety concerns over the new production procedure were removed and its superiority to the old one proved, there was nothing to stop the factory from switching over.(正）  
+
+7. Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, serving as sentinel and to sound a warning at the slightest threat,and exploring outside the nest for areas rich in flowers and, consequently, nectar.(误)
 (蜂窝中的工蜂担负各种任务，包括守卫入口、站哨并在威胁来临时发出警报，以及到巢外寻找富有花朵及花蜜的地区。）
 句子中在such as之后列举工蜂担负的任务，基本上是A、B and C的结构，其中B (画底线部分）又可以分成B1与B2—一站哨并发出警报。这两个动作是一体的两面，选择用对等的and来连接本来十分恰当，只是所连接的两部分serving as sentinel与to sound a warning在结构上一是动名词，一是不定词，并不对称。再看看 A(guarding the entrance)与 C(exploring outside the nest),都是动名词，所以B1与B2也应使用动名词才能对称，于是改为：
 Worker bees in a honeybee hive assume various tasks, such as guarding the entrance,serving as sentinel and sounding a warning at the slightest threat，and exploring outside the nest for areas rich in flowers and,consequently,nectar.(正）
