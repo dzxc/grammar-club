@@ -2,7 +2,10 @@
 
 <b>传统语法所称的**动状词**( Verbals )，包括**现在分词( Ving )**、**过去分词( Ven )**、**动名词( Ving )**与**不定词( to V )**等等。</b><u>其中现在分词、过去分词是形容词类</u>，<u>不定词则是“不一定什么词类”：它可以当名词、形容词、副词使用。</u>这就产生了一些混淆点。比如说，动词后面的宾语位置，必须用名词类。<b>可是**动名词**和**不定词**都可以**当做名词使用**（<u>分词只能当形容词</u>，可以不必考虑)，到底应如何区分？</b>这就要借助我们刚才的观察了。现在来看看几个具有代表性的动词：
 
-**一、 plan**
+
+### 一、 plan
+
+
 
 >  
 They <em>plan</em> to marry next month. （他们计划下个月结婚。）  
@@ -10,7 +13,10 @@ They <em>plan</em> to marry next month. （他们计划下个月结婚。）
 
 这个句子的 to marry next month 是 plan 的宾语，必须用名词类。那么为什么用不定词 to marry ，而不用动名词 marrying 呢？因为 to marry next month 就是(that) they will marry next month 的变化。marry 是计划中的事情，下个月才要发生，是未来式。再把 they will marry 改成 they are to marry 。这时候，如果把重复的主语 they 和空的 be 动词 are 省略掉，就成了不定词 to marry 。
 
-**二、 avoid**
+
+### 二、 avoid
+
+
 
 >  
 I <em>avoid</em> making the same mistake twice. （我避免犯同样的错误。）  
@@ -25,7 +31,10 @@ I will <em>make</em> the same mistake twice.
 
 一般语法书中规定avoid后面要用动名词，这是因为四种动状词中，只有动名词和不定词可以做名词类使用，也就是说：只有这两个可以当avoid的宾语。如果用不定词to make，则带有I will make这种未来式的涵意，与avoid这种具有否定意思的动词并不适合并列，所以只剩下动名词making是唯一的选择了。
 
-**三、 hate**
+
+### 三、 hate
+
+
 
 >  
 I <em>hate</em> to say this,but I think you're mistaken. （对不起，你错了。）  
@@ -33,7 +42,10 @@ S V O
 
 在这个句子中，hate固然也是否定的意思，可是后面却要接to say，这是因为to say是I have to say，也就是I must say的变化，表示“虽然很不愿意说，可是我不能不说。”
 
-**四、 like/dislike**
+
+### 四、 like/dislike
+
+
 
 >  
 - I <em>like</em> to be the first. （我喜欢排第一。）  
@@ -45,7 +57,10 @@ S V O
 
 第一句中的to be，可以视为I can be的变化。第二句中的to wait可以视为I will wait的变化，它可以做为like的宾语，成为like to wait (愿意等)，或变成否定句don't like to wait (不喜欢等)，这些都可以使用不定词。只有第三句，动词dislike (不喜欢）本身是否定的，后面就不适合接I will stand in long lines (愿意排队)。而且 dislike不像hate，它没有“必须”(have to)的暗示。所以dislike的后面接to stand就不适合了。既然不能用不定词，就只剩下动名词可以用了，所以要说 I dislike standing...
 
-**五、 try**
+
+### 五、 try
+
+
 
 >  
 I always <em>try</em> to be on time.（我总是力求准时。）  
@@ -65,7 +80,10 @@ S V O
 
 这个句子很奇怪吧！I try if I can be late，说话的人努力要迟到，但不知能否成功。所以，回到刚才那个句子：Why don`t you try being late for a change? 用 being late，而不用 to be late ，是表示“迟到”是一定做得到的，至于动词 try 所暗示的不确定性，现在不在“迟到”一事的本身，而是在“试试看迟到一下的后果如何”。
 
-**六、 remember**
+
+### 六、 remember
+
+
 
 >    
 Please <em>remember</em> to give me a wake-up call at 6:00 tomorrow.  
@@ -79,7 +97,10 @@ S V O
 Please remember you must give me a call.  
 这时是确定的事实语气，没有助动词存在，也就不能变成不定词，所以只好用动名词 calling 。
 
-**七、 stop**
+
+### 七、 stop
+
+
 
 >  
 The speaker <em>stopped</em> talking at the second bell.  
