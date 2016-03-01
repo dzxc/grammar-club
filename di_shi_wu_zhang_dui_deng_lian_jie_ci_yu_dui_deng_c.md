@@ -36,12 +36,16 @@ S1 V1 O1
 and it may generally harm the fetus.  
 S2 V2 O2  
 
-这两个对等从句的主语 smoking by pregnant women 相同，宾语the fetus也相同。对等从句省略的原则就是，相对应位置如果是重复的元素就可以省略。这是因为对等从句有相当严格的对称要求，即使省略掉重复的元素依然能表达清楚。不过在上面这个句子中，两个宾语扮演的角色不同：在前面的对等从句以fetus为介系词of的宾语，在后面的对等从句则以fetus为动词harm的宾语。所以固然可以省略前面的宾语fetus，但是介系词of却不能省略。故应修正为：
-Smoking by pregnant women may slow the growth of and generally harm the fetus.(正)
-4. Rapid advances in computer technology have enhanced the speed of calculation, the quality of graphics, the fun with computer games, and have lowered prices.(误）
-(电脑技术的快速进展提高了计算的速度、图形的品质、电脑游戏的乐趣，也降低了价格。）
-这个句子以speed、quality和fun三者为动词have enhanced的宾语，三者在内容与结构上都是对等的，可是却没有对等连接词来连接，反而在后面加上and和have lowered prices连在一起，成为 A、B、CandD的结构，其中A、B、C都是名词短语，D却是动词短语，这就犯了结构上不对称的毛病。内容上来说，A、B、C是所增加的三样东西，D则是降低的东西，所以四者的内容也不对称，不适合并列。修改方法可以把前面三个名词短语用A、Band C的方式连接，第四项“降低价格”这项不对称的元素则不必对等, 而以从属从句简化（详见以后章节）的方式来处理，成为：
-Rapid advances in computer technology have enhanced the speed of calculation,the quality of graphics and the fun with computer games while lowering prices.(正）  
+这两个对等从句的主语 smoking by pregnant women 相同，宾语 the fetus 也相同。对等从句省略的原则就是，相对应位置如果是重复的元素就可以省略。这是因为对等从句有相当严格的对称要求，即使省略掉重复的元素依然能表达清楚。不过在上面这个句子中，两个宾语扮演的角色不同：在前面的对等从句以 fetus 为介系词 of 的宾语，在后面的对等从句则以 fetus 为动词 harm 的宾语。所以固然可以省略前面的宾语 fetus ，但是介系词 of 却不能省略。故应修正为：  
+>  
+Smoking by pregnant women may slow the growth of and generally harm the fetus.(正)  
+
+例四、Rapid advances in computer technology have enhanced the speed of calculation, the quality of graphics, the fun with computer games, and have lowered prices.(误）  
+（电脑技术的快速进展提高了计算的速度、图形的品质、电脑游戏的乐趣，也降低了价格。）  
+
+这个句子以 speed、quality 和 fun 三者为动词 have enhanced 的宾语，三者在内容与结构上都是对等的，可是却没有对等连接词来连接，反而在后面加上 and 和 have lowered prices 连在一起，成为 A、B、C and D 的结构，其中 A、B、C 都是名词短语，D 却是动词短语，这就犯了结构上不对称的毛病。内容上来说，A、B、C 是所增加的三样东西，D则是降低的东西，所以四者的内容也不对称，不适合并列。修改方法可以把前面三个名词短语用 A、Band C 的方式连接，第四项“降低价格”这项不对称的元素则不必对等, 而以从属从句简化（详见以后章节）的方式来处理，成为：  
+>  
+Rapid advances in computer technology have enhanced the speed of calculation,the quality of graphics and the fun with computer games while lowering prices.(正）    
 
 5. Population density is very low in Canada, the largest country in the Western Hemisphere and it is the second largest in the whole world.(误）
 (加拿大人口密度很低，它是西半球最大的国家，也是世界第二大国。）
