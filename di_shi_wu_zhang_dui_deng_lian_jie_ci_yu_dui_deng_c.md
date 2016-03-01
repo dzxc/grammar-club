@@ -18,19 +18,25 @@ S V O
 >  
 The Yangtze River,the most vital source of irrigation water across the width of China and an important transportation conduit,has nurtured the Chinese civilization for millennia.(正）  
 
-例二、 Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)
-(科学家认为引发冬眠的因素包括环境的气温下降、食物短缺、白昼缩短以及荷尔蒙作用。）
-句中画底线的部分是以by A、B、C and by D的结构来修饰宾语从句中的动词is triggered。由内容来看A、B、C、D是平行的(都是引发冬眠的因素)，应该以对等的方式来处理。可是原句的处理方式中，by A、B、C之间缺乏连接词，而and只能连接两个by引导的介系词短语(by this and by that),因此原句的结构有语法上的问题。  
-最佳的修改方式是把A、B、C、D四项平行的因素并列，以连接词and串连，共同置于单一的介系词之后成为byA、B、C and D的结构，故应修正为：
-Scientists believe that hibernation is triggered by decreasing environmental temperatures,food shortage,shorter periods of daylight, and hormonal activity.(正）
-3. Smoking by pregnant women may slow the growth and generally harm the fetus.(误)
-(孕妇吸烟可能妨碍胚胎发育，对胚胎造成一般性的伤害。）
-这个句子可视为以下的对等从句的省略：
-Smoking by pregnant women may slow the growth of the fetus,
-S1 V1 O1
-and it may generally harm the fetus.
-S2 V2 O2
-这两个对等从句的主语smoking by pregnant women相同，宾语the fetus也相同。对等从句省略的原则就是，相对应位置如果是重复的元素就可以省略。这是因为对等从句有相当严格的对称要求，即使省略掉重复的元素依然能表达清楚。不过在上面这个句子中，两个宾语扮演的角色不同：在前面的对等从句以fetus为介系词of的宾语，在后面的对等从句则以fetus为动词harm的宾语。所以固然可以省略前面的宾语fetus，但是介系词of却不能省略。故应修正为：
+例二、 Scientists believe that hibernation is triggered by decreasingenvironmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity.(误)  
+（科学家认为引发冬眠的因素包括环境的气温下降、食物短缺、白昼缩短以及荷尔蒙作用。）  
+  
+句中画底线的部分是以 by A、B、C and by D 的结构来修饰宾语从句中的动词 is triggered 。由内容来看 A、B、C、D 是平行的(都是引发冬眠的因素)，应该以对等的方式来处理。可是原句的处理方式中，by A、B、C 之间缺乏连接词，而 and 只能连接两个 by 引导的介系词短语(by this and by that),因此原句的结构有语法上的问题。  
+最佳的修改方式是把 A、B、C、D 四项平行的因素并列，以连接词 and 串连，共同置于单一的介系词之后成为 by A、B、C and D 的结构，故应修正为：  
+>  
+Scientists believe that hibernation is triggered by decreasing environmental temperatures,food shortage,shorter periods of daylight, and hormonal activity.(正）  
+
+例三、 Smoking by pregnant women may slow the growth and generally harm the fetus.(误)  
+（孕妇吸烟可能妨碍胚胎发育，对胚胎造成一般性的伤害。）  
+
+这个句子可视为以下的对等从句的省略：  
+>  
+Smoking by pregnant women may slow the growth of the fetus,  
+S1 V1 O1  
+and it may generally harm the fetus.  
+S2 V2 O2  
+
+这两个对等从句的主语 smoking by pregnant women 相同，宾语the fetus也相同。对等从句省略的原则就是，相对应位置如果是重复的元素就可以省略。这是因为对等从句有相当严格的对称要求，即使省略掉重复的元素依然能表达清楚。不过在上面这个句子中，两个宾语扮演的角色不同：在前面的对等从句以fetus为介系词of的宾语，在后面的对等从句则以fetus为动词harm的宾语。所以固然可以省略前面的宾语fetus，但是介系词of却不能省略。故应修正为：
 Smoking by pregnant women may slow the growth of and generally harm the fetus.(正)
 4. Rapid advances in computer technology have enhanced the speed of calculation, the quality of graphics, the fun with computer games, and have lowered prices.(误）
 (电脑技术的快速进展提高了计算的速度、图形的品质、电脑游戏的乐趣，也降低了价格。）
