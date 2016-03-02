@@ -5,7 +5,7 @@
 ### 一、what
 
 
-把关系代名词改写为what来表示前面省掉的先行词。例如:  
+把关系代名词改写为 what 来表示前面省掉的先行词。例如:  
 >  
 - I have the thing.  
 S V O  
@@ -56,7 +56,7 @@ whoever 表示前面省掉一个先行词。句型分析上也可以直接把 wh
 ### 三、whichever
 
 
-如果是“任意选哪一个”的意思，可以用whichever来代表先行词的省略。例如：  
+如果是“任意选哪一个”的意思，可以用 whichever 来代表先行词的省略。例如：  
 >  
 You can take any car.  
 S V O  
