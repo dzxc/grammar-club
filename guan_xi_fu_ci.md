@@ -19,10 +19,10 @@
 如果认定 when 的先行词是 a time (名词)，那么关系从句形容这个名词，依旧是形容词类。这样的诠释比较统一，也比较单纯。也就是：<b>在省略之前，关系从句全部都是形容词从句，所有的形容词从句也都是关系从句，两者间可划等号。</b>  
 谈到省略，观察例3当可发现：  
 
-一、<em>at a time</em> 和 <em>when</em> 都是**空洞、无内容**的字眼（不像 in 1964, last January
+一、<em>at a time</em> 和 <em>when</em> 都是<b>空洞、无内容</b>的字眼（不像 in 1964, last January
 之类有明确内容的时间)；  
-二、<em>at a time</em> 和 <em>when</em> **重复**；  
-三、<em>at a time</em> 和 <em>when</em> 都是**可有可无的**副词类。  
+二、<em>at a time</em> 和 <em>when</em> <b>重复</b>；  
+三、<em>at a time</em> 和 <em>when</em> 都是<b>可有可无的</b>副词类。  
 
 <b>基于这三点观察，<em>at a time</em> 和 <em>when</em> 应该**择一省略**来避免重复，让句子紧凑些。</b>也就是例3可以省略而变成以下两种状况：  
 >  
