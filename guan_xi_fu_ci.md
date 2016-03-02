@@ -81,13 +81,17 @@ S V O
 笔者认为：<b>**名词的先行词**不能省略！</b>至于例5,并不是省略名词的结果，甚至它根本不是关系从句，而是名词从句。这一点需要说明。  
 在讲解名词从句的那一章中曾提到，名词从句有两种：  
 
-一、一个直述句外加连接词that所构成，表示that thing (那件事)。例如：
-He said (that) he would call. (他说过要打电话来。)
-S V O (名词从句)
-二、由疑问词引导的疑问句改造而成，表示a question (—个问题)。例如：  
+一、<b>一个直述句外加连接词 that 所构成，表示 that thing (那件事)。</b>  
+例如：  
 >  
-He asked how much it was.（他问它多少钱。）  
+He said (that) he would call. (他说过要打电话来。)  
 S V O (名词从句)  
+
+二、<b>由疑问词引导的疑问句改造而成，表示 a question (—个问题)。</b>  
+例如：    
+>  
+He asked how much it was.（他问它多少钱。）    
+S V O (名词从句)    
 
 这个例子中的名词从句就是由疑问句 How much is it 改造而成。  
 在此稍为补充一下，还有一种名词从句，是由 Yes/No questions ，也就是由不具疑问词的疑问句改造而成。例如：  
