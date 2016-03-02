@@ -68,7 +68,7 @@ S V O
 You can take any car that you like.  
 S1 V1 O1 O2（关系词） S2 V2  
 
-因为关系词 that 在关系从句(that you like)中是宾语，可以选择省略掉，成为：  
+因为关系词 that 在关系从句( that you like )中是宾语，可以选择省略掉，成为：  
 >  
 You can take any car you like.  
 S1 V1 O（先行词） S2 V2  
