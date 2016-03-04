@@ -20,4 +20,4 @@
 
 ### 本书制作过程
 
-在我的博客上，目前还没写好，[点这里](http://zhusandiao.com/2016/02/25/Gitbook/#more)
+记录在我的博客上，[点这里](http://zhusandiao.com/2016/02/25/Gitbook/#more)
