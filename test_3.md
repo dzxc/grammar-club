@@ -11,47 +11,47 @@
 (B) did not hear  
 (C) have heard  
 (D) have not heard  
-6. The future price of this stock ____ by several factors.  
-(A) is going to determine  
-(B) will determine  
-(C) will be determining  
-(D) will be determined  
 2. At present a new road ____ in that part of the city.  
 (A) is building  
 (B) will be built  
 (C) will have built  
 (D) is being built  
-7. The camera was invented in the 19th century.At that time, most photographers ____ professionals.  
-(A) are  
-(B) were  
-(C) have been  
-(D) had been  
 3. Our city ____ a great deal.It doesn't resemble the one of three years ago.  
 (A) changes  
 (B) has changed  
 (C) is changing  
 (D) will change  
+4. When Anna phoned me I had just finished my work and ____ to take a bath.  
+(A) was starting  
+(B) have started  
+(C) starting  
+(D) will start  
+5. There ____ some very bad storms recently.  
+(A) is  
+(B) are  
+(C) have been  
+(D) have  
+6. The future price of this stock ____ by several factors.  
+(A) is going to determine  
+(B) will determine  
+(C) will be determining  
+(D) will be determined  
+7. The camera was invented in the 19th century.At that time, most photographers ____ professionals.  
+(A) are  
+(B) were  
+(C) have been  
+(D) had been  
 8. The whole area was flooded because it ____ for weeks.  
 (A) rains  
 (B) has rained  
 (C) had been raining  
 (D) was raining  
 (D) was raining  
-4. When Anna phoned me I had just finished my work and ____ to take a bath.  
-(A) was starting  
-(B) have started  
-(C) starting  
-(D) will start  
 9. By next Sunday you ____ with us for three months.  
 (A) will have stayed  
 (B) will stay  
 (C) shall stay  
 (D) have stayed  
-5. There ____ some very bad storms recently.  
-(A) is  
-(B) are  
-(C) have been  
-(D) have  
 10. We could smell that someone ____ a cigar.  
 (A) would be smoking  
 (B) was smoked  
