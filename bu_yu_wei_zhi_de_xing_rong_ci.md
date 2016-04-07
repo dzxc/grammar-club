@@ -13,11 +13,11 @@ O C
 
 另外，<b>上面提到的一批 a- 开头的古英语形容词，因为它所暗示的“暂时性”语气，使它不适合放在名词短语中的位置，而最常出现在补语位置。</b>例如：  
 >  
-The fish is still alive.（鱼还活着。）  
+The fish is still <em>alive</em>.（鱼还活着。）  
 S C  
-The balloon stays afloat.（气球还飘在空中。）  
+The balloon stays <em>afloat</em>.（气球还飘在空中。）  
 S C  
-They found the professor alone. （他们见到教授独自一人。）  
+They found the professor <em>alone</em>. （他们见到教授独自一人。）  
 O C  
-Coffee keeps him awake.（咖啡使他头脑清醒。）  
+Coffee keeps him <em>awake</em>.（咖啡使他头脑清醒。）  
 O C  
