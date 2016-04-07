@@ -10,16 +10,16 @@ He is <em>disappointed</em> at his scores. （他对分数很失望。）
 His scores are <em>disappointing</em>. （他的分数令人失望。）  
 <b>有一些**表示“感觉”的字**，像<em>disappoint、satisfy、surprise、amaze、 astonish、scare、terrify、please、tire、exhaust</em> 等</b>，该用现在分词还是过去分词，有时用中文的“主动”、“被动”一时会想不清楚。像上面的两个例子，可以先还原为这种形状：  
 >  
-- His scores <em>disappoint</em> him. （他的分数令他失望。）  
+His scores <em>disappoint</em> him. （他的分数令他失望。）  
 S V O  
 这样就比较容易看出来，如果用He做主语，应该是被动态，因为he原来是宾语的him。  
 改成被动态为：  
-He is <em>disappointed</em> at his scores.（他对分数很失望。）  
+>> He is <em>disappointed</em> at his scores.（他对分数很失望。）  
 
 <b>虽然是被动态的形状，可是这些表示“感觉”的字眼**被动的意味不明显**，都是**形容词意味大过动作的意味**，所以后面不用被动态的介词by，而用其他介词</b>（上例中就是接at his scores)。
 >  
-- 另外，如果用His scores 做主语，就可以看出来要用主动态，因为His scores原来就是主语，于是变成：  
-His scores are <em>disappointing</em>.（他的分数令人失望。）  
+另外，如果用His scores 做主语，就可以看出来要用主动态，因为His scores原来就是主语，于是变成：  
+>> His scores are <em>disappointing</em>.（他的分数令人失望。）  
 
 许多表示“感觉”的字眼，都可以依此类推来决定该用现在分词还是过去分词。
 
