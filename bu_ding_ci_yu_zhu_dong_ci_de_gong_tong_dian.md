@@ -33,6 +33,10 @@ I am glad <em>to know you</em>.
 例：I <em>will go</em>.（我要走了。）  
 I want <em>to go</em>. （我想去。）  
 
+
+---
+
+
 二、**都有「不确定」的语气**
 >  
 例：He is right.（他是对的。）  
