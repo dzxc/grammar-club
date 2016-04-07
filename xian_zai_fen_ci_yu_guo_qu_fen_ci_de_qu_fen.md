@@ -34,5 +34,5 @@ S V O
 - Water <em>consists</em> of hydrogen and oxygen.  
 - Water <em>is composed</em> of hydrogen and oxygen.  
 （水由氫分子和氧分子组成。）  
-<u>consist</u> 的词根 <em>sist</em> 是 <em>stand</em> 或 <em>be</em> 的意思，都是不及物，配合词首  <em>con(together)</em> ，可以解释为 <em>stand together</em> 或 <em>be together</em>。<u>既然它是不及物动词，自然没有被动态，也没有宾语。</u>
+>>  <u>consist</u> 的词根 <em>sist</em> 是 <em>stand</em> 或 <em>be</em> 的意思，都是不及物，配合词首  <em>con(together)</em> ，可以解释为 <em>stand together</em> 或 <em>be together</em>。<u>既然它是不及物动词，自然没有被动态，也没有宾语。</u>
 可是 <u>compose</u> 就不同了。词根 <em>pos</em> 解释为 <em>place</em>(放)，是及物动词，所以可以有被动态，才可以用到过去分词 <em>composed</em>。
