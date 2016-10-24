@@ -4,7 +4,8 @@
         "word-count",
         "hide-published-with",
         "emphasize",
-        "ungrey"
+        "ungrey",
+        "donate"
     ],
     "pluginsConfig": {}
 }
