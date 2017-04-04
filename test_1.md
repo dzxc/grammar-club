@@ -33,7 +33,7 @@
 >    S V O C
 > 3. The police found the missing letter.  
 >    S V O
-> 4. He ordered himself a steak and a bottle of red wine.  
+> 4. &lt;u&gt;He&lt;/u&gt; &lt;u&gt;ordered&lt;/u&gt; &lt;u&gt;himself&lt;/u&gt; &lt;u&gt;a steak and a bottle of red wine&lt;/u&gt;.  
 >    S V O O
 > 5. Don't &lt;u&gt;you&lt;/u&gt; &lt;u&gt;like&lt;/u&gt; &lt;u&gt;dancing&lt;/u&gt;?  
 >    S V O
