@@ -134,7 +134,7 @@
 * [第二十二章 倒装句](di_er_shi_er_zhang_dao_zhuang_ju.md)
   * [比较级的倒装](bi_jiao_ji_de_dao_zhuang.md)
   * [关系从句的倒装](guan_xi_cong_ju_de_dao_zhuang.md)
-  * [假设语气的倒装](jia_she_yu_qi_de_dao_zhuang.md)
+  * [虚拟语气的倒装](jia_she_yu_qi_de_dao_zhuang.md)
   * [引用句的倒装](yin_yong_ju_de_dao_zhuang.md)
   * [类似there is/are的倒装](lei_si_there_is__are_de_dao_zhuang.md)
   * [否定副词开头的倒装](fou_ding_fu_ci_kai_tou_de_dao_zhuang.md)
