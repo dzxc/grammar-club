@@ -64,7 +64,7 @@ If there should be a fire, the sprinkler will be started.
 In case of a fire, the sprinkler will be started.  
 介词短语  
 
-副词从句改写为介系词短语，是大幅度的简化。许多连接词都找得到近似的介词。然而，改过之后，只剩下一个名词的空间来装下整个从句的内容，所以要大量精简。装不下时就不要这样简化，或者另辟蹊径。例如：  
+副词从句改写为介词短语，是大幅度的简化。许多连接词都找得到近似的介词。然而，改过之后，只剩下一个名词的空间来装下整个从句的内容，所以要大量精简。装不下时就不要这样简化，或者另辟蹊径。例如：  
 >  
 Because the exam is only a week away, I have no time to waste.  
 （副词从句） S V C   
@@ -75,4 +75,4 @@ Because the exam is only a week away, I have no time to waste.
 With the exam only a week away,I have no time to waste.  
 介词 O C  
 
-连接词 because 改成介系词 with 。原来的主语 the exam 作它的宾语。be 动词省略后，主语补语 only a week away 就成了宾语补语，完成了简化的工作。
+连接词 because 改成介词 with 。原来的主语 the exam 作它的宾语。be 动词省略后，主语补语 only a week away 就成了宾语补语，完成了简化的工作。
