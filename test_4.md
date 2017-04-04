@@ -16,28 +16,28 @@
 >    \(A\) Explain
 >    \(B\) To explain
 >    \(C\) One explains
->    \(D\) The explanation of
+>    \(D\) The explanation of  
 > 4. "I'll help you whenever you need me."
 >    "good. I'd like \_\_ me tomorrow."
 >    \(A\) you helping
 >    \(B\) that will help
 >    \(C\) you to help
->    \(D\) that you help
+>    \(D\) that you help  
 > 5. “Where did he go?”“He went to another store \_\_ .”  
 >    \(A\) to buy slacks
 >    \(B\) for buy slacks
 >    \(C\) buy slacks
->    \(D\) buying slacks
+>    \(D\) buying slacks  
 > 6. _\_\_\_ the silkworm makes a liquid in its body and then squeezes it out through special holes.  
 >    \(A\) It makes silk  
 >    \(B\) Making silk  
 >    \(C\) To make silk,  
->    \(D\) Silk is made by  
+>    \(D\) Silk is made by    
 > 7. I am a peaceful person. Don't make me _\_\_\_ violence.  
 >    \(A\) use  
 >    \(B\) using  
 >    \(C\) to use  
->    \(D\) used by  
+>    \(D\) used by    
 > 8. Americans _\_\_\_ bacon and eggs for breakfast every day.  
 >    \(A\) used to having  
 >    \(B\) are used to have  
@@ -62,32 +62,32 @@
 >     \(A\) being questioned  
 >     \(B\) to question  
 >     \(C\) to be questioned  
->     \(D\) questioning  
+>     \(D\) questioning     
 > 13. You can playback the answering machine. She \_\_.  
 >     \(A\) will call
 >     \(B\) could call
 >     \(C\) could have called
->     \(D\) is calling
+>     \(D\) is calling  
 > 14. \_\_ able to write an academic paper, you must do a lot of library research.  
 >     \(A\) Be  
 >     \(B\) Being  
 >     \(C\) To be  
->     \(D\) Before  
+>     \(D\) Before    
 > 15. You should avoid \_\_ vague words in your composition.  
 >     \(A\) to use
 >     \(B\) using
 >     \(C\) the use
->     \(D\) to using
+>     \(D\) to using  
 > 16. He is waiting at the restaurant for a free table because he forgot \_\_ a reservation in advance.  
 >     \(A\) making
 >     \(B\) to make
 >     \(C\) made
->     \(D\) have to make
+>     \(D\) have to make  
 > 17. We can go out now.It stopped \_\_ quite a while ago.  
 >     \(A\) rain
 >     \(B\) raining
 >     \(C\) to rain
->     \(D\) rained
+>     \(D\) rained  
 > 18. He always has his shoes _\_\_\_ at the railway station.  
 >     \(A\) shone  
 >     \(B\) to shine  
