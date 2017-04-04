@@ -13,7 +13,7 @@ O
 >   
 I can't tell if he’s telling the truth or not.  
 
-<b><em>whether</em> 和解释为“是否”的 <em>if</em> 在大多数的情况下可以互换使用，但是在句首位置以及介系词后面就只能用 whether</b> ，请从下面的例子思考一下为什么。  
+<b><em>whether</em> 和解释为“是否”的 <em>if</em> 在大多数的情况下可以互换使用，但是在句首位置以及介词后面就只能用 whether</b> ，请从下面的例子思考一下为什么。  
 >  
 1.Either the stock market will improve or it will not.  
 2.(The question) which is impossible to say now.  
@@ -28,11 +28,11 @@ say now.
 >  
 1.Either the tumor is malignant or it is not.  
 2.The treatment will be decided by (the question) which.  
-介系词 O  
+介词 O  
 >>  →(A) The treatment will be decided by  
-介系词  
+介词  
 whether the tumor is malignant or not.  
 O  
 （治疗方法将视肿瘤是否为恶性而定。）  
 
-例1的两个选择就是例2中介系词 by 的宾语 which ，可以结合成为 whether 的名词从句，置于 by 之后作宾语。这个位置也不能用 if ，<b>因为介系词后面必须使用名词短语，不适合使用连接词引导名词从句。 whether 的从句可以放在介系词后面，因为它是 which 和  either 合成的字，其中的 which 是代名词类，可以作介系词的宾语。</b>
+例1的两个选择就是例2中介词 by 的宾语 which ，可以结合成为 whether 的名词从句，置于 by 之后作宾语。这个位置也不能用 if ，<b>因为介词后面必须使用名词短语，不适合使用连接词引导名词从句。 whether 的从句可以放在介词后面，因为它是 which 和  either 合成的字，其中的 which 是代名词类，可以作介词的宾语。</b>
