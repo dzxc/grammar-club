@@ -12,6 +12,16 @@
 (B) Owing to  
 (C) Viewing  
 (D) According  
+3. The children came rushing____the sound of the circus parade.  
+(A) on  
+(B) to  
+(C) at  
+(D) beyond 
+4. Although too much leisure may lead people to a wasteful life,everyone has a right____a minimum amount of leisure time.  
+(A) with  
+(B) to  
+(C) on  
+(D) for  
 5. In the sentence,“The size of the room is 12' × 14’，”the sign “×”is to read “____”  
 (A) and  
 (B) with  
@@ -21,22 +31,12 @@
 (A) since  
 (B) through  
 (C) also  
-(D) with  
-3. The children came rushing____the sound of the circus parade.  
-(A) on  
-(B) to  
-(C) at  
-(D) beyond  
+(D) with   
 7. John's parents died when he was only a child,and ever since he did not seem to have a home ____ his own.  
 (A) in  
 (B) of  
 (C) with  
 (D) at  
-4. Although too much leisure may lead people to a wasteful life,everyone has a right____a minimum amount of leisure time.  
-(A) with  
-(B) to  
-(C) on  
-(D) for  
 8. The dictionary is sold____one hundred dollars a copy.  
 (A) with  
 (B) by  
@@ -47,56 +47,56 @@
 (B) with a week  
 (C) to a week  
 (D) since a week  
-15. In the photograph the man's face is____focus and blurred.  
-(A) out of  
-(B) with  
-(C) on  
-(D) to  
 10. The experts know many things that won't work in curing AIDS,so they are that much closer to ____ one that will.  
 (A) find  
 (B) found  
 (C) finding  
 (D) have found  
-16. ____ the seriousness of the occasion,the audience burst out laughing,at the extraordinary nature of the proposal.  
-(A) Although  
-(B) Notwithstanding  
-(C) In respect of  
-(D) On behalf of  
 11. ____ prices so high,I'll have to do without a new suit.  
 (A) With  
 (B) Because  
 (C) Because of  
 (D) As  
-17. ____ being portable,a walkman provides a high quality of sound.  
-(A) Aside  
-(B) Far from  
-(C) Beside  
-(D) Besides  
 12. Mrs.Johnson's old cat likes to sit____ the sun.  
 (A) near  
 (B) in  
 (C) underneath  
 (D) below  
-18. George likes all vegetables ____ for spinach.  
-(A) except  
-(B) accept  
-(C) excuse  
-(D) expect  
 13. You can't do a hard day's work ____ a cup of coffee and a slice of bread.  
 (A) of  
 (B) on  
 (C) in  
 (D) at  
-19. ____ the weather,forecast or anticipated,a true English gentleman always carries an umbrella,wherever he goes.  
-(A) Regardless  
-(B) Regard  
-(C) Regard of  
-(D) Regardless of  
 14. The necklace you are wearing is very becoming ____ you.  
 (A) at  
 (B) to  
 (C) for  
 (D) with  
+15. In the photograph the man's face is____focus and blurred.  
+(A) out of  
+(B) with  
+(C) on  
+(D) to  
+16. ____ the seriousness of the occasion,the audience burst out laughing,at the extraordinary nature of the proposal.  
+(A) Although  
+(B) Notwithstanding  
+(C) In respect of  
+(D) On behalf of  
+17. ____ being portable,a walkman provides a high quality of sound.  
+(A) Aside  
+(B) Far from  
+(C) Beside  
+(D) Besides  
+18. George likes all vegetables ____ for spinach.  
+(A) except  
+(B) accept  
+(C) excuse  
+(D) expect  
+19. ____ the weather,forecast or anticipated,a true English gentleman always carries an umbrella,wherever he goes.  
+(A) Regardless  
+(B) Regard  
+(C) Regard of  
+(D) Regardless of  
 20. I welcome you most cordially,both personally and ____ behalf of the faculty and the student body.  
 (A) in  
 (B) at  
