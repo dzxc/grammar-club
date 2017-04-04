@@ -37,7 +37,7 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 ### 四、between/amon
 
 
-<u>一般语法书说 between 用于表示两者之间， among 则是三者以上，大致说来是可以接受的</u>，可是要拿它当规则来背，就会有例外。其实这两个介系词的差别主要不在两个与多个之差，而在于：<b><u>**between** 有标示位置的功能</u>，**among** 则没有。</b>例如：  
+<u>一般语法书说 between 用于表示两者之间， among 则是三者以上，大致说来是可以接受的</u>，可是要拿它当规则来背，就会有例外。其实这两个介词的差别主要不在两个与多个之差，而在于：<b><u>**between** 有标示位置的功能</u>，**among** 则没有。</b>例如：  
 - Taizhong lies <em>between</em> Taibei and Tainan.  
 (台中位于台北与台南之间。)   
 
@@ -95,7 +95,7 @@ Honolulu是夏威夷首府，不可谓不大，可是空中小姐在广播中如
 ### 八、below/under
 
 
-这一对介系词的关系与上一对类似：<b><u><em>below</em> 表示相对高度较低，而<em> under </em>则有标示定点的功能</u></b>。例如：  
+这一对介词的关系与上一对类似：<b><u><em>below</em> 表示相对高度较低，而<em> under </em>则有标示定点的功能</u></b>。例如：  
 - The submarine is <em>below</em> the surface now.  
 (潜艇在水面以下了。)  
 
