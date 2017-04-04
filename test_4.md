@@ -2,103 +2,104 @@
 
 请选出最适当的答案填入空格内，以使句子完整。
 
-> 1. Not wishing to attend the dance, Marie _\_\__ that she had a fever.  
+> 1. Not wishing to attend the dance, Marie _\_\_\_ that she had a fever.  
 >    \(A\) made believed  
 >    \(B\) make believe  
 >    \(C\) makes believe  
 >    \(D\) made believe  
-> 2. H   e is said by his friends \_\_ .
+> 2. He is said by his friends \_\_ .
 >    \(A\) to be gentle and gracious
 >    \(B\) to have graciousness and gentle
 >    \(C\) gentle and a gracious man
 >    \(D\) that is a gentle and gracious man  
-> 3. \_   \_ any aspect of animal behavior, the biologist must first determine the laws influencing animal behavior.  
+> 3. \_\_ any aspect of animal behavior, the biologist must first determine the laws influencing animal behavior.  
 >    \(A\) Explain
 >    \(B\) To explain
 >    \(C\) One explains
 >    \(D\) The explanation of
-> 4. "   I'll help you whenever you need me."
+> 4. "
+>    I'll help you whenever you need me."
 >    "good. I'd like \_\_ me tomorrow."
 >    \(A\) you helping
 >    \(B\) that will help
 >    \(C\) you to help
 >    \(D\) that you help
-> 5. “   Where did he go?”“He went to another store \_\_ .”  
+> 5. “Where did he go?”“He went to another store \_\_ .”  
 >    \(A\) to buy slacks
 >    \(B\) for buy slacks
 >    \(C\) buy slacks
 >    \(D\) buying slacks
-> 6. _\_\__ the silkworm makes a liquid in its body and then squeezes it out through special holes.  
+> 6. _\_\_\_ the silkworm makes a liquid in its body and then squeezes it out through special holes.  
 >    \(A\) It makes silk  
 >    \(B\) Making silk  
 >    \(C\) To make silk,  
 >    \(D\) Silk is made by  
-> 7. 8. I am a peaceful person. Don't make me _\_\__ violence.  
+> 7. I am a peaceful person. Don't make me _\_\_\_ violence.  
 >    \(A\) use  
 >    \(B\) using  
 >    \(C\) to use  
 >    \(D\) used by  
-> 9. 10. Americans _\_\__ bacon and eggs for breakfast every day.  
->     \(A\) used to having  
->     \(B\) are used to have  
->     \(C\) are used to having  
->     \(D\) used to  
-> 11. 12. The bus driver told the man _\_\__ his naughty son to hang out the window.  
->     \(A\) to don't allow  
->     \(B\) not to allow  
->     \(C\) not allowing  
->     \(D\) don't allowing  
-> 13. 14. To get an education, _\_\__ .  
+> 8. Americans _\_\_\_ bacon and eggs for breakfast every day.  
+>    \(A\) used to having  
+>    \(B\) are used to have  
+>    \(C\) are used to having  
+>    \(D\) used to  
+> 9. The bus driver told the man _\_\_\_ his naughty son to hang out the window.  
+>    \(A\) to don't allow  
+>    \(B\) not to allow  
+>    \(C\) not allowing  
+>    \(D\) don't allowing  
+> 10. To get an education, _\_\_\_ .  
 >     \(A\) one must work hard  
 >     \(B\) working hard is necessary  
 >     \(C\) there is need to work hard  
 >     \(D\) hard work is needed  
-> 15. The purpose of the investigation is _\_\__ the suspect's degree of involvement in the crime.  
+> 11. The purpose of the investigation is _\_\_\_ the suspect's degree of involvement in the crime.  
 >     \(A\) to ascertaining  
 >     \(B\) ascertaining  
 >     \(C\) to ascertain  
 >     \(D\) ascertained  
-> 16. 17. The witness went on the witness stand _\_\__ by the prosecution.  
+> 12. The witness went on the witness stand _\_\_\_ by the prosecution.  
 >     \(A\) being questioned  
 >     \(B\) to question  
 >     \(C\) to be questioned  
 >     \(D\) questioning  
-> 18. Y    ou can playback the answering machine. She \_\_.  
+> 13. You can playback the answering machine. She \_\_.  
 >     \(A\) will call
 >     \(B\) could call
 >     \(C\) could have called
 >     \(D\) is calling
-> 19. _\_\__ able to write an academic paper, you must do a lot of library research.  
+> 14. \_\_ able to write an academic paper, you must do a lot of library research.  
 >     \(A\) Be  
 >     \(B\) Being  
 >     \(C\) To be  
 >     \(D\) Before  
-> 20. Y    ou should avoid \_\_ vague words in your composition.  
+> 15. You should avoid \_\_ vague words in your composition.  
 >     \(A\) to use
 >     \(B\) using
 >     \(C\) the use
 >     \(D\) to using
-> 21. H    e is waiting at the restaurant for a free table because he forgot \_\_ a reservation in advance.  
+> 16. He is waiting at the restaurant for a free table because he forgot \_\_ a reservation in advance.  
 >     \(A\) making
 >     \(B\) to make
 >     \(C\) made
 >     \(D\) have to make
-> 22. W    e can go out now.It stopped \_\_ quite a while ago.  
+> 17. We can go out now.It stopped \_\_ quite a while ago.  
 >     \(A\) rain
 >     \(B\) raining
 >     \(C\) to rain
 >     \(D\) rained
-> 23. He always has his shoes _\_\__ at the railway station.  
+> 18. He always has his shoes _\_\_\_ at the railway station.  
 >     \(A\) shone  
 >     \(B\) to shine  
 >     \(C\) shining  
 >     \(D\) shined   
-> 24. 25. Don't sit up too late, for night is a time _\_\__ .  
+> 19. Don't sit up too late, for night is a time _\_\_\_ .  
 >     \(A\) resting  
 >     \(B\) to rest  
 >     \(C\) that rests  
 >     \(D\) when rest  
-> 26. 27. He was made _\_\__ the Bible every night before going to bed.  
+> 20. He was made _\_\_\_ the Bible every night before going to bed.  
 >     \(A\) read  
 >     \(B\) to read  
 >     \(C\) reading  
