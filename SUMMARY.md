@@ -140,6 +140,6 @@
   * [否定副词开头的倒装](fou_ding_fu_ci_kai_tou_de_dao_zhuang.md)
   * [结语](22_jie_yu.md)
   * [Test 22](test_22.md)
-  * [大陆与台湾英语术语对照表](da-lu-yu-tai-wan-ying-yu-zhu-yu-dui-zhao-8868-md.md)
+* [补充](da-lu-yu-tai-wan-ying-yu-zhu-yu-dui-zhao-8868-md.md)
 * [封面、求打赏  以及其他](yi_xie_qi_ta.md)
 
