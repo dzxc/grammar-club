@@ -4,53 +4,53 @@
 
 请选出最适当的答案填入空格内，以使句子完整。
 
-> 1. So far we _\_\__ nothing from him.  
+> 1. So far we _\_\_\_ nothing from him.  
 >    \(A\) have been heard  
 >    \(B\) did not hear  
 >    \(C\) have heard  
 >    \(D\) have not heard  
-> 2. At present a new road _\_\__ in that part of the city.  
+> 2. At present a new road _\_\_\_ in that part of the city.  
 >    \(A\) is building  
 >    \(B\) will be built  
 >    \(C\) will have built  
 >    \(D\) is being built  
-> 3. Our city _\_\__ a great deal.It doesn't resemble the one of three years ago.  
+> 3. Our city _\_\_\_ a great deal.It doesn't resemble the one of three years ago.  
 >    \(A\) changes  
 >    \(B\) has changed  
 >    \(C\) is changing  
 >    \(D\) will change  
-> 4. When Anna phoned me I had just finished my work and _\_\__ to take a bath.  
+> 4. When Anna phoned me I had just finished my work and _\_\_\_ to take a bath.  
 >    \(A\) was starting  
 >    \(B\) have started  
 >    \(C\) starting  
 >    \(D\) will start  
-> 5. There _\_\__ some very bad storms recently.  
+> 5. There _\_\_\_ some very bad storms recently.  
 >    \(A\) is  
 >    \(B\) are  
 >    \(C\) have been  
 >    \(D\) have  
-> 6. The future price of this stock _\_\__ by several factors.  
+> 6. The future price of this stock _\_\_\_ by several factors.  
 >    \(A\) is going to determine  
 >    \(B\) will determine  
 >    \(C\) will be determining  
 >    \(D\) will be determined  
-> 7. The camera was invented in the 19th century.At that time, most photographers _\_\__ professionals.  
+> 7. The camera was invented in the 19th century.At that time, most photographers _\_\_\_ professionals.  
 >    \(A\) are  
 >    \(B\) were  
 >    \(C\) have been  
 >    \(D\) had been  
-> 8. The whole area was flooded because it _\_\__ for weeks.  
+> 8. The whole area was flooded because it _\_\_\_ for weeks.  
 >    \(A\) rains  
 >    \(B\) has rained  
 >    \(C\) had been raining  
 >    \(D\) was raining  
 >    \(D\) was raining  
-> 9. By next Sunday you _\_\__ with us for three months.  
+> 9. By next Sunday you _\_\_\_ with us for three months.  
 >    \(A\) will have stayed  
 >    \(B\) will stay  
 >    \(C\) shall stay  
 >    \(D\) have stayed  
-> 10. We could smell that someone _\_\__ a cigar.  
+> 10. We could smell that someone _\_\_\_ a cigar.  
 >     \(A\) would be smoking  
 >     \(B\) was smoked  
 >     \(C\) had been smoking  
@@ -63,19 +63,19 @@
 请把括弧中的动词以适当的时态填入空格内，以使对话内容完整。
 
 > 1. Boy: Do you want to go and see Gone with the Wind with me tonight?  
-> 2. Girl: No! I _**\_\_**_ \(1. see\)it.  
+> 2. Girl: No! I _\_\_\_ \(1. see\)it.  
 > 3. Boy: Oh,really? When did you see it?  
-> 4. Girl: I _**\_\_**_ \(2. go\) to see it the first day it was on-last Monday.  
-> 5. Boy: To tell you the truth,I have seen it too.In fact,I _**\_\_**_ \(3. see\)it before you did.  
+> 4. Girl: I _\_\_\_ \(2. go\) to see it the first day it was on-last Monday.  
+> 5. Boy: To tell you the truth,I have seen it too.In fact,I _\_\_\_ \(3. see\)it before you did.  
 > 6. Girl:That's impossible.I told you I saw it the first day it was on.  
-> 7. Boy: But it's the truth! I _**\_\_**_ \(4. see\) it seven or eight years ago,the last time that old picture _**\_\_**_ \(5. come\) in town.  
+> 7. Boy: But it's the truth! I _\_\_\__** \(4. see\) it seven or eight years ago,the last time that old picture \**_\_\_\_ \(5. come\) in town.  
 > 8. Girl: In that case, why did you ask me to go in the first place?  
-> 9. Boy: Well, I just _**\_\_**_ \(6. want\) to go out with you tonight. Since you have
+> 9. Boy: Well, I just _\_\_\_ \(6. want\) to go out with you tonight. Since you have
 >    seen the picture,will you go to the baseball game with me instead?  
-> 10. Girl: I _**\_\_**_ \(7. guess\)I will,if Father says Okay.But you will have to pick me up at my place.  
-> 11. Boy: Great! I _**\_\_**_ \(8.see\) you at 5:30 then. I'll bring my car.  
+> 10. Girl: I _\_\_\_ \(7. guess\)I will,if Father says Okay.But you will have to pick me up at my place.  
+> 11. Boy: Great! I _\_\_\_ \(8.see\) you at 5:30 then. I'll bring my car.  
 > 12. Girl:But why 5:30? Why not seven o'clock?  
-> 13. Boy: Because the game _**\_\_**_ \(9.start\) by then. These evening games _**\_\_**_ \(10. begin\) at 6:30,you know.Don't forget now, 5:30 at your place!
+> 13. Boy: Because the game _\_\_\__** \(9.start\) by then. These evening games \**_\_\_\_ \(10. begin\) at 6:30,you know.Don't forget now, 5:30 at your place!
 
 ---
 
