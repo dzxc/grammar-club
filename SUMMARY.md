@@ -141,6 +141,6 @@
   * [结语](22_jie_yu.md)
   * [Test 22](test_22.md)
 * [补充](da-lu-yu-tai-wan-ying-yu-zhu-yu-dui-zhao-8868-md.md)
-  * [compare.md](da-lu-yu-tai-wan-ying-yu-zhu-yu-dui-zhao-8868-md/comparemd.md)
+  * [大陆与台湾英语术语对照表](da-lu-yu-tai-wan-ying-yu-zhu-yu-dui-zhao-8868-md/comparemd.md)
 * [封面、求打赏  以及其他](yi_xie_qi_ta.md)
 
