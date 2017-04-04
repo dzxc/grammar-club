@@ -1,21 +1,21 @@
-# 主语后面有介系词短语时
+# 主语后面有介词短语时
 
-<b>一般说来，介系词短语并不能影响主语是单数还是复数，所以在判断一致性时可以不去管它。不过有些情况还是需要留意。</b>  
+<b>一般说来，介词短语并不能影响主语是单数还是复数，所以在判断一致性时可以不去管它。不过有些情况还是需要留意。</b>  
 一般情形  
 - Ex.33 Mrs.Lindsey,together with her sons,(be) on a European tour.  
-句中her sons是介系词 with 的宾语，主语只有 Mrs.Lindsey ，所以虽然意思上是都去了，不过这个句子主要在交代“这位太太”做了什么，要用单数。  
+句中 her sons 是介词 with 的宾语，主语只有 Mrs.Lindsey ，所以虽然意思上是都去了，不过这个句子主要在交代“这位太太”做了什么，要用单数。  
 正确用法：Ex.33 is  
 
 下面这些例子也差不多，请读者自行判断:  
 - Ex.34 The use of computers in business (be) now almost inevitable.  
-正确用法：Ex.34 is (主语是use)  
+正确用法：Ex.34 is (主语是 use)  
 
 - Ex.35 There (be) a list of things to buy in the handbag.  
 正确用法：Ex.35 is  
-（主语是list。手提包里只有单子，没有一堆东西。）  
+（主语是 list。手提包里只有单子，没有一堆东西。）  
 
 主语为空的字眼时
-<b><u>如果**主语是空的**，只表达**“全部/部分”**的概念</u>，看不出是什么东西，这时才要看**后面的介系词短语**来判断单复数。</b>例如：  
+<b><u>如果**主语是空的**，只表达**“全部/部分”**的概念</u>，看不出是什么东西，这时才要看**后面的介词短语**来判断单复数。</b>例如：  
 - Ex.36 All of these (be) Lishan pears.  
 - Ex.37 All of the money (have) been spent.  
 主语 all 是空的字眼，看不出是什么。如果后面是 of these  (指梨山的梨子）就是复数。如果接 of the money 就是单数。  
