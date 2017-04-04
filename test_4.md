@@ -17,8 +17,7 @@
 >    \(B\) To explain
 >    \(C\) One explains
 >    \(D\) The explanation of
-> 4. "
->    I'll help you whenever you need me."
+> 4. "I'll help you whenever you need me."
 >    "good. I'd like \_\_ me tomorrow."
 >    \(A\) you helping
 >    \(B\) that will help
