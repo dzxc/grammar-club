@@ -7,16 +7,16 @@
 (B) among  
 (C) in  
 (D) on  
-5. In the sentence,“The size of the room is 12' × 14’，”the sign “×”is to read “____”  
-(A) and  
-(B) with  
-(C) by  
-(D) cross  
 2. ____imprecise calculations,the experiment was a failure.  
 (A) Due  
 (B) Owing to  
 (C) Viewing  
 (D) According  
+5. In the sentence,“The size of the room is 12' × 14’，”the sign “×”is to read “____”  
+(A) and  
+(B) with  
+(C) by  
+(D) cross  
 6. The office is open Monday ____ Saturday,and closed on Sundays.  
 (A) since  
 (B) through  
