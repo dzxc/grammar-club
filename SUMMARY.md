@@ -102,7 +102,7 @@
   * [Wh-ever与副词从句](wh-everyu_fu_ci_cong_ju.md)
   * [结语](14_jie_yu.md)
   * [Test 14](test_14.md)
-* [第十五章 对等连接词与对等从句](di_shi_wu_zhang_dui_deng_lian_jie_ci_yu_dui_deng_c.md)
+* [第十五章 并列连词与并列从句](di_shi_wu_zhang_dui_deng_lian_jie_ci_yu_dui_deng_c.md)
   * [Test 15](test_15.md)
 * [第十六章 从属从句简化的通则](di_shi_liu_zhang_cong_shu_cong_ju_jian_hua_de_tong.md)
   * [简化从句](jian_hua_cong_ju.md)
