@@ -97,7 +97,7 @@ S V C 同位语
 例2的 I can’t help you 加上连接词 that，成为名词从句，可以视为例1中 thing 的同位语。基于以下三点原因：  
 1. that thing 没有意义
 2. that thing 与 that I can't help you 重复
-3. of that thing 是可有可无的介系词短语  
+3. of that thing 是可有可无的介词短语  
 
 于是将 of that thing 省略掉。就成为：  
 >  
@@ -114,7 +114,7 @@ S V O 同位语
 1.You'd better take care of that thing.  
 2.Nothing goes wrong.  
 
-例2加上 that 成为名词从句，可以放在 that thing 后面作为同位语，再把 of that thing 这个介系词短语省略就成为：  
+例2加上 that 成为名词从句，可以放在 that thing 后面作为同位语，再把 of that thing 这个介词短语省略就成为：  
 >   
 You'd better take care that nothing goes wrong.  
 

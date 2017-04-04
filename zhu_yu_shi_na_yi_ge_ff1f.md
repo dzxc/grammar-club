@@ -59,4 +59,4 @@ I am no less responsible than you are.
 (each在这里用作修饰语，主语是表示“你们”的yon，所以是复数）  
 - Ex.26 Each of you (be) responsible for half of the job.  
 正确用法：Ex.26 is  
-(这时主语是each，原来的you变成介系词of的宾语，既然each当主语，就是单数）
+(这时主语是each，原来的you变成介词of的宾语，既然each当主语，就是单数）
