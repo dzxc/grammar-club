@@ -27,15 +27,15 @@
 
 **Answer key 1**
 
-> 1. The &lt;u&gt;magician&lt;/u&gt; &lt;u&gt;moved&lt;/u&gt; his &lt;u&gt;fingers&lt;/u&gt; quickly.  
+> 1. The magician moved his fingers quickly.  
 >    S V O
-> 2. The &lt;u&gt;police&lt;/u&gt; &lt;u&gt;found&lt;/u&gt; the &lt;u&gt;letter&lt;/u&gt; &lt;u&gt;missing&lt;/u&gt;.  
+> 2. The police found the letter missing.  
 >    S V O C
 > 3. The police found the missing letter.  
 >    S V O
-> 4. &lt;u&gt;He&lt;/u&gt; &lt;u&gt;ordered&lt;/u&gt; &lt;u&gt;himself&lt;/u&gt; &lt;u&gt;a steak and a bottle of red wine&lt;/u&gt;.  
+> 4. He ordered himself a steak and a bottle of red wine.  
 >    S V O O
-> 5. Don't &lt;u&gt;you&lt;/u&gt; &lt;u&gt;like&lt;/u&gt; &lt;u&gt;dancing&lt;/u&gt;?  
+> 5. Don't you like dancing?  
 >    S V O
 > 6. The President has gone abroad on a visit.  
 >    S V
