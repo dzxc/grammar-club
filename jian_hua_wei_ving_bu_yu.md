@@ -109,7 +109,7 @@ Being a student,I can't afford to get married.
 
 being a student 因为有 being ，所以 a student 很明显是补语，意思是“身为学生”或“是学生”。谁是？主语当然是和主要从句的主语 I 相同：我是，这样句意也就清楚了。
 
-### 七、兼作介系词的连接词： before, after, since
+### 七、兼作介词的连接词： before, after, since
 
 
 <b>还有一种情况**需要使用 being** ，情形稍微复杂一些</b>，请看下面的例子：  
@@ -126,13 +126,13 @@ In school,he used to be a naughty child.
 >  
 Before in school, he used to be a naughty child.(误)  
 
-保留 before 问题就更大了。因为 before 这个字除了当连接词以外，也可以当介系词（例如 before 1977、before the war 等等）。简化从句中如果留下 before ,因为已经省去主语、动词，读者会判断这个 before 是介系词，不是连接词。那么 before 后面就只能接名词类的东西。before in school 这个组合因而成为一项语法错误。这是词类的错误，修改方法是进行词类变化。若把 in school 改成名词类，例如去掉 in ,就可以放在 before 之后，成为 before school 。如此一来，语法问题是解决了，但是意思稍嫌不清楚。因为 before school 看起来不像“开始上学读书以前”，反而像“早上开始上课前”。另一个改法就是借用无字面意义的 be 动词来作词类变化：  
+保留 before 问题就更大了。因为 before 这个字除了当连接词以外，也可以当介词（例如 before 1977、before the war 等等）。简化从句中如果留下 before ,因为已经省去主语、动词，读者会判断这个 before 是介词，不是连接词。那么 before 后面就只能接名词类的东西。before in school 这个组合因而成为一项语法错误。这是词类的错误，修改方法是进行词类变化。若把 in school 改成名词类，例如去掉 in ,就可以放在 before 之后，成为 before school 。如此一来，语法问题是解决了，但是意思稍嫌不清楚。因为 before school 看起来不像“开始上学读书以前”，反而像“早上开始上课前”。另一个改法就是借用无字面意义的 be 动词来作词类变化：  
 >  
 Before being in school, he used to be a naughty child.  
 简化副词从句  
 
-一旦有 be 动词存在，后面就可以接补语 in school 。而 be 动词本身釆用 being （动名词）的形状，放在介系词 before 的后面也符合词类的要求，这样才算解决了问题。
-副词从句的连接词中，before、after, since 是身兼连接词与介系词的双重词类。简化时要注意：它会被视为介系词，故后面只能接名词类，必要时得加上 being 来作词类变化。
+一旦有 be 动词存在，后面就可以接补语 in school 。而 be 动词本身釆用 being （动名词）的形状，放在介词 before 的后面也符合词类的要求，这样才算解决了问题。
+副词从句的连接词中，before、after, since 是身兼连接词与介词的双重词类。简化时要注意：它会被视为介词，故后面只能接名词类，必要时得加上 being 来作词类变化。
 
 ### 八、时态的问题
 
@@ -148,7 +148,7 @@ After he wrote the letter, he put it to mail.
 1. After writing the letter, he put it to mail.  
 简化副词从句  
 
-简化的步骤仍是省去相同的主语 he ，把普通动词改为 Ving 。如果像例1选择把连接词 after 留下来，就可以清楚分出先后顺序，是正确的简化从句。附带一提的是， after 在从句简化后即成为介系词，后面要接名词。writing the letter 是动名词短语，可以符合词类要求。然而若把连接词 after 一并省略就会出现问题：  
+简化的步骤仍是省去相同的主语 he ，把普通动词改为 Ving 。如果像例1选择把连接词 after 留下来，就可以清楚分出先后顺序，是正确的简化从句。附带一提的是， after 在从句简化后即成为介词，后面要接名词。writing the letter 是动名词短语，可以符合词类要求。然而若把连接词 after 一并省略就会出现问题：  
 >  
 Writing the letter, he put it to mail.(误）  
 
