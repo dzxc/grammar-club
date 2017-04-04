@@ -35,7 +35,7 @@
 >    S V O
 > 4. He ordered himself a steak and a bottle of red wine.  
 >    S V O O
-> 5. Don't you like dancing?  
+> 5. Don't &lt;u&gt;you&lt;/u&gt; &lt;u&gt;like&lt;/u&gt; &lt;u&gt;dancing&lt;/u&gt;?  
 >    S V O
 > 6. The President has gone abroad on a visit.  
 >    S V
