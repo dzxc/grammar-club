@@ -109,48 +109,48 @@
 **Answer key 10**  
 >  
 1.(D)  
-the trip是一段时间，也是一条路程，可用on或along。  
+the trip 是一段时间，也是一条路程，可用 on 或 along。  
 2.(B)  
-owing to类似because of，表示因果关系。A和D都要加上to才能当短语
-用，C的viewing不能当介系词用，只有 considering可以这样使用。  
+owing to 类似 because of，表示因果关系。A和D都要加上 to 才能当短语
+用，C的 viewing 不能当介系词用，只有 considering 可以这样使用。  
 3.(C)  
-用at the sound表示“听到声音那一刻，马上就冲出来”。  
+用 at the sound 表示“听到声音那一刻，马上就冲出来”。  
 4.(B)  
-a right to表示“对于某事的权利”，是常用短语。  
+a right to 表示“对于某事的权利”，是常用短语。  
 5.(C)  
-表示长宽（面积）的“ × ”读为by。  
+表示长宽（面积）的“ × ”读为 by。  
 6.(B)  
-through表示头尾包括在内，故一周中只有Sunday不开。  
+through 表示头尾包括在内，故一周中只有 Sunday 不开。  
 7.(B)  
-这是双重所有格，以a home of his own的方式来同时表示a home和his own
+这是双重所有格，以 a home of his own 的方式来同时表示 a home 和 his own
 home。  
 8.(D)  
-“以……之单价出售”，应用at。  
+“以……之单价出售”，应用 at。  
 9.(A)  
-每周计算应用by the week。  
+每周计算应用 by the week。  
 10.(C)  
-空格前的to是close to的一部分，应当介系词看待，因而要接动名词作宾
+空格前的 to 是 close to 的一部分，应当介系词看待，因而要接动名词作宾
 语。  
 11.(A)  
-with prices so high是以介系词短语方式来减化副词从句be cause prices
-are so high。答案 C 的后面应改为because of high prices方可。答案B
+with prices so high 是以介系词短语方式来减化副词从句 be cause prices
+are so high。答案 C 的后面应改为 because of high prices 方可。答案B
 和D都是从属连接词，可是后面的从句缺了动词。  
 12.(B）  
-本句中the sun指阳光，是立体的范围，故用in。  
+本句中 the sun 指阳光，是立体的范围，故用in。  
 13.(B)  
 on a cup of coffee…表示“只靠一杯咖啡……（来维持体力)”。  
 14.(B)  
-becoming to one表示“很适合某人（穿戴)”。  
+becoming to one 表示“很适合某人（穿戴)”。  
 15.(A)  
-因为下文说blurred (模糊)，故选out of focus (没对好焦距)。  
+因为下文说 blurred (模糊)，故选 out of focus (没对好焦距)。  
 16.(B)  
 下文说观众哄堂大笑，前面则是“场合严肃”，故要表示“相反”的关系（ A
-或 B )。而A的although是从属连接词，不能连接名词短语the seriousness，
+或 B )。而A的 although 是从属连接词，不能连接名词短语 the seriousness，
 故用介系词的B。  
 17.(D)  
 “除了”可手提，还可提供高品质音响。这个“除了”是“除了这还有那”
-的意思，应用besides。C的beside是“在…旁边”，A的aside是副词，B
-的far from则是“决非……”。  
+的意思，应用 besides。C的 beside 是“在…旁边”，A的 aside 是副词，B
+的 far from 则是“决非……”。  
 18.(A)  
 except for表示“除了……以外”，表示“这个不算”。  
 19.(D)  
