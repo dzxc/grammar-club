@@ -1,10 +1,10 @@
-# 第十五章 并列连词与对等从句
+# 第十五章 并列连词与并列从句
 
 **并列连词**（主要是 <em>and，or</em> 与 <em>but</em> 三个）<b>用来连接句子中**两个对等的部分（单词或短语)**，也可以连接**两个对等的从句**。</b><u>所谓对等，指的是**结构**与**内容**两方面都要对称，而且对得越工整越好。</u>  
 
-这个要求很容易理解，但是在写作时却常常被忽略而产生错误或不佳的句子。尤其是在有主、从关系的复句中，或者是简化从句中，若再出现并列连词，稍有不慎就会出错。以“相关词组”( correlatives )出现的并列连词(如 not... but; not only... but also; both... and; either... or  等等）也很容易造成错误。再者，并列连词所连接的对等从句中常会为了避免重复而进行省略，这又是一个容易出错的地方。所以，并列连词本身固然很单纯，但它在句中的运用却是变化万千。全世界最难的语法考试——GMAT (美国管理研究所入学测验）的语法修辞(Sentence Correction)部分，有关并列连词的题目就占了不小的比例。  
+这个要求很容易理解，但是在写作时却常常被忽略而产生错误或不佳的句子。尤其是在有主、从关系的复句中，或者是简化从句中，若再出现并列连词，稍有不慎就会出错。以“相关词组”( correlatives )出现的并列连词(如 not... but; not only... but also; both... and; either... or  等等）也很容易造成错误。再者，并列连词所连接的并列从句中常会为了避免重复而进行省略，这又是一个容易出错的地方。所以，并列连词本身固然很单纯，但它在句中的运用却是变化万千。全世界最难的语法考试——GMAT (美国管理研究所入学测验）的语法修辞(Sentence Correction)部分，有关并列连词的题目就占了不小的比例。  
 
-以下不再赘述简单的观念，直接提供十二则例子来说明并列连词与对等从句需注意的地方。这些例子部分模仿 GMAT 考题的形态，每一句中都有一部分画了底线，其中包含并列连词使用不当所造成的错误。读者可以自我测验一下：先找找看错在哪里，试着改改看，然后再看后面的说明以及建议的改法。这些例句的性质相当接近 GMAT 考题，句型结构多半较长，也比较复杂，其中包含了本书下一章才会讲解的“简化从句”。如果读者一时无法全部了解，或是不知如何修改，可以先看一下翻译再尝试改改看。  
+以下不再赘述简单的观念，直接提供十二则例子来说明并列连词与并列从句需注意的地方。这些例子部分模仿 GMAT 考题的形态，每一句中都有一部分画了底线，其中包含并列连词使用不当所造成的错误。读者可以自我测验一下：先找找看错在哪里，试着改改看，然后再看后面的说明以及建议的改法。这些例句的性质相当接近 GMAT 考题，句型结构多半较长，也比较复杂，其中包含了本书下一章才会讲解的“简化从句”。如果读者一时无法全部了解，或是不知如何修改，可以先看一下翻译再尝试改改看。  
 
 
 ---
@@ -44,14 +44,14 @@ Scientists believe that hibernation is triggered <u>by decreasing</u> <u>environ
 - Smoking by pregnant women <u>may slow the growth and generally harm</u> the fetus.(误)  
 （孕妇吸烟可能妨碍胚胎发育，对胚胎造成一般性的伤害。）  
 
-这个句子可视为以下的对等从句的省略：  
+这个句子可视为以下的并列从句的省略：  
 >  
 Smoking by pregnant women may slow the growth of the fetus,  
 S1 V1 O1  
 and it may generally harm the fetus.  
 S2 V2 O2  
 
-这两个对等从句的主语 smoking by pregnant women 相同，宾语 the fetus 也相同。对等从句省略的原则就是，相对应位置如果是重复的元素就可以省略。这是因为对等从句有相当严格的对称要求，即使省略掉重复的元素依然能表达清楚。不过在上面这个句子中，两个宾语扮演的角色不同：在前面的对等从句以 fetus 为介系词 of 的宾语，在后面的对等从句则以 fetus 为动词 harm 的宾语。所以固然可以省略前面的宾语 fetus ，但是介系词 of 却不能省略。故应修正为：  
+这两个并列从句的主语 smoking by pregnant women 相同，宾语 the fetus 也相同。并列从句省略的原则就是，相对应位置如果是重复的元素就可以省略。这是因为并列从句有相当严格的对称要求，即使省略掉重复的元素依然能表达清楚。不过在上面这个句子中，两个宾语扮演的角色不同：在前面的并列从句以 fetus 为介系词 of 的宾语，在后面的并列从句则以 fetus 为动词 harm 的宾语。所以固然可以省略前面的宾语 fetus ，但是介系词 of 却不能省略。故应修正为：  
 >  
 Smoking by pregnant women may slow the growth of and generally harm the fetus.(正)  
 
@@ -87,18 +87,18 @@ Population density is very low in Canada,the largest country in the Western Hemi
 - Once the safety concerns over the new production procedure were removed and with its superiority to the old one being proved, there was nothing to stop the factory from switching over.(误)   
 （新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）   
 
-并列连词 and 出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为对等从句，成为：  
+并列连词 and 出现在底线之前。它的左边是一个从属从句, 右边却是介系词短语，造成结构上的不对称。可以先把它还原为并列从句，成为：  
 >  
 <u>The safety concerns</u> over the new production procedure  
 S1  
 <u>were removed</u> and <u>its superiority to the old one <u>was proved</u>.  
 V1 S2 V2  
 
-这两个对等从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有 be 动词是重复的元素，所以只能省略一个 be 动词，成为:  
+这两个并列从句中，主语部分并不相同，动词部分是两个不同动词的被动态，只有 be 动词是重复的元素，所以只能省略一个 be 动词，成为:  
 >  
 The safety concerns over the new production procedure were removed and its superiority to the old one proved.  
 
-这个省略后的对等从句前面加上 once  （一旦）就成为表示条件的副词从句，若再附于主要从句之上，就成为符合对称要求的从句：  
+这个省略后的并列从句前面加上 once  （一旦）就成为表示条件的副词从句，若再附于主要从句之上，就成为符合对称要求的从句：  
 >  
 Once the safety concerns over the new production procedure were removed and <u>its superiority to the old one</u> proved, there was nothing to stop the factory from switching over.(正）    
 
