@@ -109,7 +109,7 @@
   * [为何不称“非限定从句” ？](wei_he_bu_cheng_201c_fei_xian_ding_cong_ju_201d.md)
   * [从属从句简化的通则](cong_shu_cong_ju_jian_hua_de_tong_ze.md)
   * [结语](16jie_yu.md)
-* [第十七章 形容词从句简化](di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.md)
+* [第十七章 定语从句简化](di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.md)
   * [补语为Ven](bu_yu_wei_ven.md)
   * [补语为Ving](bu_yu_wei_ving.md)
   * [补语为 to V](bu_yu_wei_to_v.md)
