@@ -1,6 +1,6 @@
 # 何时该使用that？
 
-<u>关系代名词<b> <em>who</em> 和 <em>which</em> 有时可用 <em>that</em> 来取代</b></u>。这中间的选择有差别，需要说明一下。that 是借自指示代名词，具有指示的功能。<b>所以，关系从句如果有**指示的作用**时才适合**借用 that 作关系词**。</b>例如：  
+<u>关系代名词<b> <em>who</em> 和 <em>which</em> 有时可用 <em>that</em> 来取代</b></u>。这中间的选择有差别，需要说明一下。that 是借自指示代名词，具有指示的功能。<b>所以，定语从句如果有**指示的作用**时才适合**借用 that 作关系词**。</b>例如：  
 >  
 <u>Man</u> <u>is</u> an animal <u>that</u> <u>is</u> capable of reason.  
 S1 V1 S2 V2  
