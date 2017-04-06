@@ -97,7 +97,7 @@
   * [何时该使用that？](he_shi_gai_shi_yong_that.md)
   * [何时不该使用that？](he_shi_bu_gai_shi_yong_that.md)
   * [先行词的省略](xian_xing_ci_de_sheng_lve.md)
-  * [关系从句的位置](guan_xi_cong_ju_de_wei_zhi.md)
+  * [定语从句的位置](guan_xi_cong_ju_de_wei_zhi.md)
   * [关系副词](guan_xi_fu_ci.md)
   * [Wh-ever与副词从句](wh-everyu_fu_ci_cong_ju.md)
   * [结语](14_jie_yu.md)
