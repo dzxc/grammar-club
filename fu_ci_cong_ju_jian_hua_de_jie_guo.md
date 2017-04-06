@@ -4,7 +4,7 @@
 
 ### 一、Ven
 
->
+>  
 <em>Wounded in war</em>,the soldier was sent home.
 （在战场上受了伤，士兵就被遣送回家了。）
 
@@ -12,7 +12,7 @@
 
 ### 二、Ving
 
->
+>  
 The pigeon,<em>after flying 200 miles</em>,was caught up in a net.
 （这只鸽子在飞了 200英里之后被网子网住了。）
 
@@ -20,7 +20,7 @@ The pigeon,<em>after flying 200 miles</em>,was caught up in a net.
 
 ### 三、having Ven
 
->
+>  
 <em>Having finished the day's work</em>,the secretary went home.
 （做完一天的工作后，秘书回家去了。）
 
