@@ -19,16 +19,16 @@
 
 * <b>中级句型</b>
   * [第十二章 名词从句](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_er_zhang_ming_ci_cong_ju.html)
-  * [第十三章 副词从句](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_san_zhang_fu_ci_cong_ju.html)
-  * [第十四章 关系从句](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_si_zhang_guan_xi_cong_ju.html)
+  * [第十三章 状语从句](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_san_zhang_fu_ci_cong_ju.html)
+  * [第十四章 定语从句](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_si_zhang_guan_xi_cong_ju.html)
   * [第十五章 并列连词与并列从句](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_wu_zhang_dui_deng_lian_jie_ci_yu_dui_deng_c.html)
  
  
 * <b>高级句型</b>
   * [第十六章 从属从句简化的通则](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_liu_zhang_cong_shu_cong_ju_jian_hua_de_tong.html)
-  * [第十七章 形容词从句简化](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.html)
+  * [第十七章 定语从句简化](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_qi_zhang_xing_rong_ci_cong_ju_jian_hua.html)
   * [第十八章 名词从句简化](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_ba_zhang_ming_ci_cong_ju_jian_hua.html)
-  * [第十九章 副词从句简化之一](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_jiu_zhang_fu_ci_cong_ju_jian_hua_zhi_yi.html)
-  * [第二十章 副词从句简化之二](https://zhusandiao.gitbooks.io/grammar-club/content/di_er_shi_zhang_fu_ci_cong_ju_jian_hua_zhi_er.html)
+  * [第十九章 状语从句简化之一](https://zhusandiao.gitbooks.io/grammar-club/content/di_shi_jiu_zhang_fu_ci_cong_ju_jian_hua_zhi_yi.html)
+  * [第二十章 状语从句简化之二](https://zhusandiao.gitbooks.io/grammar-club/content/di_er_shi_zhang_fu_ci_cong_ju_jian_hua_zhi_er.html)
   * [第二十一章 简化从句练习](https://zhusandiao.gitbooks.io/grammar-club/content/di_er_shi_yi_zhang_jian_hua_cong_ju_lian_xi.html)
   * [第二十二章 倒装句](https://zhusandiao.gitbooks.io/grammar-club/content/di_er_shi_er_zhang_dao_zhuang_ju.html)
