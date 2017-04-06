@@ -93,7 +93,7 @@
   * [结语](13_jie_yu.md)
   * [Test 13](test_13.md)
 * [第十四章 定语从句](di_shi_si_zhang_guan_xi_cong_ju.md)
-  * [关系从句的特色](guan_xi_cong_ju_de_te_se.md)
+  * [定语从句的特色](guan_xi_cong_ju_de_te_se.md)
   * [何时该使用that？](he_shi_gai_shi_yong_that.md)
   * [何时不该使用that？](he_shi_bu_gai_shi_yong_that.md)
   * [先行词的省略](xian_xing_ci_de_sheng_lve.md)
