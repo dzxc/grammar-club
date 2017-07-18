@@ -15,7 +15,7 @@
 |:---:|:---:|
 |the Pacific (Ocean)|太平洋|
 |the Atlantic (Ocean)|大西洋|
-|the Indian (Ocean)|印度洋|
+|the Indian Ocean|印度洋|
 |the Mediterranean (Sea)|地中海|
 |the Dead Sea|死海|
 
