@@ -4,28 +4,28 @@
 
 请练习以下句子，试试看该用\(A\)不定词to V，还是\(B\)动名词 Ving。如果两者都可以，答案就是\(C\)。
 
-> 1. The barber's apprentice practiced _\_\__ \(shave\) on a watermelon.
-> 2. I love _\_\__ \(watch\) horror movies alone.
-> 3. _\_\__ \(Listen\) to music can be very relaxing.
-> 4. You must not forget _\_\__ \(pay\) the phone bill.
-> 5. The workers finished _\_\__ \(paint\) and left.
-> 6. Seeing is _\_\__ \(believe\).
-> 7. To see is _\_\__ \(believe\).
-> 8. Thank you for _\_\__ \(call\).
-> 9. John's_\_\__ \(leave\) the party so early was rather impolite.
-> 10. I really enjoyed _\_\__ \(be\) at your party.
+> 1. The barber's apprentice practiced _\_\_\_ \(shave\) on a watermelon.
+> 2. I love _\_\_\_ \(watch\) horror movies alone.
+> 3. _\_\_\_ \(Listen\) to music can be very relaxing.
+> 4. You must not forget _\_\_\_ \(pay\) the phone bill.
+> 5. The workers finished _\_\_\_ \(paint\) and left.
+> 6. Seeing is _\_\_\_ \(believe\).
+> 7. To see is _\_\_\_ \(believe\).
+> 8. Thank you for _\_\_\_ \(call\).
+> 9. John's_\_\_\_ \(leave\) the party so early was rather impolite.
+> 10. I really enjoyed _\_\_\_ \(be\) at your party.
 
 ### 练习二
 
 请选出最适当的答案填入空格内，以使句子完整。
 
-1.I just took \_\_ and don't feel like swimming now. 
+1.I just took \_\_ and don't feel like swimming now.
 
-> \(A\) swimming 
+> \(A\) swimming
 >
-> \(B\) to swim 
+> \(B\) to swim
 >
-> \(C\) a swim 
+> \(C\) a swim
 >
 > \(D\) swim
 
@@ -39,7 +39,7 @@
 >
 > \(D\) being called
 
-3. \_\_ outside my window every night is getting on my nerves.
+3.\_\_ outside my window every night is getting on my nerves.
 
 > \(A\) The cats screaming
 >
@@ -49,7 +49,7 @@
 >
 > \(D\) The cats' screaming
 
-4. Learning a language is \_\_ all about the culture.
+4.Learning a language is \_\_ all about the culture.
 
 > \(A\) to learn
 >
@@ -59,7 +59,7 @@
 >
 > \(D\) learned
 
-5. \_\_ is a very exacting sport.
+5.\_\_ is a very exacting sport.
 
 > \(A\) Mountain-climbing
 >
@@ -69,7 +69,7 @@
 >
 > \(D\) Mountains-climbing
 
-6. In doing magic,the trick lies in \_\_ your audience.
+6.In doing magic,the trick lies in \_\_ your audience.
 
 > \(A\) divert
 >
@@ -79,7 +79,7 @@
 >
 > \(D\) diverting
 
-7. The workers objected to \_\_ like slaves.
+7.The workers objected to \_\_ like slaves.
 
 > \(A\) be treated
 >
@@ -89,7 +89,7 @@
 >
 > \(D\) being treated
 
-8. Everyone marveled at \_\_ the French Open.
+8.Everyone marveled at \_\_ the French Open.
 
 > \(A\) Michael Chang's winning
 >
@@ -109,9 +109,7 @@
 >
 > \(D\) my saying
 
-
-
-10. He is used to \_\_ lectures—he's a teacher.
+10.He is used to \_\_ lectures—he's a teacher.
 
 > \(A\) give
 >
