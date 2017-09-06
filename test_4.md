@@ -166,7 +166,7 @@
 > 15.\(B\)  
 > avoid 有强烈否定意味，与暗示be going to 的不定词冲突，故用动名词。 如果用C的the use，它就是 avoid 的宾语，所以要再加上个介系词才能连 上下文，例如avoid the use of vague words。  
 > 16.\(B\)  
-> raining 有持续的暗示，stopped raining表示先前一直在下雨，后来停了。  
+> 从上下文看得出来他事先该订位却忘了，所以要用不定词 for got to make， 意既 He forgot that he should make...  
 > 17.\(C\)  
 > raining 有持续的暗示，stopped raining表示先前一直在下雨，后来停了。  
 > 18.\(D\)  
