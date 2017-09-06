@@ -162,17 +162,13 @@
 > playback 是“播放”，带子上有声音才能播，所以下文应是“她可能来过电  
 > 话了”，表示对过去的猜测，要用助动词加完成式。  
 > 14.\(B\)  
-> avoid 有强烈否定意味，与暗示be going to 的不定词冲突，故用动名词。  
-> 如果用C的the use，它就是 avoid 的宾语，所以要再加上个介系词才能连  
-> 上下文，例如avoid the use of vague words。  
+> 从下文的you must。这个条件来看，前面表示的应是一个“目的”，也就是 in order to，所以用不定词。  
 > 15.\(B\)  
-> 从上下文看得出来他事先该订位却忘了，所以要用不定词 for got to make，  
-> 意既 He forgot that he should make...  
+> avoid 有强烈否定意味，与暗示be going to 的不定词冲突，故用动名词。 如果用C的the use，它就是 avoid 的宾语，所以要再加上个介系词才能连 上下文，例如avoid the use of vague words。  
 > 16.\(B\)  
 > raining 有持续的暗示，stopped raining表示先前一直在下雨，后来停了。  
 > 17.\(C\)  
-> 从下文的you must。这个条件来看，前面表示的应是一个“目的”，也就是  
-> in order to，所以用不定词。  
+> raining 有持续的暗示，stopped raining表示先前一直在下雨，后来停了。  
 > 18.\(D\)  
 > 后面一半可还原为His shoes are shined...\(他的鞋在…给人擦\)。把主语  
 > shoes改成宾语，补语shined改成宾语补语，即是答案。  
